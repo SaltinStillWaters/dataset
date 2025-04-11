@@ -1,4 +1,6 @@
-this contains the docs from nlp = doc(text)
+This contains the spacy Docs using:
+    nlp = doc(text)
 the 'text' pertains to all_transcripts.txt
-the large model was used to generate it
-it has been fragmented due to the sheer volume of the all_transcripts.tx
+
+The spacy en_core_web_lg model was used to generate it
+it has been fragmented due to the sheer volume of the all_transcripts.txt
