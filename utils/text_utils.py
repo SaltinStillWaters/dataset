@@ -2,21 +2,15 @@ import yt_dlp
 from pytube import Playlist
 from youtube_transcript_api import YouTubeTranscriptApi
 from pathlib import Path
-import spacy
-from spacy.tokens import Doc
-
-# SPACY
-def save_doc_to_disk(doc, out_file):
-    doc.to_disk(Path(out_file))
-
-def load_doc(in_file, nlp):
-    return Doc(nlp.vocab).from_disk(in_file)
-
 
 # GENERAL
 def chunk_text(text, chunk_size=400000):
     return [text[i:i+chunk_size] for i in range(0, len(text), chunk_size)]
 
+def read_file(file):
+    with open(file, 'r', encoding='utf-8') as f:
+        return f.read()
+    
 def concatenate_transcripts(out_name, transcript_name='raw_transcripts'):
     transcript_path = Path(transcript_name)
     
