@@ -1,26 +1,6 @@
-import yt_dlp
-from pytube import Playlist
-from youtube_transcript_api import YouTubeTranscriptApi
+from utils import *
 
-playlist_url = 'https://www.youtube.com/playlist?list=PL19E79A0638C8D449'
-playlist = Playlist(playlist_url)
-video_urls = playlist.video_urls
-
-with open('transcripts.txt', 'w', encoding='utf-8') as f:
-    for url in video_urls:
-        video_id = url.split('v=')[-1]
-        
-        ydl_opts = {'quiet': True, 'extract_flat': True}
-        with yt_dlp.YoutubeDL(ydl_opts) as ydl:
-            info = ydl.extract_info(url, download=False)
-            video_title = info.get('title', 'No title found')
-        
-        f.write(f"Transcript for: {video_title}\n")
-        try:
-            transcript = YouTubeTranscriptApi.get_transcript(video_id)
-            for entry in transcript:
-                f.write(entry['text'] + ' ')
-        except Exception as e:
-            f.write(f'Could not get transcript of {video_title}: {e}')
-        finally:
-            f.write('\n\n')
+get_playlist_transcripts('https://www.youtube.com/playlist?list=PLDesaqWTN6EQ2J4vgsN1HyBeRADEh4Cw-', 'raw_transcripts/prof_leonard/calculus_2.txt')
+get_playlist_transcripts('https://www.youtube.com/playlist?list=PLDesaqWTN6ESPaHy2QUKVaXNZuQNxkYQ_', 'raw_transcripts/prof_leonard/differential_eqs.txt')
+get_playlist_transcripts('https://www.youtube.com/playlist?list=PLDesaqWTN6ESsmwELdrzhcGiRhk5DjwLP', 'raw_transcripts/prof_leonard/pre_calculus.txt')
+get_playlist_transcripts('https://www.youtube.com/playlist?list=PL0o_zxa4K1BWYThyV4T2Allw6zY0jEumv', 'raw_transcripts/organic_chem/calculus_2.txt')
