@@ -2,12 +2,35 @@ import yt_dlp
 from pytube import Playlist
 from youtube_transcript_api import YouTubeTranscriptApi
 from pathlib import Path
+import spacy
+from spacy.tokens import Doc
 
-def get_playlist_transcripts(playlist_url, output_file):
+# SPACY
+def save_doc_to_disk(doc, out_file):
+    doc.to_disk(Path(out_file))
+
+def load_doc(in_file, nlp):
+    return Doc(nlp.vocab).from_disk(in_file)
+
+
+# GENERAL
+def chunk_text(text, chunk_size=400000):
+    return [text[i:i+chunk_size] for i in range(0, len(text), chunk_size)]
+
+def concatenate_transcripts(out_name, transcript_name='raw_transcripts'):
+    transcript_path = Path(transcript_name)
+    
+    with open(out_name, 'w', encoding='utf-8') as out_file:
+        for file in transcript_path.rglob('*.txt'):
+            print(f'adding file: {file}...')
+            with open(file, 'r', encoding='utf-8') as in_file:
+                out_file.write(in_file.read() + '\n')
+    
+def get_playlist_transcripts(playlist_url, out_file):
     playlist = Playlist(playlist_url)
     video_urls = playlist.video_urls
     
-    with open(output_file, 'a', encoding='utf-8') as f:
+    with open(out_file, 'a', encoding='utf-8') as f:
         for url in video_urls:
             video_id = url.split('v=')[-1]
             ydl_opts = {'quiet': True, 'extract_flat': True}
