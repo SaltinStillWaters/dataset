@@ -6,21 +6,22 @@ import spacy
 #     text = f.read()
 #     print(len(text.split()))
 #     quit()
-nlp = spacy.load('en_core_web_lg')
 
-instructions = set()
-for i in range(0, 32):
-    print(f'processing {i}')
-    doc = load_doc(f'docs/doc_all{i}.spacy', nlp)
-    for token in doc:
-        if token.pos_ == 'VERB':
-            instructions.add(token.text)
-    print(f'done processing {i}')
+# nlp = spacy.load('en_core_web_lg')
 
-with open('instructions_token.txt', 'w', encoding='utf-8') as f:
-    for i in instructions:
-        f.write(i + '\n')
-print(instructions)
+# instructions = set()
+# for i in range(0, 32):
+#     print(f'processing {i}')
+#     doc = load_doc(f'docs/doc_all{i}.spacy', nlp)
+#     for token in doc:
+#         if token.pos_ == 'VERB':
+#             instructions.add(token.text)
+#     print(f'done processing {i}')
+
+# with open('instructions_token.txt', 'w', encoding='utf-8') as f:
+#     for i in instructions:
+#         f.write(i + '\n')
+# print(instructions)
 
 # def chunk_text(text, chunk_size=400000):
 #     return [text[i:i+chunk_size] for i in range(0, len(text), chunk_size)]
