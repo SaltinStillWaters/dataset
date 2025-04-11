@@ -1,7 +1,7 @@
 import yt_dlp
 from pytube import Playlist
 from youtube_transcript_api import YouTubeTranscriptApi
-
+from pathlib import Path
 
 def get_playlist_transcripts(playlist_url, output_file):
     playlist = Playlist(playlist_url)
