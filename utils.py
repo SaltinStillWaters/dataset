@@ -1,3 +1,5 @@
+import re
+import os
 import yt_dlp
 from pytube import Playlist
 from youtube_transcript_api import YouTubeTranscriptApi
@@ -49,3 +51,27 @@ def get_playlist_transcripts(playlist_url, out_file):
                 print(f'Could not get transcript of {video_title}: {e}')
             finally:
                 f.write('\n\n')
+def split_transcripts(input_file, output_dir):
+    
+    Path(output_dir).mkdir(parents=True, exist_ok=True)
+
+    with open(input_file, 'r', encoding='utf-8') as f:
+        content = f.read()
+    
+    transcripts = re.split(r'Transcript for:\s*', content)
+    
+    for transcript in transcripts[1:]:
+        if not transcript.strip():
+            continue
+            
+        lines = transcript.split('\n')
+        title = lines[0].strip()
+        content = '\n'.join(lines[1:]).strip()
+        
+        filename = re.sub(r'[^\w\s-]', '', title).strip().replace(' ', '') + '.txt'
+        filepath = os.path.join(output_dir, filename)
+        
+        with open(filepath, 'w', encoding='utf-8') as f:
+            f.write(content)
+        
+        print(f"Created: {filepath}")
