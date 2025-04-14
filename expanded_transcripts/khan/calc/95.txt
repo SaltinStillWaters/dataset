@@ -1,0 +1,145 @@
+Transcript for: Polynomial approximation of functions (part 2)
+So where we left off in the
+last video, we kept trying to approximate this purple f
+of x with a polynomial. And we at first said we'll just
+make the polynomial a constant and set it -- it's just going
+to intersect f of 0 at x is equal to 0. So that's a first -- you can
+kind of all think of it as a 0 of order approximation
+of the function. Then we said, oh, what if not
+only do they intersect at x is equal to 0, but let's say that
+their slope is the same as x is equal to 0, and that's
+that approximation? And that's about as good as
+you're going to do with a line, especially as
+you get close to 0. And we said, OK, that's good,
+but what if their second derivative is the same? And that's where we ended
+up with -- we added this term here. And I hinted that we'll just
+keep doing this process. And so you could imagine, if I
+want the third derivative to be the same, I could add another
+term right here, plus, where I know what the value of f of
+x's third derivative is at 0. So I'll write that as f to
+the third derivative at 0 times x to the third. Now what do you think is
+going to be down here? What's going to be
+he denominator? You might be tempted to say
+that we'll put a 3 down here. But it turns out you're going
+to put a 3 times a 2, which is a 6, or 3 factorial. Now why is that? Let me just take a little
+departure here and I think you'll start to understand
+why you put a 6 down here. Why this isn't a 3
+and you put a 6. Here you put a 2, but 2 is
+also 2 factorial, right? 2 factorial is 2
+times 1, right? Hopefully you remember what
+factorial -- actually, let me tell you what factorial
+is just in case. 10 factorial is equal to 10
+times 9 times 8 times 7, dah, dah, dah, dah, times 2 times 1. So you're multiplying all of
+the numbers up to that number. 4 factorial -- and the numbers
+get big very, very fast -- is 4 times 3 times 2 times 1. 2 factorial is equal
+to 2 times 1. 1 factorial is equal to 1. Now this is kind of
+a weird definition. It comes out of combinatorics. Actually it works for what
+we're doing is, well, 0 factorial is also equal to 1. I know that might be a
+little un-intuitive. This is just a definition. It's like saying that i squared
+is equal to negative 1. It is a definition that it
+makes formulas be more general, I guess is a
+simple way to put it. But let me erase all of this
+because that was just a divergence just because I
+realized I was going to use factorial, so you should
+know what a factorial is. But I think that's a fairly
+straightforward concept. So going back to
+what we were doing. I was asking you why do I put
+a 6 down here instead of a 3, like we put a 2 here? Well, let's just take
+this term alone and take its third derivative. So if I have the term and it's
+f, the third derivative at 0, x to the third over -- and
+let me just write 6 as 3 times 2 or 2 times 3. That'll make it a
+little more clear. What's the first
+derivative here? What happens when I take
+the derivative once? Well, I'm going to multiply the
+whole thing by the 6 exponent and decrement the
+exponent, right? So I'm going to multiply the
+whole thing times 3 times f, the third derivative, x
+squared over 2 times 3. So that first time I did
+it, this 3 and this 3 cancel out, right? That red's looking a
+little bit too demonic. Let me pick another color. And then when I take the
+second derivative what am I going to get? Well, the 3's gone, now I just
+have a 2 in the denominator, so I multiply the whole thing by 2
+times f prime prime prime of 0 times, and I decrement the
+exponent, x to the 1 over 2. Well, now the 2's
+cancel out, right? So the reason why you're
+putting a factorial there is every time you take a
+derivative you're decrementing the exponent 1, and multiplying
+the whole expression by the exponent. So if you're going to take n
+derivative, you're essentially going to be multiplying this
+expression times n factorial. So you don't want an n
+factorial out here. You put an n factorial
+at the bottom. Hopefully that makes sense. Play around with it yourself
+and it should start to make a little bit more sense. So in general, if we just
+kept doing this process forever, what would the
+function look like? The reason why I'm covering
+this is because going this way we're going to be able to prove
+what I think is the most mind-bending concept
+in mathematics. And it will make you love
+mathematics, hopefully. Some people actually --
+well, I won't go into the spiritual aspects of it. So what would be this, if I
+just kept saying that I'm just going to keep taking
+derivatives and adding them to this term, this polynomial? Well, the polynomial would
+become p of x is equal to f of 0 plus f prime of 0 x. And let's just divide it by 1
+factorial, just to make it clear that that's a
+1 factorial, right? And that's an x
+to the 1, right? That's just this term,
+but I just wrote it a little differently. This term right here, this
+is f of 0 times x to the 0. I know that's really
+messy, but hopefully you see what I'm saying. And that's over 0
+factorial, right? 0 factorial is 1, x to the 0
+is 1, so it's just f of 0. And then plus the second
+derivative at 0 times x squared over 2 factorial plus --
+and we just keep adding. The third derivative at x is
+equal to 0 of x to the third over 3 factorial, and
+we just keep going on. So we could do
+this to infinity. And actually we will do
+it, and this is called the Maclaurin Series. So if we just wanted to
+approximate this as hard as we can, essentially take the
+infinite derivatives of it, we get the Maclaurin Series. So we are going to define
+this polynomial p of x. It's going to be the infinite
+series, the infinite sum. Let's start with n is equal
+to 0, and we're going to go to infinity. What is each term? It's going to be f of -- well
+it's going to be f, the nth derivative of f evaluated at
+0 times x to the n over n factorial. This is the Maclaurin Series. We're later learn that the
+Maclaurin Series is a specific example of the Taylor Series,
+which is a specific example of a power series. But anyway, this might seem
+very complicated to you. I have all the sigma notation. Just remember, this is
+essentially just that and I just keep going to infinity. And if you play around with
+it it should make sense. But I think this will become a
+lot more concrete when I do this with a specific f of x. This is where it gets cool. In case you don't think
+it's already cool. So let's pick f of x to be,
+to me, the most amazing function of them all. If I ever built a shrine or
+a church or something or skyscraper, I would somehow
+make this function show up all over the place, and then years
+from now people would be awed by the mysticism of it all. But anyway, let's try to
+approximate e to the x with a Maclaurin Series. You know that sigma thing,
+that's hard to memorize. Just remember you want all the
+derivatives to be the same. So let's make the
+approximation of this. Actually, I won't prove it. It's out of the scope of
+what we're doing right now. But the approximation, even
+when it's centered at 0, actually equals the function
+when you take the infinite sum. But let's just see
+what it looks like. Because this is pretty cool. Before we start building the
+polynomial, let's just figure out a couple of things. So what is f prime of x? That's also e to the x, right? What's f prime prime of x? Well that also
+equals e to the x. We have learned and actually
+recently did a proof that the derivative of e to
+the x is e to the x. But that also needs a second
+derivative and the third and the fourth and the nth
+derivative of e to the x is equal to e to the x. I could take an arbitrary
+number of derivatives of e to the x and it equals e to
+the x, which is amazing. The rate of change of the
+function at any point is equal to the function. The rate of change of the rate
+of change of the function at any point is equal
+to the function. I mean that's -- I want to just
+go some place and ponder it, but I'm too busy making videos. But anyway, back to
+what we were doing. So what is f of 0? f of 0 is equal to e to the 0,
+which is equal to 1, right? Well that's also going
+to be f prime of 0. That's also e to the 0,
+which is equal to 1. So all of the derivatives, the
+nth derivative at 0 is going to equal 1 for this specific case
+of f of x, for e to the x. And this is why
+this is so cool. But actually, it actually
+gets even more amazing. So, you hopefully realize
+that f of 0 and all of its derivatives at
+0 are equal to 1. So now we can do the powers
+of the Maclaurin Series in the next video. See you soon. 

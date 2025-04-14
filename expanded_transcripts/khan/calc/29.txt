@@ -1,0 +1,174 @@
+Transcript for: Proofs of derivatives of ln(x) and e^x | Taking derivatives | Differential Calculus | Khan Academy
+In the first version of the
+video of the proof of the derivative of the natural
+log of x, where the first time I proved this is
+a couple of years ago. And the very next video I
+proved that the derivative of e to the x is
+equal to e to the x. I've been charged with some of
+making a circular proof, and I'm pretty convinced that
+my proof wasn't circular. So what I want to do in this
+video, now that I have a little bit more space to work with, a
+little bit more sophisticated tools, I'm going to redo the
+proof and I'm going to do these in the same video to show you
+at no point do I assume this before I actually show it. So let's start with the proof. So the first thing I need to do
+is prove this thing up here. I want to keep track of this. I don't assume this until
+I actually show it. So let's start with the
+proof, the derivative of the natural log of x. So the derivative of the
+natural log of x, we can just to go to the basic
+definition of a derivative. It's equal to the limit as
+delta x approaches 0 of the natural log of x plus delta x
+minus the natural log of x. All of that over delta x. Now we can just use the
+property of logarithms. If I have the log of a minus
+the log of b, that's the same thing as a log of a over b. So let me re-write it that way. So this is going to be equal
+to the limit as delta x approaches 0. I could take this 1 over
+delta x right here. 1 over delta x times the
+natural log of x plus delta x divided by this x. Just doing the logarithm
+properties right there. Then I can re-write this --
+first of all, when I have this coefficient in front of a
+logarithm I can make this the exponent. And then I can simplify
+this in here. So this is going to be equal to
+the limit as delta x approaches 0 of the natural log -- let
+me do this in a new color. Let me do it in a
+completely new color. The natural log of -- the
+inside here I'll just divide everything by x. So x divided by x is 1. Then plus delta x over x. Then I had this 1 over delta x
+sitting out here, and I can make that the exponent. That's just an exponent
+rule right there, or a logarithm property. 1 over delta x. Now I'm going to make
+a substitution. Remember, all of this, this was
+all just from my definition of a derivative. This was all equal to
+the derivative of the natural log of x. I have still yet to
+in any way use this. And I won't use that until
+I actually show it to you. I've become very defensive
+about these claims of circularity. They're my fault because that
+shows that I wasn't clear enough in my earlier versions
+of these proofs, so I'll try to be more clear this time. So let's see if we can
+simplify this into terms that we recognize. Let's make the substitution so
+that we can get e in maybe terms that we recognize. Let's make the substitute delta
+x over x is equal to 1 over n. If we multiply -- this
+is the same thing. This is the equivalent
+to substitution. If we multiply both sides of
+this by x, as saying that delta x is equal to x over n. These are equivalent
+statements. I just multiplied both
+sides by x here. Now if we take the limit as n
+approaches infinity of this term right here, that's
+equivalent -- that's completely equivalent to taking the limit
+as delta x approaches 0. If we're defining delta x to be
+this thing, and we take the limit as its denominator
+approaches 0, we're going to make delta x go to 0. So let's make that
+substitution. So all of this is going to be
+equal to the limit as -- now we've gotten rid
+of our delta x. We're going to say the limit as
+an approaches infinity of the natural log -- I'll go back to
+that mauve color -- the natural log of 1 plus -- now, I said
+that instead of delta x over x, I made the substitution that
+that is equal to 1 over n. So that's 1 plus 1 over n. And then what's 1 over delta x? Well delta x is equal to x over
+n, so 1 over delta x is going to be the inverse of this. It's going to be n over x. And then we can re-write this
+expression right here -- let me re-write it again. This is equal to the limit as
+n approaches infinity of the natural log of 1 plus 1 over n. What I can do is I can separate
+out this n from the 1 over x. I could say this is to
+the n, and then all of this to the 1 over x. Once again, this is just
+an exponent property. If I raise something to the n
+and then to the 1 over x, I could just multiply
+the exponent to get to the n over x. So these two statements
+are equivalent. But now we can use logarithm
+properties to say hey, if this is the exponent, I can just
+stick it out in front of the coefficient right here. I could put it out right there. And just remember, this was all
+of the derivative with respect to x of the natural log of x. So what is that equal to? We could put this 1 out
+of x in the front here. In fact, that 1 out of x term,
+it has nothing to do with n. It's kind of a constant
+term when you think of it in terms of n. So we can actually put it
+all the way out here. We could put it either place. So we could say 1 over x times
+all that stuff in mauve. The limit as n approaches
+infinity of the natural log of 1 plus 1 over n to the n. The natural log of
+all of that stuff. Or, just to make the point
+clear, we can re-write this part -- let me make a salmon
+color -- equal to 1 over x times the natural log of the
+limit as n approaches infinity. I'm just switching places here,
+because obviously what we care is what happens to this term as
+it approaches infinity, of 1 plus 1 over n to the n. Well what is -- this should
+look a little familiar to you on some of the first videos
+where we talked about e -- this is one of the definitions of e. e is defined. I'm just being clear here. I'm still not using
+this at all. I'm just stating that the
+definition of e, e is equal to the limit as n approaches
+infinity of 1 plus 1 over n to the n. This is just the
+definition of e. And natural log is defined
+to be the logarithm of base, this thing. So this thing is e. So I'm saying that the
+derivative of the natural log of x is equal to 1 over x
+times the natural log. This thing right here is e. That's what the
+definition of e is. I'm not using the definition
+of the derivative e, or the definition of the
+derivative of e to the x. I'm just using the
+definition of e. And the definition of
+natural log is log base e. This says the power that you
+have to raise e to to get to e, well this is just equal to 1. There we get that the
+derivative of the natural log of x is equal to 1 over x. So, so far I think you'll be
+satisfied that we've proven this first statement up here,
+and in no way did we use this statement right here. I just used the definition
+of e, but that's fine. I mean we assumed we know the
+definition of e, even when we just talk about natural log,
+we assume that it's base e. In no way did I assume
+this to begin with. Now, given that we've shown
+this and we didn't assume this at all, let's see
+if we can show this. So the derivative -- let's do a
+little bit of an exercise here. Actually, I could probably
+do it in the margins. Let's take the derivative
+of this function. The natural log of e to the x. So there's two ways we
+can approach this. The first way we could simplify
+this and we could say this is the exact same thing
+as the derivative. We could put this x out
+front of x times the natural log of e. And what's the
+natural log of e? The natural log of e we
+already know is equal to 1. So this is just the
+derivative of x. And the derivative
+of x is equal to 1. So that's pretty
+straightforward. The derivative, in no way did
+we assume this to begin with. We just simplified this
+expression to just this is the same thing as the derivative
+of x, because this term cancels out. And the derivative
+of x is just 1. Or we could do it
+the other way. We could do the chain rule. We could say that this could be
+viewed as the derivative of this inner function, of this
+inner expression, so the derivative of the inner
+expression, I don't know what that is. I'm not assuming
+anything about it. I just don't know what it is. So I'll write it in
+yellow right here. So it's equal to the
+derivative with respect to x of e to the x. I don't know what this is. I have no clue what this
+is, and I haven't assumed anything about what it is. I'm just using the chain rule. If the derivative of this
+inside function with respect to x, which is this right here,
+times the derivative of this outside function with respect
+to the inside function. So the derivative of natural
+log of x with respect to x is 1 over x. So the derivative of natural
+log of anything with respect to anything is
+1 over that anything. So it's going to be equal to --
+so the derivative of natural log of x with respect to e to
+the x is equal to 1 over e to the x. Once again, I in no way
+assumed this right here. So far in anything we've done,
+we haven't assumed that. But clearly, my derivatives,
+either way I solve it -- one way I solve it I got 1. The other way, I kind
+of didn't solve it. I got this expression
+right here. They must be equal
+to each other. So let me write that down. This must be equal to that. It's just we just looked at it
+two different ways and got two different results. But I still don't know
+what this thing is. I just left it kind of open. I just said whatever
+the derivative of e to the x happens to be. But we know, since these two
+expressions are equal, we know that the derivative with
+respect to x of whatever e to the x -- so whatever the
+derivative with respect to x of e to the x happens to be, we
+know that when we multiply that times 1 over e to the x --
+that's when we just did the chain rule -- that we should
+get the same result as when we approached the problem
+the other way. That should be equal to this
+approach because they're both different ways of looking
+at the derivative of the natural log of e to the x. So that should be equal to 1. Well, we're almost there. We could just simplify this
+and solve for our mystery derivative of e to the x. Multiply both sides of this
+equation by e to the x, and you get the derivative with respect
+to x of e to the x is equal to e to the x. And I want to clarify this. At no point in this entire
+proof, at no point did I assume this. In fact, this is the
+first time that I'm even making the statement. I didn't have to assume this
+when I showed you that the derivative of the natural
+log of x is 1 over x. And I didn't have to assume
+this to kind of get to it. So in no way is this
+proof circular. So anyway, I didn't want to
+appear defensive, but I wanted to clarify this up. Because I don't want to in any
+way blame those who think that my original proof was circular. It's my fault because I
+didn't explain it properly. So hopefully this should
+provide a little bit of clarity on the issue. 

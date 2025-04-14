@@ -1,0 +1,123 @@
+Transcript for: The Chain Rule
+Welcome back. I'm now going to do some more
+examples of a bit of a review of some of the derivatives
+that we've been seeing. And then I'll introduce you to
+something called the chain rule which expands the universe of
+the types of functions we can take the derivatives of. So in the last presentation, I
+showed you how to function if I had f of x is equal to 10x to
+the seventh plus 6x to the third plus 15x minus
+x to the 16th. To take the derivative of this
+entire function, we take just the derivatives of each
+of the pieces, right? Because you can add them up. So f prime of x in this
+example, is equal to-- and I think you get the hang
+of it at this point. It's actually fairly
+straightforward. We take the 7, multiply
+it by the 10. So we get 70x, then
+1 degree less. So 70x to the sixth plus
+18x squared plus 15. We can kind of view this
+as x to the 1, right? So it's 1 times 15
+times x to the 0. Which is 1. So that's just 15 minus
+16x to the 15th. And I don't want you to
+lose sight of what we're actually doing here. What is f prime of x? This is the function the tells
+us the slope of any point x, along the curve f of x. It's a pretty
+interesting thing. Let me just draw to maybe give
+you a little bit of intuition. I don't know what the slope
+of f of x really looks like. And actually, let's pretend
+like this isn't f of x. Let's pretend like this
+is just some arbitrary function I'm drawing. If this is f of x, just some
+curve that does all sorts of crazy things, f prime of x
+tells me the slope at any point along that line. So if I wanted to know the
+slope at this point right here, I could use the derivative
+function to figure out the slope of the tangent line. The tangent line is something
+like that right there. Or if I wanted to figure out
+the slope at this point, once again I'd use the
+derivative function. And it would tell me the
+slope of the tangent line at that point. Which would be
+something like that. So it's a pretty useful thing. And once I give you all the
+tools to analytically solve a whole host of derivatives, then
+we'll actually do a bunch of word problems and
+applications of derivatives. And I think you'll see that
+it's a really, really, really useful concept. So let's move on. I think you get the idea of
+how to do these derivatives of polynomials. Let me erase this. I'm actually using a
+different tool now. So I think it might
+be a bit easier. Let's see, someone
+was calling me. But you're more important so
+I will not answer the phone. I'm going to introduce you--
+this tool doesn't have, I don't think it has a
+straight up eraser. Actually, maybe let's see. If I do it like this. Oh let me see. No that doesn't work. Let me just erase like this,
+the old-fashioned way. You just have to bear with me. And then once I finish erasing,
+I will show you the chain rule. This is good. It feels like I'm a real
+teacher with a real chalkboard and a real eraser now. This is a lot cleaner than a
+normal chalkboard as well. Bear with me, almost there. I'll figure out a faster
+way to do this over the next couple of videos. It's pretty sad. I'm showing you how to do
+derivatives in calculus, but I don't know how to erase
+a faster way than this. There, we're done. OK. So now I'm going show you how
+to solve the derivatives of a slightly more complicated
+type of a function. It's actually not
+more complicated. It's just different. So let's say f of x is equal to
+2x plus 3 to the fifth power. And I want to figure out
+the derivative of this. We're going to use something
+called the chain rule. Because one thing we could do,
+we could just multiply out 2x plus 3 to the fifth power. And if you've ever done
+that, you know it's a pain. So that's not something
+we'd want to do. So we're going to use something
+called the chain rule. And I'm just going to give you
+a bunch of examples before I even show you the definition
+of the chain rule. Because I think this is
+something that you just have to learn by example. So the chain rule just tells us
+that the derivative of let's say this function right here. You take the derivative of the
+subfunctions, and then you can take a derivative of
+the entire function. I'll tell you that formally. But I think when you introduce
+it formally, it gets more confusing. So what I do, I just take the
+derivative of 2x plus 3 first. And actually let me use colors. I think that might simplify it. So I take the derivative
+of 2x plus 3. What's the derivative
+of 2x plus 3? Well you know that. It's just the derivative
+of 2x, which is 2. And then the
+derivative of 3 is 0. So the derivative of
+2x plus 3 is just 2. And then I'm going to multiply
+that times the derivative of the whole thing. And I just pretend like
+2x plus 3 is just like a variable by itself. So then what's the derivative
+of x to the fifth? Well the derivative of x to the
+fifth-- I'm going to do that in a different color-- the
+derivative of x to the fifth is 5x to the fourth. So it'll be 5 times
+something to the fourth. But here we didn't take the
+derivative of x the fifth. We took the derivative of
+2x plus 3 to the fifth. So we just put the 2x
+plus 3 there instead. So what did we do here? We went in the inside of
+the function, and we took the derivative here. And the derivative of
+2x plus 3 was just 2. And then we multiplied
+it by the derivative of the greater function. And we just pretended like the
+2x plus 3 was a variable. It was like x. So instead of 5x to the
+fourth, we got 5 times 2x plus 3 to the fourth. And if we just simplify that,
+f prime of x is equal to 2 times 5 is 10; 10 times
+2x plus 3 to the fourth. That was a lot simpler than
+multiplying out 2x plus 3 to the fifth power, and then doing
+the derivatives the old way. I know this was probably a
+little confusing to you, so I'm going to try to do
+a couple more examples. Let's say I had g of x is equal
+to x-squared plus 2x plus 3 to the eighth power. So g prime of x is going to
+equal-- well what did we say? We take the derivative
+of the inside. This is called the chain rule. What's the derivative
+of the inside? It's 2x plus 2 plus 0, right? And then we take the derivative
+of the whole thing. And we just pretend like this
+whole expression, x-squared plus 2x plus 3 is just kind
+of like the variable x. We know that the derivative
+of x to the eighth is 8x to the seventh. So it'll be 8 times
+something to the seventh. And that something is this
+entire expression here, 8 times x-squared plus 2x plus 3. I hope I didn't
+confuse you too much. And you can simplify
+this more in any way. Because it's 2x plus 2 times
+8 times x-squared plus 2x plus 3 to the seventh. To multiply this out, or
+to multiply this out is a huge pain as you know. But we could simplify
+a little bit. Let me draw a divider here. We could say that that equals 8
+times 2x, 16x plus 16 times-- I'm making it really messy--
+x-squared plus 2x plus 3 to the seventh power. I hope I didn't
+confuse you too much. In the next presentation, I'm
+just going to do a ton of examples using the chain rule. And I think the more examples
+you see, it's going to hit the point home. And then after I've done a
+bunch of examples, then I'm going to give you a
+formal definition. I think that's actually an
+easier way to digest the chain rule than giving you the formal
+definition first, and then showing you a bunch
+of examples. So I'll see you in the
+next presentation. 

@@ -1,0 +1,106 @@
+Transcript for: Calculus BC 2008 2 a | AP Calculus BC | Khan Academy
+Let's keep going with our
+2008 Calculus BC free answer questions. So we're on problem number 2. And I cut and pasted the table
+that they gave for the problem. And I'll read the
+rest of the problem. And let's see what we can do. So it says concert tickets went
+on sale at noon, t equals 0, and were sold out
+within 9 hours. The number of people waiting in
+line to purchase tickets at time t, is modeled by a
+twice differentiable function L, L of t. So this is the number of people
+waiting in line at anytime. And this is noon, 12:00
+noon, 1:00 pm, 9:00 pm. All the tickets are
+sold by 9:00 pm. And they tell us it's
+twice differentiable. So that means that whatever
+function we're modeling this, this L of t, that it's
+continuous because it's differentiable. And since it's twice
+differentiable, we also know that its derivative is
+continuous because the second derivative exists
+at all points. So it says part a-- let me make
+sure I'm not writing too thickly-- use the data in the
+table to estimate the rate-- let me actually just copy
+and paste this, I've just figured out how to do this. So I figure it doesn't hurt. There you go. You probably can't read it. But it says use the data in the
+table to estimate the rate at which the number of people
+waiting in line was changing at 5:30 pm. So they don't give us
+any data on 5:30 pm. They give us 4:00 pm and
+7:00 pm, or t equals 5.5. Show the computations that
+lead to your answer. Indicate the units of measure. So what do they want to know? They want to know an estimate
+of the rate at which the number of people waiting
+in line was changing. So they don't give us a
+continuous function definition. They just give us a bunch
+of sample points of this function L of t. So the best estimate I can do,
+of the rate at which this L of t is changing at time 5.5-- and
+5.5 is in between these two-- is to just figure out the
+average rate of change between time 4 and time 7. So how do we figure that out? Well the average rate of
+change is just the slope. So let's write it. So we could write average
+rate of change or delta L over delta t at 5.5. You can write it however you
+want, however you think that the exam graders would
+best like to see it. We could say at time 5.5. We could say approximately
+equals, or whatever. But it's just going to be the
+slope between these two points. So it's L of 7 minus L of 4,
+all of that over 7 over 4. Rise over run or change in
+the value of the function divided by change in the
+independent variable. L of 7 is 154. They give us that. L of 4 is 126. And we divide it by 7 minus 4. So that equals 54 minus
+126 is 24 plus 26 is 50. So it's equal to 28. Right, if this was 2
+less, it would be 30. And 7 minus 4 is 3. So you could say that
+the average rate of change is 28 over 3. Or you could write
+that as 9 1/3. And they want us to use
+the units of measure. Indicate units of measure. So the numerator,
+this is people. And what's the denominator? It's hours, people per hour. So my best estimate, or our
+best estimate of the rate at which the number of people
+waiting in line was changing at 5:30 pm, which is between these
+two points, is the average slope between these two points. Which is 9 1/3 people per hour. That's it. Let's do part b. Let me clear all of this so we
+have enough space for part b. And I'll copy and don't
+know if you can read it. But maybe you can. So doesn't hurt to
+just copy and paste. OK part b says, use a
+trapezoidal sum with three subintervals. Maybe I can make this
+a little bit bigger. Let me see if I can grow
+that a little bit. I don't want to take up
+all the space though. No that doesn't look good. OK well I'll read it out loud
+in case you can't see it. Use a trapezoidal sum with
+three subintervals to estimate the average number of people
+waiting in line during the first 4 hours that the
+tickets were on sale. If you want to do this
+really fast, you wouldn't have to graph it. But I'm about to graph it
+because I want you to understand how to
+do this problem. If you understand it, you
+don't have to graph it. So let's graph some
+of these points. And we really just have
+to do the first 4 hours. Actually let's graph all
+of them, just because it might be useful in future
+parts of the problem. If you weren't graphing it
+while recording a video, it probably would be a
+little bit faster. That should be good enough. What are our data points? We have 1, 2, 3,
+4, 5, 6, 7, 8, 9. You don't have do it so neatly. Well it's good to do it neatly
+when you're doing the exam, because otherwise you'll
+confuse yourself. And let's see, how high
+should my L values? This is time right here. This is my L of t axis. It goes up to about, 176
+is a high point, at least on the data we have. Let's say this is 200. So halfway up would be 100. This would be 150. This would be 50. I don't know what
+that sound was from. But let's keep going forward. Let's plot the points. At t equals 0 there are
+120 people in line. That's about right there. At t equals 1, 156. I'm just approximating. It's about right there. At t equals 3-- they skip
+2-- at t equals 3 it's 176 people in line. So that's going to be
+right about there, just approximating it. At t equals 4, we have
+126 people in line. It's a little bit more
+than at t equals 0. At t equals 7, we have
+150 people in line. It's right about there. At t equals 8 we have 80. That's about right there. And t equal 9, the
+line is gone. Everyone has gotten
+their tickets, or maybe they got sold out. Let's connect those points. Connect the dots. So from here to there. And from there to there. There to there. There to there, almost done. OK so we've at least plotted
+the sample points and connected them with lines. We know that the real L of t,
+whatever we used to approximate it, it's not going to have
+these sharp edges because it's differentiable. It's actually twice
+differentiable. So it's actually going to be
+a smoother curve, right? Because we can take the
+derivative of any point. If this was the actual
+function, you wouldn't be able to take a derivative
+at this point. Because there's a positive
+slope here and then it immediately switches to a
+negative slope like the absolute value functions. You actually wouldn't
+be able to take the derivative at that point. But anyway back to the problem. Use a trapezoidal sum with
+three subintervals to estimate the average number of people
+waiting in line during the first 4 hours. So the first 4 hours,
+that's right here. Now this might seem
+kind of daunting. The trapezoidal sum
+for the fourth. Actually I just realized. For some reason, YouTube used
+to let me do longer videos because I thought
+I was a partner. But now for some reason it's
+been limiting me again. So I will continue part
+b in the next video. See you soon. 

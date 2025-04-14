@@ -1,0 +1,135 @@
+Transcript for: Partial derivatives 2 | Multivariable Calculus | Khan Academy
+Before we move on to other
+functions, let's also take the partial derivative of our
+function here, f of xy, or the partial derivative of
+z with respect to y. So let's do it in magenta. So the partial derivative
+of z with respect to y. Well, now we're saying how much
+does z change with respect y if x is constant. So this x squared we
+treat as a constant now. So the derivative of a
+constant with respect to y is 0, so ignore it. Now this xy term. The way we're doing it
+now is, y is a variable, x is a constant. So what is the derivative
+of, I don't know, 5y with respect to y? Well it's 5. So the derivative of xy with
+respect to y is just x. And what's the derivative of
+y squared with respect to y? Well it's just 2y. So you can see it's
+quite symmetric. The partial of z with respect
+to x is 2x plus y, the partial of z with respect
+to y is x plus 2y. That's because this equation
+is pretty symmetric. The x's and the y's kind
+of do the same thing. Now, we picked the point x is
+equal to 0.2 y is equal to 0.3. Actually let me erase this,
+because I picked a different point where I graph, and I
+graphed it ahead of time just to save time. So I don't think I have
+to include this anymore. So what I did, I picked
+the point x is equal to 0.3, y is equal to 0.3. And when x is equal to
+0.3, y is equal to 0.3, what is z equal to? Let's see, 0.3 squared is
+0.09, 0.3 times 0.3 0.09. So it's z is equal
+to 0.27, right? Just substitute 0.3
+in for x and y. z is equal to 0.27. So what is the partial
+of z with respect to x at that point? Or we could write, f
+sub x at the point y. x is equal to 0.3,
+y is equal to 0.3. It equals, we figured that,
+let's see 2 times 0.3 is 0.6, plus 0.3, that's equal to 0.9. So the slope in the x direction
+at that point is 0.9. And if we take the partial with
+respect to y at that same point, 0.3 plus 0.6,
+that's also equal to 0.9. Let's see if we can
+visualize this. Let me bring in my graph. There we go. So this is, this surface once
+again is the surface of z is equal to x squared plus
+xy plus y squared. And this box is kind of the
+domain, and the x and y dimensions that I define. Kind of, I bounded it because
+it starts to increase really fast, and you wouldn't be able
+to see all this interesting stuff that happens closer in. But this, what I did, so this
+vertical line, I just wanted to show you that when x is
+equal to 0.3, y is equal to 0.3, z is equal to 0.7. So that just kind of helps show
+you that, ok, that shows what point we're working with. And then these two lines, this
+is, if you think about it, this is the line where y
+is constant, right? So this is the slope in the
+z, or as the surface changes with respect to x at
+this point, right? This is the tangent
+line relative to x. So you could kind of view
+it as, if you hold y constant, here's a tangent
+line at that point. And if you hold x constant,
+here's a tangent line at that point. And like I said in the last
+video, you can actually have infinite tangent lines. You have to pick the direction
+that you want to go in the xy plane, and then you could
+plot a tangent line. And so that's why we did
+partial derivatives to begin with. Actually, this is pretty cool. We can actually take, we can
+actually zoom in on this. Zoom it a little bit more. I want to zoom in on the
+part that is interesting, let me translate this. So that's the part
+that's interesting. And now let me rotate it. So you can actually rotate. So this is the tangent. This shows that the partial
+of the function with respect to y, the slope is 0.9. And this line shows that the
+partial of the slope, or the partial the function, sorry the
+partial of z, or the partial of the function with respect to
+x is 0.9, at this point. At the point x is 0.3, y is
+0.3, right? x is 0.3, y is 0.3, z is equal to 0.27. And we can rotate it just
+to get more intuition. I think it's, the graphing
+thing looks a little bit funny sometimes. But you see that both
+of those lines are tangent at that point. And in fact, two lines define a
+plane, and the plane that's defined by those two lines, or
+any of the two tangent lines to that point, defines a tangent
+plane to the surface. So a does have only one tangent
+plane, but within a tangent plane, there are an infinite
+number of tangent lines. Well anyway, that's the
+fun with graphing. Now let's just chug through a
+bunch of partial derivative problems just so that you get
+used to the mathematics of it. Delete that. Let's do some that might
+confuse you, so you see how to do them. Let's say that f of xy,
+and I'm confining it to three dimensions. Although we can do it more. Actually, maybe I'll do it more
+dimensions now that we're not going to try to visualize it. Let's say it's x sine
+of x, cosine of y. So let's take the partial
+of f with respect to x. This is still going to be
+a function of x and y. So we treat y like a constant
+So cosine of a constant, this is just going to be a constant. So we can almost ignore that. We could put that out front. We could say that it's going
+to be cosine of y times the derivative of this
+with respect to x. So you could say, cosine
+of y, it's just a number. This cosine of y could
+just be, I don't know, 5 or pi, or whatever. Cosine of y. And then, because when you take
+the derivative the constant just comes out of
+the derivative. And then we would take the
+derivative of the x's. So the derivative of the
+first term with respect to x, well that's just 1. Times the second expression. So sine of x, I'm just doing
+the product rule here. Plus the derivative of
+the second expression, that's cosine of x. Cosine of x is the derivative
+of the second expression, times the first expression, times x. So If we wanted to expand it
+all out, the partial of f with respect to x, this is
+the function of x and y. It equals sine of x, cosine of
+y, plus, let's put this x out front, just so we change the
+order. x, cosine of x, cosine of y. Not too difficult. You just have to realize
+that anything with the y is a constant. So let's reverse it. Well, not reverse it. Let's take the partial
+now in the y direction. How much does f change
+in the y direction if we hold x constant. So the partial of f with
+respect to y, still a function of x and y. The derivative in
+that direction is a function of x and y. So now x is a constant. So this actually becomes
+pretty straightforward. This whole x, sine of x,
+if x is some number, 5, this is just a constant. So we can just write
+that out front. So that's just x, sine of x. I know it's hard for you to get
+used to saying that, oh, x sine of x, that's just a
+constant number. Because you're so used to
+taking the derivative with respect to x. And that's the hardest
+part about doing these partial derivatives. But anyway, this is
+just a constant term. And now we just take
+the derivative of this with respect to y. The derivative of cosine
+of y with respect to y is minus sine of y. I'll do that in yellow. Minus sine of y. I just want to put
+the minus out front. Minus sine of y. There you have it. Let's do another one. And actually I'm going
+to add more variables. Let's say that, I don't know,
+just so you get used to the different notation. x is equal to a squared times,
+I don't know, a squared times b to the third, times
+c to the 1/2 power. Now what is the partial
+derivative of x with respect to a? Well everything else
+is just a constant. What's the partial of a
+squared with respect to a? Well it's 2a. So it'll just be 2a
+times the constants. Times b to the third,
+c to the 1/2. I can actually get rid of
+my parentheses there. What's the partial derivative
+with respect to b? Ah, sorry, what's the partial
+of x with respect to b? Well now, a squared and c to
+the 1/2 are just constants. We can just write that. a
+squared, c to the 1/2. And now we just take the
+derivative with respect to b. Well that's 3b squared. Times 3b squared. If I just want to rearrange
+it, that's 3a squared, b squared, c to the 1/2 power. Not too difficult. You just have to keep in mind
+what's constant and what's not. And then finally, the partial
+of x with respect to c. a squared, b to the third,
+those are both constants. a squared, b to the third
+times derivative of this with respect to c. 1/2 c to the minus 1/2. Or we could rewrite this as
+a squared, b to the third, over 2 square root of c. Just a little bit of
+algebraic manipulation. Anyway, I will see you
+in the next video. 

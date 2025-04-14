@@ -1,0 +1,152 @@
+Transcript for: 2011 Calculus AB free response #5c. | AP Calculus AB | Khan Academy
+Part C, find the
+particular solution-- W as a function of t-- to
+the differential equations, derivative of W
+with respect to t is equal to 1 over
+25 times w minus 300, with initial condition, at
+time 0, W is equal to 1,400. And the units in this problem,
+it was 1,400 tons they told us. So it might seem strange to
+see a differential equations problem on an AP exam. You say, wait, this isn't fair. This isn't a differential
+equations class. And the thing to keep in
+mind is if, on an AP exam, you see differential
+equations, they're really asking you to solve
+a differential equation that can be solved using
+the skills that you would learn in an AP class. And the main class of
+differential equations that you could
+solve are the ones that are separable
+differential equations. The ones where you can
+separate the independent and the dependent variables. And if you don't have any
+idea what I'm talking about, I'm about to show you. So let me rewrite this
+differential equation. We have dw, dt is equal to
+1 over 25 times W minus 300. Now this differential
+equation, we have W here. And we have this dt. But we don't have
+t anywhere else. So what I want to do is I want
+to get the parts that involve W onto the left-hand
+side, and I want to get anything that deals
+with dt on the right-hand side. So let's divide both sides of
+this equation by w minus 300. So we would have 1
+over W minus 300 dw dt-- the derivative of
+W with respect to t-- is equal to-- I divide
+this side by W minus 300, so it's equal to 1 over 25. Now I want to get the
+dt's on this side. So let's multiply
+both sides by dt. [INAUDIBLE] the
+differential is just a very, very small change in t. And so we get-- and I'm a little
+bit imprecise with my notation here. But this is one way that
+you can think about it when you are dealing with the
+differential equations like this, separable
+differential equations. You have 1 over W minus
+300 dw-- let me make sure that the dw doesn't look like
+it's in the denominator-- dw is equal to 1 over 25 dt. And now we can integrate both
+sides, which is essentially just saying that we're taking--
+since this is equal to this-- that each little
+increment of W times this is equal to each little
+increment of dt times 1 over 25. We can then say, well, if we sum
+up all of the increments of W times this quantity--
+if we sum up the infinite number of
+infinitesimally small increments-- that would be
+the same thing as summing up all of these characters. Because each of these
+characters is really the same as each of
+these characters. So let's do that sum. We're essentially just
+integrating both sides of this. And here, you might be able
+to do this in your head. Or we could do the
+formal u substitution, just to make it clear
+what we're doing. If you said u is equal to W
+minus 300, then what is du? If you wanted the differential. So if you want to take
+the derivative of u with respect to W, you would
+say du with respect to W is equal to what? It is equal to 1. The derivative of this
+with respect to W is 1. Or if you multiply
+both sides times dw, you have du is equal to dw. And so this left-hand side right
+over here-- this integral-- could be rewritten as the
+integral of 1 over u du. We define this as u. And we just saw that du
+is the same thing as dw, so this could be
+rewritten as du. And this is one of
+the basic integrals, so hopefully we've learned. And this is equal to the natural
+log of the absolute value of u. Or if you unwind
+the substitution, this is equal to the natural
+log of the absolute value of W minus 300. So let me write this down. So the left-hand
+side right over here. And you might be able
+do that in your head. You say, hey, look. You have W minus 300. Its derivative is 1, so
+it's essentially there. So I can just take this
+as if this was 1 over-- I could just take the
+antiderivative here and treat this whole thing as a variable. So it would just be the natural
+log of this entire thing, or the absolute value
+of that entire thing. So the integral of
+the left-hand side is the natural log of the
+absolute value of W minus 300. And the derivative of the
+right-hand side-- and this is a little bit more
+straightforward-- or sorry, the antiderivative with respect
+to t on the right-hand side is 1 over 25 t, or we
+could say t over 25. And then these are both
+indefinite integrals. You could have a constant
+on both sides or one side. We could just put it on
+one side right over here. You could have put
+plus some constant. You could have added
+some C1 over here. And then you could've
+had C2 over here. But then you could've
+subtracted C1 from both sides, and then just have a
+C3 constant over here. But to simplify
+it, you could just say, look, this is going
+to be equal to this plus some constant. You could've put the constant
+on that side as well. It doesn't matter. All the constants
+would merge into one. Now we've gotten pretty far. We want to solve the
+particular solution. Right now, we only
+have this constant. And we also haven't written W as
+a function of t just right yet. They're implicitly expressed. It is more of a relationship
+than a function right now. So the first thing
+we can do is try to solve for C. We're told
+in the problem that W of 0 is equal to 1400 tons. They told us that. That's one of our
+initial conditions. So we know that the natural
+log, that when t is equal to 0, W is equal to 1400. So W is equal to 1,400 when
+t is equal to 0 plus C. Or another way to
+think about it is, the natural log of the absolute
+value of 1,100 is equal to C. And obviously, this
+is a positive value. So we could just say that C
+is equal to the natural log of 1,100. We can drop the
+absolute value sign because the absolute
+value of 1,100 is 1,100. So now we can rewrite
+this part right over here. Let me do it in yellow. Let me start--
+that's not yellow. Let me start right over here. So we could write
+the natural log of the absolute
+value of W minus 300. And actually, we know that
+W is an increasing function. W starts at 1,400 and
+only goes up from there as t gets larger and larger. So if we're starting at
+1,400 and only getting larger and larger values
+for W, this expression right here is never going to get
+negative for positive t values. And that's all we care about. And so we can actually drop
+the absolute value sign. This will always be
+a positive value. So we could say the absolute
+value of W minus 300 is equal to t over
+25-- and we've just solved for our constant--
+plus the natural log of 1,100. And now we can just solve
+this explicitly for W. We can raise e to both sides. This value is equal
+to this value. The left hand side is equal
+to the right hand side. So e raised to this power
+is the same thing as e raised to that power. So we have e to the
+natural log of W minus 300 is going to be equal
+to e to the t over 25 plus the natural log of 1,100. Let me take this-- actually,
+just to get the real estate, let me delete that. All right. Now I can keep working
+right below that. And so e to the natural
+log of something is just going to be
+equal to that something. The natural log is what
+power do I have to raise e to to get this thing. Well I'm raising
+e to that power, so I'm going to get this thing. So the left-hand side
+just becomes W minus 300, and the right-hand side,
+we could rewrite this as e to the t over 25 times e to
+the natural log of 1,100. We have the same base,
+different exponents. If you wanted to
+simplify this, you would just add the
+exponents, which is exactly what we did up here. So these two things
+are equivalent. e to the natural log of
+1,100, that is 1,100. The natural log of
+1,100 is a power that you raise e
+to to get to 1,100. So if you raise e to that
+power, you get 1,100. So that is 1,100. So we get W minus 300 is equal
+to 1,100 e to the t over 25. And then you just add
+300 to both sides. W is equal to 1,100 e to
+the t over 25 plus 300. And we're done. We have solved the
+differential equation. We found the
+particular solution. We had to solve for C to find
+that particular solution. We're done. And we did it using
+just basic integration. We didn't have to use any
+of the fancy differential equation solving
+tools that you might learn in a more advanced class. 

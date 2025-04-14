@@ -1,14 +1,44 @@
 from utils.text_utils import *
 from utils.spacy_utils import *
+from collections import Counter
+import matplotlib.pyplot as plt
 import spacy
 
-nlp = spacy.load('en_core_web_lg')
-text = read_file('spacy_processing/test.txt')
-doc = nlp(text)
 
-result = set()
-for token in doc:
-    if token.pos_ == 'VERB':
-        result.add(token.text)
+root = Path('raw_transcripts')
 
-print(result)
+text = read_file('raw_transcripts/prof_leonard/calculus_2.txt')
+for i, vid in enumerate(text.split('\n\n')):
+    with open(f'expanded_transcripts/prof_leo/diff_eq/{i}.txt', 'w', encoding='utf-8') as f:
+        f.write(vid)
+
+# nlp = spacy.load('en_core_web_lg')
+# keywords = {"limit", "integral", "differentiate", "derive", "derivative", "integration", "integrate"}
+# freqs = get_keywords(nlp, 'lime/.txt', 861, list(), keywords)
+# write_file(freqs, 'out_freq.txt', 'w', '')
+
+
+# nlp = spacy.load('en_core_web_lg')
+
+# verbs = read_file('verbs_lemma').split()
+# verb_counts = Counter(verbs).most_common()
+
+# for verb, count in verb_counts:
+#     write_file(f'{verb:<15}-{count}\n', 'verb_freq.txt', 'a', '')
+    
+    
+    
+# verbs = get_verbs(nlp, 'spacy_processing/docs/doc_all.spacy', 32, list())
+# write_file(verbs, 'verbs_lemma')
+# verb_counts = Counter(verbs).most_common()
+
+# verbs, frequencies = zip(*verb_counts)
+
+# plt.figure(figsize=(10, 5))
+# plt.bar(verbs, frequencies, color='skyblue')
+# plt.xlabel('Verbs')
+# plt.ylabel('Frequency')
+# plt.title('Verb Frequency')
+# plt.xticks(rotation=45)
+# plt.tight_layout()
+# plt.show()

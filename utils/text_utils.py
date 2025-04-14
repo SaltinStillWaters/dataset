@@ -10,7 +10,19 @@ def chunk_text(text, chunk_size=400000):
 def read_file(file):
     with open(file, 'r', encoding='utf-8') as f:
         return f.read()
+
+def write_file(data, out_file, open_mode='w', delim=' '):
+    if isinstance(data, list):
+        data = delim.join(data)
+    elif isinstance(data, str):
+        pass
+    else:
+        print(f'invalid data: {data}')
+        return
     
+    with open(out_file, open_mode, encoding='utf-8') as f:
+        f.write(data)
+        
 def concatenate_transcripts(out_name, transcript_name='raw_transcripts'):
     transcript_path = Path(transcript_name)
     

@@ -1,0 +1,152 @@
+Transcript for: 2011 Calculus BC free response #6b | AP Calculus BC | Khan Academy
+We're on part b. Write the first four non-zero
+terms of the Taylor series for cosine of x
+about x equals 0. Use this series and the
+series for sine of x squared, found in part A, to write
+the first four non-zero terms of the Taylor series
+for f-- so, for this f right over here--
+about x equals 0. So let's just do the first part. Let's find the first four
+non-zero terms of the Taylor series for cosine of
+x about x equals 0. So let's just say-- well, we'll
+put our formula for the Taylor series up here around
+x is equal to 0. So we're centering it around
+x equals 0 right over here. And so if we say that h of x
+is equal to cosine of x, then h of 0, is going to
+be equal to cosine of 0, which is equal to 1. And then, if you
+have h prime of x, that's going to be equal
+to negative sine of x. And you could look over here. This is essentially h of x. And this is going
+to be h prime of x. So it's essentially
+one step ahead of where we were with g of x. Well, we'll just redo it
+over here just so it's clear. So the first derivative
+at 0 is negative sine of 0, which is just 0. And then you have the
+second derivative of h of x. So the derivative of
+sine of x is cosine of x. But we have that
+negative out front, so it's negative cosine of x. So h prime prime of 0 is going
+to be equal to cosine of 0 is 1. You have that
+negative out front. So it's negative 1. And then you have the
+third derivative of h is equal to derivative
+of negative cosine of x is positive sine of x. So the third derivative at
+0 is going to be equal to 0. And then you take the
+derivative of this, you're going to get
+cosine of x again. So then the cycle starts again. So I could write, this is also
+equal to the fourth derivative at 0. Right, you take-- let me just
+make it clear what I'm saying. If I take the derivative
+of this, I get cosine of x. The fourth derivative of
+h is cosine of x again. So the fourth
+derivative at 0 is going to be the same thing as the
+function evaluated at 0, which is 1. And so the fifth derivative
+at 0 is going to be 0. The sixth derivative at 0
+is going to be negative 1. And then the seventh
+the derivative at 0 is going to be 0. So that's enough, now. I think we definitely
+have four non-zero terms. We have this term-- let me
+pick a nice color here-- we have this term, because
+we have a 1 coefficient. This is going to be a 0 because
+we have a 0 coefficient. This is a non-zero term. Then this is a non-zero term
+because we have the 1 again. And then this is a non-zero term
+because we have the negative 1. So we could say that cosine
+of x is approximately equal to-- because we're
+just approximating it with the first four
+non-zero terms. So f of 0 is 1. So that's this term
+right over here. Instead of f of x,
+we're calling it h of x right here, so
+that we don't get confused with that original f
+defined in the problem, and that we're going to
+work on in the second part of this section of the problem. So cosine of x is equal to 1. h prime of 0 is 0, so
+there's no term there. Then f prime prime of 0, second
+derivative, it's negative 1. So it's negative x
+squared over 2 factorial. And then you get another 0
+for the third degree term. Then you get a 1 for
+the fourth degree term. So plus 1. But we don't have to write
+the 1, it's implicitly there. Plus 1 times x to the
+4th over 4 factorial. And then the next non-zero term
+is this negative 1 over here. So minus 1-- we can
+just write minus-- and that's the
+sixth degree term. So x to the sixth
+over 6 factorial. And we're done. Those are the first four
+non-zero terms of cosine of x. Now let's do the second
+part of the problem. So we did this first part. Use this series and the
+series for sine of x squared, which we found right over
+here, sine of x squared-- actually, I think
+we wrote it, this is the series for sine of x
+squared when we simplified it. Use those-- that was
+found in part A-- to write the first four non-zero
+terms of the Taylor series for f about x equals 0. So where's our function again? So our function is sine of
+x squared plus cosine of x. Let me rewrite that. So f of x is equal to sine of
+x squared plus cosine of x. So let's write the first
+four non-zero terms. And you want to start
+with the lowest degree. So you could say
+that f of x is going to be approximately equal
+to-- because we're just approximating it with this
+polynomial right over here. So, from cosine of x-- so
+you have this right over here is cosine of x. And sine of x is over there. So between both of these,
+the lowest degree term right over here is this 1. So I'll write this 1 over here. And then after that, the next
+lowest-- in either of these, we have no first degree terms. We have no x terms. But then, in both of these,
+we have an x squared term. Actually, let me write it this
+way to simplify what I'm doing. Let me just write them out. So sine of x squared-- let
+me do this in a new color. Sine of x squared is this thing. This is what we
+figured out in part A. So that is x squared minus
+x to the sixth over 3 factorial-- I'm going to
+just write the whole thing, and then later we'll pick
+out the first four terms-- plus x to the 10th over 5
+factorial minus x to the 14th over 7 factorial. So that's the first
+four terms of that. So this isn't exactly that. That's approximately
+equal to that. So approximation. And then cosine of x,
+we just figured out, is plus 1 minus x squared
+over 2 factorial plus x to the 4th over 4 factorial
+minus x to the 6th over 6 factorial. Now we can pick out the
+first four non-zero terms. And since we're assuming
+this is a Taylor series, the first term is going
+to be the lowest degree, then we're going to keep
+going at higher degree terms. So the lowest degree
+term right over here. So once again, f of x is going
+to be approximately equal to. The lowest degree term
+over here is this 1. So let's write the 1 over here. And then, we don't have
+any first degree terms. We don't how many just x
+to the firsts over here. But we have a couple
+of x squareds. So that will actually
+be the next term, because we can add
+those x squareds. So this right over here,
+you have x squared-- so let me just write it this way. So plus this x squared minus
+x squared over 2 factorial. And x squared over 2 factorial
+is just x squared over 2. So minus, I could
+write 1/2 x squared. And I'll simplify
+this in the next step. That's just going to be
+one term, because this is going to end up
+being 1/2 x squared. All right. Do we have any third
+degree terms here? We do not have any
+third degree terms. Do we have any fourth
+degree terms here? We do. We have this character
+right over here. It's a fourth degree term. So plus x to the 4th
+over 4 factorial. And then finally, do we
+have any 5th degree terms? We don't have any 5th
+degree terms, no x to the 5ths over here. Do we have any 6th degree terms? We do. We have this one and this one. So this is going to be minus--
+there's a negative sign out in front of both of them. So it's going to be minus x
+to the 6th over 3 factorial plus x to the 6th
+over 6 factorial. You could say it's minus x
+to the 6th over 3 factorial, and then you could distribute
+the negative sign if you want. I just factored it out. And now we can just simplify
+this thing right over here. So this is going to be equal
+to-- so f of x is approximately equal to-- 1 plus-- and then,
+if you have an x squared minus half of an x squared,
+you're going to have 1/2 x squared. Or I could just write x squared
+over 2, plus x squared over 2. And then you have, in that blue
+color, plus x to the 4th over 4 factorial. And then, to simplify this,
+3 factorial 6 factorial. So this 6 factorial
+is the same thing, just to make
+everything clear to us. 6 factorial is the same thing
+as 3 factorial times 4 times 5 times 6, or 3
+factorial times 120. And so what we can do is
+multiply the numerator and the denominator here by
+4 times 5 times 6, or by 120. So let me just rewrite this. So I'll do this
+over here because I want this to be my final answer. So if I have x to the
+sixth over 3 factorial, I can multiply the
+denominator by 4 times 5 times 6, and then multiply the
+numerator times 4 times 5 times 6, which is the same thing
+as multiplying it times 120. So you have 120 up there. 4 times 5 times 6 is also 120. And now we have the
+same denominator, because this is the same
+thing as 6 factorial. So you have 120 x to
+the 6 over 6 factorial plus x to the 6th over 6
+factorial gives you 121 x to the sixth over 6 factorial. And we have this
+negative sign out here. So it becomes negative 121 x
+to the sixth over 6 factorial. And we're done. We've figured out the first four
+non-zero terms of our f of x. 

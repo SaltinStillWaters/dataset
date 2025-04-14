@@ -1,0 +1,107 @@
+Transcript for: 2011 Calculus AB free response #2 (a & b) | AP Calculus AB | Khan Academy
+As a pot of tea cools, the temperature the tea is modeled by a differentiable
+function h. For 0 is less than or equal to, t is less
+than or equal to 10. Where time t is measured in minutes. And temperature h of t is measured in
+degrees Celsius. Values of h of t, at selected time,
+selected values of time t are shown in the table above, so that's
+right over there. Use the data in the table to approximate
+the rate at which the temperature of the t is changing at
+time t equals 3.5. Show the computations that lead to your
+answer. So, they give us a bunch of points, so
+let's just graph this, just so we can visualize what this data's
+telling us a little bit. And, I suspect that this might be useful, so, this, right over here, is our
+temperature axis. This is our temperature at any moment, in
+degrees Celsius. And then, this is our time axis, and they
+gave us the time of 0 2 5 9 and 10. They give us a temperature of those times. So, this is 0. 2, 5's A little bit further. 5, 9, And then 10. And at time zero, the temperature's 66
+degrees, Celsius. 66, So it's right over there. At time 2, it is 60 degrees Celsius. At time two, it is 60 degrees celsius. At time 5, it is 52 degrees Celsius. So time 5, maybe it's right over here,
+this is 52 degrees Celsius. At time 9, or after 9 minutes, I should
+say, it's at 44 degrees Celsius. So this 44 degrees Celsius, and after 10
+minutes it's 43 degrees Celsius. So this is really just a graph showing how
+it cools off over those ten minutes, over
+those ten minutes. That's what the data is telling us. It's kind of a curve like this, and we've
+sampled it at these points. So going back to Part A. Use the data in the table to approximate
+the rate at which the temperature of the tea is changing at
+time t equals 3.5. So the rate of change is really just a
+slope of this curve at time t is equal to 3.5. So really, we just wanna find the slope at
+that point right over there. We wanna find the slope, and we don't know
+the actual function. So the best way to approximate the slope
+at that point, is really just find the slope, between, time,
+between minute five, and minute two. So the rate of change, so we could say, we
+could say that the rate, the rate, is going to be approximately, our
+change in temperature over that, over those three
+minutes. So, h of 5 minus h of 2, and this is
+obviously going to be in degrees Celsius, over the number
+of minutes that changed, so we went from 5 minutes or from, we end at 5
+minutes, and we started at 2 minutes, and so the rate, the rate is
+going to be approximately. At five minutes, our temperature is 52
+degrees, 52 degrees. At two minutes, our temperature is 60
+degrees, 60 degrees. And then, this is over change in three
+minutes. 5 Minus 2 is 3. So, this gets us, let me just pull to the
+right a little bit,. This gives us negative 8. Negative 8 degrees Celsius over three
+minutes. Or the rate at, the rate at, at three and
+a half minutes is going to be approximately negative 8 3rds, degrees Celsius per
+minute. So that is part a, part a. And then part b, using correct units,
+explain the meaning of 1 over 10, 1 over 10, times the definite integral from 0 to 10 of h of
+t dt in the context of this problem. Use a trapezoidal sum with the 4
+sub-intervals indicated by the table to estimate this
+thing. So, the integral from 0 to 10 of h of t is really the area of this entire, under this
+curve, right over here. That's the integral, that's this part
+right over here. And then, we're going to divide that. We're going to divide that by. We're going to divide that by 10. So, what this is really giving us. This is. This expression, right over here. Is the average, this is the average temperature. This is the average temperature over that
+time period. The integral of the temperature function
+divided by the total amount of time that has, that has
+elapsed. And then, in using correct units, well
+it's the average temperature and the average temperature is once again
+going to be in degrees. Degrees Celsius. And it makes sense, cuz this right over
+here is in degrees Celsius. You're multiplying it by time right over
+here, but then you could divide by. You're dividing, I'm assuming, by time
+right over here as, so this is times minutes, divided by
+minutes. So then you just get degrees Celsius
+again. So this is, this expression right over
+here is just the average temperature over those
+ten minutes. They they say use a trapezoidal sum with
+the four sub intervals indicated by the table
+to estimate this. So, a trapezoidal sum is, we don't know
+the exact function here, so we won't be able
+to analytically evaluate this definite
+integral, but what we can do is divide, is divide this area into
+four sections. They tell us to use this, four
+subintervals. And, we'll essentially divide it into four
+trapezoids. So, this is one trapezoid right over here. So this is one trapezoid right over there. That's my first trapezoid from zero to two
+on the base. And you see on the left end of that trapezoid is height of 66 the right end is
+60. And the the next trapezoid will go from
+two to five. Let me do that in a more. Color that contrast a little bit better. The next trapezoid will go from 2 to 5. The next trapezoid goes from 2 to 5. And then the third trapezoid goes from, goes from 5 to 9. The third trapezoid goes from 5 to 9. And then, the fourth trapezoid goes from 9
+to 10. Goes from 9 to 10. And so if I want to. If I want to approximate the definite
+integral part right here, before we divide by 10, I just need to find the area
+of these four trapezoids. So, let's do that. The area of this first trapezoid is going
+to be the base, which is 2 times the average
+height. The height if the left side for this
+trapped is 66. The height on the right side of this
+trapezoid is 60. The average height right over here is
+going to be 63, just the average of 60 and 66. So, this area right over here is, this is
+126, that's the area of the green part right
+over there. By the same logic, the area of this orange
+part. I want to do that in the orange color. The area of this orange part, the base
+right over here is 3. Base is 3. And then the average height. The height over here is 60. The height over here is 52. This is, they're seated 8 apart, so the
+average is going to be 4 away from each is going to be 56. So this is, the area here is going to be 3
+times, 3 times 56. Which is 150 plus 18. 150 Plus 18 is 168. That's the area of this orange trapezoid,
+and then the area of this blue trapezoid. The base right over here is 4, and then then average height, the height here is
+52, the height here is 44, the average of 52 and 44, let see they're 10, they are, sorry, they are
+8 apart. So then it's just gonna be 4 from each of
+these so it's 48, so the average height here is 48, and so 4
+times 48 is 160 plus 32. So it's 192, and then finally this last
+trapezoid, it's base is only 1. Its base right over here is only 1, and
+then its height is 43 at the left side, 43 at the
+right side. So its average height is 43.5, 43.5. So it's 43.5 times 1. So that's just going to be 43.5, and so if
+we add up the areas under, or the areas of all these trapezoids, we have a pretty good approximation for the
+definite integral. I'll just use, do the. Use the calculator for this part right
+over here. So we have 126, plus 168, plus 192, plus
+43.5, 43.5. Gives us 529.5. So this is equal to 529.5. And so that's our approximation for the definite integral
+part. But then we also have to divide it by 10,
+or we have to multiply time 1 10th. So we've evaluated, so this part right over here, we got 529.5 as our
+approximation. It's not going to be exact, but using the,
+using the trapezoidal sum, the sum of the areas
+of these trapezoids. And now we have to multiply by 1 10th, so
+lets do that. So, or we could just divide by 10, which actually we don't need a calculator for
+that, 52.95. So this whole thing, this whole thing
+evaluates to 52.95, and I'll do the next two parts in the next
+video. 
