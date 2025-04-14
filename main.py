@@ -7,9 +7,9 @@ import spacy
 
 root = Path('raw_transcripts')
 
-text = read_file('raw_transcripts/prof_leonard/calculus_2.txt')
+text = read_file('raw_transcripts/prof_leonard/pre_calculus.txt')
 for i, vid in enumerate(text.split('\n\n')):
-    with open(f'expanded_transcripts/prof_leo/diff_eq/{i}.txt', 'w', encoding='utf-8') as f:
+    with open(f'expanded_transcripts/prof_leo/pre_cal/{i}.txt', 'w', encoding='utf-8') as f:
         f.write(vid)
 
 # nlp = spacy.load('en_core_web_lg')
