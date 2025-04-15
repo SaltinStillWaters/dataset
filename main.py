@@ -22,16 +22,15 @@ def clean_text(in_file, file_count):
             print(f'{file_name} does not exist. Skipping...')
             continue
         
-        text = re.sub('Khan Academy ', '\n', text)
-        write_file(text, file_name)
-        continue
+        text = re.sub(r'\n', ' ', text)
         text = re.sub(r'\s*\.', '.', text)
         text = re.sub(r'\. *', '.\n', text)
         text = re.sub(r', *', ', ', text)
         text = re.sub(r'  +', ' ', text)
 
+        write_file(text, file_name)
         
-clean_text('cleaned_raws/.txt', 200)
+clean_text('raws/.txt', 2)
         
 # # Split transcript into videos
 # root = Path('raw_transcripts')
