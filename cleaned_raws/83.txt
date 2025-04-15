@@ -1,0 +1,62 @@
+Transcript for: Solid of Revolution (part 8) Where I left off, we were just essentially chugging through this fairly hairy derivative this definite integral this antiderivative.
+It takes my brain a little while to come up with the next term.
+So we evaluated at 2 and now we have to subtract this evaluated at 1.
+So minus 16 pi minus 4 pi over 3 oh, sorry.
+Plus.
+The minus is going to be on everything.
+Oh no, sorry.
+That is a minus.
+That's a minus.
+Plus 4 pi.
+Right? Because x is 1.
+Minus pi over 2.
+And now we can simplify it.
+Let's see what we can do.
+This is really a hairy problem.
+The 16 pi minus 8 pi, that equals 8 pi.
+And then that's a plus.
+The 32 plus 8 pi.
+32 pi plus 8 pi, that equals 40 pi.
+So let's see, I've simplified it to 40 pi, and what's minus 8 times 4 is 32 pi over 3.
+And then all of that, let's see if I can simplify this.
+Let's see, 16 pi plus 4 pi, that's 20 pi.
+And then, let's see.
+Minus 4 pi over 3 minus pi over 2.
+So let's get a common denominator for this part right here.
+So if I put everything over 6 20 pi over 6 is the same thing is 120 pi over 6, and then minus 4 pi over 3, if I put it over 6 it becomes 8 pi over 6, right? And then pi over 2, if I put it over 6 it becomes 3 pi over 6.
+So minus 3 pi.
+So this whole term that we're going to have to subtract from this term is equal to 120 minus 11, right? So that's 109 pi over 6.
+This equals 1 is that right? Yeah, 109 pi over 6.
+See what happens when you make up problems on the fly? You get ugly numbers.
+109 pi over 6.
+And what does that top part translate? So this is what we're going to subtract.
+This is when we evaluated the antiderivative at 1.
+And let's simplify this one.
+So that one, if we put 3 common denominator, that's 120 pi over 3 minus 32 pi over 3.
+120 minus 32, let's see, we get 90 88? Right.
+88 pi over 3.
+So that equals 88 pi over 3, and remember, that's just the top part.
+And then this is more of a review of fractions than anything else and then if I want to put it over 6, I just double it.
+So I think we're almost done.
+Let me switch colors.
+So if you go over a denominator of 6 88 pi over 3 let's see.
+If I double that, I get 160 176, right? 176 pi minus this.
+Minus 109 pi.
+I'm sure I made a careless mistake.
+These are my least favorite type of things to do.
+Hairy fractions.
+So 176 minus 109.
+That's the same thing as 76 minus 9.
+And that is 65.
+So our final answer is 65 pi over 6.
+Which isn't as hairy as it seemed when we started the problem.
+But that's pretty neat.
+This is kind of a strange shape.
+It's kind of a wide ring that has the upper part of the ring and the inner part of the ring are hard edges.
+But then it's curved on the outside.
+And we were able to figure out the volume of that.
+Especially and what was weird about this, is when it was rotated around the line y is equal to minus 2.
+Hopefully I didn't confuse you.
+These are about as difficult as these volume of revolution problems get.
+If you want more, just let me know.
+I will see you in the next video.

@@ -1,0 +1,85 @@
+Transcript for: Indefinite Integration (part IV) Welcome back.
+In the last presentation, I showed you how to essentially reverse the chain rule when you're doing an integral.
+And you could also do this by integral, it's called integration by substitution.
+And I'll show you why.
+And this is essentially just a reverse of the chain rule.
+The last problem we did in that last video, I said, sine of x to the third power times cosine of x, and I took the integral of the whole thing.
+And I did it kind of, you know, just telling you that, well, we're just reversing the chain rule.
+So we see the derivative of the sine x here, right, which is cosine of x, so we can just treat sine of x like a variable and take its integral.
+And I said that that is equal to sine of x to the fourth, times 1/4.
+Right? And the reason why we could just treat the sine of x like it's just like kind of a variable instead of a function, is because we had its derivative sitting right here.
+And if you keep doing it back and forth between the chain rule and what I just did, I think it'll make a lot of sense.
+So this might have been a little confusing.
+So I'll show you a technique called integration by substitution, which is essentially the exact same thing.
+So let's start with this exact same integral here, and let's pretend like we don't know the answer.
+We say, well, we have a function and its derivative, so let me let u equal the function that we have the derivative of.
+Right? u is equal to sine of x, right? u is sine of x.
+Well, what's the derivative of u? du, dx.
+Well, we know what du dx is, right? du of dx is equal to cosine of x.
+We memorized that, and maybe in a future presentation I'll actually prove it to you.
+So what we can now do is substitute these 2 things into this integral.
+So the integral now becomes, instead of writing sine of x to the third power, we can write u to the third power.
+And what's cosine of x? Well, we just showed, cosine of x is just du dx, right? So it's times du dx, and then we have times dx, right? And I know you're probably not too comfortable with the differentials at this point, but they behave in just the way regular numbers do with a fraction.
+So this dx and this dx actually do cancel out, and you're left with, that this is equal to the integral of u to the third du.
+And now this is an easy integral.
+The only thing different than what you might have seen recently is that instead of an x, we have a u here.
+And while we know that the answer of this integral, this is equal to 1/4 u to the fourth, and then, of course, we should add the plus c.
+Are we done? Well, I mean, almost, but it would be nice to just take that u, and unwind it, and put the sine of x back in for it.
+So let's do that.
+So u is the sine of x.
+That's what we said at the beginning.
+1/4 sine of x to the fourth, plus c.
+Done.
+Actually, this might be an easier way to think about these type of integrals than what I did in the last presentation.
+But you know, every now and then you have to bear with me.
+I do things in the wrong order.
+Let's do a couple more problems like this.
+Let's take the integral of 2x plus 3 times x squared plus 3x plus 15 to the fifth power dx.
+That looks complicated to you, doesn't it? Well, just like we said, this is a pattern, like we saw in the previous examples.
+We have this expression here, x squared plus 3x plus 15, and well, what's the derivative of this? x squared plus 3x plus 15? Well, it's 2x plus 3, right? Notice that I'm engineering it so it works cleanly, but most textbooks and tests tend to do that.
+So let's make the substitution.
+Because we have a u that we can use, and then we have its derivative, right? So we can say u is equal to x squared plus 3x plus 15, and we can say then, the derivative of u, we know the derivative of u is 2x plus 3, right? Because the derivative of 15 is 0.
+So now we can make our substitutions.
+I'm just going to switch the orders of these two around, no different.
+So this is just u to the fifth, right? Because this is this.
+So this is just u to the fifth.
+And then this is du dx times du dx, right? I just switched the orders.
+And then I multiply that times dx.
+And these cancel.
+And I know you're not completely comfortable yet with even this integration notation, why is this dx sitting there in the first place, but when we do the definite integrals it will make more sense.
+But this is just equal to the integral of u to the fifth du.
+And the integral of this, well, this is easy.
+This is just equal to 1/6 u to the sixth, right, plus c.
+And now we can just unwind this.
+I'll do it up here to make it extra messy.
+This is just equal to 1/6 times u, which is this right here, right, we just set u to equal this expression, 1/6 x squared plus 3x plus 15.
+All of this to the sixth power, plus c.
+Let's do one more.
+I think we have time for one more.
+Image, clear image, image, invert.
+OK.
+I will also switch colors, just to keep things interesting.
+Let's take the integral of e to the x times e to the x to the fifth.
+I keep using that.
+Let's say to the minus third power.
+dx.
+Well, once again, we have this expression e to the x, and what's the derivative of e to the x? Well, the derivative of e to the x, as we learned, which is one of these things that amazes me, is e to the x.
+Actually, that's one definition for e, is number which, when it's raised to the x power, it's the derivative of the same expression.
+But anyway, I don't want to confuse you too much.
+But we can say then that u is equal to e to the x, and we know that du dx is equal to e to the x as well, which is, once again, mind blowing.
+So if we rewrite this top integral, this is just equal to, I won't switch this time.
+So this is du dx, right? du dx times u to the minus 3 dx.
+And I know what you're thinking, Sal.
+Well, du dx is e to the x.
+u is also e to the x.
+Why didn't I substitute it the other way around? Why didn't I say this? Why didn't I say that this one is u, and why didn't I say this one is du dx to the minus 3? Well, as you can see, this would have been useless, right? Because then I can't multiply it times a dx, and it gets all confusing.
+And actually, I just realized, I constructed a very silly problem for you, because you could simplify this before even doing it with substitution.
+But we'll continue doing it with substitution.
+But anyway, you see, if you did it in this way, it becomes very complicated, so we don't want to do it like that.
+So this, as we see, simplifies to the integral of u to the minus 3 du, and that that equals, let's see.
+You raise exponent 1 minus 1/2 u to the minus two, and that's the same thing as minus 1/2 e to the x to the minus 2, or we could view that as minus 1/2 e to the minus 2x, and of course, plus c at the end.
+Now why was my problem that I gave you silly? Well, I could have simplified this before even doing the substitution, right? I could have said that that's the same thing as the integral of e to the x times e to the minus three x dx, which is the same thing as the integral of e to the minus 2x dx.
+And actually, it's good that it by substitution, because this probably wouldn't have been completely intuitive for you to do just yet, as well.
+But anyway, that's integration by substitution.
+I might do another presentation where I do slightly harder problems, using this same technique.
+I'll see you soon.

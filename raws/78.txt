@@ -1,0 +1,105 @@
+Transcript for: Solid of Revolution (part 3)
+Welcome back. I don't know what
+I was thinking. Sometimes my brain
+malfunctions. But just going back to that
+problem we were doing, actually I think we should do it. I'm a little
+schizophrenic today. So let's figure out
+the equation for the volume of a sphere. So what's the equation? It's x squared plus y squared
+is equal to r squared. And let's just write y as
+a function of x, just so we can do it the way we
+did that last problem. So you get y squared is equal
+to r squared minus x squared. y is equal to the square root
+of r squared minus x squared. And let's draw it. So if this is my y-axis, this
+is my x-axis, and the equation draw it straight
+that's my x-axis, and then I actually have a circle tool,
+let me see if I can use it effectively well,
+close enough. There you go. I think you get the point. But anyway. This is just going to be the
+upper half of the circle. Actually, I should probably
+just undo that circle tool and try to draw it by hand. So y equals the square root of
+r squared minus x squared. That's just going to be the
+upper half of the circle. So it will be the positive x
+quadrant and then actually, I should have drawn
+the whole hemisphere. But anyway. Actually, let me do that,
+because I think it'll make edit, undo, let me
+clear all of this out. Sorry for wasting your time,
+but I think it'll be effective. OK. So let me redraw. So this, that's the y-axis,
+that's my x-axis, and then this the square root is,
+since it's a function, it can only have one value, so we
+assume it's defined as the positive square root. So if we were to graph that,
+it would look like this. Something like that, where this
+would be minus r and that's r. So if we want to find the
+volume of a sphere with radius r, we just have to rotate this
+function around the x-axis. This is the x-axis,
+that's the y-axis. So let's see what we can do. Let's just visualize
+the disks again. So let me make a disk. So let's say that that's the
+side of one of the disks again, and as we know, the depth of
+the disk is just going to be dx. That's how wide
+that disk is, dx. And its radius at any point is
+f of x, and in this case, it's y is equal to square root of
+r squared minus x squared. So what's the surface
+area of each disk? What's this? The surface area of
+each of the disks. I hope you know
+what I'm saying. So area is equal to pi r
+squared, the radius at any point is equal to this, radius
+is equal to y which is equal to square root and remember,
+this is not this r. This is the radius
+of this disk. I know it might be a
+little confusing. y is equal to the square root
+of r squared minus x squared. So the area is going to equal
+pi times this squared. So if you square this quantity,
+you just get rid of the square root sign, right? So pi r squared minus x
+squared, and that's the area, and so what's the
+volume of that disk? Well just like we've done in
+every video up to this point, the volume of that disk is just
+that, so the volume of that disk is just this pi r squared
+minus x squared times dx. And so if we want to figure out
+the volume of all these disks, I have a disk here, a disk
+here, going around and around and around and around and
+around and they get smaller and smaller until we have a sphere. We just take the integral, the
+upper bound is positive r, the lower bound is minus r, and we
+take the integral of this expression. pi let me distribute it,
+because that's going to make it easier pi r squared, which is
+just a constant term, minus pi x squared, all of that dx. So what's the antiderivative
+of that expression? The antiderivative
+within the parentheses. Well, this is just
+a constant term. pi r squared, that's just a
+number, because we're just taking the integral
+with respect to x. So the antiderivative of pi r
+squared is just pi r squared x, the derivative of pi r squared
+x is just pi r squared, minus and we did this in
+the last video. Actually, well now, it's the
+antiderivative x squared, which is x to the third over 3, and
+the pi is just a constant, so pi x to the third over 3, and
+we're going to evaluate that at r and minus r. Let me erase some stuff, looks
+like I'm running out of space. Hopefully all of that
+you know by now. OK, back to the pen tool. OK. So let's evaluate it at r. So this is pi r squared, and
+then for x, we'll substitute the positive r times r minus pi
+x cubed, but now we have this r here, so r cubed over 3 minus
+pi r squared, and then we have a minus r here, because we're
+evaluating the antiderivative at minus r, times minus r,
+minus pi minus r cubed. So what's minus r cubed? It's r cubed, but we'll
+keep the minus sign. r cubed, and at that minus
+sign, let's just make that that'll turn that
+into a plus over 3. Let's see if we can clean
+this up a little bit. So that first term is pi r
+cubed, r squared times r, minus essentially 1/3pi r cubed. And then, what is this? This is pi r cubed, but then
+we have a minus sign up. This is minus pi r cubed, and
+then we have a minus sign up here, so this becomes plus pi r
+cubed, and then minus because we have a plus here and a minus
+out here, so distribute it so minus 1/3pi r cubed. And let's see, what do we have? We have essentially 1. If we just distribute out the
+pi r cubes, we have pi r cubed times 1 minus 1/3
+plus 1 minus 1/3. Well that's 2 minus 2/3, or
+another way, let's see, is 2 minus 2/3 this is turning
+into a fractions problem and what's well, that's 6/3
+minus 2/3, it equals 4/3. So this is equal to 4/3. So the volume of the sphere is
+equal to 4/3 pi r cubed, which is the equation for the
+volume of a sphere. And actually, now that
+I realize, it did take me eight and a half
+minutes, so I am glad. My first intuition is always
+correct, I am glad I did this in a separate video. But that should be pretty
+interesting to you. And it makes a lot of sense. It's going to be a cube of
+the radius, pi is involved. The 4/3 is interesting, just
+in terms of how it relates to everything else. Area is pi r squared, and then
+all of a sudden you get a 4/3 here, so it is something
+for you to think about. Anyway, hopefully
+you found that fun. I'll see you in the next video. 

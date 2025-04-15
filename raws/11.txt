@@ -1,0 +1,160 @@
+Transcript for: Epsilon-delta limit definition 2 | Limits | Differential Calculus | Khan Academy
+It is not unusual in calculus
+textbooks to see something to see problems along the lines
+of, prove that the limit as x approaches I don't know,
+say, as x approaches 1. Let me think of an interesting
+function when x approaches 1. Let's see. 3x times x minus 1
+over x minus 1. And you might say, hey Sal, why
+did you do this x minus 1 in the numerator and denominator? Well, I did that because
+obviously you can't have a 0 down here. So this function is actually
+not defined as x is equal to 1, right? If I had just put a 3x,
+this cancels out for all the other values. So this is essentially the
+line 3x, except it has a hole at x is equal to 1. And that's why I did it. Because I want to take the
+limit, and it's interesting to take a limit a to a point where
+the function doesn't exist. But the books will say, hey,
+prove that this limit is equal to well, it would actually
+be equal to 3, right? Prove that. And you essentially have
+to use the epsilon delta definition of a limit. So to prove this, you're
+essentially proving what this means. And this means proving
+this is the same thing as proving so you could
+just prove that given. So if you give me some epsilon
+greater than 0 and remember, that's how close you want f
+of x to get to the limit. Given some epsilon greater than
+0, in order for this to be true, I need to prove that I
+can give you that there exists that, you know, I can
+give you a delta greater than 0. Where as long as the distance
+between x and our limit point, x and 1, is less than delta
+remember, we don't want x to ever get right on top
+of the limit point. Because a function might
+not be defined there. So the distance between
+x and 1 has to be greater than 0, right? That's what this tells us. So I have to prove, you
+give me an epsilon, that I can give you a delta. And as long as x is within
+delta of 1 and this is all this is saying as long as
+the distance between x and 1, right? That's when you subtract
+2 things and take the absolute value. That's just distance. So as long as the distance
+between x and 1 is less than delta then the distance between
+3x let me write that up there the distance between 3x
+times x minus 1 over x minus 1, that's the function, right? The distance between that and
+the limit point and 3 is going to be less
+than the epsilon. A lot of calculus text
+books, you know, they'll write it generally. They're like, the limit of f of
+x as x approaches a of equals l, and so this would be a. This would be your f of
+x, and this would be your l, right there. But anyway, when someone says
+they want you to prove this, they essentially want
+you to prove this. I'll give you an epsilon. You have to prove that any
+epsilon that you're given, or that you give me, that I
+let's say I'm the one who has to prove it any epsilon you
+give me, I have to be able to give you a delta where, as long
+as x is within delta of 1, then the function is within
+epsilon of the limit point. And how do we do that? And I'll just say, you know, a
+lot of proofs, it's just kind of there's not a well,
+there's not a systematic way to do proofs. And that's kind of what
+makes them so interesting on a lot of levels. But these, there kind of tends
+to be a systematic way. And this problem I've given
+you, to some degree, is kind of the easy one that they'll give
+when they ask you to prove these. But they usually involve
+starting from this point right here and algebraically
+manipulating it until you get until this expression
+right here looks something like this expression. And then you'll have
+this expression is less than, you know, epsilon
+divided by something. Or, you know, some
+function of epsilon. And it's like, oh, well as long
+as delta is that, you give me an epsilon, I can just apply
+that, you know, take epsilon and divide it by
+4, or whatever. And use that as my delta. Then I've proved the theorem. And so we'll do that here. So let's start with this. Let's start with kind of
+where we want to get to. And then figure out a delta
+that's essentially a function of epsilon. So that whenever I'm given an
+epsilon, I can say, hey, whatever number you give me,
+I'm going to give you back a number that's, you know,
+that divided by whatever. And then this will all work. So let's do that. So immediately we
+can simplify this. We can cross these out. And when you cross that out,
+you still have to say, well, we can't do that as long as x
+you can only do this as long as you assume that x
+does not equal 1. Because if x equals 1, this
+function is undefined, right? And that's OK because we only
+care about the intervals as x approaches 1. We only care about the
+intervals as x approaches 1. We don't care exactly
+when x is equal to 1. So that's fine. So then this simplifies to
+this right there simplifies to the absolute value of 3x
+minus 3 is less than epsilon. And then we could factor out a
+3, so that's, you know, we could say the absolute value of
+3 times x minus 1 is less than epsilon. And you might already see, we
+already have an x minus 1 there and an x minus 1 there. If we can get this 3 over
+on this side, then we'll be done, essentially. So the absolute value of 3
+times some other number, it's going to be the same thing as
+the absolute value of 3 times the absolute value
+of x minus 1. And if you don't believe me,
+I mean, try it out with a bunch of numbers. This is going to be
+positive no matter what. This is going to be
+positive no matter what. It's going to have the
+same magnitude, right? And of course, that is
+less than epsilon. And this is what we say you
+know, a lot of times a calculus teacher will say, if this is
+true, this is true, if and only if this is true. And that's just a
+fancy way of saying. So sometimes they'll
+do a two way arrow. Sometimes they'll write IF
+and only IF, kind of an IFF. An IF with 2 f's. But that just means if
+that's true, that's true. And if this is true,
+then that's true. And that's generally the case,
+whenever you just do some algebraic manipulation. You can manipulate this back to
+get that, or that to get that. And then they'll say, well, if
+this is true, this is true if and only if this is true. But this is just
+algebraic manipulation. Right? Because you can go back and
+forth between these steps. And that's true, if and
+only if that is true. And then the absolute value
+of 3 is just 3, right? We know that. Let's divide both sides by 3
+and you get well, I can just get rid of the absolute
+value signs right there. Because we know that's 3. If you divide both sides of the
+equation by 3, you get the absolute value of x minus 1
+is less than epsilon over 3. So what have we
+just done so far? We've just proved that the
+absolute value I need to write this in another color. We've just proved that the
+absolute value of essentially 3x times x minus 1 over x minus
+1 minus 3 is less than epsilon, if and only if x minus 1 is
+less than epsilon over 3. Right? So it's like, this is true, as
+long as the distance between x and 1 is less than
+epsilon over 3. So we can just use epsilon
+over 3 as our delta. Remember the whole point of
+this was like, you give me an epsilon, you give me a
+distance, or you say, I want to be within this distance
+of my limit point. I want the function to be that
+close to the limit point. And this is just the distance
+between the function and the limit point, right? This is f of x. And this is the limit
+that it approaches. So you want to be that close. And I say, well, you're going
+to be that close if and only if x the distance between x and
+1, or the distance between x and the value it's
+approaching is less than this. So we just prove
+this algebraically. So whatever number you give
+me if you give me a if you say, Sal, I want to be
+within 1 of the limit point. I want f of x to be no further
+than 1 from the limit point, then I'll say, OK, and
+I'll give you 1/3, right? Because this is true. Let me write that out. So let's say you pick
+1 as an epsilon. So you say, hey, you need to
+prove to me that there's some x value where, as long as the x
+value is no more there's some value of delta. So as long as we're no more
+than delta away from 1, then the function itself will
+be no more than 1 away from the limit value. Right? And then I say, well,
+you, gave me an epsilon that's equal to 1. So I could just make I can
+just say this is, you know, we just proved, if and only if
+absolute value of x minus 1 is less than whatever number
+you gave me divided by 3. And that actually makes
+a lot of sense if you graph this equation. Let me see. Let me draw the x-axis, y-axis. We already established. This thing looks just like the
+equation of 3x except it has a hole at x is equal to 1. Let me draw the graph. It'll have slope. It'll have the slope of 3. So it'll be pretty steep. It'll look something like that. And when we're at 1
+this point right here there's a hole. Right? This is 3. So all we're saying, we just
+proved that so if you said that you wanted to be within 1
+of our limit point, that's like you giving me an epsilon of 1. So this distance
+right here is 1. Which would be a
+pretty big number. So you want the function
+to be within 1 of our limit point, right? Because this is
+the limit point. Then all we're saying is, you
+just have to take 1/3 of that. So we just have to be within
+1/3 so this distance right here is 1/3 away from 1. Or we could have said it more
+generally, this is epsilon. This is epsilon. This would be epsilon over 3. This is epsilon over 3. And the reason why this is a
+proof, is because it shows no matter what epsilon you give
+me, I can always find a delta. Because I can just take
+whatever number you gave me, and divide it by 3. And I can divide any real
+number greater than 0. I can divide any
+real number by 3. So I can always no matter
+what you give me I can always find you something else. And therefore, I have proven by
+the epsilon delta definition of limits that the limit
+as x approaches 1, of this, is equal to 3. 

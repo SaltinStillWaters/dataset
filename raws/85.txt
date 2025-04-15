@@ -1,0 +1,115 @@
+Transcript for: Sequences and series (part 2)
+Welcome back. So where we left off in the
+last video, I'd shown you this thing called the
+geometric series. And, you know, we could
+have some base a. It could be any number. It could be 1/2,
+it could be 10. But that's just
+but some number. And we keep taking it to
+increasing exponents, and we sum them up, and this is
+called a geometric series. And so I want to figure out the
+sum of a geometric series of, you know, when I have some base
+a, and I go up to some number a to the n. What is this a to
+the why did I write a to n minus 2 there? That should be a to the big N. My brain must have been
+malfunctioning in the previous video. That always happens when I
+start running out of time. But anyway. Let's go back to this. So I defined s as
+this geometric sum. Now I'm going to
+define another sum. And that sum I'm going
+to define as a times s. And that equals well, that's
+just going to be a times this exact sum, right? And that's the same
+a as this a, right? That a is the same as this a. So what's a times
+this whole thing? Well, it's the a times a
+to the zero is let me write it down for you. So this'll be a because I just
+distribute the a, right? a times a to the zero, plus a
+times a to the 1, plus a times a squared, plus all the way a
+times a to the n minus one, plus a times a to the n. I just took an a and I
+distributed it along this whole sum. But what is this equal to? Well, this is equal to
+a times a to the zero. That's a one a to the first
+power plus a squared, plus a cubed, plus a to the n, right? Because you just add the
+exponents, a to the n. Plus a to the n plus 1. So this is as. And we saw before that s
+is just our original sum. That is just a to the zero,
+plus a to the 1, plus a squared, plus up, up, up, up. All the way to plus
+a to the n, right? So let me ask you a question. What happens if I
+subtract this from that? What happens? If I say, as minus s. Well, I subtracted this from
+here, on the left hand side. What happens on the
+right hand side? Well, all of these
+become negative, right? Let me do it in a bold color. This becomes because I'm
+subtracting negative, negative, these are
+all negatives. Negative. Negative. Well, a to the first,
+minus a to the first. That crosses out. a squared
+minus a squared crosses out. a to the third,
+it'll all cross out. All the way up to a
+to the n, right? So what are we left with? We're just left with minus
+a to the zero, right? We're just left with that term. And we're just left
+with that term. Plus a to the n plus 1. And of course, what's
+a to the zero? That's just 1. So we have a times s
+minus s is equal to a to the n plus 1 minus 1. And now let's
+distribute the s out. So we get s times a minus
+1 is equal to a to the n plus 1 minus 1, right? And then what do we get? Well, we can just divide
+both sides by a minus 1. Let me erase some of
+this stuff on top. I think I can safely erase
+all of this, really. Well, I don't want
+to erase that much. I want to erase this stuff. That's good enough. OK. So I have just dividing both
+sides of this equation by a minus 1, I get s is equal to a
+to the n plus 1 minus 1 over a minus 1. So where did that get us? We defined the geometric
+series as equal to the sum. From k is equal to 0,
+to n of a to the k. And now we've just derived
+a formula for what that sum ends up being. Equals a to the n plus 1
+minus 1 over a minus 1. And why is this useful? We now know, if I were to say,
+well, what is let me clean up all of this, as well. Let me clean up all of
+this and we can OK. So if I said, you figure out
+the sum of, I don't know, the powers of 3 up to 3 to the, I
+don't know, 3 to the tenth power. So, you know, 3. So 3 to the zero, plus 3 to the
+one, plus 3 squared, plus all the way to 3 to the tenth. So this is the same thing as
+the sum of k equals zero to 10, of 3 to the k. Right? So this formula we just figured
+out, a is 3 and n is 10. So this sum is just going to be
+equal to 3 to the eleventh power minus 1 over 3 minus 1. Which equals well, I
+don't know what 3 to the eleventh power is. Minus 1 over 2. So that's kind of useful. That is a number. Although you'd have to memorize
+your exponent tables to the eleventh power to do that. But I think you get the idea. This is especially useful if we
+were dealing with well, if the base was a power of ten,
+it would be very, very easy. But what I actually want to do
+now is I want to take this and say, well, what happens
+if n goes to infinity? Let me show you. So what happens? So there's two types of series
+that we can take that's not what I wanted to do. There are two types of series
+that we can take that we can find the sums of. There's finite series,
+and infinite series. And in order for an infinite
+series to come up to a sum that's not infinity, they
+need to what we say they need to converge. And if you think about what has
+to happen for them to converge, every next digit has to
+essentially get smaller and smaller and smaller, as
+we go towards infinity. So let's say that
+a is a fraction. a is 1/2. So how does a geometric series
+look like if we have 1/2 there? So let's say that we're taking
+the geometric series from k is equal to 0 to infinity. So this is neat. We're going to take an infinite
+sum, an infinite number of terms, and let's see if we can
+actually get an actual number. You know, we take an infinite
+thing, add it up, and it actually adds up to
+a finite thing. This has always amazed me. And the base now is
+going to be 1/2. It's 1/2 and it's going to
+be 1/2 to the k power. So this is going to be what? 1/2 to the zero, plus 1/2,
+plus what's 1/2 squared? Plus 1/4, plus 1/8, plus 1/16. So as you see, each term is
+getting a lot, lot smaller. It's getting half of
+the previous term. Well, let's say, what happens
+if this wasn't infinity? What happens if this was n? Well, then we'd get plus 1
+over 2 to the n, right? 1/2 to the n is the same
+thing as 1 over 2 to the n. And if we look at the formula
+we figured out, we would say, well, that is just equal to
+1/2 to the n plus 1, minus 1, over 1/2 minus one. And that would be our answer. We'd have to know what n is. But now we want to know what
+happens if we go to infinity. So this is essentially
+a limit problem. What happens what's the
+limit, as n goes to infinity, of 1/2 to the n plus one
+minus 1 over 1/2 minus 1? Well, all of these are constant
+terms, so nothing happens. So what happens as this term,
+right here, goes to infinity? What's 1/2 to the
+infinity power? Well, that's zero. That's an unbelievably
+small number. Take 1/2 to arbitrarily large
+exponents, this just goes to 0. And so what are we left with? We're just left with this
+equals minus 1 over 1/2 minus 1, or we could multiply the top
+and the bottom by negative 1. And we get 1 over 1 minus 1/2. Which equals 1 over 1/2,
+which is equal to 2. I find that amazing. If I add 0 plus 1/2 plus 1/4
+plus 1/8 plus 1/16 and I never stop I go to infinity and
+not infinity, but I go to 1 over essentially 2 to the
+infinity I end up with this neat and clean number. 2. And this might be a little
+project for you, to actually draw it out into like maybe a
+pie and see what happens as you keep adding smaller and
+smaller pieces to the pie. But it never ceases to amaze
+me, that I added an infinite number of terms, right? This was infinity. And I got a finite number. I got a finite number. Anyway, we ran out of time. See you soon. 

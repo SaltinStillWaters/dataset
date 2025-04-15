@@ -1,0 +1,144 @@
+Transcript for: Inflection Points and Concavity Intuition The idea of concativity will show up a lot in your calculus class.
+Well, what I want to do in this video is, one, show you what concativity is, or what concave upwards and what concave downwards is, and to have an intuition of what those mean, and then discuss the ideas of inflection points, which are really just transition points between being either concave upwards and downwards or between downwards and upwards.
+So the two ideas that we'll talk about, one is being concave upwards I'll write that in this column right here, and maybe in pink I'll show you what the concave downwards looks like.
+So a very simple way to think about it is that concave upwards is kind of a U shape.
+That's why it's called concave upwards.
+It might look something like this.
+Let me draw some axes so you know that I'm actually graphing something and not just drawing a U.
+So maybe if that is my axis right there, a concave upwards graph would look something like this.
+And we do it in green.
+It could look something like this.
+So this graph, it'll just keep going as x goes positive and negative.
+Over the entire domain of this function, this is my f of x right here, it is concave upwards, and you can see it has this U shape.
+And I'll discuss in a second what implication that has for its slope or what the slope is doing, but this is just very easy to recognize visually.
+Similarly, let me draw an axis again.
+I want to show you what concave downwards looks like.
+Let me draw some axes right there.
+I'm just trying an arbitrary function f of x.
+It could be anywhere.
+It doesn't have to be you know, the bottom point doesn't have to be in the first quadrant like this.
+It's just the general U shape I wanted to show you for concave upwards.
+Concave downwards, you could probably guess what it looks like based on if this is upwards, downwards is just going to be opposite.
+It might look something like this.
+It might look something like this, so maybe this is some other function g of x.
+And notice, it looks like an upside down U.
+Over the entire domain of this function, it is concave downwards.
+So you can look at it, and immediately see that, oh, well, if it's like a U, it's upwards.
+If it's like an upside down U, it's downwards.
+But what does that actually mean for the slope? So to understand that, let's think about what's happening to the slope here.
+So I'm just going to do it visually.
+So at that point, the slope of the tangent line, or the slope of the actual graph, or the instantaneous slope, however you want to view it let me see how well I can draw it it'll look something like that, and that's the tangent line.
+Then as we increase x, so that's at this x-value right here, right? At that x-value, the slope looks like that.
+It's fairly negative.
+Now, as we increase x, maybe we go to another point right here, what happens? The tangent line will look like this.
+It's still downward sloping, but it's less downward sloping now, right? Here, it was a very steep downward slope.
+Now it's a less steep downward slope.
+And we can keep going if we go to this point.
+We're still downward sloping, but even less steep.
+And that keeps happening.
+We keep getting less and less downward sloping, or less steep in the downward direction, until we get to this minimum point, and you've seen this before, where our slope actually gets to zero, and it just keeps increasing.
+It keeps increasing over here.
+If we go to this point, now we're going we have a steep upward increase.
+As we increase our x even further, the slope at this point right here, it's increased even more.
+It's a steeper upward sloping curve.
+So I want to make it very clear, even though if we go to this left-hand point here, we had a very steep downward sloping curve, and as we went up here, we went upward sloping the whole time as our x increased, the whole time as we increased x, what was happening to the slope? The slope was increasing.
+So as we increased x, the slope increased.
+And this is the definition of a concave upwards interval or section of this curve.
+In this case, it was this entire curve.
+I'll start showing you functions that mix it up in a little bit.
+Over here, we were very negative.
+We became less negative.
+Becoming less negative is the same thing as increasing.
+Even less negative over here.
+Then we were completely flat.
+Zero is a higher slope than some negative slope here.
+And then we became positive, and more positive, and even more positive, so the entire time our slope is increasing.
+Now, let's look at the concave downward scenario.
+Let's start with a relatively low x, maybe right here.
+Here we have a pretty high slope, right, at this point? We have a very steep upward slope.
+As x increases, so we go to a less negative x, so x is increasing, we still have an upward slope, but it's less upward.
+So our slope has decreased.
+And over here, it's still an upward sloping curve, right? It's going from the bottom left to the top right, but it's flatter.
+It's flattening.
+It's becoming less positive until we get to this point.
+I didn't draw the original curve that well, where we get to maybe a maximum point because the slope goes to zero.
+And as we increase now, our slope becomes negative.
+It becomes even more negative.
+It becomes even more negative, so as we kind of travel, as we increase our x, as we increase our x over this curve, our slope decreases.
+Slope is decreasing.
+Slope decreases.
+I want to make that very clear.
+The slope was very positive.
+This doesn't mean that the slope is negative.
+It's just saying that over the entire interval, the slope continues to decrease.
+It goes from very positive, to less positive, to less positive, to zero, to slightly negative, to more negative, to very negative, so it just decreases the whole time.
+In concave upwards, it increases the whole time.
+So let me draw an example that might have the combination of the two.
+Maybe I'll leave this around just so we can look at it for reference.
+Let me draw an axis right there.
+Not the straightest line in the world, but it'll suit our purposes.
+Let me just draw some curve here.
+So maybe I have something that looks like that.
+Maybe I have a curve that looks something like that.
+Now, over what interval of this function's domain, maybe I'll call it h of x, is this curve concave upwards or concave downwards? Well, you can look at it just from inspection, just from that original definition.
+I said that concave upwards is when you're like a U, concave downwards is when you're like an upside down U.
+So over here it looks like a U from roughly this point onwards, right? We have this U shape.
+We have this U shape and maybe the curve just keeps going on there.
+So, from here onwards, we are concave let me write it over here from there onwards, we are I don't know want to do it in the same color we are concave upwards.
+And then on the interval before that, from here and before this point right here, we are concave downwards.
+You can just recognize that.
+And let's explore what's actually happening with the slope.
+So over here, the tangent line has a pretty high let me do it in a different color over here, the tangent line has a pretty high positive slope.
+Then it has a less positive.
+Then at this maximum point, it goes to zero.
+Then it goes slightly negative, even more negative, even more negative.
+So up until this point, the slope is decreasing, which is completely consistent with what we said about being concave downwards.
+But then something interesting happens at a point right about there.
+I'm not being very accurate or precise right there, but right about there, you see that the slope of the tangent line looks like that, right? And that was more negative than right here, which is more negative than right there.
+But over here, something interesting happens.
+All of a sudden, my slope starts to increase again.
+It starts to I want to draw it.
+Let me draw it as neatly as I could possibly draw it.
+So over here, the slope look something like this.
+So if we go backwards from there, if we go into more negative x's, the x's before that had a less negative slope, so the slope was decreasing.
+But all of a sudden here, when we go here, the slope is slightly higher.
+It's less negative there, then it's even less negative there, then it goes to zero here, then it goes slightly positive, and even more positive.
+So up until this point in are functions domain, our slope was decreasing.
+Our slope was decreasing up until this point.
+And then after that point, our slope is increasing.
+So this point, it seems like we should call it something, and we do call it something.
+This point right here, where we go from concave downwards to concave upwards, and it would actually be true if it was the other way around, this is called an inflection point.
+And this would also be called an inflection point if it was the other way.
+If we went from a curve let me draw a curve that looks like this that was concave upwards and then it's concave downwards, the point that we're switching, the point at which you go from one to the other, essentially your rate of the change of slope switches signs, that is an inflection.
+So this is also an inflection point.
+So what does this mean? Hopefully, you understand visually what concave upwards and concave downwards means, and an inflection point, but what does this mean for the second derivative? Remember, the derivative is the rate of change so let me write this down.
+So f of x, that's just the function, right? That's just the function.
+That's what we've been graphing.
+f prime of x, that's the slope of the function, slope of function at any point x.
+You've seen that multiple times already.
+What's the second derivative? Well, you could view it as the derivative of the first derivative, right? That's the slope of the slope, or the rate of change of the slope itself.
+So what did we say about concave upwards? concave upwards is when the slope is increasing, which means that the rate of change of the slope is positive.
+Well, what that means is that the second derivative, which is the slope of the slope, f prime of x, is going to be greater than zero.
+That's what concave upwards just tells us, right? Because if this is greater than zero, then that means that the rate of change of the slope is positive.
+That's what we said was concave upwards.
+Now, in concave downwards, the slope is decreasing.
+The rate of change of the slope is decreasing, or it's a negative.
+So in that case, the second derivative would be less than zero.
+And then in the situation when we're switching, if over here let's look at this situation.
+We're concave downwards.
+We're concave downwards over this interval right here.
+That means that the second derivative has to be less than zero over this interval.
+The rate of change of the slope is negative.
+It's decreasing.
+So over this interval, our second derivative is less than zero, but then we go concave upwards, so our second derivative has to be greater than zero over this interval, which implies if our second derivative is continuous, that the second derivative had to be equal to zero at that point.
+I'll do that with some examples in future videos.
+Now, this condition by itself isn't enough to say that it's an inflection point.
+In order for something to be an inflection point, the second derivative has to switch signs.
+It has to go from being negative in a concave downward to positive in concave upwards, or it has to go from positive in concave upwards to negative in concave downwards.
+And obviously, in between, it's going to switch.
+If you're switching signs, you're going to hit zero.
+So when the second derivative is zero, it might be an inflection point, and then you want to test around it to see if it's actually switching signs, and I'll show you that in the next video.
+But hopefully, you at least have an intuitive sense of what inflection points look like and what the second derivative is telling us.
+If the slope is constantly increasing, then the rate of change of slope is positive, then the second derivative is positive.
+If the slope is decreasing, then the rate of change of slope is negative, which tells us that the second derivative is negative.
+And the point in which you're switching from a positive second derivative to a negative one or a negative one to a positive one, that is what is called an inflection point.

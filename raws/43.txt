@@ -1,0 +1,115 @@
+Transcript for: Monotonicity Theorem
+Welcome back. Well, I've been requested
+to do several problems by our friend [? Akosh. ?] So I thought I would
+keep doing them. I'm skipping around
+a little bit. Because I think if I did
+all of them, it would just generate too many videos. But I encourage all of you all
+to let me know if you feel that there's something that
+I might have missed. But anyway, I'm just going
+through some of the problems he gave. So this one and I actually
+almost find it funny, because they use such formal language
+for something that's actually a pretty intuitive concept. Well they say, use the
+monotonicity theorem to find where the given function is
+increasing, and when it is decreasing. Monotonicity theorem. It make sound very serious. Well all the monotonicity
+theorem at least if I'm remembering things properly
+all it says is when the derivative is positive, when f
+prime of x is greater than 0, your function is increasing. And when the derivative is
+negative, your function is decreasing. And why am I kind of
+disparaging of this? Well what's the derivative? The derivative is the slope. And you learned in Algebra
+1, that if the slope is positive, the graph of
+the line is increasing. And if the slope is
+negative, the graph of the line is decreasing. And the only thing that's
+different now is that this function isn't necessarily
+a line, it's a function. So it could be a curve. But having a positive slope
+means that the value of the function is increasing. For every change it x, there's
+a positive change in y. And similarly, a negative slope
+says that for every change in x, no matter how small, there's
+a negative change in y. So there's nothing fancy here. But let's see, they
+gave some examples. So they want us to use this
+theorem to find where the given function is increasing,
+and when it is decreasing. So the first function
+they give is f of x is equal to 3x plus 3. What's the derivative of this?
+f prime of x is equal to 3. For any value of x
+this is a positive. Right? F prime of x is positive
+for all values of x. So this thing, using the
+monotonicity theorem is positive. Sorry, it's increasing
+for all values of x. And you could have done
+that in the 9th grade. How? Well you would have said, this
+is the slope y-intercept. The slope is 3. So this is an
+increasing function. The function will look
+something like this. The y-intercept is 3. And the slope is 3. So this function looks
+something like that. And so it's increasing over
+from minus infinite to positive infinite over that interval,
+if you wanted to be fancy. But this is really just a lot
+of fancy terminology to talk about, I think, something
+fairly straightforward. Anyway, the next one looks a
+little bit more interesting. H of z is equal to z to the
+fourth over 4, minus and I hope I'm reading this right
+4 z to the third over 6. So let's see if we can figure
+out when this is increasing, and when this is decreasing,
+when the function is increasing or decreasing. So what's the
+derivative of this? H prime of z is equal to 4. This will cancel out. So it's z to the third,
+4z to the third over 4. So it's z to the third minus 3
+times 4 is 12z squared over 6. So it's 2 2z squared. So we just have to figure out
+when is this function greater than 0, and when is this
+function less than 0. And to figure this out, we
+really just have to break out our algebra toolkit to figure
+out well one, when does this function equal 0? So let's set z-cubed minus
+2z squared is equal to 0. We could factor
+out a z-squared. And then we have z
+minus 2 is equal to 0. So we know that either
+z-squared is equal to 0, or z minus 2 is equal to 0. So the points at which the
+derivative is 0, so H prime of 0 is equal to 0,
+and H prime of 2. And that's just our Algebra 2. So H prime of 2 is equal to 0. And so we just have to figure
+out what happens in the interval maybe when we're
+below 0, between 0 and 2, and then above 2. So what is the derivative? So when we're below 0,
+let's just take a point. Let's say H prime of negative
+1 is equal to what? That is equal to negative 1 to
+the third is negative 1, minus 2 times negative 1 squared. Well negative 1 squared
+is just positive 1. So it's minus 2. So it equals minus 3. OK, let's take a point
+in between these two. Well 1 is in between them. So let's just take H prime
+of 1 is equal to 1 minus 2. Lets make sure I'm
+doing that right. Because it's 1 squared. So it equals negative
+1, H prime of 1. And then what happens when we
+go of z values greater than 2. So let's try 3. H prime of 3 is equal to what? H prime of 3 is equal to 27
+what's minus 2 times 9. It's equal to 9,
+right, 18, right. So it's positive. So, what do we know? We know that in all fairness,
+this is kind of an interesting problem. Because the derivative
+is negative. So if we were to draw the
+derivative of this, what are the interesting points? It's 0. So that's the x-axis. That's 0. And then we had 2. And I'm going to draw
+the derivative. I'm not drawing the
+actual function. Because the monotonicity
+theorem, we care about whether the derivative
+is positive or negative. So what this tells us is
+that the derivative, it was a negative when we're
+to left of 0, right? Because we just
+took a test point. Because we know it's 0 here. But then what happened? It's not like it
+got positive then. It went back negative
+again when we tried to derivative it once. It probably does
+something like this. Now what would it be? Then it goes up at 2 where
+it's greater than 0. Right. I was confusing
+myself for a second. Right. So the derivative, it starts. But it never goes
+above right there. So the derivative probably
+has a bit of a maximum point there or something. This is the
+derivative, remember. That's why I was
+confusing myself. And then it probably
+flips around, and then goes above there. But from the monotonicity
+theorem, what do we care about? We care about the intervals
+where the derivative is positive, and the
+derivative is negative. So if the derivative is
+positive for all of these values, for z
+is greater than 2. So we could say, using the
+monotonicity theorem, this function is increasing
+when z is greater than 2. So let me write that. And then we can say that the
+function is decreasing. We could say flat or
+decreasing, right? Because the slope of the
+function is 0 right here. And remember this is the
+graph of the derivative. So we could say flat
+or decreasing when z is less than 2. You normally do consider flat,
+monotonic in one direction. So you could say monotonic
+increasing would still include something that
+kind of flattens out. Well anyway, I'm
+pushing ten minutes. And I don't think I have time
+for the next problem, which I might do in the next video. But hopefully you found
+that a little bit helpful, and not too confusing. I will see you in
+the next video. 

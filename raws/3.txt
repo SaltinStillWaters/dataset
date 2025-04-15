@@ -1,0 +1,100 @@
+Transcript for: Limit examples (part 1) | Limits | Differential Calculus | Khan Academy
+Welcome back. Now that we hopefully have a
+little bit of an intuition of what a limit is, or finding
+the limit of a function is, let's do some problems. Some of these you might
+actually see on your exams or when you're actually trying to
+solve a general limit problem. So let's say what is the
+limit once again, my pen is not working. What is the limit as
+x approaches let's say negative 1. And let me see, what's a good
+let's say my expression is I'll put it in parentheses
+so it's cleaner. It's 2x plus 2 over x plus 1. So the first thing I would
+always try to do is just say what happens if I just stick x
+straight into this expression? What happens? Well, what's 2x plus 2 when
+x is equal to negative 1? 2 times negative 1. 2 times negative 1 plus 2
+over negative 1 plus 1. Well, the numerator is negative
+2 plus 2 that equals 0 over what's the denominator? Negative 1 plus 1. Over 0. And do we know
+what 0 over 0 is? Well, no. It's undefined, right? So here's a case, just like
+what we saw in that first video, where the limit actually
+can't equal what the expression equals when you substitute x
+for the number you're trying to find the limit of because you
+get an undefined answer. So let's see if, using the
+limit, we can come up with a better answer for
+what it's approaching. Well, since we're just starting
+with these limit problems, let me draw a graph. And I think this is going
+to give you the intuition for what we're doing. It'll probably give
+you the answer. But then I'll show you how
+to solve this analytical. So if I draw a graph,
+these are the axes. Actually, I'll do the
+graphical and the analytical at the same time. So I want to rewrite this
+expression in a way that maybe I can simplify it. So 2x plus 2. Isn't that the same thing
+as 2 times x plus 1? 2 times x plus 1, right? 2x plus 2 is the same thing as
+2 times x plus one, and then all of that is over x plus 1. So as long as this expression
+and this expression don't equal 0, it actually turns out that
+this function let's say this is f of x, right? This function. Well, for every value other
+than x is equal to negative 1, you could actually
+cancel this and this out. And so really, we see that f of
+x is equal to I need to find a better tool f of x is equal
+to 2 when x does not equal negative 1. And we saw when x is equal to
+negative 1, it's undefined. So undefined when
+equals negative 1. So how would we graph that? We showed that f of x is equal
+to 2 when x does not equal negative 1 and f of x
+is undefined when x equals negative 1. And once again, all I did is
+kind of rewrite this exact same function, right? I showed that I could simplify
+and I could divide the numerator and denominator by x
+plus 1 as long as x does not equal negative 1, and that
+otherwise, it's undefined. So let me graph this. I'm going to get a
+different color. Maybe I'll go with red. So this is 2. So we see that x is and let
+me say this is negative 1. So for every other value other
+than negative 1, the value of this, of f of x, is equal to 2. This is 1, this is 2,
+this is 3, and so on. At negative 1, the
+graph is undefined. So there's a hole there. And then we keep going
+to the left-hand side. So if we're going to do the
+limit, we can just visually say, well, as x let me
+do another color now. As x comes from the left-hand
+side, what does f of x equal? Well, f of x is 2, 2, 2, 2,
+2. f of x is equal to 2 until we get to exactly
+negative 1, right? And similarly, when we go
+from the other hand, it's the exact same thing. f of x is 2, 2, 2 until
+we get to negative 1. So you'll see, and I'll make
+sure you see it visually here, that the limit as approaches
+negative 1 of 2x plus 2 over x plus 1, it equals 2. Let me draw a line here
+so you don't get messed up with all of it. And I'm not formally, I guess,
+proving here that the limit is 2, but I'm showing you kind of
+an analytical way, and this is actually how it tends to be
+done in algebra class, is that you tend to simplify the
+expression so that you say, oh, if there wasn't a hole here,
+what would the f of x equal, right? And then you'd just
+evaluate it at that point. I think this might give you a
+little intuition, but this isn't a formal solution. But unless you're asked to,
+you tend not to be asked for a formal solution. You actually just tend to ask
+what the limit is, and this is the way you could solve it. And actually another way that
+you could I mean, I often used to check my answers when I
+used to do it is you could take a calculator and try in what
+happens when: what is f of minus 1.001, right? And you can also try what is
+f of negative 0.999, right? Because what you want to do is
+you want to say, well, what does the function equal when I
+get really close to negative 1? And then you could keep going
+closer and closer to negative 1 and see what the function
+approaches, and in this case, you'll see that
+it approaches 2. So let's do another problem. Well, let's say, what is
+the limit as x approaches 0 of 1 over x? I think here it might be useful
+to draw this graph because it'll give you a visual reason,
+a visual represent actually, let's do it both ways. Let's say let's do it the
+picking-numbers method because I think that'll give you an
+intuition and maybe it'll help us draw the graph. So let's say that
+this is f of x. f of x you can tell my
+presentation is very unplanned f of x is
+equal to 1 over x. And we want to find the
+limit as x approaches 0. So what is f of actually,
+let's make a table. f of x. So clearly when x is equal
+to 0, we don't know. It's undefined. 1 over 0 is undefined. But what happens when
+x equals minus 0.01? Well, with minus 0.01, 1 over
+minus 0.01, that is equal to negative 100, right? What happens when x is equal
+to minus 0.001, right? So we're getting closer
+and closer to 0 from the negative direction. Well, here it equals
+make sure my pen is working, color right. Something's wrong with my tool. Now my computer's
+breaking down. Let's see what's going on. I think my computer just froze. Well, I'm going to try to solve
+this, and in the very next video, I'm going to continue
+on with this problem. So I'll actually see you in the
+next presentation while I figure out why my pen isn't
+working, and then we'll continue with this problem. See you very soon. 

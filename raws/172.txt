@@ -1,0 +1,92 @@
+Transcript for: 2011 Calculus AB free response #6b | AP Calculus AB | Khan Academy
+Part B. For x is not
+equal to 0, express f prime of x as a
+piecewise-defined function. Find the value of x
+for which f prime of x is equal to negative 3. So the first thing you
+might be wondering is, why did we even have to
+take out x is equal to 0, or why is the derivative not
+going to be defined there? And that's just
+because you're going to see that the derivative is
+going to be something different when we approach x is equal to
+0 from the left, versus when we approach x is equal
+to 0 from the right. And that's why they just
+took it out of there for us. But let's just figure out
+what that derivative is for all of the
+other values of x. So f prime of x is equal
+to, so for x is less than 0, we're going to take the
+derivative of this first case. So the derivative
+of 1 is just 0. The derivative of
+negative 2 sine of x. Well, the derivative of sine
+of x is just cosine of x. So it's going to be
+negative 2 cosine of x for x is less than 0. And then for x is
+greater than 0 I'll do this in
+another color, I'll do it in orange we have
+this case right over here. And we'll just do the
+chain rule, derivative of negative 4x with
+respect to x is negative 4. And derivative of e to the
+negative 4x with respect to negative 4x is just
+e to the negative 4x. Sometimes you could say
+this is a derivative of the inside times the
+derivative of the outside, with respect to the inside. So either way, it's negative
+4 e to the negative 4x for x is greater than 0. So we did the first
+part, we expressed f prime of x as a
+piecewise-defined function. We didn't define the derivative. I actually forgot
+a parenthesis here. We didn't define the derivative
+when x is equal to 0, because it's actually not
+going to be defined there. Now let's do the second part. Find the value of x
+for which f prime of x is equal to negative 3. And so if this wasn't
+piecewise-defined, you'd very simply
+just say, look, f prime of x is
+equal to negative 3. You would take whatever
+f prime of x is equal to, and you'd do some
+algebra to solve for it. But here you're like,
+which case do I use? I don't know if the x
+that gets us to negative 3 is going to be less
+than 0, or I don't know if it's going
+to be greater than 0. So I don't know
+which case to use. And one thing that
+we realize is to look at these functions a
+little bit and realize that cosine of x is
+a bounded function. Cosine of x can only go between
+positive 1 and negative 1. So negative 2
+cosine of x can only go between positive
+2 and negative 2. So it can never
+get to negative 3. So if anything's ever
+going to get to negative 3, it's going to have to be
+this part of the derivative, or this part of the
+derivative definition. So it's going to have to be
+this thing right over here. And hopefully
+there's some values of x greater than 0 where
+this thing right over here is equal to negative 3. So let's try it out. Negative 4 e to the
+negative 4x needs to be equal to negative 3. We can divide both
+sides by negative 4. We get e to the negative
+4x is equal to negative 3/4 divided by negative 4 is 3/4. We could take the natural
+log of both sides, and we will get negative 4x
+is equal to the natural log of 3/4. And just to be clear, what
+I did here, you literally could put the natural log
+here, natural log there, and you could put
+the natural log there as well to see that step. This is saying, what power do
+I have to raise e to, to get e to the negative 4x? Well, obviously, I
+just need to raise e to the negative
+4x power there. So this power is negative 4x. And then we just
+took the natural log of the right-hand side as well. And then to solve for x,
+we can divide both sides by negative 4. So you get x is equal to or
+we could multiply both sides by negative 1/4, either way
+negative 1/4 natural log of 3/4. And what we need to do
+is verify that this x. So we used this case right over
+here, but we have to make sure that we can use this case,
+that this x is greater than 0. And we might be
+tempted right when we look at this to
+say, wait, this looks like a negative number. But we have to remind ourselves
+that the natural log of 3/4, since 3/4 is less than
+e, the natural log of 3/4 is going to be a
+negative number. It's going to be e to
+some negative exponent. So since this is negative
+and this part right over here is negative, you have a
+negative times a negative, so this right over here
+is going to be positive. So this is a positive
+value right over here. So you would use this
+case right over here. So that's our answer x
+is equal to negative 1/4 natural log of 3/4. Or the derivative, we could
+write f prime of negative 1/4 times the natural log of
+3/4 is equal to negative 3. And we're done. 

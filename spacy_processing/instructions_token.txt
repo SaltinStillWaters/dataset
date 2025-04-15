@@ -1,4 +1,4 @@
-of--
+of
 contrast
 sandwiched
 forgetting
@@ -41,7 +41,7 @@ anwers
 planned
 stacking
 type
-know--
+know
 earn
 worrying
 consists
@@ -325,7 +325,7 @@ laid
 dictate
 increment
 heating
-make--
+make
 square
 enter
 reaching
@@ -334,7 +334,7 @@ concern
 rounded
 rinse
 ran
-Well--
+Well
 tempted
 approximating
 mind
@@ -365,7 +365,7 @@ classified
 chugging
 spinning
 Given
-first--
+first
 cent
 denote
 learned
@@ -390,11 +390,11 @@ bypass
 opposing
 distinguish
 confirm
-view--
+view
 accused
 demean
 discourage
---so
+so
 screaming
 Subscribe
 knead
@@ -444,7 +444,7 @@ turning
 parameterized
 pointing
 jumping
-dt--
+dt
 understanding
 associates
 joking
@@ -501,7 +501,7 @@ organized
 pair
 figure
 went
-find--
+find
 trade
 revolve
 Moving
@@ -532,7 +532,7 @@ differentiates
 Understanding
 reviewing
 spouts
-right--
+right
 mappable
 simp
 doubled
@@ -560,7 +560,7 @@ re
 singing
 everever
 amass
-minus--
+minus
 zoomed
 undefined
 reversing
@@ -711,7 +711,7 @@ disregarding
 run
 optimizes
 scratching
-r--
+r
 pushing
 squishes
 sloping
@@ -723,7 +723,7 @@ failed
 tip
 planning
 foret
-somehow--
+somehow
 part
 download
 streamline
@@ -746,7 +746,7 @@ zoning
 eliminates
 dominating
 cosine
-up--
+up
 itare
 reshow
 stack
@@ -767,7 +767,7 @@ defying
 admit
 drops
 processing
-can--
+can
 break
 supposed
 tracing
@@ -781,7 +781,7 @@ parameterize
 Procrit
 study
 anticipate
-as--
+as
 Rule
 mixing
 dropping
@@ -841,7 +841,7 @@ great
 iss
 blow
 hired
---but
+but
 trips
 sort
 fool
@@ -905,7 +905,7 @@ indicates
 strikes
 implemented
 erase
-a--
+a
 determines
 cosines
 listed
@@ -915,7 +915,7 @@ becomes
 associate
 circling
 lecturing
-equal--
+equal
 beginning
 drilled
 alpha
@@ -941,7 +941,7 @@ circle
 wrting
 clicks
 connected
-M--
+M
 choose
 fing
 Calculating
@@ -953,7 +953,7 @@ Maps
 occurred
 K
 imagine
-since--
+since
 yarding
 ignored
 hotus
@@ -1001,8 +1001,8 @@ arise
 downloaded
 forces
 multipli
-fourth--
-put--
+fourth
+put
 emerging
 graze
 ided
@@ -1050,7 +1050,7 @@ suck
 decays
 amoot
 converge
-get--
+get
 glean
 rains
 hurts
@@ -1094,7 +1094,7 @@ count
 pausing
 Give
 lets
-do--
+do
 assure
 reteach
 triggering
@@ -1110,7 +1110,7 @@ lists
 rounding
 degrading
 Graphing
-that--
+that
 left
 instill
 hollowed
@@ -1231,7 +1231,7 @@ recover
 Connect
 6x
 putting
-really--
+really
 defines
 yield
 existing
@@ -1344,7 +1344,7 @@ raising
 flies
 heat
 bottle
-color--
+color
 cheated
 2y
 outline
@@ -1411,14 +1411,14 @@ sfy
 sewing
 getting
 tickles
-draw--
+draw
 passed
 identified
 incrementing
 squash
 equal
 surrounding
-line--
+line
 denoting
 disallow
 conjugating
@@ -1457,7 +1457,7 @@ isolated
 challenge
 sets
 video
-write--
+write
 shows
 collects
 utilizing
@@ -1502,7 +1502,7 @@ rotates
 bound
 recycle
 leaning
-go--
+go
 outpaces
 differential
 assigns
@@ -1546,7 +1546,7 @@ interplay
 squa
 realizing
 steming
-evaluate--
+evaluate
 mesh
 stressed
 paring
@@ -1615,7 +1615,7 @@ affected
 noticing
 eaten
 goity
-term--
+term
 disappeared
 explored
 applies
@@ -1629,7 +1629,7 @@ controlled
 supposing
 punching
 attach
-A--
+A
 laying
 case
 accelerating
@@ -1721,7 +1721,7 @@ wore
 Have
 flesh
 realized
-say--
+say
 describing
 recap
 Visualizing
@@ -1735,7 +1735,7 @@ pop
 group
 buy
 recall
-approach--
+approach
 floats
 ne1
 Show
@@ -1748,7 +1748,7 @@ emailed
 realizes
 up
 simplifies
---if
+if
 reappearing
 foll
 intertwined
@@ -1835,9 +1835,9 @@ Talking
 enrolled
 power
 narrowing
-arbitrarily--
+arbitrarily
 affects
-it--
+it
 impose
 mine
 remember
@@ -1871,7 +1871,7 @@ v.
 talking
 0o
 sung
-too--
+too
 rotated
 answering
 unimpeded
@@ -1917,7 +1917,7 @@ plotted
 wishing
 automated
 restricting
-is--
+is
 hav't
 paid
 fired
@@ -1926,7 +1926,7 @@ hammering
 structuring
 termed
 focus
-equals--
+equals
 mo
 coded
 progress
@@ -2030,7 +2030,7 @@ burning
 fail
 execute
 realize
-be--
+be
 zeros
 inequality
 object
@@ -2110,7 +2110,7 @@ rejected
 reinventing
 disagreed
 forgot
-give--
+give
 Using
 mumbling
 qualify
@@ -2272,12 +2272,12 @@ bite
 tweak
 Expand
 tacking
-problem--
+problem
 equaled
 exists
 explains
 hear
-remember--
+remember
 encountering
 explaining
 ln
@@ -2416,14 +2416,14 @@ pushes
 massage
 constructed
 implement
-does--
+does
 unshift
 meshing
 hypoten
 be0
 skipped
 rolling
-analogy--
+analogy
 flash
 z^2
 glad
@@ -2435,7 +2435,7 @@ scale
 expect
 turns
 overrun
-this--
+this
 manipulate
 right-
 gave
@@ -2447,7 +2447,7 @@ lit
 decrement
 conclude
 has
-some--
+some
 referring
 slopes
 base
@@ -2512,7 +2512,7 @@ iterate
 spreading
 plugging
 modify
-are--
+are
 displaced
 implies
 dunno
@@ -2531,7 +2531,7 @@ remembering
 begin
 accommodates
 figured
-in--
+in
 h.
 design
 respecting
@@ -2630,7 +2630,7 @@ Gives
 shaking
 cut
 behaved
-have--
+have
 prove
 need
 cutting
@@ -2695,7 +2695,7 @@ retrieve
 bop
 stating
 invented
---is
+is
 generate
 puts
 recognize
@@ -2872,7 +2872,7 @@ rest
 subtended
 trying
 answer
-want--
+want
 tack
 accepted
 minimize
@@ -2914,7 +2914,7 @@ multiplicities
 exhaust
 Verifying
 sell
-subtract--
+subtract
 sine
 input
 built
@@ -3064,7 +3064,7 @@ thrown
 feed
 abide
 intending
-sometimes--
+sometimes
 alternates
 centered
 sticking
@@ -3126,7 +3126,7 @@ add
 youc
 jumps
 Rising
-exists--
+exists
 skimp
 are
 immerse
@@ -3228,7 +3228,7 @@ stressing
 squished
 met
 stck
-was--
+was
 discussed
 worked
 resort
@@ -3236,7 +3236,7 @@ wishes
 graded
 wraps
 requires
-were--
+were
 distribut
 elements
 pressing
@@ -3261,7 +3261,7 @@ breed
 rooot
 copy
 Gone
-what--
+what
 compos
 discount
 declines
@@ -3282,7 +3282,7 @@ call
 seeing
 divide
 exerting
-always--
+always
 entailed
 install
 omitting
@@ -3330,7 +3330,7 @@ howls
 shortening
 at0
 ice
-coordinate--
+coordinate
 valleys
 checked
 firsted
@@ -3410,7 +3410,7 @@ passes
 according
 highlight
 increases
---are
+are
 ease
 beated
 binds
@@ -3504,7 +3504,7 @@ ruined
 hindering
 bellowing
 limited
---of
+of
 disappears
 climax
 identify
@@ -3533,7 +3533,7 @@ bestirring
 grasp
 interchanging
 interests
-start--
+start
 fitting
 rush
 Care
@@ -3574,7 +3574,7 @@ shorting
 existed
 have
 sin^2
-actually--
+actually
 murder
 Checking
 grant
@@ -3582,7 +3582,7 @@ helps
 Including
 cartridge
 uniting
-just--
+just
 mastered
 hammered
 undoing
@@ -3598,7 +3598,7 @@ conceived
 expecting
 cotan
 und
-review--
+review
 match
 calcul
 mapped
@@ -3640,7 +3640,7 @@ counter
 catches
 measure
 deals
-so--
+so
 acceleration
 operating
 multiplies
@@ -3686,7 +3686,7 @@ puzzling
 |
 bind
 trump
-triangle--
+triangle
 sticks
 clued
 foiling
@@ -3707,7 +3707,7 @@ interchange
 fueld
 numbing
 semantics
---the
+the
 patterned
 model
 reproducing

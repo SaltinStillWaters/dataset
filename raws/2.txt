@@ -1,0 +1,95 @@
+Transcript for: Introduction to limits 2 | Limits | Precalculus | Khan Academy
+Welcome to the
+presentation on limits. Let's get started with some
+well, first an explanation before I do any problems. So let's say I had let me
+make sure I have the right color and my pen works. OK, let's say I had the limit,
+and I'll explain what a limit is in a second. But the way you write it is you
+say the limit oh, my color is on the wrong OK, let me
+use the pen and yellow. OK, the limit as x
+approaches 2 of x squared. Now, all this is saying is what
+value does the expression x squared approach as
+x approaches 2? Well, this is pretty easy. If we look at let me
+at least draw a graph. I'll stay in this yellow color. So let me draw. x squared looks something
+like let me use a different color. x square looks something
+like this, right? And when x is equal to 2, y,
+or the expression because we don't say what
+this is equal to. It's just the expression x
+squared is equal to 4, right? So a limit is saying, as x
+approaches 2, as x approaches 2 from both sides, from numbers
+left than 2 and from numbers right than 2, what does
+the expression approach? And you might, I think, already
+see where this is going and be wondering why we're even going
+to the trouble of learning this new concept because it seems
+pretty obvious, but as x as we get to x closer and closer
+to 2 from this direction, and as we get to x closer
+and closer to 2 to this direction, what does
+this expression equal? Well, it essentially
+equals 4, right? The expression is equal to 4. The way I think about it is as
+you move on the curve closer and closer to the expression's
+value, what does the expression equal? In this case, it equals 4. You're probably saying, Sal,
+this seems like a useless concept because I could have
+just stuck 2 in there, and I know that if this is say this
+is f of x, that if f of x is equal to x squared, that f of 2
+is equal to 4, and that would have been a no-brainer. Well, let me maybe give you one
+wrinkle on that, and hopefully now you'll start to see what
+the use of a limit is. Let me to define let me say
+f of x is equal to x squared when, if x does not equal 2,
+and let's say it equals 3 when x equals 2. Interesting. So it's a slight variation on
+this expression right here. So this is our new f of x. So let me ask you a question. What is my pen still works
+what is the limit I used cursive this time what is the
+limit as x that's an x as x approaches 2 of f of x? That's an x. It says x approaches 2. It's just like that. I just I don't know. For some reason, my brain
+is working functionally. OK, so let me graph this now. So that's an equally
+neat-looking graph as the one I just drew. Let me draw. So now it's almost the same as
+this curve, except something interesting happens
+at x equals 2. So it's just like this. It's like an x squared
+curve like that. But at x equals 2 and
+f of x equals 4, we draw a little hole. We draw a hole because it's
+not defined at x equals 2. This is x equals 2. This is 2. This is 4. This is the f of x
+axis, of course. And when x is equal to
+2 let's say this is 3. When x is equal to 2,
+f of x is equal to 3. This is actually
+right below this. I should it doesn't look
+completely right below it, but I think you got
+to get the picture. See, this graph is x squared. It's exactly x squared until
+we get to x equals 2. At x equals 2, We have a
+grap No, not a grap. We have a gap in the
+graph, which maybe could be called a grap. We have a gap in the graph, and
+then we keep and then after x equals 2, we keep moving on. And that gap, and that gap
+is defined right here, what happens when x equals 2? Well, then f of x
+is equal to 3. So this graph kind of goes
+it's just like x squared, but instead of f of 2 being 4, f
+of 2 drops down to 3, but then we keep on going. So going back to the limit
+problem, what is the limit as x approaches 2? Now, well, let's think
+about the same thing. We're going to go this
+is how I visualize it. I go along the curve. Let me pick a different color. So as x approaches 2 from this
+side, from the left-hand side or from numbers less than 2, f
+of x is approaching values approaching 4, right? f of x
+is approaching 4 as x approaches 2, right? I think you see that. If you just follow along the
+curve, as you approach f of 2, you get closer and closer to 4. Similarly, as you go from the
+right-hand side make sure my thing's still working. As you go from the right-hand
+side, you go along the curve, and f of x is also
+slowly approaching 4. So, as you can see, as we
+go closer and closer and closer to x equals 2, f of
+whatever number that is approaches 4, right? So, in this case, the
+limit as x approaches 2 is also equal to 4. Well, this is interesting
+because, in this case, the limit as x approaches 2 of f
+of x does not equal f of 2. Now, normally, this
+would be on this line. In this case, the limit as you
+approach the expression is equal to evaluating the
+expression of that value. In this case, the limit isn't. I think now you're starting to
+see why the limit is a slightly different concept than just
+evaluating the function at that point because you have
+functions where, for whatever reason at a certain point,
+either the function might not be defined or the function kind
+of jumps up or down, but as you approach that point, you still
+approach a value different than the function at that point. Now, that's my introduction. I think this will give you
+intuition for what a limit is. In another presentation, I'll
+give you the more formal mathematical, you know,
+the delta-epsilon definition of a limit. And actually, in the very next
+module, I'm now going to do a bunch of problems
+involving the limit. I think as you do more and more
+problems, you'll get more and more of an intuition as
+to what a limit is. And then as we go into drill
+derivatives and integrals, you'll actually understand why
+people probably even invented limits to begin with. We'll see you in the
+next presentation. 

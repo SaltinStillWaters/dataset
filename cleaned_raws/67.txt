@@ -1,0 +1,84 @@
+Transcript for: Definite Integrals (area under a curve) (part III) Welcome back.
+I'm just continuing on with hopefully giving you, one, how to actually solve indefinite integrals and also giving you a sense of why you solve it the way you do.
+And I think that's often missing in some textbooks.
+But anyway, let's say that this is the distance and let me give you a formula, actually, for the distance, just for fun.
+Oh, my phone is ringing.
+Let me lower the volume, because you're more important.
+So, let's say that the distance, s this time I'll write it as a function let's say the distance is I said it started at five, so let's say it's 2t let's say this is actually a cubic function.
+You're not only accelerating, your rate of acceleration is increasing.
+I think, actually, the rate of acceleration, if I'm not mistaken, is actually called jerk, but I might have to Wikipedia that.
+Let's say its 2t to the third plus 5.
+And let's say I wanted to know how far I travel between t equals 2 seconds and t equals 5 seconds.
+Right? I'm not looking for the total distance I've traveled.
+I just want to know how far do I travel between time equals 2 seconds and time equal 5 seconds.
+Right? So this might be 2 and this is 5.
+So an easy way to do that is I could just evaluate this function at t equals 5 let me use a different color.
+I think it's getting messy I could just evaluate this function at t equals 5.
+If t equals 5, 5 to the third power is 125, 250, it's 255, so the object has gone 255 feet at t equals 5, right? And then, at time equals 2, the object has gone how far? 2 to the third is 8.
+16.
+It's gone 21 feet.
+Right? To figure out how far I travelled between time equals 2 and time equals 5, I just say s of 5 minus s of 2, right? How far did I go after 5 seconds minus how far I already was after 2 seconds.
+And this is just 255 minus 21 and that's, what, 234.
+234 feet is how far I travelled between 2 seconds and 5 seconds.
+Interesting.
+And I think you're starting to get a little intuition about why we evaluated that previous indefinite integral in the previous video the way we did.
+So let's actually draw the derivative of this function.
+So what's the derivative? So let me just call that v of t, I guess.
+v of t is just the derivative, right, because it's the rate of change of distance with respect to time.
+3 times 2 is 6t squared and the constant disappears, right? So it's just 6t squared.
+And that makes sense, right? Because your velocity doesn't care about where you started off from, right? You're going to be the same velocity if you started from 10 feet or if you started from 2 feet.
+Your velocity doesn't really matter about where your starting position is.
+So let's graph this.
+See? You're actually learning a little physics while you're learning calculus.
+Actually, I think it's silly that they're taught as two separate classes.
+I think physics and calculus should just be one fun 2-hour class.
+But I'll talk about that at another time.
+So, going back to this.
+Let me graph that.
+6t squared.
+Well, that's just going to look like a parabola.
+Right? It's going to look something like this.
+This is t.
+This is the velocity.
+And now, if we just had this velocity graph, if we didn't know all of this over here and I asked you the same question, though.
+I said, how far does this thing travel between 2 seconds and 5 seconds? Right? Well, I could do it the way that we learned in the previous video where I draw a bunch of small rectangles, each of a really small width, and I multiply it times its instantaneous velocity at that exact moment, right? And then I sum up all of those rectangles look how pretty that is I sum up all of the rectangles.
+And I'll get a pretty good approximation for how far I've travelled between 2 and 5 seconds.
+Because remember, the area of each of these rectangles represents how far I traveled in that little amount of time, dt.
+Because time times a constant velocity is equal to distance.
+But as you can see this also tells me the area between t equals 2 and t equals 5.
+So, not only did I figure out the distance between how far I traveled from 2 seconds to 5 seconds, I also figured out the area under this curve from 2 seconds to 5 seconds.
+So, interestingly enough, if I just changed this from a to b, and, in general, if you want to figure out the area under a curve from a to b, it's just the indefinite integral from a to b actually, from b to a.
+The b should be the larger one.
+b to a.
+I guess a to b, depending on how you say it.
+Let me write that in a different color because I think I'm making it messier.
+From a to b of this velocity function.
+So, in this case, 6t squared d t, right? If these weren't 2 and 5, if this was just a and b.
+And the way you evaluate this is you figure out the antiderivative of this inside function, and then you evaluate the antiderivative at b, and then from that, you subtract it out at a.
+So in this case, the antiderivative of this is 2t to the third and we evaluated at b, and we evaluated at a.
+Actually, let me stick to the old numbers.
+We evaluated it at 5 and you evaluated it at 2.
+So if you evaluated it at 5, that's 255.
+If you evaluate it at 2, that's 21.
+So you're doing the exact same thing we did here when we actually had this graph.
+So I did all of this, not to confuse you further, but really just to give you an intuition of why one, why the antiderivative is the area under the curve, and then two, why let's say that a, b and then why we evaluate it this way.
+You might see this in your books.
+This is just saying, if I want to figure out the area under a curve from a to b of f of x, that we figure out the antiderivative.
+This capital F is just the antiderivative.
+We just figure out the antiderivative and we evaluated at b and we evaluated at a, and then we subtract the difference.
+And that's what we did here, right? This is what we did here intuitively when we worked with distance.
+The derivative and the antiderivative don't only apply to distance and velocity.
+But I did this to give you an intuition of why this works and why the antiderivative is the area under a curve.
+So let me clear this up and just rewrite that last thing I wrote, but maybe a little bit cleaner.
+OK.
+So let's say that F of x with a big, fat capital F is equal to actually, let me do it a better way let me say that the derivative of big fat F of x is equal to f of x.
+Right? I think, actually, this is the fundamental theorem of calculus, but I don't want to throw out things without knowing for sure.
+I have to go make sure.
+See, I haven't done math in a long time.
+I'm giving you all this based on intuition, not necessarily what I'm reading.
+So the derivative of big F is small f, and all we're saying is that if we take the integral of small f of x from a to b, dx, that this is big F, it's antiderivative, at b minus the antiderivative at a.
+In the next presentation, I'll use this.
+This is actually pretty easy to use once you know how to use antiderivatives.
+And we did these three videos really just to give you or actually, is this the third or the second just to give you an intuition of why this is, because I think that's really important if you're ever going to really use calculus in your life or write a computer program or whatever.
+And in the next couple videos I'll actually apply this to a bunch of problems and you'll hopefully see that it's a pretty straightforward thing to actually compute.
+I'll see you in the next presentation.

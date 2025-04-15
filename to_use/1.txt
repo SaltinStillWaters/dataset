@@ -1,0 +1,73 @@
+Transcript for: Introduction to limits | Limits | Differential Calculus | Khan AcademyIn this video, I wantto familiarize you with the idea of a limit, whichis a super important idea.
+
+ It's really the idea that allof calculus is based upon.
+ But despite beingso super important, it's actually a really simple idea.
+ So let me draw afunction here, actually, let me define a function here, a kind of a simple function.
+ So let's define <EQUATION>.
+ And you might say, hey, Sal look, I have the same thing in the numerator and denominator.
+ If I have something divided by itself, that would just be equal to <EXPRESSION>.
+ Can't I just simplify this to <EQUATION>? And I would say, well, you're almost true, the difference between <EQUATION> and this thing right over here, is that this thing can never equal this thing is undefined when <EQUATION>.
+ Because if you set, let me define it.
+ Let me write it over here, if you have <EQUATION>, what happens.
+ In the numerator, we get <EXPRESSION>, which is, let me just write it down, in the numerator, you get <EXPRESSION>.
+ And in the denominator, you get <EXPRESSION>, which is also <EXPRESSION>.
+ And so anything divided by <EXPRESSION>, including <EXPRESSION>, this is undefined.
+ So you can makethe simplification.
+ You can say that this is you thesame thing as let <EQUATION>, but you would have to add the constraint that x cannot be equal to <EXPRESSION>.
+ So how would Igraph this <EQUATION>.
+ So let me graph <EQUATION>.
+ So that, is let <EQUATION>.
+And let me graph <EQUATION>.
+ So it's essentially for any x other than 1 let <EQUATION>.
+ We don't know what this function equals at 1.
+ We never defined it.
+ This definition of thefunction doesn't tell us what to do with 1.
+ It's literally undefined, literally undefined when x is equal to 1.
+ So this is the functionright over here.
+ And so once again, if someonewere to ask you what is f of 1, you go, and let's say thateven though this was a function definition, you'd go, OK x is equal to 1, oh wait there's a gap inmy function over here.
+ It is undefined.
+ So let me write it again.
+ It's kind of redundant, but I'llrewrite it <EQUATION>.
+ But what if I wereto ask you, what is the functionapproaching as x equals 1.
+ And now this is starting totouch on the idea of a limit.
+ So as x gets closerand closer to 1.
+ So as we get closerand closer x is to 1, what is thefunction approaching.
+ Well, this entiretime, the function, what's a gettingcloser and closer to.
+ On the left hand side, no matter how close you get to 1, as long as you're not at 1, you're actually at <EQUATION>.
+ Over here from the right handside, you get the same thing.
+ So you could say, and we'll get more and more familiar with this idea as we do more examples, that the limit as x and L-I-M, short for limit, as x approaches 1 of f of xis equal to, as we get closer, we can get unbelievably, we can get infinitely close to 1, as long as we're not at 1.
+ And our function is going to be equal to 1, it's getting closer and closer and closer to 1.
+ It's actually at 1 the entire time.
+ So in this case, we could say the limit as x approaches 1 of f of x is 1.
+ So once again, it has very fancy notation, but it's just saying, look what is afunction approaching as x gets closerand closer to 1.
+ Let me do another example where we're dealing with a curve, just so that you have the general idea.
+ So let's say that I have the function g of x, we could define it as <EXPRESSION>.
+ So once again, a kind of an interesting function that, as you'll see, is not fully continuous, it has a discontinuity.
+ Let me graph <EQUATION>.
+ Let me draw <EQUATION>, So it'll look something like this.
+ Not the most beautifully drawn parabola in the history of drawing parabolas, but I think it'll give you the idea.
+ I think you know what a parabola looks like, hopefully.
+ It should be symmetric, let me redraw it because that's kind of ugly.
+ And that's looking better.
+ OK, all right, there you go.
+ All right, now, this would be the graph of just x squared.
+ But this can't be.
+ It's not x squared when x is equal to 2.
+ So once again, when x is equal to 2, we should have a little bit of a discontinuity here.
+ So I'll draw a gap right over there, because when x equals 2 the function is equal to 1.
+ When x is equal to2, so let's say that, and I'm not doing them on the same scale, but let's say that.
+ So this, on the graph of fof x is equal to x squared, this would be 4, this would be 2, this would be 1, this would be 3.
+ So when x is equal to 2, our function is equal to 1.
+ So this is a bit ofa bizarre function, but we can define it this way.
+ You can define a function however you like to define it.
+ And so notice, it's just like the graph <EQUATION>, except when you get to 2, it has this gap, because you don't use the <EQUATION>.
+ So my question to you.
+ So there's a couple of things, if I were to just evaluate the <EQUATION>.
+ Or perhaps a moreinteresting question.
+ Solve limit as x approaches <EXPRESSION> of <EQUATION>.
+ Once again, fancy notation, but it's asking something pretty, pretty, pretty simple.
+ As x gets closer and closer to <EXPRESSION>, what is <EQUATION> approaching? So if you get to 1.
+ And you can see it visually just by drawing the graph of <EQUATION>.
+ As g gets closer and closer to 2, and if we were to follow along the graph, we see that we are approaching 4.
+ Even though that's not where the function is, the function drops down to 1.
+ Solve the limit of <EQUATION> as x approaches <EXPRESSION>.

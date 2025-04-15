@@ -1,0 +1,44 @@
+Transcript for: 2011 Calculus AB free response #3 (c) | AP Calculus AB | 
+Part C, write but do not evaluate an integral expression for the volume of the solid generated when R - - so that's this region right over here - when R is rotated about the horizontal line y=1.
+So y=1 is right over there.
+So, the way I like to think about it - let's think about the volume if I were to just take the bottom function - if I were to just take f(x) - if I were to just take f(x) - and if I were to rotate that function around y=x - if I were to rotate this thing around - sorry, around y=1 - what would the volume of that be, and then I'm going to subtract from that the volume if I were to take the top function - if I were to take g(x) and rotate it around.
+So let's first of all think about what volume I would get - and this is really the disk method, and I go into it in much more detail earlier in the calculus playlist, but let's think about the volume if f(x) is rotated around that axis.
+And to do that, let's imagine each of - each sliver of that volume.
+So this is - let me draw a little thing right over here - and you could imagine once this little silver is rotated it forms the bo- it forms the or you should - you could imagine - you could imagine - this length is the radius of a disk.
+And so - and just to imagine that let me draw the entire disk.
+So if this is rotated around - if this is rotated around it will become a disk - it will become a disk - it will become a disk that looks something like that, and I'll just call the depth of the disk - so the disk if you imagine it a coin this is kind of the side of the coin, the depth of the coin - the depth of the coin right over there.
+I know I can draw that better than that.
+So the depth of the coin is just like that.
+It's a fixed depth, and I'm going to call that dx - so it's just this distance right over here it is the dx - and what is going to be the area of that coin? Well the area of the surface of this is coin - so let me - let me do it like this.
+.
+.
+in a different color.
+So I want to do it in blue - the area of this coin is just pi times the radius of that coin, squared.
+And what is the radius of the coin? Well, the radius of the coin is this height - is this height right over here.
+And what is that height? Well it is 1-f(x).
+So that is equal to the radius.
+So the area - the surf- the area - the kind of the face of this coin is going to be pi - the area of the face of this coin is going to be pi times the radius squared, which is equal to pi times one minus f of x - one minus f of x squared - that's this blue area right over here, and if I want to find the volume of this coin I would multiply it by - by the depth of the coin.
+So times - so times dx.
+And if I wanted to find the volume of this entire solid - this entire rotated, i would want to find the sum of all of these volumes.
+So this is just the disk right over here but I can have another disk, a similar disk that I do right over here, I could have another disk right over here, and I want to take the sum of ALL of those disks.
+So I want to take - I want to take - so the volume is going to be the sum over all of those disks - so x goes from 0 - which is this bounding point - to x is equal to 1/2, times pi(1-f(x))^2 - this is the area of e- the fa- the area of the face of each of those disks and then I multiply time the depth of each of those disks - no this gives the volume of each of those disks, and I'm taking the sum of all of them.
+So this is the volume - this is the volume if I were to just rotate f(x) around y=1 - actually I should just write dx here - and so this right over here - this expression - I just did that so they really are equal - this is obviously just the volume of each of those disks.
+So this is the volume if I were to take f(x) around y=1.
+Let's figure out - so let me call this volume of f(x) - and by the same logic - the same exact logic - we can figure out the volume if we take g(x) - if we rotate g(x) around - if we rotate g(x) - if we construct disks like this and rotate them around y=1.
+And so the volume - if I take g(x) around y=1 would be 0 to 1/2 times pi(1-g(x) - cause 1-g(x) is each of these radius' right over here - each of these radius' - that squared, dx.
+And so the volume of what they're asking us - the volume of the solid generated when R is rotated - well R is kind of the space in between f(x) and g(x) - so so what's going to be - is g- the volume is going to be the difference between these volumes - it's going to be this volume - this is kind of the outer volume, and we're going to take out its hollow core - we're going to hollow it out be subtracting this volume.
+So the volume of that region is going to be the integral - I'll do this in a new color - integral from 0 to 1/2 of pi(1-f(x))^2 dx MINUS the integral from 0 to 1/2 of pi(1-g(x))^2 dx and this is completely valid answer but you might want to simplify it we have the same bounds of integration - we have the same variable of integration - and actually we have this pi over here so we could just factor that out - and so this is the same thing as pi times the integral from 0 to 1/2 of (1-f(x))^2 MINUS (1-g(x))^2 - and then all of that dx.
+And then - and actually you probably would want to do the - you probably would want to do this while taking the AP Exam, not just leaving it in terms of f(x) and g(x) - you would actually want to write the expression for what f(x).
+.
+.
+f(x) and g(x) are.
+So really the best answer would probably be: pi times the integral from 0 to 1/2, times [1(1-.
+.
+.
+well f(x) is 8x to the third power - 8x to the third power, squared.
+Minus, (1-g(x).
+.
+.
+and g(x) is sin of pi x.
+That squared - that squared times dx.
+And that would be our answer and you could see why they didn't want us to go through the trouble of evaluating it - they just wanted us to set up this integral.

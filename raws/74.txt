@@ -1,0 +1,226 @@
+Transcript for: Periodic Definite Integral
+For any real number
+x, let brackets around x denote the
+largest integer less than or equal to x, often known as
+the greatest integer function. Let f be a real valued
+function defined on the interval
+negative 10 to 10, including the
+boundaries by f of x is equal to x minus the greatest
+integer of x, if the greatest integer of x is odd, and 1
+plus the greatest integer of x minus x, if the greatest
+integer of x is even. Then the value of pi
+squared over 10 times a definite integral
+from negative 10 to 10 of f of x cosine of pi of
+x dx is so before even try to attempt to
+evaluate this integral, let's see if we can at least
+visualize this function, f of x, right over here. So let's do our best
+to visualize it. So let me draw my x-axis. And let me draw my y-axis. So let me draw my y-axis. And then let's think about what
+this function will look like. So this is x is equal to
+0, this is x is equal to 0, this is x is equal to 1, x is
+equal to 2, x is equal to 3. We could go down to
+negative 1, negative 2. We could just keep
+going, if we like. Hopefully we'll see
+some type of pattern, because it seems to
+change from odd to even. So between 0 and 1, what is
+the greatest integer of x? So let me just
+write it over here. So between 0 and 1,
+until you get to 1 so maybe I should do this
+from including 0 until 1, the greatest integer
+of x is equal to 0. If I'm at 0.5, the greatest
+integer below 0.5 is 0. As I go from 1 to 2,
+this brackets around x is equal to 1. It's the greatest integer. If I'm at 1.5, the
+greatest integer is 1. If I'm at 1.9, the
+greatest integer is 1. And then if I go to above
+from between 2 and 3, then the greatest
+integer is going to be 2. If I'm at 2.5, greatest
+integer is going to be 2. So with that, let's
+try to at least draw this function over
+these intervals. So between 0 and 1, the
+greatest integer is 0. 0 we can consider to be even. 0 is even, especially
+if we're alternating. 1 is odd, 2 is even, 3 is odd. So 0 is even. So we would look at this
+circumstance right over here, if x is even. And then over this time frame
+or over this part of the x-axis, the greatest integer
+of x is just 0. So the equation or the
+line or the function is just going to be 1
+minus x over this interval, because the greatest
+integer is 0. So 1 minus x will
+look like this. If this is 1, 1 minus x
+just goes down like that. That's what it looks
+like from 0 to 1. Now let's think about what
+happens as we go from 1 to 2. As we go from 1 to 2, not
+including 2 but including 1, all the way up to
+2, not including it, the greatest integer is 1. The greatest integer is odd. So we use this case. And over here, we're going
+to have x minus the greatest integer of x over this interval. The greatest integer of x is 1. So it's going to be
+the graph of x minus 1. So x minus 1 at 1
+is going to be 0. And at 2, it's
+going to be 1 again. So it's going to be this. It's going to look
+just like that. So this right here is x minus 1. And then this over here,
+essentially was 1 minus x. And we could keep doing it. As we go from 2 to 3, the
+greatest integer of x is 2. We would look at this case. So we're going to have 1 plus 2. So we're going to
+have 3 here minus x. So when we start
+over here when x is 2 or a little bit above that,
+we're going to have 3 minus 2. We're going go to 1. It's going to be right at 1. And then as x is equal
+to 3, 3 minus 3 is 0. It's going to oscillate
+back down like this. I think we have an
+appreciation for what this graph is
+going to look like. It's going to keep going
+up and down like this, with a slope of negative 1, then
+positive 1, then negative 1, then positive 1. It's just going to keep doing
+that over and over again. You can keep trying it
+out with other intervals, but it's pretty clear
+that this is the pattern. Now, what we want to do is
+evaluate the integral from 10 to negative 10 of this function
+times cosine of pi of x. So let's think about
+cosine of pi of x and think about whether
+that also is periodic. And of course, it is. And then if we can
+simplify this integral so we don't have to evaluate
+it over this entire period over here, maybe we can simplify
+it into a simpler integral. So cosine of pi x,
+cosine of 0 is 1. Don't want you to
+get that wrong. Cosine pi 0 is cosine of 0. So that's 1. Cosine of pi is negative 1. So when x is equal to 1,
+this becomes cosine of pi. So then the value of the
+function is negative 1. It'll be over here. And then cosine of 2 pi, 2
+times pi, is then 1 again. So it'll look like this. This is at 1/2. When you put it over here,
+it'll become pi over 2. Cosine of pi over 2 is 0. So it'll look like this. Let me draw it as
+neatly as possible. So it will look like this. Cosine, and then
+it'll keep doing that, and then it'll go like this. So it is also periodic. So if we wanted to figure out
+the integral of the product of these two periodic
+functions from all the way from negative 10 to 10,
+can we simplify that? And it looks like
+it would just be, because we have this
+interval, let's look at this interval over here. Let's look at just from 0 to 1. So just from 0 to 1, we're
+going to take this function and take the product
+of this cosine times essentially
+1 minus x, and then find the area under that
+curve, whatever it might be. Then when we go
+from 1 to 2, when we take the product
+of this and x minus 1, it's actually going to be the
+same area, because these two, going from 0 to 1 and
+going from 1 to 2, it's completely symmetric. You can flip it over
+this line of symmetry, and both functions are
+completely symmetric. So you're going to
+have the same area when you take their product. So what we see is,
+over every interval, when you go from 2 to 3,
+first of all, the integral from 2 to 3 is
+clearly the same thing as the integral from 0 to 1. Both functions look
+identical over that interval. But it will also be the
+same as going from 1 to 2, because it's
+completely symmetric. When you take the
+products of the function, that function will be completely
+symmetric around this axis. So the integral
+from here to here will be the same as the
+integral from there to there. So with that said, we can
+rewrite this thing over here. So what we want to evaluate,
+pi squared over 10 times the integral from negative 10
+to 10 of f of x cosine of pi x, using the logic we
+just talked about. This is going to be
+the same thing as being equal to pi squared over 10
+times the integral from 0 to 1, but 20 times that,
+because we have 20 integers between
+negative 10 and 10. We have 20 intervals
+of length 1. So times 20 times the
+integral from 0 to 1 of f of x cosine of pi x dx. I forgot to write
+the dx over there. I want to make sure
+you understand, because this is really the
+hard part of the problem, just realizing that the integral
+over this interval is just 1/20 of the whole thing, because over
+every interval, from 0 to 1, the integral is going to
+evaluate to the same thing as going from 1 to 2, which
+will be the same thing as going from 2 to 3, or going from
+negative 2 to negative 1. So instead of doing
+the whole interval from negative 10
+to 10, we're just doing 20 times the
+interval from 0 to 1. From negative 10 to 10, there's
+a difference of 20 here. So we're multiplying by 20. And this simplifies
+it a good bit. First of all, this part
+over here simplifies to 20 divided by 10 is 2. So it's 2 pi squared. So it becomes 2 pi
+squared that's just this part over here times
+the integral from 0 to 1. Now, from 0 to 1,
+what is f of x? Well, we just figured out,
+from 0 to 1, f of x is just 1 minus x. f of x is just 1 minus x
+from 0 to 1 times cosine of pi x, cosine of pi x dx. And now we just have to evaluate
+this integral right over here. So let's do that. So 1 minus x times
+cosine of pi x is the same thing as cosine of
+pi x minus x cosine of pi x. Now, this right here,
+well, let's just focus on taking
+the antiderivative. This is pretty easy. But let's try to do
+this one, because it seems a little bit
+more complicated. So let's take the antiderivative
+of x cosine of pi x dx. And what should jump
+in your mind is, well, this isn't that simple. But if I were able to
+take the derivative of x, that would simplify. It's very easy to take the
+antiderivative of cosine of pi x without making
+it more complicated. So maybe integration by parts. And remember,
+integration by parts tells us that the integral
+I'll write it up here the integral of udv is equal to
+uv minus the integral of vdu. And we'll apply that here. But I've done many, many videos
+where I prove this and show examples of exactly
+what that means. But let's apply it
+right over here. And in general,
+we're going to take the derivative of
+whatever the u thing is. So we want u to be
+something that's simpler when I take
+the derivative. And then we're going to take
+the antiderivative of dv. So we want something that does
+not become more complicated when I take the antiderivative. So the thing that
+becomes simpler when I take this
+derivative is x. So if I set u is
+equal to x, then clearly du is equal to just dx. Or you say du dx is equal to 1. So du is equal to dx. And then dv is going
+to be the rest of this. This whole thing over
+here is going to be dv. dv is equal to cosine pi x dx. And so v would just
+be the antiderivative of this with respect to x.
+v is going to be equal to 1 over pi sine of pi x. If I took the derivative here,
+derivative of the inside, you get a pi, times 1
+over pi, cancels out. Derivative of sine of pi
+x becomes cosine of pi x. So that's our u,
+that's our v. This is going to be equal to u times
+v. So it's equal to x, this x times this. So x over pi sine of pi x
+minus the integral of v, which is 1 over pi
+sine of pi x du. du is just dx. And this is pretty
+straightforward. The antiderivative of sine of
+pi x is 1 over pi or negative 1 over pi cosine of pi x. And you could take
+the derivative if you don't believe me. You could do u substitution. But hopefully you can start
+to do these in your head, especially if you're going to
+take the IIT joint entrance exam. So this whole
+expression is going to be, this part
+over here is going to be x over pi sine of pi x. And then this over here
+is going to be well, you have the antiderivative
+of sine of pi x is negative 1 over
+pi cosine of pi x. The negatives cancel out. So you have plus, and then
+the 1 over pi times 1 over pi, 1 over pi squared
+cosine of pi x. That's the antiderivative
+right there. And you can verify. Derivative of cosine
+of pi x is going to be negative pi sine of x. One pi will cancel out here. You get a negative sign, and
+then you have sine of pi x. So this is the
+antiderivative of that. And so if we want
+the antiderivative of this whole thing
+right over here, this is what we
+care about from 0 to 1 dx, the
+antiderivative of cosine pi x pretty straightforward. We've actually already
+done it right over here. It is 1 over pi sine of pi x. That's this first term. And the antiderivative
+of x cosine pi x is this thing over here. But we're subtracting it. So we'll put a negative
+sign out front. So minus x over pi sine of pi x
+minus 1 over pi squared cosine of pi x. And of course, we took
+the antiderivative, but it's a definite integral. We need to evaluate
+it from 0 to 1. And we don't want to forget
+that 2 pi squared out front. So let's evaluate this. So the first thing, we're going
+to have 1 over pi sine of 1 pi. Sine of 1 pi is 0. So you have 0 minus 1 over
+pi times sine of 1 pi again. That's again 0, minus 1 over
+pi squared cosine of pi, or cosine of 1 pi. Cosine of pi is negative 1. Negative 1 times negative
+1 over pi squared is plus 1 over pi squared. So we've evaluated it at 1. And from that, we want to
+subtract it evaluated at 0. Sine of 0 is 0 minus
+this is clearly 0, because you have a 0
+out front minus 0. And then you have
+minus cosine of 0. Cosine of 0 is 1. So then you have a
+minus 1 over pi squared. And so this term, we could
+just say this is a negative. These don't matter
+negative, positive, positive. And we're just left with
+a 1 over pi squared plus 1 over pi squared, which is
+equal to 2 over pi squared. That's what this
+part evaluates to. It's 2 over pi squared. We can't forget
+that we were going to multiply this whole
+thing times 2 pi squared. That's this thing
+out front here. And so the pi squared
+cancels out the pi squared. We're left with 2 times
+2, which is equal to 4. And we're done. This thing that looked
+pretty complicated just evaluates out to 4. 

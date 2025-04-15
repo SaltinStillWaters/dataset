@@ -5,7 +5,7 @@ high quality educational resources for free.
 To make a donation or to view additional materials from
 hundreds of MIT courses, visit MIT OpenCourseWare at
 ocw.mit.edu. So, if you remember last time,
-we looked at parametric equations -- -- as a way of
+we looked at parametric equations   as a way of
 describing the motion of a point that moves in the plane or in
 space as a function of time of your favorite parameter that
 will tell you how far the motion has progressed.
@@ -20,16 +20,16 @@ OK, so I'm trying a new color. Is this visible from the back?
 So, no more blue. OK, so remember,
 in general, we are trying to find the position,
 so, x of t, y of t, maybe z of t if we are in space
--- -- of a moving point along a trajectory.
+  of a moving point along a trajectory.
 And, one way to think about this is in terms of the position
 vector. So, position vector is just the
 vector whose components are coordinates of a point,
 OK, so if you prefer, that's the same thing as a
 vector from the origin to the moving point.
-So, maybe our point is here, P. So, this vector here -- This
+So, maybe our point is here, P. So, this vector here  This
 vector here is vector OP. And, that's also the position
 vector r of t. So, just to give you,
-again, that example -- -- if I take the cycloid for a wheel of
+again, that example   if I take the cycloid for a wheel of
 radius 1, and let's say that we are going
 at unit speed so that the angle that we used as a parameter of
 time is the same thing as time when the position vector,
@@ -66,8 +66,8 @@ writing this kind of thing with a vector.
 So, the basic rule is you can take the derivative of a vector
 quantity just by taking the derivatives of each component.
 OK, so that's just dx/dt, dy/dt, and if you have z
-component, dz/dt. So, let me -- OK,
-so -- OK, so let's see what it is for the cycloid.
+component, dz/dt. So, let me  OK,
+so  OK, so let's see what it is for the cycloid.
 So, an example of a cycloid, well, so what do we get when we
 take the derivatives of this formula there?
 Well, so, the derivative of t is 1- cos(t).
@@ -243,7 +243,7 @@ you count it. But, in this case,
 if you are moving back and forth, it would make more sense
 to have the arc length first increase,
 then decrease, increase again,
-and so on. So -- So if you want to know
+and so on. So  So if you want to know
 really what the arc length is, then basically the only way to
 do it is to integrate speed versus time.
 So, if you wanted to know how long an arch of cycloid is,
@@ -323,7 +323,7 @@ about this? Yes?
 Yes, that's correct. OK, so let's be more careful,
 actually. So, you're asking about whether
 the delta r is actually strictly tangent to the curve.
-Is that -- That's correct. Actually, delta r is not
+Is that  That's correct. Actually, delta r is not
 strictly tangent to anything. So, maybe I should draw another
 picture. If I'm going from here to here,
 then delta r is going to be this arc inside the curve while
@@ -377,7 +377,7 @@ the planet looks like, it tells you how fast it's
 going to move on that orbit. OK, so let me explain again.
 So, this law says maybe the sun, let's put the sun here at
 the origin, and let's have a planet.
-Well, the planet orbits around the sun -- -- in some
+Well, the planet orbits around the sun   in some
 trajectory. So, this is supposed to be
 light blue. Can you see that it's different
 from white? No?
@@ -501,7 +501,7 @@ change. It's, however,
 instant, if a plane in which the motion is taking place at a
 given time. And, to say that the motion
 actually stays in that plane forever means that this guy will
-not change direction. OK, so -- [LAUGHTER]
+not change direction. OK, so  [LAUGHTER]
 [APPLAUSE] OK, so, Kepler's second law is
 actually equivalent to saying that r cross v equals a constant
 vector, OK? That's what the law says.
@@ -542,7 +542,7 @@ is parallel to the position. OK, so, in fact,
 what Kepler's second law says is that the acceleration is
 parallel to the position vector. And, since we know that
 acceleration is caused by a force that's equivalent to the
-fact that the gravitational force -- -- is parallel to the position
+fact that the gravitational force   is parallel to the position
 vector, that means, well, if you have the sun here
 at the origin, and if you have your planets,
 well, the gravitational force caused by the sun should go

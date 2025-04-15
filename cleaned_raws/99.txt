@@ -1,0 +1,79 @@
+Transcript for: Polynomial approximation of functions (part 6) Well let's review a little bit everything that we've covered so far.
+So what was the Maclaurin Series representation of e to the x? And once again, you'll have to take my word for it, that the Maclaurin Series representation really does equal, when you take the infinite series, it really does equal e to the x.
+I mentioned in a previous video that I was thinking about the proof.
+And I finally gave up because I couldn't think of the proof.
+And then I looked it up and I realized why I couldn't think of the proof, it's quite involved.
+But I will do it eventually.
+Probably after I cover a lot of other things just because it's not something that you really have to know to succeed well in calculus, or appreciate what we're about to do.
+But I will do it.
+It'll probably take five or six minutes.
+Anyway back to where we were.
+So the Maclaurin Series repetition of e to the x, and it actually does equal e to the x, is 1 plus x, plus x squared over 2 factorial, plus x to the third over 3 factorial.
+I'm going to do a bunch of terms and you'll see why.
+And x to the fourth over 4 factorial, plus x to the fifth, over 5 factorial, plus x to the sixth, over 6 factorial, plus x to the seventh over 7 factorial, plus x to the eighth over 8 factorial.
+And it just keeps going on and on to infinity, right? Only when we take the infinite series does it exactly equal e to the x.
+Fair enough.
+Well what was the Maclaurin Series representation of cosine of x? Well that equaled and I'm going to space them out in a certain way, and I think you'll see why it equalled 1 plus x squared over oh no, sorry, 1 minus, this is a minus sign, let me erase that because I want to make this as neat as possible.
+Equal to 1 minus x squared over 2 factorial, right, we learned that two videos ago, plus x to the fourth over for 4 factorial, minus x to the sixth over 6 factorial.
+I think you might already know know where I'm going with this.
+Plus x to the eighth over 8 factorial, and it just kept going, the next digit would be a minus out here.
+And it goes to infinity, right? For that pattern, you know the pattern.
+And what is sine of x? What's the Maclaurin Series representation for sine of x? Well, sine of x, it equals x minus x to the third over 3 factorial, plus x to the fifth over 5 factorial, minus x to the seventh over 7 factorial, and it just keeps going.
+You'd have an x to the ninth out here.
+But it goes on for infinity, right? These all go on for infinity, but you know the pattern.
+So let's just pause here because this is, I think if you understand what's going on, one of the few things in life that will truly give you chills.
+It'll truly make you believe that there is a order to the universe that we as human beings can only catch a glimpse of.
+We have limited minds.
+But we are on the verge, we're scraping the surface, but there's something amazing here.
+Cosine of x and sine of x.
+Each of their Maclaurin Series representations, or if you were essentially to write them as polynomials, each of them looks like it's almost like part of e to the x, right? It's almost every other digit.
+And they would be the same except for a couple of sign changes.
+Let me make that clear.
+So what if I were to define the function cosine of x plus sine of x? What would that equal? Or what would it's Maclaurin Series representation of that be? Well, and then we know that it's also equal.
+But it's essentially adding these two rows.
+So it would be 1 plus x, minus squared over 2 factorial, minus x to the third over 3 factorial, plus x to the fourth over 4 factorial, plus x to the fifth over 5 factorial, minus x to the sixth over 6 factorial, minus x to the seventh over 7 factorial, plus x to the eight over 8 factorial.
+And it just keeps going, right? The next one would be a plus, it goes on to infinity.
+Now I think it should be clear to you that something, that the goose bumps should be emerging on your arm.
+Because look at this, and look at e to the x.
+What's the difference? Well, just a couple of negative signs here and there.
+Let me do it in a slightly brighter color.
+So the only difference between this function and this function are these negative signs.
+And I've seen this before, I've learned this before, people for hundreds of years have known this.
+But I'll tell you something.
+No one, even though they can prove it mathematically, no one really understands why this is.
+Why we take these trigonometric functions that appear, you know, when we take the ratios of the sides of a right triangle, or the unit circle definition, and you know it's useful for, you know, triangle measure, that's trigonometry.
+That's where we came up with this cosine and sine functions.
+And it's related to the circle and all the rest.
+That when you add these two fundamental functions together from trigonometry, right? Because tangent is really just the ratio of the sine to cosine.
+So these are really what trigonometry, this is the basis of trigonometry.
+When you add their polynomial representations together, it's almost exactly, except for these negative signs, the polynomial representation of e to the x.
+And the number e, and first of all, this is an exponent, these are no exponents here.
+And e is just completely unrelated, or at least one would think from trigonometry.
+Right, e is, we got e from compound interest, you'll see that it's related to exponential growth, exponential decay, when you have continuous exponential growth and decay, continuous compound interest.
+If this number that is in a completely unrelated field of, not just mathematics, but really the universe, right? Continuous interest vs.
+the ratios of the sides of right triangles.
+So this should already be getting you thinking.
+But what would be even more amazing is if we could somehow work with these to make them a little bit more equal.
+Well, the only thing that's different are these negative signs, right? So do we know anything else in mathematics, in our mathematical tool kit, that has this pattern? Where it goes positive positive, negative negative, positive positive, negative negative? It has this essentially the cycle of four.
+Well you might be thinking, and this will even give you larger goose bumps, or make your current ones bigger, the number i, or the imaginary unit i.
+So what are the powers of i? This is a little review.
+If this is completely unfamiliar to you, you should re-watch the imaginary numbers video.
+So what are the powers of i? Well i to the zero is 1, i to the first is i, i squared is negative 1, i to the third power, that's negative 1 times i, so it's negative i.
+i to the fourth power is i times negative i, so the i's become negative 1 and then you have a negative there, so it becomes 1.
+And the pattern repeats itself.
+i to the fifth is i, i to the sixth is negative 1.
+We learned this before, but it's just a review.
+i to the seventh is negative i, i to the eighth then becomes 1 again.
+So there you have it, this is amazing.
+i has that property where the second two in the cycle of four are negative, right? We have a negative number here.
+This is not necessarily a negative number, it's a negative imaginary number, but we have that negative sign, so it looks pretty similar, right? Then we have two positives, then we have a negative and a negative.
+And something else is interesting going on here.
+Wherever we see the imaginary number, whenever we see an i or a negative i, which terms do they correspond to? Well they correspond to the terms of sine of x, right? It corresponds to that term, negative i corresponds to that term.
+i corresponds to that term, negative i corresponds to that term.
+So we have something, it seems a little bit even more of a pattern.
+But anyway, I just realized I only have I have to say I'm normally pretty smooth in these videos, but when I start talking about what I'm talking about right now, my brain starts to go in circles.
+Because this is, I've actually even heard, you know, what we're what we're about to touch on, as proof of the existence of God.
+And really, that's not that much of an exaggeration.
+It is definitely proof of the existence of some hidden order of the universe that we can only catch a glimpse of.
+And maybe you can call that God.
+But anyway, I don't want to get metaphysical on you, but I will see you in the next video.

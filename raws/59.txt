@@ -1,0 +1,129 @@
+Transcript for: Indefinite Integration (part III)
+Welcome back. Well I'm now going to do a
+presentation on how to essentially invert the chain
+rule or reverse the chain rule, because we're doing
+integration, which is the opposite of taking
+the derivative. So let's just take a
+review of what the chain rule told us before. If I were to take the
+derivative of f of g of x hopefully this doesn't
+confuse you too much. I'll give another example
+with a concrete f of x and a concrete g of x. If I want to take the
+derivative of that, the chain rule just says the derivative
+of this composite function is just the derivative of
+the inside function. g prime of x times the
+derivative of the outer, or kind of the parent function,
+but still having g of x in at times. f prime of g of x. I know this might seem
+complicated if you aren't too comfortable with this type of
+notation, but done in kind of an example form it
+makes a lot of sense. If I said what is the
+derivative of let's say sin of x squared. Well in this situation, f
+of x is sin of x, right? And then g of x is
+x squared, right? And sin of x squared is
+essentially f of g of x. And this review of chain rule. You could go watch the video on
+the chain rule as well, but I don't mind doing a couple
+of problems here. All this is saying that the
+derivative of this is you take the derivative of the inside
+function g of x in this example, which is 2x and you
+multiply it times the derivative of the
+outer function or the parent function. And we memorize I guess that
+the derivative of sin of x is cosine of x, so it's
+times cosine of g of x. So we keep the x squared there. If it confuses you, just
+think about the inside and the outside function. If you take the derivative of
+kind of this composite function, it's the same thing
+that equals the derivative of the inside function, which is
+2x times the derivative of the outside function. But we keep this inside
+function in it, and we keep this x right there. So that's a review
+of the chain rule. So what happens if we want
+to reverse the chain rule? Well if we wanted to reverse
+it, we're essentially saying that we want to take the
+integral of something where we have the derivative of kind of
+the inner function, and then we have the derivative of a
+larger composite function. I'm just rewriting the chain
+rule, but I'm writing in an integral form that this
+is equal to f of g of x. This statement up here is
+the exact same thing as the statement down here. All I did is I took the
+integral of both sides. I'm saying the integral
+of this is equal to the integral of this right here. I probably shouldn't switched
+equal signs like that with you, but let's use
+this formula I guess. But all you have to know is
+this the reverse of the chain rule to solve some problems. Image invert colors. Let me rewrite that. The integral if I have g
+prime of x times f prime of g of x dx, then that is
+equal to f of g of x. This is just the chain
+rule in reverse. And I know it's very
+complicated sometimes when you have it in this notation,
+but I'll give you a couple of examples. What if I had the integral of
+let's say this is actually one that's often kind of viewed
+as a trick, but you'll see it's actually not that
+tricky of a trick. OK. So let's say I have the natural
+log squared over x dx. And if you saw an integral
+like this, you'd probably be daunted, and you'd be
+surprised, many people well into college calculus courses
+are still daunted by this problem. But all you have to
+recognize is this is the reverse chain rule. Why is this the
+reverse chain rule? Well, this is the same thing as
+the integral of 1/x times the natural log whoops, this
+should be nlx, right the natural log of x squared dx. These are the same thing,
+I just took the 1/x out. Now this might look
+a little familiar. Well, what's the derivative
+of the natural log of x? If you remember from
+the derivative module, it's 1/x, right? Let me write that down
+in the corner here. The derivative of the natural
+log of x is equal to 1/x. So right here we have
+the derivative of the natural log of x. So now we can just say that we
+could essentially treat this natural log of x as kind
+of a variable by itself. And essentially what I'm
+going to be doing if I could actually substitute for. Actually let's do that. Well no, no, no I don't do that
+now, that'll confuse you. Although my flip-flopping
+is probably confusing you even more. I have the derivative of the
+natural log of x, so I can then say well I have the derivative
+there, so this is a composite function. This is essentially
+f prime of g of x. So then I can say well
+that integral must be equal to this thing. This is something
+squared, right? So what's the integral
+of something squared? Well the integral of
+something squared is 1/3. That's something to
+the third power. We learned in the previous
+indefinite integral module, right? And then it's 1/3 something to
+the third power, and then we know from the chain rule that
+something is the ln of x. And I don't know if I've
+already forgotten to do it once, but don't forget
+to do the plus c. Now you say, Sal, this
+completely confused me, because it probably did. And if it completely confused
+you, let's just take the derivative of this and I think
+you'll see it happening the other way around and it
+might make a little sense. When you take the derivative,
+we just use the chain rule. You take the derivative
+of the inside first. The derivative of the inside is
+1/x and you multiply that times the derivative of the outside
+function, and then you keep the inside the same. So the derivative of the
+outside function is 3 times it coefficient, so it's 3 times
+1/3 times the whole thing to one less exponent. So the whole thing is ln of x. And then of course
+plus 0, right. The derivative of c is 0. Well this is just equal
+3, 3 cancel out. This is equal to 1/x times
+the ln of x squared, which is our original problem. Let me do another problem
+because I probably started off with something a
+little bit too hard. What is the integral of
+let's say sin of x to the third power dx. That's often written like this. That's often written
+like sin of x. Same thing, but I like to
+think of it this way because it's not a new notation. Actually this is a mistake. Clearly I'm making up these
+problems on the fly. Actually I don't
+want to do that. That is the wrong problem. I want to take the integral
+and actually you can see kind of how I'm thinking about these
+problems I'm going to take the integral of cosine of x
+times the sin of x to the third power dx. Well, we have this kind of more
+complicated part, the sin of x, and we have the derivative sin
+of x because we learned the derivative sin of
+x is cosine of x. So if we have a function inside
+of a larger composite function, and we have it's derivative, we
+can just treat this function as kind of like a single entity. Like if this was just one
+variable and then we take integral of it. So this just equal to sin of x
+and we raise this one more power to the fourth and
+we multiply times 1/4. And how did we do that? Because we know that the
+integral of say x to the fourth dx is equal to I mean x to
+the third dx is equal to 1/4 x to the fourth. Instead of an x we
+had a sin here. And remember the reason why we
+did that is because the derivative of the sin function
+is sitting right here. In the next presentation, I'll
+show you why this can also be done using substitution, or
+why they're the same thing. I'll see you in the
+next presentation. 

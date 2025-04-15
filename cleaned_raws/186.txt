@@ -1,0 +1,135 @@
+Transcript for: 2D divergence theorem | Line integrals and Green's theorem | Multivariable Calculus | 
+- [Instructor] Now that we know a little bit about how to construct a unit normal vector at any point in a curve, that's what we did in the last video, I want to start exploring an interesting expression.
+So the expression is the line integral around a closed loop, and we're gonna go in the positive, counterclockwise orientation, of a vector field F, dotted with the unit normal vector at any point on that curve ds, I'll write ds in magenta, ds.
+So first let's conceptualize what this is even saying, and then let's manipulate it a little bit to see if we can come up with and interesting conclusion.
+We actually will manipulate it.
+we'll use Green's theorem, and we're gonna actually come up with a two-dimensional version of the divergence theorem, which all sounds very complicated, but hopefully we can get a little bit of an intuition for it as to why it actually a little bit of common sense.
+So first, lets just think about this.
+So let me draw a coordinate plane here.
+So let me do it in white.
+So this right over here, that's our y-axis.
+That over there is our x-axis.
+Let me draw ourselves my curve.
+So my curve might look something like.
+.
+.
+I'll do it in the blue color.
+So my curve might look something like this, my contour, and its going in the positive, counterclockwise direction just like that.
+And now we have our vector field, and, just a reminder, we've seen this multiple times.
+My vector field will associate a vector with any point on the x-y plane, and it can be defined as some function of x and y, actually, I'll call that P, some function of x and y times the i unit vector.
+So it says what the i component of the vector field is for any x and y point, and then what the j component, or what we multiply the j component by or the vertical component by for any x and y point.
+So some function of x and y times i plus some other scalar function of x and y times j.
+And so, if you give me any point, there'll be an associated vector with it.
+Any point, there's an associated vector, depending on how we define this function.
+But this expression right over here, we're taking a line integral.
+We care specifically about the points along this curve, along this contour right over here.
+And so let's think about what this piece right over here is actually telling us before we sum up all of these infinitesimally small pieces.
+So if we just take F dot n, so let's just think about a point on this curve.
+A point on this curve, maybe this point right over here.
+So associated with that point, there is a vector.
+That's what the vector field does.
+F might look something like that right over there.
+So that might be F at that point, and then we're gonna dot it with the unit normal vector at that point.
+So the unit normal vector might look something like that.
+That would be n hat at that point.
+This is the vector field at that point.
+When you take the dot product, you get a scaler quantity.
+You essentially just get a number and you might remember it and there's several videos where we go into detail about this but that tells you how much those two vectors go together.
+It's essentially, if they're completely orthogonal to each other you're gonna get zero and if they go completely in the same direction it's essentially just gonna multiply their magnitudes times each other.
+And since you have a unit normal vector here, what this is essentially going to give you is the magnitude of the vector field F that goes in the normal direction.
+So, think of it this way.
+So let's think about the component of this that goes in the normal direction.
+It might look something like that, this would be the component that goes the tangential direction.
+So, this expression right over here is going to give us the magnitude of this vector.
+Let me write this down, this right over here is the magnitude of the component of F, in the normal direction or in the same direction as that unit normal vector.
+Normal direction.
+And then were gonna multiply that times a very infinitely small length of our contour, of our curve right around that point.
+So were gonna multiply that thing, times this right over here.
+And so you might say, "Well, you know, okay, I kind of "get what that is saying but "how could this ever be physically relevant, "or what could be the intuition for what "this expression is even measuring?" And to think about that, I always visualize this is in two dimensions.
+You will later do things like this in three dimensions, so imagine this is a two dimensional universe and we're studying gases.
+And so you have all these gas particles in a two dimensional universe so they only can have kind of an x and y coordinate and this vector field is essentially telling you the velocity at any point there.
+So this is the velocity of the particles at this point, this is the velocity of particles at that point, that is the velocity of particles at that point.
+And so, when you take F right on this curve, that's the velocity of the particles at that point they're going in that direction.
+When you dot it with N it tells you, essentially, the speed going straight out right at that point, and then when you multiply that times ds, you're essentially saying, at any given moment, how fast, or at that point right over there on the curve, how fast are the particles exiting the curve? And so if you were to sum up all of them which is essentially what this integral is doing with the slight integral, it's essentially saying, how fast are the particles exiting this contour? Are they even entering the contour if you get a negative number? But since were taking the unit normal vector that is outward-pointing, it's saying, "How fast are they exiting this thing?" If you've got a negative number, that means there might be some net entrance.
+So, this whole expression is if you take that analogy, it doesn't have to have that physical representation, how fast are particles, are two dimensional gas particles exiting the contour? In the future, you can do three dimensions where you have a surface and you can say, "How fast are things exiting this surface?" And so let's start, now that we hopefully have a decent conceptual understanding of what this could represent let's play around with it a little bit, especially because we know how to define a normal vector.
+So, let's rewrite it using what we know about how to construct a normal vector.
+So, if we rewrite it our integral becomes this.
+We have our vector field F, dotted with the normal vector.
+The normal vector we can write this way.
+A normal vector we saw was dy times y minus dx times j.
+And then we had to divide it by its magnitude.
+In order to make it a unit normal vector, the magnitude was this right over here, dx squared by dy squared, which is the same thing as ds which is the same thing as that little mini arc length that infinitely small length of our contour.
+So, we're going to divide it by ds.
+We're going to divide it by ds.
+And then we're going to multiply it times ds.
+We're going to multiply it by ds.
+And ds is just a scanner quality, and so we can actually even multiply this thing times ds before taking the dot product or vice versa.
+But these two things are going to cancel out.
+And so we're essentially left with F dot this thing right over here.
+But we have F defined right over here so let's take the dot products.
+I'll just write the line integral symbol again.
+We're going in the counterclockwise direction.
+And when we evaluate and now let's in let me pick a color that I have not used.
+I may have used many colors so I'll do yellow again.
+So now, let's evaluate F dot this business.
+So, dot product fairly straightforward.
+You take the product of the x-components, or essentially the magnitude of the x-components.
+So, it's going to be P of Y, P of xy, times the dy, plus the product of the magnitudes of the y component or the j component.
+So it's going to be plus Q of xy times minus dx, times negative dx.
+Well, that's going to give us negative Q of xy, negative Q of xy times dx.
+So, this is kind of interesting statement.
+We've seen something not too different from this before, when we saw even just the definition of Green's theorem.
+Let me rewrite here just so we remember.
+So, the definition when we learned about Green's theorem, it told us if we're taking a line integral over this contour and there's multiple ways to write it, but one way that we often still see it, and we've explored it already in our videos is if we were to say M times dx plus N times dy, this is equal to and I'm just restating Green's theorem right here this is equal to the double integral over the region that this contour surrounds of.
+.
+.
+And whatever function you have here times dy, you take the partial of that with respect to X, the partial of N with respect to X, and from that we subtract whatever was on the dx side, so the partial of M with respect to Y, and then you could say times df, dy, or you could say da, for the infinitesimally small little chunk of area.
+So, I'm going to write DA here.
+All right, dx, dy, or it could be dy.
+Or we might as well write DA here, since we're speaking in generalizations, where DA is an infinitely small little chunk of area.
+So this here, this is just a restatement of Green's theorem so we already know this.
+This is a restatement of Green's Theorem and how can we apply it here? Well, it's the same thing.
+You have a little bit of sine differences but you can apply Green's theorem here.
+This is going to be equal to the double integral over the region that this contour surrounds.
+And then, what we want to do is, we want to look at whatever is the function that is being multiplied by the dy.
+In this case, this is the function that is being multiplied times the dy.
+And we want to take the partial of that in respect to X.
+So, we're going to take the partial of P with respect to X.
+So, the partial of P with respect to X.
+And then from that we are going to subtract.
+We're going to subtract the other function, whatever's being multiplied by dx, we're going to take the partial of that with respect to Y.
+So here, we're going to take the partial of this whole thing with respect to Y, but we have a negative out here so it's going to be minus partial of Q with respect to Y and then we have DA, and obviously, these two negatives, subtracting the negative just gives you a positive.
+So this is going to be equal to the double integral over the region.
+And maybe you already see where this is going, maybe getting a little bit excited.
+The partial of P with respect to X plus the partial of Q with respect to Y, dA.
+Now, okay, I took the partial of.
+.
+.
+"Well, what is this telling me, Sal?" Well, look at this thing right over here.
+P was originally the function that was telling us the magnitude in the X direction.
+Q was telling us the magnitude of the Y direction.
+We're taking the partial of this with respect to X, we're taking the partial of this with respect to Y and we're summing them.
+This is exactly the divergence of F.
+And if that doesn't make any sense, go watch the video on divergence.
+This right over here is the divergence of F.
+This is the divergence by definition, really, this is the divergence of our vector field F.
+And so, we have a very interesting thing.
+This thing that we saw was the original expression that we started studying which is essentially saying, "What's the speed at which the particles "are exiting this surface?" We now get it in terms of this little expression.
+And we'll interpret in an intuitive way and a little bit of this in a little bit.
+So this is equal to the divergent of F times dA over the whole region so the double integral.
+So, we're summing up the divergence of F times the infinite, really small little chunk over there and we're summing them up over the whole region.
+Now, why does that make intuitive sense? And for you to realize why it makes intuitive sense, you just have to remind yourself what the divergence is.
+Divergence is a measure of whether things are expanding or diverging or kind of contracting.
+If you have a point over here where around that, the particles are kind of moving away from each other, you would have a positive divergence here.
+If you have a point, sometimes called a sync, where all of the particles are kind of condensing or converging you would have a negative divergence here.
+And now, so this should make a lot of sense.
+You take any little infinitely small area in this, you take any little infinitely small area, and then multiply that times the divergence there.
+So, the more divergence, you're going to get a larger number and then you sum it up across the entire region.
+That makes a lot of sense.
+The more diverging that's going on through your region, obviously, the more stuff that's going to be exiting your boundary over here.
+So, it actually makes complete sense, or hopefully it makes a little bit of complete sense.
+If you were to see how fast are things exiting the surface, it's really the two dimensional flux, how fast are things exiting the surface, and you take the sum of all of them, that's going to be the same thing of summing all of the divergences over this area that the contour is surrounding.
+So, hopefully that makes a little bit of sense to you.
+And it's actually another way of kind of thinking about Green's Theorem.
+And we also have just explored what we just said, this expression that the divergence summed over this region over here is the same thing as the F dot n over the contour.
+That is, essentially, the two dimensional divergence theorem.

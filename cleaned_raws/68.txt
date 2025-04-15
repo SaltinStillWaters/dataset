@@ -1,0 +1,113 @@
+Transcript for: Definite Integrals (part 4) Welcome back.
+I'm now going to use definite integrals to figure out the areas under a bunch of curves and, if we have time, maybe even between some curves.
+So let me right down the fundamental theorem of calculus.
+I know I covered it really fast in the last presentation.
+Just to make sure you understand this formula.
+The last couple presentations were really to give you an intuition for this exact formula.
+Let's say that big f prime of x is equal to f of x, right? That's also like saying that the that's equivalent to saying that f of x big f of x is equal to the antiderivative of f of x, right? Well, let's just that it's one of the possible antiderivatives of f of x, right? Because there's always a constant term here and you're not sure whether it is.
+And this is why people tend to use this standard because we know that f of x is the derivative of big f prime of x.
+Big f of x is just one of the antiderivatives of f of x.
+So this is a little bit not true, but I think you get the idea.
+But the fundamental theorem of calculus tells us if this top line is true, then the definite integral from a to b of f of x d x is equal to its antiderivative evaluated at b minus its antiderivative evaluated at a.
+And I know I said here that big f isn't the only antiderivative, right? Because you could at any constant to this and that would also be the antiderivative.
+But when you subtract here, the constants will cancel out.
+So it really doesn't matter which of the constants you pick.
+The constant actually doesn't matter.
+So that's why I actually said the antiderivative.
+But let's apply this.
+You might be confused right now.
+So let me draw a graph.
+There you go.
+Look how straight that is.
+Draw the x-axis.
+Not perfect but it'll do.
+Let's say that my f of x is equal to x squared plus 1.
+So f of x looks like this.
+This is 1.
+So it'll start at 1.
+It'll just be a parabola.
+Let me see how good I can draw this.
+I've done worse.
+OK.
+So that's f of x.
+It's a parabola.
+y-intercept at 1.
+And let's say I want to figure out the area under the curve between the curve and, really, the x-axis.
+Let's say I want to figure out the area between the curve and the x-axis from x equals negative 1 to, I don't know, x equals 3.
+So this is the area I want to figure out.
+I'm going to shade it in.
+So this is the area.
+All of this stuff.
+I want to figure out this area.
+And you could imagine, before you knew calculus, figuring out an area of something with a curve it's kind of top boundary.
+It would have been very difficult.
+But we will now use the fundamental theorem of calculus and hopefully you have an intuition of why this works and how the integral is really just a sum of a bunch of little, little, small squares with infinitely small bases.
+But if you watched the last videos, hopefully that hit the point home.
+But now we'll just mechanically compute because, actually, understanding it is a bit harder than just doing it.
+But let's just mechanically compute it.
+So we are essentially just going to figure out the integral from minus 1 to 3 of f of x, which is x squared plus 1 d x.
+What's the antiderivative of x squared plus 1? This just equals the antiderivative.
+So it's just x to the third we could say 1/3 x to the third or x to the third over 3 plus x, right? The derivative of x is 1.
+And then we don't have to worry about plus c because we're going to subtract out the c's.
+You'll see.
+I think you'll get the point.
+It doesn't matter.
+You could pick an arbitrary c right here and it'll just cancel out.
+And we're going to evaluate that at 3 and negative 1 and we're going to subtract out big f of negative 1 from big f of 3.
+This is just the notation they use.
+You figure out the antiderivative and you say where you're going to evaluate it.
+And then this is equal to So if I evaluate 3.
+3 to the third power is what? That's 27.
+27 divided by 3 is 9.
+And then 9 plus 3 is 12.
+Right? This is just big f of 3, right? Because I figured out the end This is big f of x.
+You can kind of view this as big f of x.
+But not to be confused with small, cursive f of x.
+This is big f of x.
+So this big f of 3.
+And then, from that we'll subtract big f of negative 1, right? Minus big f of negative 1.
+And if we put minus 1 here.
+Let's see, minus 1 to the third power is minus 1.
+So it's minus 1/3 and then plus minus 1, right? So minus 1/3 plus minus 1.
+I think that equals minus 4/3, correct? I think so.
+Maybe I'm making a mistake with negative signs.
+Minus 1/3 minus 4/3.
+And I'm going to subtract that, right? So if I'm subtracting minus 4/3, it's the same thing as adding minus 4/3.
+And then we have our answer.
+Actually, it's 12 and 4/3 whatever units.
+Squared units.
+12 and 4/3 squared units.
+We could write this as a mixed number as well.
+Let's do another one.
+I'll do a slight variation.
+OK.
+Let me draw again.
+Some coordinates.
+I don't know if I'm going to have time to do it in this video but I'll try.
+I always try.
+Let's say I have f of x is equal to the square root of x.
+So it looks something like this.
+That's actually a pretty nice looking, kind of sideways parabola, I think.
+This is f of x.
+And let's say I have another function.
+g of x which equals x squared.
+So g of x is actually going to look something like this.
+Whoops! I was doing well and then something happened.
+And, of course, it'll continue on this side as well.
+Because it is defined for negative numbers.
+But anyway, my question to you, or my question to myself, really, is what is the area between the curves where they intersect? What is this? What is this area? Well, the first thing you have to figure out is just what are the boundary points? What is this point? And what is this point? Well this point, I think, is pretty clear.
+It's 0, 0, right? They both intersect at 0, 0.
+And even this point, you could probably do it from intuition.
+But if you don't, I guess, want to do it through intuition, you could just set these 2 equations equal to each other, right? You could say x squared is equal to the square root of x, right? And then you could do a bunch of things.
+You could square both sides or well, actually, this is the same thing as doing it by intuition.
+But I think it's pretty obvious that the only places where x squared is equal to the square root of x are the points x equals 0, which you already know, and x equals 1.
+So this is the point 1, 1.
+Which is true for both of them.
+And this is more algebra, so I won't go into that in too much detail.
+I'm kind of running out of time.
+So we want to figure out the area between these 2 curves.
+So what we can do is maybe you want to pause it and think about it yourself we can figure out the area under the grey curve.
+We could figure out this area.
+So we want to figure out this is a boundary, right? Between 0 and 1.
+We could figure out this area and then we could figure out the entire area under the green curve separately and then we could subtract the difference.
+Which is exactly how we're going to do it in the next video because I have run out of time.

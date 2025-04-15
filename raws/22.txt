@@ -1,0 +1,105 @@
+Transcript for: Product rule | Taking derivatives | Differential Calculus | Khan Academy
+Welcome back. I'm now going to introduce
+you to a new tool for solving derivatives. Really between this rule, which
+is the product rule, and the chain rule and just knowing a
+lot of function derivatives, you'll be ready to tackle
+almost any derivative problem. Let's start with
+the chain rule. Let's say that f of x is equal
+to h of x times g of x. This is the product rule. In the chain rule it was f of
+x is equal to h of g of x. Right? I don't know if you
+remember that. In this case, f of x is equal
+to h of x times g of x. If that's the case, then f
+prime of x is equal to the derivative of the first
+function times a second function plus the first
+function times the derivative of the second function. Pretty straightforward. Let's apply it. Let's say that I don't like
+this brown color, let me pick something more pleasant. Maybe mauve. Let's say that f of x is equal
+to 5x to the fifth minus x to the seventh times 20x squared
+plus 3x to them mine 7. So one way we could have
+done it, we could just multiply this out. This wouldn't be too bad, and
+then take the derivative like any polynomial. But let's use this product rule
+that I've just shown you. So the product rules that says,
+let me take the derivative of the first expression, or h of x
+if we wanted to map it into this rule. The derivative of that is
+pretty straightforward. 5 times 5 is 25. 25x to the fourth, right? Then minus 7, x to the sixth. We're just going to multiply it
+times this second expression, doing nothing different to it. Maybe I'll just do it
+in a different color. Times 20x plus 3x minus 7. And then to that we will
+add the derivative of this second function. The derivative of that second
+function is 40x minus 21x to the minus eighth. And that times this
+first function. I guess I'll switch
+back to mauve, I think you get the point. 5x to the fifth minus
+x to the seventh. All we did here was we said OK,
+f of x is made of these two expressions and they are
+multiplied by each other. If I want to take the
+derivative of it, I take the derivative of the first one and
+multiply it by the second one. And then I add that to the
+derivative of the second one and multiply it
+by the first one. Let's do some more examples
+and I think that will hit the point home. Clear image. Change the colors and
+I'm back in business. Let me think of a good problem. Let me do another one like
+this, and then I'll actually introduce ones and the product
+rule and the chain rule. So let's say that f of x is
+equal to 10x to the third plus 5x squared minus 7 times
+20x to the eighth minus 7. Then we say f prime of x,
+what's the derivative of this first expression. It's 30x squared plus 10x. And I just multiply it times
+this expression, right? 20x to the eighth minus 7. And I add that to the
+derivative of this second expression, this is all on one
+line but I ran out of space, 160x to the seventh, right? 8 times 20 is 160. And then the derivative
+of 7 is zero. So it's just 160x to
+the seventh times this first expression. 10x to the third plus 5x
+squared minus seven. There we go. And you could simplify it. You could multiply this out
+if you wanted or you could distribute this out if you
+wanted, maybe try to condense the terms. But that's really just algebra. So this is using
+the product rule. I'm going to do one more
+example where I'll show you, I'm going to use the product
+and the chain rule and I think this will
+optimally confuse you. I want to make sure
+I have some space. Here I'm going to use a
+slightly different notation. Instead of saying f of x and
+then what's f prime of x, I'm going to say y is equal to x
+squared plus 2x to the fifth times 3x to the minus three
+plus x squared to the minus 7. And I want to find the rate at
+which y changes relative to x. So I want to find dy over dx. This is just like, if this
+was f of x, it's just like saying f prime of x. This is just a [UNINTELLIGIBLE] notation. So what do I do in
+the chain rule? First I want the
+derivative of this term. Let me use colors to make
+it not too confusing. So what's the derivative
+of this term? We are going to use
+the chain rule first. So we take the derivative of
+the inside which is 2x plus 2 and multiply times
+the derivative of the larger expression. But we keep x squared plus 3x
+there so it's times 5 times something to the fourth. And that something is
+x squared plus 2x. So there we took the derivative
+of this first term right here and then the product rules says
+we take the derivative of the first term, we just multiply
+it by the second term. So the second term is just 3x
+to the minus 3 plus x squared and all that to the minus 7. We did that and then to that we
+add plus the derivative of this second term times
+this first term. We're going to use the
+chain rule again. What's the derivative
+of the second term? I'll switch back to
+the light blue. Light blue means the derivative
+of one of the terms. So we take the derivative of
+the inside, the derivative of inside is minus 3 times 3 is
+minus 9, x go down one to the minus 4, plus 2x. And now we take the derivative
+of the whole thing. Times minus 7 times something
+to the minus 8, and that something is this inside. 3x to the minus 3
+plus x squared. And then we multiply this
+thing, this whole thing which is the derivative of the second
+term times the first term. Times, and I'm just going to
+keep going, times x squared plus 2x to the fifth. So this is a really, I
+mean you might want to simplify at this point. You can take this minus
+7 and multiply it out and all of that. But I think this
+gives you the idea. And if you have to multiply
+this out and then do the derivative if it's just a
+polynomial, this would take you forever. But using the chain rule,
+you're actually able to, even though we ended up with a
+pretty complicated answer, we got the right answer. And now we could actually
+evaluate the slope of this very complicated function at any
+point just by substituting the point into this fairly
+complicated expression. But at least we could do it. I think you're going to find
+that the chain and the product rules become even more useful
+once we start doing derivatives of expressions other
+than polynomials. I'm going to teach you about
+trigonometric functions and natural log and logarithm
+and exponential functions. Actually, I'll probably do that
+in the next presentation. So I will see you soon. 

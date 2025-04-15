@@ -1,0 +1,137 @@
+Transcript for: Gradient 1 | Partial derivatives, gradient, divergence, curl | Multivariable Calculus | Khan Academy
+Let's learn a little bit about
+the gradient, and we'll use the same function we've been using
+since we're pretty familiar with it's graph and it's
+partial derivatives. So let's say that f of x y is
+equal to x squared plus x times y plus y squared. Now we're going to take the
+gradient of this, and then I'll give you a little bit of
+intuition on what a gradient is. We're going to take the
+gradient in two-dimensional space, and you'll see what
+that means in a second. You can extend this
+to any dimension. So the gradient that we use
+this vector differential operator this upside down
+triangle the gradient of f is equal to the partial of f in
+the x direction times the unit vector i which is the unit
+vector in the x direction so it gives the magnitude of the
+slope and the x direction, and then it points the vector in
+that direction plus the partial with respect to
+y in the j direction. And obviously if there's a
+function of more variables you could keep going and you'd
+multiply the magnitude of the derivative in each of those
+dimension's directions times the unit vector in
+that dimension. Well what does this mean? And another way to view it, you
+could have also written this as the gradient of f is equal to
+the partial with respect to x of f of x y and then all of
+that in the i direction. This is just
+different notation. Plus the partial with respect
+to y times f of x y. Not times, operated
+on f of x y. So the partial of f of x y
+with respect to y times the j unit vector. And because of this notation, a
+lot of people view this delta operator and actually it's
+pretty consistent when we learn about the divergence and the
+curl a lot of people view this delta operator, they
+actually define it. They say that is equal to the
+partial with respect to x in the i direction plus the
+partial with respect to y in the j direction. And then if you wanted to do it
+into three space that's not going to apply to our problem
+because we only care about two dimensions right now. And you'll see what I mean. Because even though we're
+applying it to a three-dimensional surface, but
+then you can do the partial with respect to z
+times the k vector. And then you could extend it to
+n dimensions, but it becomes very hard to visualize. Actually it becomes hard
+to visualize beyond what we're doing right now. So what does this mean? Well before I go into what it
+means, let's actually calculate it for this and then I'll
+show you what it means. Let's actually calculate
+the gradient of f. So the gradient of our
+particular function, it's a partial with respect to x. So we figure that out. That's 2x plus y, and then
+that doesn't matter anymore. So it's 2x plus y. That's the partial of this
+function with respect to x. And we multiply that in
+the i direction, or in the x direction. Plus the partial with respect
+to y, and this is 2y plus x. And we calculated this in
+the two videos on the partial derivatives. And we multiply that
+in the j direction. So what does that look like? Well what are each of the
+components of this vector? What is 2x plus y in
+the i direction? What does that
+vector look like? What is 2y plus x in the
+j direction look like? And this I have graphed. So this is the same surface
+we've been working with, but now I've plotted these
+points right here. These are just points that the
+software has picked to actually display these vectors. And if you look at it,
+this is the x-axis. And I can rotate this. I can pull it down
+a little bit. And then I can spin it around. I think that's pretty neat. But anyway. This parallel to this
+line is the vector in the x-axis, right? So at this point I've actually
+calculated the gradient. This vector says, what is the
+magnitude of this vector is the partial derivative of the
+function, or the partial derivative of the surface,
+or the partial derivative of z with respect to x. And it's direction, it just
+goes in the x direction, because it's that times
+the i unit vector. So this vector is the partial
+derivative of z with respect to x times the i unit
+vector at that point. So we just calculated
+the partial derivative at that point. It gave this length. And then the direction is just
+the i unit vector, or in the direction of increasing x. Similarly, this vector right
+here I hope you can see it. Let me see if I can actually
+zoom in a little bit. That might be useful. Zoom in, there you go. And I wanted to see the axes,
+which you can't see now that I'm zoomed in, but you took my
+word this was the x direction. Now this is the y direction,
+or the same direction as the j unit vector. The j unit vector goes in
+the same direction as y. And the magnitude is determined
+by the partial derivative of z with respect to y
+at that point. And that's the magnitude. And we saw there was some
+symmetry, so the magnitude of this vector is the same as the
+magnitude of this vector. And then when you add the
+two vectors together, you get this vector. And notice that none of these
+vectors have any dimensions in the z dimension. They're all kind of giving you
+directions in the x y plane. And why is that interesting? Well the gradient and this is
+the intuition the gradient tells you the direction in the
+x y plane you should travel in order to get the maximum
+slope in the z dimension. Or another way to view it. Remember the partial derivative
+with respect to x said what is the slope in the x direction. The partial derivative with
+respect to y said what is the slope in the y direction. But you could take the partial
+derivative with respect to any direction, and the gradient
+gives you the direction in which the slope is the largest. So let me zoom out a little bit
+because I want you to see the actual axes There's the axes So
+all this says if I were to go in this direction, I
+get the maximum slope. So if I go in this direction,
+my z goes up like that. Let me see if I can rotate
+this a little bit. I don't want to
+scale it anymore. Let me do the rotated. See if I can show that to you. So if I go in that direction in
+the x y plane, I get maximum z. If I go in that direction I
+get a maximum upward slope. That's what the gradient tells
+you, how do you get the maximum upward slope. And if you were to take any
+closed line where the z is constant well actually I
+don't want to get into that too much, but this gradient will
+actually be normal to any, or it'll be perpendicular to any
+curve where z is constant. I don't want to get too
+involved with that right now, so let's go back here. Maybe it's more clear if we
+look from below the graph. So if you go to this point
+right here, this is the magnitude of this vector,
+shows what is the slope in the x direction. The magnitude of this vector
+is what is the slope in the y direction. And then when you add them
+together, you get the gradient. And the gradient says, well, if
+I travel in this direction in the x y plane notice that
+none of these have any z's. The plane defined by all
+of these vectors is all flat in the z dimension. But if I would have traveled
+this direction in the x y plane, then I will get the
+maximum increase in z per unit that I travel. And let's actually show
+you what it looks like in the x y plane. So if I just go head on so
+I'm above the graph looking straight down at the graph, and
+then the colors just show kind of you know where we are if I
+travel in this direction in the x y plane, I get my
+maximum increase in z. If I'm here notice here the x
+component of the gradient is much larger than
+the y component. So I need to travel a little
+bit more in the x direction, and I'll get the maximum change
+in z if I travel there. Another way to think about it. If I'm on a hill, the gradient
+of that surface will tell you at any point what direction you
+need to travel in to go up the hill fastest. Or the direction which
+the steepness of the hill is maximum. This is more of a bowl as
+opposed to a hill, but anyway. I'll just rotate it around. Hopefully that
+makes some sense. And I want you to think
+about it a little bit more. And we'll do a few more
+problems where we just calculate gradients, just
+because I think it's useful to get the mechanics. But in my opinion at least the
+intuition is a little bit harder to get your head around
+than the actual mechanics, but once you get it, it
+makes a lot of sense. I will see you in
+the next video. 

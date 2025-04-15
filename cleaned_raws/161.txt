@@ -1,0 +1,125 @@
+Transcript for: 2011 Calculus AB free response #2 (c & d) | AP Calculus AB | 
+We're now on part c.
+"Evaluate the definite integral from 0 to 10 of H prime of (t)dt.
+Using correct units, explain the meaning of the expression in the context of this problem.
+" So we know that if we just want to evaluate this definite integral from 0 to 10 of H prime of (t)dt, this is just the same thing as evaluating the anti-derivative of this thing right over here, which is just H of t at 10.
+And subtract from that the anti-derivative of this evaluated at 0.
+This is the second fundamental theorem of calculus.
+This is exactly how we evaluate definite integrals.
+And when you look at it from this, you just see that when you evaluate it, it just gives us the difference in temperature from 0 minutes to 10 minutes.
+We're taking the temperature at 10 minutes and from that we're subtracting from that the temperature at 0 minutes.
+So this is really our change in temperature over those 10 minutes.
+And we can actually evaluate it.
+We know what our temperature was after 10 minutes.
+H of 10 is 43 degrees Celsius.
+So this is 43 right over here.
+And from that, we're going to subtract our initial temperature, our temperature at 0 minutes, which is 66 degrees Celsius.
+We're going to subtract 66 degrees Celsius.
+This gives us negative 23 degrees Celsius.
+So our change in temperature is negative 23 degrees.
+Or our temperature has gone down 23 degrees Celsius over the course of the first 10 minutes.
+So that is part c right over there.
+Now, let's do part d.
+"At time t equals 0, biscuits with temperature 100 degrees were removed from an oven.
+" So now we're talking about biscuits.
+We started with tea, now biscuits.
+"The temperature of the biscuits at time t is modeled by a differentiable function B, for which it is known that B prime of t" is equal to this business right over here.
+"Using the given models at time t equals 10, how much cooler are the biscuits than the tea?" Well, we know what the temperature of the tea is.
+So we just have to figure out the temperature of the biscuits to figure out how much cooler they are than the tea.
+And to figure out the temperature of the biscuits, we can essentially just use the exact same idea.
+We can say, we know that the biscuits started off at 100 degrees Celsius.
+And we could say, well, how much did they cool down? Or what was their change in temperature over the 10 minutes? If we know the change in temperature, and we know it started at 100 degrees, then we can use that information to get what its temperature is at 10 minutes.
+And then we can answer their question.
+So the change in temperature over those 10 minutes is just the definite integral from 0 to 10 of this business right over here.
+Let me just write it.
+So you see it's the exact same pattern as what we saw over here.
+This was for the cookies.
+Now we're talking about the biscuits.
+And this right over here is going to be the definite integral from 0 to 10.
+B prime of t they give it to us right over here is negative 13.
+84e to the negative 0.
+173t, dt.
+And now we just evaluate this.
+Well, we can evaluate this.
+What we'd have to is because we know the derivative of e to the a x is a e to the x.
+Let me write that.
+The derivative of e to the ax is equal to ae to the ax, just from the chain rule.
+Derivative of the inside is just a.
+And then we multiply that times the derivative of the entire thing.
+And derivative of e to the x is just e to the x.
+Or we could say that the integral of e to the ax dx is equal to 1 over a e to the ax plus c.
+And you could take the derivative of this to see that you would get this right over here.
+So using that same idea, the anti-derivative of this over here is just going to be the negative 13.
+84.
+And we're going to divide by this coefficient on the t right over here.
+So negative 0.
+173.
+And you could use your calculator.
+Calculators are allowed for this part of the problem.
+But we could do this analytically.
+Times e to the negative 0.
+173 times t.
+We're going to evaluate that from 0 to 10.
+So we're going to evaluate it at 10 and subtract from that this thing evaluated at 0.
+Let me just factor out this part right over here.
+So it's going to be negative 13.
+84 over negative 0.
+173 times this evaluated at when t is 10.
+So e to the if we multiply this times 10 this is negative 1.
+73.
+That's when I evaluated it at 10.
+And from that we want to subtract when this is evaluated at 0.
+If the exponent here is 0, if t is 0, the whole exponent is 0.
+So e to the 0 power is just equal to 1.
+And now we can get our calculator out to evaluate this.
+So I'll get my TI-85 out.
+I'm just going to evaluate this inner expression right over here.
+So e to the negative 1.
+73.
+And from that I want to subtract 1.
+So that gives me negative 0.
+822.
+So that's this part in parentheses.
+And then I want to multiply it times what I have out front.
+So my previous answer times and I won't write the negatives just because the negative divided by negative is going to be a positive.
+So it's just 13.
+84 divided by 0.
+173.
+And I didn't write the negatives, because they just cancel out.
+And that gives me negative 65.
+817.
+So this is our change in temperature for the biscuits.
+It's our change in temperature.
+Let me write it down.
+Negative 65.
+82 degrees.
+So this is negative 65.
+82 degrees Celsius.
+This is our change in temp for the biscuits.
+Now we know that they started off at 100 degrees, and they went down by 65.
+82 degrees over the 10 minutes.
+They started at 100, and then they went down by this previous amount.
+So, whoops.
+I want to subtract the answer.
+So minus the answer.
+Oh, sorry.
+I want to actually add the change in temperature.
+I want to be very careful here.
+It went down by 65 degrees.
+So I really should just say 100 minus 65.
+817.
+I could keep adding digits if I want.
+247, that's enough.
+So after 10 minutes the biscuits are 34.
+18 degrees.
+And we already knew what the temperature of the tea is after 10 minutes.
+We already knew it was 43 degrees.
+So the biscuits are at 34 degrees.
+The tea is at 43 degrees.
+So if we do 43 is where the tea is, then we subtract the temperature of the biscuits, we see that the biscuits are 8.
+82 degrees cooler.
+8.
+82 degrees Celsius cooler.
+So we could say the biscuits are 8.
+82 degrees Celsius cooler than the tea.
+And we're done with part d as well.

@@ -1,0 +1,140 @@
+Transcript for: Divergence 1 | Multivariable Calculus | Khan Academy
+Let's try to get our heads
+around the idea of divergence. So first, like I did with
+gradients, I'll show you the mechanics, which are actually
+pretty straightforward. And then I'll try to
+give you the intuition. And once you have the
+intuition, at first it will seemed very, I don't
+know, unintuitive, maybe. But it once you get it,
+you're like oh, that's it. So let's see what
+divergence is. Let's say I have
+a vector field. And let's say this vector
+field, just for the purposes of visualization it could be
+anything, but let's say it represents the velocity of
+particles of fluid of any point in two dimensions. So it's going to be a
+two-dimensional vector field. It's going to be a function of
+x and y, so the velocity at any point it's a vector field 
+let's say it is, and I'm just going to make up something. Let's say it's x squared, yi. So at any point in the
+x-direction, at any point x comma y, its velocity in the
+x-direction will be x squared, y. And then its velocity in the
+y-direction, I don't know maybe it's just 3y, j. That's its velocity
+in the x-direction. So its velocity in the
+x-direction is actually a function of x and y. its velocity in the y-direction
+is just a function of y. So what is the divergence? So a couple of ways
+we can write it. The correct way to write
+it is the divergence of our vector field, v. But a common mnemonic to
+remember the operation of diverge and is to write the
+upside down triangle, which was the same notation we used for
+gradient, but take the dot product of that and the vector. And if you remember from the
+gradient discussion, we said that you can view, although
+it's kind of an abuse of notation, but you could view
+this upside down triangle as being equal to the partial
+derivative with respect to x in the x-direction plus the
+partial derivative with respect to y in the y-direction,
+which is the j-unit vector. And then if we went to three
+dimensions, the partial derivative with respect to
+z and the k-direction, et cetera, et cetera. But we're dealing with a
+two-dimensional vector here, so let's just stick with
+two dimensions, x and y. So what would this
+turn out to be? If you took the dot product of
+this, which is this upside down triangle, with this vector
+field, what would you get? Well, you would just get the
+partial derivative of the x dimension with respect to x, so
+you would get it's actually pretty straight forward to
+memorize; you might not even need this mnemonic right here,
+this abuse of notation; you might just know it off hand
+the x component, you take the partial derivative with respect
+to x, and the y component, you take the partial derivative
+with respect to y. But I'll show you why it
+looks like the dot product. So if you took the dot product
+of that and that, it would be the partial derivative with
+respect to x of that expression, of x squared, y and
+then plus the partial derivative with respect to y of
+that second expression, the y component of 3y, and then
+you would evaluate it. What's the partial derivative
+of this with respect to x? We just pretended y is a
+constant, just a number, so the derivative of this with
+respect to x, would be 2x times the constant. So it'll be 2xy plus what's
+the partial derivative of 3y with respect to y? Well, there's nothing else to
+hold constant, so it's just like taking the derivative
+with respect to y so it's 2y plus 3. So this is the divergence
+at a point x, y. You could almost view it
+as a function of x and y. So you could almost say you
+know, that the divergence of v I'm going to make up some
+notation here as long as you get the point across, you can
+say that the divergence of v, that this is a
+function of x and y. That we just have an expression
+that if you give me a point anywhere in this vector
+field, I can tell you the divergence at that point. So I think you'll find that
+the computation of divergence isn't too difficult. You just take the partial
+derivative of the x component with respect to x, and you add
+that to the partial derivative to the y component
+with respect to y. And if you had the z, you
+would do the same thing, so on and so forth. Actually, let me do just do one
+more just hit the point home, and then we'll work
+on intuition. So if I said that I had, I
+don't know, let's say, my vector field is cosine of yi
+plus so it's interesting; my x-direction is dependent on
+my y-coordinate plus, I don't know, e to the xyj. So then oh, that's difficult
+because I have these e's and these cosines. But we'll see; if you just
+keep your head straight on what's constant and what's
+not, it's not too bad. So the divergence of v is equal
+to the partial derivative of this expression
+with respect to x. Well, what's the derivative
+of this with respect to x? If y is just a constant,
+cosine of y is just a number. So the derivative of this with
+respect to x is just 0 plus what's the derivative of
+this with respect to y? Well, you could just do x,
+since it's a constant, as the coefficient on y. So the derivative of x, y
+with respect to y is just x. And then the derivative of e
+to anything is e to anything. I just did the chain rule. e to the x, y. And so that is the divergence. So you could just ignore this. It's x, e to the x, y. One thing to immediately
+realize, even before we work on the intuition, is when we did
+gradient I gave you a surface and it gave us a vector field. Or I gave you a scalar field
+and you got a vector field. When you take the divergence of
+something, you're going in the opposite direction,
+in some ways. You start with the
+vector field, right? And what's a factor field? It's something that if you
+give me any point x and y, I'll give you a vector. So if you wanted to graph it,
+in the x, y plane you'd have a bunch of vectors, and I'll show
+you how that looks in a second when we go over to intuition. Well, when you take the
+divergence of it, you get a value for any point x, y. So even though a vector field
+has all these vectors on it, the divergence tells you an
+actual scalar number at any point in the field. So let's get a little bit
+of intuition of what a divergence actually is. Let me do it in one dimension. Or we can even, let's do it
+in two dimensions, but I'll make it constant in the y. So let's say that my let me
+erase this; I'll probably need some space. OK, oh, I didn't want
+to do that dot. OK let's say the velocity of
+fluid, or the particles in fluid, at any point in the x, y
+plane, let's say it is equal to 5xi plus, I don't know, 0y
+there's never any, sorry 0j, right? j is the unit vector
+in the y-direction. So there's never a y component
+to the velocity vector. So what would that look like? I don't need a computer
+to draw this. I can handle this
+one myself I think. So if that's the y-axis,
+that's my x-axis. So when x is equal I'll just
+sample some points and draw some vectors when x is equal
+to 1 let's say x is 1 there what's the magnitude
+of this vector? It'll be 5, right? Actually, let me make this a
+different number, because it'll make it hard to do. Let's make this 1/2 x. So when x is 1, the magnitude
+of my vector is 1/2. Only in the x-direction. It has no y component;
+ignore this right here. It's 1/2xi plus 0j. Or you could just say 1/2xi. And when x is equal to 2 I
+could have picked any points, but I'm just picking the
+numbers that's easy to calculate when x is equal to
+2, what is the magnitude of the vector? It's 1/2 times 2, which is 1. So it's going to
+be twice as big. And remember, if I have a
+particle right here in my fluid, if this is a particle,
+its velocity in the x-direction is going to be 1 meter
+per second to the right. If I have a particle here, it's
+velocity in the x-direction is going to be 1/2 a meter
+per second to the right. Let's just do one more point. So let's say that
+x is equal to 3. What's my velocity
+to the right? I'll do it in a different
+color just so that you don't get confused. There's going to be 3/2; it's
+going to be even longer. But the general idea here,
+and as we move up in x it doesn't change much, right? It doesn't change at all. Our x value doesn't [COUGHS]. So for any y, the magnitude
+of the vector doesn't change, right? It's only dependent on x. And then for example, here,
+it'll be even longer. If we draw the vector here
+it'll be even longer, right? If you do it here. I think you get the point. The further you go to the
+right, the faster the particles are moving towards the right. So now let's try to get a
+little bit of intuition. Oh, I just realized that I ran
+out of time, so I will continue this in the next video. 

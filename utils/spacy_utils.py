@@ -47,6 +47,26 @@ def get_keywords(nlp, text_orig_name, text_count, container, keywords):
         print(f'{i}/{text_count-1}')
     return string
 
+def get_verbs_from_text(nlp, text_orig_name, text_count):
+    string = ''
+    for i in range(0, text_count):
+        verbs = set()
+        text_name = f'{text_orig_name.split('.')[0]}{i}.{text_orig_name.split('.')[1]}'
+        try:
+            text = read_file(text_name)
+        except:
+            print(f'skipping {i}...')
+            continue
+        doc = nlp(text)
+        
+        title = text.split('\n')[0]
+        string += f'#{i}: {title}\n\n'
+        for token in doc:
+            if token.pos_ == 'VERB':
+                verbs.add(token.text)
+        string += f'{verbs}\n\n\n'
+    return string
+
 def chunk_text(text, chunk_size):
     return [text[i:i+chunk_size] for i in range(0, len(text), chunk_size)]
 

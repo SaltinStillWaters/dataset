@@ -1,0 +1,70 @@
+Transcript for: 2011 Calculus BC free response #3a | AP Calculus BC | 
+Problem three.
+Let f of x is equal to e to the 2x.
+Let R be the region in the first quadrant bounded by the graph of f, the coordinate axes, and the vertical line, x is equal to k.
+So they drew that right over here.
+And it's in the figure above in the actual AP exam.
+But I put it below here so I didn't have to waste the screen real estate above that.
+And you see right here, this is our f of x, this is the line x is equal to k, and this region R is between those, and it's in the first quadrant right over here.
+So this right over here is our region R.
+So what are they asking us to do? So k is greater than 0, the region R shown the figure above.
+And this is the figure.
+Part a.
+Write, but do not evaluate an expression involving an integral that gives the perimeter of R in terms of k.
+So for the perimeter of R, we're going to have to find the length of the sides of R, and the hardest of these is to find the length of the actual curve between this point and this point right over here.
+And I like to always rederive the arc length formula, although if you're about to take the AP exam, it probably doesn't hurt to have it memorized just so you could save some time.
+But you should always know how it's derived so that when you're 35 years old and you don't have a calculus book as a reference, you can come up with it yourself.
+And so you know where the formula comes from.
+So let's rederive it.
+So let's say we were to zoom in on a little bit of the curve right over there.
+So let's say let's zoom in on that part of the curve right over there.
+And what we could do is, same way we derived an arc length when the function was defined parametrically, which we did, I think, in part one of this AP exam.
+This time it's not defined parametrically, so we can do it in terms of just x and y.
+So if you viewed this distance right over here, this is going to be a very small change in x.
+Let's call that dx.
+And then this right over here is going to be a very small change in y, dy.
+And we know that dy, the derivative of y with respect to x, or dy/dx, this is equal to f prime of x.
+Or we could say that if we multiply both sides by dx, we know that dy is equal to f prime of x dx.
+So this is equal to f prime of x dx.
+And then for a very small change in x and very small change in y, we can approximate this curve length with the Pythagorean theorem.
+And if we get small enough, it'll probably directly kind of measure that curve length.
+So we use the Pythagorean theorem right here.
+This length is going to be the square root of dx squared plus dy squared.
+And if we write dy this way, that arc length right over here, this little small arc length, is going to be equal to, right over here, the square root of dx squared plus this is dy so plus f prime of x squared times dx squared.
+All I did is I squared this.
+dy squared is this thing right over here.
+And let me expand the radical sign a little bit.
+And just the same exact way we did it when we had the function defined parametrically, we can factor out a dx squared here.
+So this is going to be equal to the square root of if you factor out a dx squared of this, you get a 1.
+You factor out a dx squared out of this part, plus f prime of x squared.
+And we factor a dx squared out of the radical sign, it just becomes a dx.
+And so that would be the length of this little small arc here, and it wouldn't even be this big.
+It would be a super infinitesimally small piece of arc.
+We could call it d arc right over there.
+And essentially want to sum up all of these little segments.
+So we want to sum them up from x is equal to 0, all the way to x is equal to k, because we're integrating with respect to x right over here.
+So this arc length right over here so let me write what they want us to figure out; we're trying to figure out the perimeter of R is equal to first, this part.
+So this is the integral from 0 to k.
+x is equal to 0 to x is equal to k of the square root of 1 plus and f prime of x.
+f of x is e to the 2x.
+So f prime of x is equal to the derivative of this with respect to x, which is 2e to the 2x.
+The derivative of 2x is 2.
+Derivative of e to the 2x with respect to 2x is e to the 2x.
+So 2e to the 2x, we want to square that, because this is f prime of x, but we want to square f prime of x.
+So that's 4e to the 4x.
+And of course, we have a dx.
+So this is the length of the arc, and that's the hard part.
+And now we just have to get the rest of the perimeter.
+So you have this little segment right over here.
+That's length 1.
+We're going from 1 to 0 or 0 to 1.
+So plus 1.
+Then you have this part right along the x-axis.
+Well, that's going to be of length k.
+Plus k.
+And then finally, you have this height right over here.
+And that's going to be of length of f of k, or e to the 2k.
+Plus e to the 2k.
+And we're done.
+We found the perimeter of R, and we don't have to evaluate it.
+So we're done with this part.
