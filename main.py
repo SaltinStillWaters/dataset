@@ -3,13 +3,32 @@ from utils.spacy_utils import *
 from collections import Counter
 
 import re
-import matplotlib.pyplot as plt
+# import matplotlib.pyplot as plt
 import spacy
 
 nlp = spacy.load('en_core_web_lg')
 
-text = get_verbs_from_text(nlp, 'cleaned_raws/.txt', 199)
-write_file(text, 'out.txt')
+
+def segment_sentences(in_path, out_path, count, nlp):
+    in_prefix = in_path.split('.')[0]
+    ext = in_path.split('.')[1]
+    for i in range(0, count):
+        filename = f'{in_prefix}{i}.{ext}'
+        try:
+            text = read_file(filename)
+        except:
+            print(f'cannot read: {filename}. Skipping...')
+        
+        doc = nlp(text)
+        
+        result = ''
+        for sent in doc.sents:
+            result += f'{sent.text}.\n\n'
+        out_filename = f'{out_path}{i}.{ext}'
+        write_file(result, out_filename)
+
+segment_sentences('expanded_transcripts/org_chem/calc2/.txt', 'ORG_CHEM_SENTENCE/', 1, nlp)
+        
         
         
 # # Split transcript into videos
