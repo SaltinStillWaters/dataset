@@ -1,0 +1,124 @@
+Transcript for: Derivatives (part 9)
+Now that you've been introduced
+into some of the other functions that we can take a
+derivative of, we can now apply them using the chain
+and the product rule. So let's do some
+fun derivatives. And I think derivatives is
+all about exposure, it's all about practice. So I just encourage you to do
+as much practice as possible. And it's actually in some ways
+a pretty mechanical thing to do and it's easier than a lot of
+the math that you've learned before. Just maybe initially
+looks a little abstract. So let's say that f of x is
+equal to let's say the sin of 3x to the fifth plus 2x. So what is f prime of x? What is the derivative
+of this function? Well, we use the
+chain rule again. We take the derivative
+of the inside. So what's the derivative
+of the inside? Well, that's just 5 times 3 is
+15 x to the fourth plus 2. And then we take the derivative
+of the larger function. In the last presentation
+we learned the derivative of sin is what? It's cosine. So it's times the cosine of
+this expression right here. 3x to the fifth plus 2x. Pretty painless, no? Let's mix it up even more. Let's say that-- let me
+switch colors just to not be monotonous. I'll pick powder blue. Very nice. Let's say that y-- and I'm
+going to switch notation on purpose that you get used to
+the various notations you can use. Let's say that y is equal to--
+let me think of something good-- e to the x times
+cosine to the fifth of x. That looks daunting to me. Let's see if we can break
+it down using the product and the chain rules. We want to figure out dy/dx. We want to figure out
+the rate at which y changes relative to x. Or the derivative. Find the derivative
+of both sides. Well, let's use
+the product rule. Well, we're going to have
+to use the chain and the product rules. So first we take the derivative
+of this first term, and once again we learned in the last
+presentation the most amazing fact, one of the most amazing
+facts in the universe that the derivative of either
+the x is what? It is e to the x. Blows my mind. e to the x. Once again I've taken the
+derivative, and it's the same expression. Amazing. And then I multiply it
+times a second expression. Cosine to the fifth of x. And now to that I add
+the derivative of the second expression. Now this will be a little
+bit more interesting. So this is cosine
+of x to the fifth. This is just another way
+of writing cosine of x to the fifth power. And I think that'll make it a
+little bit more clear, that this cosine superscript
+5, this is really just cosine to the fifth x. This means cosine
+of x to the fifth. So now the derivative is
+a little bit clearer. We can use the chain rule--
+and once again, we're just working on this right half. We take the derivative
+of the inside. What's the derivative
+of cosine of x? Yep you're right. Well, I don't know, I didn't
+hear you so I don't know. I'll assume you're right. The derivative of cosine of x
+is minus sin of x, and that's something you should memorize,
+although you should prove it to yourself as well. So we take the derivative
+of the inside minus sin. Derivative of cosine of x is
+minus sin of x, and then we take the derivative
+of the outside. We're just doing
+the chain rule. So it's 5 cosine to
+the fourth of x. So there we took the derivative
+of this piece, and then we have to multiply times
+this first piece. So that times e to the x. Interesting. You can simplify this if you
+want, but you get the point. I mean simplifying it from
+this point is really just kind of algebra. And I think you get the idea. Actually everything
+we're doing is algebra. If you realize it looks like
+something fairly complicated, but we just use the chain
+and the product rules. Let's do some more. I will now switch to magenta. We want to take the derivative
+dy/dx of-- let's see, some big expression. let me do something creative. Let's say the natural log
+of x over 3x plus 10. So the natural log of
+x over 3x plus 10. So you could use the quotient
+rule if you took the time to memorize it, which I've never
+taught you because it's really just the product rule. So I like to just rewrite
+this as the product rule. So they're the same thing. Once again we're taking the
+derivative, so I'm not going to keep rewriting this, but this
+is the same thing as taking the derivative of the natural log
+of x times 3x plus ten to the negative 1 power. 3x plus 10 in the denominator
+is the same thing as 1 over 3x plus 10, which is the same
+thing as 3x plus 10 to the negative 1 power. Now we can use the combination
+of the product and the chain rules, and we
+can solve this sucker. So let's do it. So we take the derivative of
+this first term the natural log of x-- and we learned in the
+last presentation the derivative of the natural log
+of x is 1/x, which is pretty cool in of itself. And we multiply that
+times a second term. So time 3x plus 10 to
+the negative 1 power. And to that we add the
+derivative of the second term, and we're going to multiply
+that times the first term. So first we're going to have
+to use the chain rule. We take the derivative
+of the inside. Well the derivative of
+the inside's easy. The derivative of 3x x plus 10. That's just 3. And then we take the derivative
+of the whole thing, so it's negative 1. That's 3 times negative
+1 times that whole expression to the minus 2. 3x plus 10. And of course this whole thing
+times the natural log of x. We could simplify that. Let's see. This is 1/x and 3x plus
+10 to negative 1. So we could rewrite this
+as 1 over x 3x plus 10. Let's see. Plus 3 times minus 1. So we could say that's the
+same thing as minus 3 ln of x over 3x plus 10 squared. I think you see how I
+got from here to here. I just manipulated the
+exponents and multiplied some numbers, et cetera, et cetera. Let's do one more. Just hit the point home. You really have the tools now
+at your disposal to do a lot of derivative problems. Probably most of the derivative
+problems you'll face in the first 1/2 year of calculus. I'm going to switch to green. Let's say y-- actually
+I'm tired of y. Let's say that p is equal
+to-- I don't know. Sin of x over cosine of x. Let's figure out what dp/dx. The rate at which
+p changes to x. So once again this is the same
+thing as sin of x times cosine of x to the negative 1. So we can just do the
+product and chain rules. So the derivative
+of the first term. Derivative of sin of x
+is cosine of x, times the second term. Times cosine of x
+to the minus 1. And then to that we add the
+derivative of the second term. We have to use the
+chain real here. So we take the derivative
+of the inside. Well derivative of cosine
+x is minus sin of x. And then times the
+derivative of the outside. well that's minus 1 cosine of x
+to the minus 2, and then we multiply that times the
+first term, sin of x. So let's simplify that. So this is cosine of x
+divided by cosine of x. You see how this cancels out? This is cosine of x over cosine
+of x, so this is equal to 1. Cosine of x divided
+cosine of x is 1. And then this minus sin cancels
+out with this minus sin, and we have sin times sin
+over cosine squared. So this is equal to 1. I'm going kind of fast because
+I'm about to run out of time, but I think you get
+what I'm doing. So this is sin squared x over
+cosine squared x, which is actually equal to--
+what's sin over cosine? 1 plus 10 squared x. And if you know your trig
+identities, that equals 1 over cosine squared of x. And, of course, what we just
+proved is that the derivative of the tangent of x is equal
+to the secant squared of x. I hope I thoroughly confused
+you in that last problem. I'll see you in the
+next presentation.

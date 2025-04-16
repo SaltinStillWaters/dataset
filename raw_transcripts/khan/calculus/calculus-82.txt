@@ -1,0 +1,122 @@
+Transcript for: Solid of Revolution (part 6)
+In the last video we took
+essentially the length of y equals x square, not the
+length, but we went from zero to 1 on the x-axis and you
+can view it as this area. And we rotated around the
+y-axis to get this figure here and we figured out the volume,
+I think our answer if I remember was pi over 2. And we use what I called
+and what everyone calls the Shell method. I want to show you that
+you could actually used the disk method here. But then we'll just have
+to switch the ys and xs. Instead of writing this the
+function as a function of x, we'll just take the
+inverse of it and write it as a function of y. so this curve y equals x
+squared, what it can also be written as, we can just take
+the squared root of both sides as x is equal to
+the square root of y. Just take the square
+root of both sides. And now we can use this
+information to do the disk method, but everywhere where
+we had an x in the past we'll now have a y. So let's think about
+how we would do it. Once again it's this area--
+really the hardest thing about all of these problems is
+just the visualization. I think that's why they do it. Just to make sure that you know
+how to visualize things and maybe understand the calculus. It's more visualization
+then calculus really. So we're still dealing with--
+if we take a cross section, if we were to cut this figure this
+area would be the cross section. And we're still rotating around
+the y-axis just like we did in the last video. We're still rotation around the
+y-axis, we get this figure. So how would we
+deal with disks. Well a disk would look like
+this at some point-- let me pick another color. At some point we'd have
+a disk like that. That would be the top of the
+disk, and it would have some depth like we did before. And its height, or the
+radius of that disk, would be equal to x. It's equal to x. I know you're thinking it
+looks like the shell method. But what is x equal to? It's equal to the
+square root of y. It equals the square root of y. And what would be the
+width of that disk? Now we are making everything as
+a function of y, so the width would be just a very small
+distance d y, the differential y. That's essentially
+all we need to know. So the volume of that disk
+would be the radius squared times pi times d y. Hopefully that makes a little
+bit sense, but there's another hitch on this problem. This is actually similar to
+what we did two videos ago. Because when you view it in the
+y-axis, from this y frame of reference, what we're going to
+do is we're going to take the volume, we take the volume
+of x is equal to 1. So what would be the volume
+of x is equal to 1 rotated around the x-axis? It would just be the
+entire cylinder. It's really important
+that you visualize this right, what we're doing. We're going to figure
+out this volume, volume of x is equal to 1. Let me draw the axis just so
+you know what we're doing. So this would be the y-axis,
+that would be the x-axis as best as I can draw. Originally, we can figure
+out the volume of the entire cylinder. This is x is equal to 1, x is
+equal to 1 from what y points? From the point,
+well what is this? This is y equals 1. y equal 1 to zero. So we would figure out this
+volume from y equals 1 to zero. And how would we do that? What would be the integral? Remember everything is in
+y now, so it might seem a little confusing. For each of these disks, this
+is going to be made up of a bunch of disks, let
+me draw one of them. Let me draw the top one. The top disk, and it has a
+width, it's not going to be this entire cylinder, its
+width is d y, its width is just going to be this. d y, a very small sliver. d y, and its radius is x
+or you could say f of y. What would be the
+volume of that disk? What would be the surface
+area of the top? It would be f of y squared. Remember we're dealing
+everything with y. f of y squared times pi, that
+gives the area of the top. Put the pi outside of
+the integral times d y. d y, and we said y is
+going from zero to 1. y is going from zero to 1. So that's that entire cylinder. And what we'll want to do is
+subtract out, essentially cut out the volume of
+the inner bowl. So minus. How would we figure
+out the inner bowl? That's where we will deal
+with the x is equal to the square root of y function. Because here, what's each disk? Once again it's f of y. I wrote this generally, this
+is f of y of the outside. I'm going to now do
+it for the inside. I'm going to cut out the inside
+volume and because I kept it general I could do it. We're still going from
+zero to 1, from y equals zero to y equals 1. Remember we're
+doing with y now. I will take f of the inside
+f of y squared d of y. You can imagine in this case
+the inside function, we're going to take the volume. That original disk I drew is
+actually one of the disks for the inside function. Where the height of that disk
+is d y, that should be d y. The radius of the
+disk is f of y. And of course the area of
+the top of the desk is pi times the radius squared. How do we apply it to this
+particular situation? What is the outside function? f of y, x is equal to f of y. We are just switching
+the variables. We say that x is equal to 1. This is just a big
+cylinder, right? So f of i is equal go to 1 in
+this function, so we get pi-- let me switch colors--
+times from zero to 1. 1 squared d y minus pi,
+and we're still going from zero to 1. Remember, that's
+the y boundaries. What's f of y? Here f of y is square
+root of y squared d y. Let's take the pi out. So pi times, well
+1 squared is 1. What's the
+anti-derivative of 1? What function's
+derivative is 1? It's x, right? x, that's the
+anti-derivative there. We can merge these. We took the pi out. This square root of y
+squared, this is just y. Sorry, we have that
+derivative 1. See, even I get quite
+confused here. We're taking this with
+respect to y, right? The anti-derivative
+of 1 now is y. We are setting up
+a bunch of ys. I'm sorry. I find this even a little
+perplexing when I start switching x and y. The second function. Remember, we can merge these
+because it's the same boundaries and they're
+both in respect to y. Square root of y squared is y. What's the anti-derivative of
+y, the function y or y d y. Was y squared over 2,
+minus y squared over 2. We are going to evaluate
+that at 1 and zero. So what does that get us? We get pi-- we get 1 minus
+1/2 minus zero minus zero minus zero plus 0/2. Whatever these are zero. 1 minus 1/2 that's
+1/2 and times pi is equal to pie over 2. Which is the exact same result. And I was worried, because you
+never know when you might make a careless mistake
+as I often do. We got the exact same result as
+I got in the previous video when we used the shell method. The hardest thing here is just
+remembering that you're doing everything in terms of y. When we did the disk method
+traditionally, the disks were vertical disks. Now they're horizontal disks
+but it's the exact same thing. You just have to get your brain
+around the idea that we're dealing with the ys, that the
+boundaries on the integrals are now y values. We're taking the width of the
+disks, or the height of the disks are d y and the radius
+is now the function of y. Hopefully I didn't
+confuse you too much. My own brain malfunctioned
+a bit when I took the anti-derivative of 1 d y,
+it should have been y. I will see you in the next
+video where we will do even more complicated problems,
+where I'm sure I'll make even more mistakes. See you soon.

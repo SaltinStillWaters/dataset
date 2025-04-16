@@ -1,0 +1,48 @@
+Transcript for: 2011 Calculus BC free response #6c | AP Calculus BC | Khan Academy
+Part C. Find the value
+of the sixth derivative of f evaluated at 0. So you could imagine
+if you just tried to find the sixth derivative of
+f, that would take you forever. And then to evaluate it at 0,
+because this is x squared here. And you'd have to keep doing
+the product rule over and over again, and the chain
+rule and all the rest. It would become very,
+very, very messy. But we have a big clue here. The fact that they made
+us find the first four terms of the Taylor series
+of f about x equals 0 tells us that there
+might be a simpler way to do this, as
+opposed to just taking the sixth derivative of
+this and evaluating at 0. The simplest way to do
+this is to just go back. In the last problem,
+we were able to come up with the first four
+non-zero terms of the Taylor series of f. And if you look at your
+definition of the Taylor series right here-- and we go into
+depth on this in another Khan Academy video where we talk
+about why this makes sense-- you see that each degree
+term of the Taylor series, its coefficient
+is that derivative. And this Taylor Series
+is centered around 0, and that's what we care about
+in terms of this problem. We see the coefficient is
+that derivative divided by that degrees, that
+derivative evaluated at 0 divided by that
+degrees factorials. So the second degree term,
+it's the second derivative of f evaluated at 0
+divided by 2 factorial. The fourth degree term
+is the fourth derivative of f evaluated at 0
+divided by 4 factorial. So the sixth degree term--
+let's remind ourselves what we're even
+trying to figure out-- so they want us to figure
+out the sixth derivative of f evaluated at 0. That's what they want
+us to figure out. Well, if you think about
+the Taylor series centered at 0, or at 0, or
+approximated around 0, the sixth degree term in the
+Taylor series approximation of f is going to be f prime
+of the sixth derivative of f evaluated at 0 times x to
+the sixth over 6 factorial. This is going to
+be the sixth degree term in Taylor approximation,
+in Taylor series. And we have that term
+sitting right over here. This is the sixth degree term. We figured it out
+in the last problem. This right here is
+the sixth degree term. So you have x to the sixth over
+here, x to the sixth over here, you have 6 factorial over
+here, 6 factorial over here. So this negative 121 must
+be the sixth derivative of f evaluated at 0. So that's our answer. This is equal to negative 121. And we're done.

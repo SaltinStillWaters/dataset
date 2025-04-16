@@ -52,26 +52,53 @@ def get_playlist_transcripts(playlist_url, out_file):
             finally:
                 f.write('\n\n')
 def split_transcripts(input_file, output_dir):
-    
     Path(output_dir).mkdir(parents=True, exist_ok=True)
+
+    dir_name = os.path.basename(os.path.normpath(output_dir))
 
     with open(input_file, 'r', encoding='utf-8') as f:
         content = f.read()
-    
+
     transcripts = re.split(r'Transcript for:\s*', content)
-    
-    for transcript in transcripts[1:]:
+
+    for i, transcript in enumerate(transcripts[1:], start=1):
         if not transcript.strip():
             continue
-            
+
         lines = transcript.split('\n')
         title = lines[0].strip()
-        content = '\n'.join(lines[1:]).strip()
-        
-        filename = re.sub(r'[^\w\s-]', '', title).strip().replace(' ', '') + '.txt'
+        transcript_content = '\n'.join(lines[1:]).strip()
+
+        full_content = f"Transcript for: {title}\n{transcript_content}"
+
+        filename = f"{dir_name}-{i}.txt"
         filepath = os.path.join(output_dir, filename)
-        
+
         with open(filepath, 'w', encoding='utf-8') as f:
-            f.write(content)
-        
+            f.write(full_content)
+
         print(f"Created: {filepath}")
+
+def clean_transcripts(directory):
+    for filename in os.listdir(directory):
+        if filename.endswith('.txt'):
+            filepath = os.path.join(directory, filename)
+
+            with open(filepath, 'r', encoding='utf-8') as f:
+                content = f.read()
+
+            # Split only at ". " (period followed by a space)
+            parts = content.strip().split('. ')
+            sentences = [part.strip() + '.' for part in parts if part]
+
+            # Make sure we don't add an extra dot to the last one if it already ends with one
+            if content.strip().endswith('.'):
+                sentences[-1] = sentences[-1][:-1]  # Remove duplicate period
+
+            cleaned_content = '\n'.join(sentences)
+
+            with open(filepath, 'w', encoding='utf-8') as f:
+                f.write(cleaned_content)
+
+            print(f"Cleaned: {filepath}")
+

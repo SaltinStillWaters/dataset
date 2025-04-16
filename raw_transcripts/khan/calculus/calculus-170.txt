@@ -1,0 +1,138 @@
+Transcript for: 2011 Calculus AB free response #5b | AP Calculus AB | Khan Academy
+Now ready for part b. And I've wiped all the
+salt off of my fingers, and I've had a glass of water. So now I'm ready
+for some business. Find the second derivative
+of W with respect to t in terms of W. Use
+this second derivative to determine whether your answer
+in part a is an underestimate or overestimate for the
+amount of solid waste that the landfill contains
+at time t equals 1/4. So let's do the
+first things first. Let's find the second
+derivative in terms of W. And we already have the
+first derivative over here. And in part a, I rewrote it
+just with slightly different notation. But I'll just use this just
+because I need to write down here and I can still
+refer to this thing. So let's just take
+the derivative of both sides of this
+differential equation with respect to t. So you take the derivative
+of this left-hand side with respect to t, you
+get the second derivative of W with respect to t as a
+function of t is equal to-- now you take the derivative
+of this with respect to t. This is the same thing
+as 1/25Wt minus 12. And so when you
+take the derivative, that constant part drops
+off, and you're just left with 1/25 times
+the derivative of Wt. Let me make that clear. This is the same thing as 1/25W
+as a function of t minus 12. 1/25 of 300 is 12. And you take the
+derivative of this, you get 1/25 times the
+first derivative of W and then the derivative of this
+with respect to t is just 0. A constant, obviously, does
+not change with respect to t. And so we get this
+right over here. Now this is the
+second derivative in terms of the
+first derivative. But the question asks us,
+write the second derivative in terms of W. But
+lucky for us, we know how to express
+this as a function of W. They gave that to
+us in the problem. This was given. This is just me rewriting
+it in a different notation. So this is going to
+be the same thing as 1/25 times the derivative
+of W. And the derivative of W is this. The differential
+equation literally tell us the derivative
+of W is this over here. So 1 over 25 times Wt, the
+function W as a function of t, minus 300. And so we can say the
+second derivative-- let me write it a little
+smaller so I don't waste space. The second derivative
+of W as a function of t is equal to 1/625 times
+W as a function of t, which is a function
+of t, minus 300. So we've done the first part. We've found out the
+second derivative of W in terms of just W. Now let's try to address the
+second part of their question. So we did the first part. Now use what we just
+figured out to determine whether your answer in
+part a is an underestimate or an overestimate of
+the amount of solid waste that the landfill
+contains at time 1/4. So in part a, we
+found the slope. We found the slope of the
+tangent line at time equals 0, and we used that slope
+to extrapolate out to 3 months, or time
+equals 1/4, 1/4 of a year. Now if the function
+W's slope over that 1/4 was exactly the same as the
+slope of the tangent line, or if that slope did not
+change, then our extrapolation would be exactly right. If W's slope is
+increasing over that time, then our estimate would
+be an underestimate of the correct thing. And if the slope is
+decreasing over that time, then our estimate would
+be an overestimate of the actual amount
+in the landfill. And to figure out whether
+the slope is increasing or decreasing, we
+just have to look at the value of the
+second derivative. If the second
+derivative is positive, that means our
+slope is increasing, which means that our
+extrapolation would be an understatement. Let me just be clear here. Let me draw this. Let me make it very clear. So let me just draw
+a random function. So let's say that's W. So this
+is a case where W's slope is increasing faster,
+or W's slope is increasing from
+that starting point. So our starting point--
+this was our slope. And then W's slope keeps
+increasing from there. And in this case,
+our estimate is going to be underestimate
+of where W actually is after 1/4 of the year. If W's slope is exactly the same
+as our function over the course of the first three months, it
+would look something like that. Maybe it diverges later on. And in this case,
+our approximation would be really good. It would probably
+be exact for W. And if W's slope,
+for whatever reason, goes negative after that point,
+and they already tells us it's an increasing function,
+so that is not likely. Or it could-- it doesn't
+have to even go negative. If W's slope decreases, it
+could still stay positive. And the way I drew it, it
+doesn't-- let me draw it like this, just to make it clear. So let's say we find out that
+the slope looks something like this. This is the slope of the
+tangent line at time equals 0. If W's slope increases
+from that point, then w might look
+something like that. And then our answer to part
+a would be an understatement, would be an underestimate
+of where W actually is after a fourth of a year. Let me draw it and make it
+clear to you what I'm doing. So this is my w-axis. So this is right at our
+initial condition of 1,400. And then this right over
+here is our time axis, and this is that 1/4. So in the last
+video, we said, hey, this is sitting right at 1,411. If W's slope increases
+from that point, then this is an underestimate. If W's slope stays
+the same, then this is actually a very good
+estimate because then we're going to hit that
+point directly with W. And if W's slope decreases--
+so you can imagine maybe W looks something like this. It has that slope of the
+tangent line when it starts, but then the slope decreases. And it's still an
+increasing function, but the slope is decreasing. And in that case, we would
+have an overestimate. And this is a situation--
+so this first situation, slope is increasing. That means W prime
+prime is positive. The slope is increasing. The second derivative
+is positive. This would be a
+byproduct of or this would cause the second
+derivative to be negative. Our slope is decreasing. And this would be our
+second derivative. Our second derivative is 0. If your slope isn't changing--
+if your slope is constant, if your first
+derivative is constant, your second derivative
+is going to be 0. So let's just see what
+our second derivative is at our initial
+condition, and then we'll have a pretty good
+sense of whether we have an overestimate or an
+underestimate for part a. So let's just figure out
+what our second derivative at time 0. It's going to be equal to 1/625
+times W of 0, which we know, minus 300. Well W of 0, the amount of
+waste we have at time 0, they told us in the
+problem, is 1,400 tons. 1,400 minus 1,300 is 1,100. And then 1,100 minus--
+or 1,100 divided by 625 is a small number. It's 1. something. But it is a positive number. And that's the
+important thing here. So this thing, all of this
+business, it is positive. So the second
+derivative is positive, which means the
+slope is increasing. At least right at our starting
+point, our slope is increasing. Since our slope is increasing
+from that point-- and frankly, the fact that it's
+increasing at all and that we know the W is
+an increasing function-- tells us that our estimate in
+part a is an underestimate. So this is the case
+that we're dealing with. So our estimate in part
+a is an underestimate of the actual amount of solid
+waste in the landfill at time t equals 1/4.

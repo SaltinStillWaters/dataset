@@ -1,0 +1,190 @@
+Transcript for: Exponential Growth
+Let's do a problem on
+exponential growth. And if you think about it, what
+we're going to do here with a bacteria, it's no different
+than what we did with compound interest when we learned about
+interest and the number e. Because if you think about it--
+well, I'll draw the analogy as we do this problem. Anyway, this is a compound
+growth problem, or an exponential growth problem. And it says: a bacteria culture
+initially contains 100 cells and grows at a rate
+proportional to its size. After an hour, the population
+has increased to 420. So this first says find an
+expression for the number of bacteria after t hours. So in general, anything that--
+When you're dealing with exponential growth or
+exponential decay. Or continuously compounding
+growth or continuously compounding decay, though
+you'll very seldom hear that term. The amount of whatever you have
+as a function of time will be this type of equation. I'll say bacteria as
+a function of time. So I'll say b of t. And I'll do it here. So b of-- Well, let me
+do it here. b of t. Bacteria as a function of time
+is going to be equal to the initial bacteria, or the
+initial of whatever we have for doing compound interest is
+the amount we start with, e to the kt. Where k is kind of our
+compounding rate. And so in general, if you
+have this I naught, the initial amount you have. And that makes sense, right? Because if t equals 0, this
+whole expression is 1. So b of 0 should
+just be I naught. So if you know what you start
+with, and then you have another point, you can solve for k. And then you have
+an expression. You have the first
+thing they want. Find an expression for the
+number bacteria after t hours. So my question to you is, first
+of all, what is I sub zero? What is your initial number
+of bacterial cells? Well they tell us. They tell us right here. The bacteria culture initially
+contains 100 cells. So we know that b of 0 when
+time equals 0 or 0 hours, that is equal to 100 where the
+unit is cells, right? And so, if we substitute
+here t equals 0, this is 1. So we know that I naught
+is equal to 100. Let me do that actually. So b of 0 is also equal-- if we
+look at it there --I naught times e to the what? k times 0
+times e to the zero is equal to I naught. So this tells us that the
+bacteria at time 0 is 100. And then when we substitute
+here, is that the bacteria times 0 is equal to I naught. So I naught must equal 100. OK. So we're making some progress. So we know that the bacteria
+as a function of time is equal to I naught, 100,
+times e to the kt. Now, if we just knew k, then we
+would have done this part A, find an expression for the
+number bacteria after t hours. Well how can we figure out k? Well they give us
+another data point. After an hour, the population
+has increased to 420. So that tells us-- Let me-- [SIDE COMMENTS] Anyway, so what was I doing? Oh. So this tells us, after
+an hour the population has increased to 420. So that tells us
+that b of 1, right? After 1 hour, the population
+has increased to 420. So b of 1 is equal to 420. Which is also equal to--
+If we put 1 here, that is equal to 100 e to the kt. Well what's t at b of 1? t is 1. So e to the k, right? So 420 is equal to
+100 e to the k. And now we can solve for k. And let's see what we get. So we divide both sides by 100. You get 4.2. Let me put e to the
+k on this side. e to the k is equal to 4.2. To solve for k, we take the
+natural log of both sides. And we get k is equal to the
+natural log of 4.2, which is going to be some
+bizarre number. And we can-- We'll figure that
+out later with a calculator. So there we figured out-- Using
+the initial condition here, we figured out I naught. And then using this extra
+data point, we solved for k. And we got k is equal to the
+ln of the natural log of 4.2. So what does that leave us? So now we know the equation. We know k and we know I naught,
+so we know that the equation is-- So part A, the equation is
+b of t, bacteria as a function of time is equal to the initial
+number of bacteria, 100 cells, e to the kt. And k is ln of 4.2. That says 4.2. And all of that times t. So that's our function. I know you can't read that,
+but we'll use it again. So it should make
+a little sense. So then they say find-- this
+is part B --find the number of bacteria after 3 hours. So that's pretty
+straight forward. We have our function now. That at any time t, we
+can tell you how many bacteria there are. So let's figure out the number
+of bacteria after 3 hours. So b of 3 is equal to 100 times
+e to the ln of 4.2 times 3. And that number we
+could calculate if you have a calculator. e to the ln of-- Let's see. That's essentially-- Well
+what's this going to be? This is the same thing. We can actually figure
+this out analytically. That equals 100 e to the
+natural log oh 4.2. If you have two things in an
+exponent multiplied, that's the same thing as taking that and
+then raising it to the third power, right? If we were simplifying, we'd
+say oh that's the same thing as just multiplying
+that times this. What's e to the ln of 4.2? Well it's 4.2, right? Because natural log says well,
+what exponent do I have to raise e to to get 4.2? So if I raise e to that
+exponent, I get 4.2. So that equals-- I didn't even
+have to use a calculator, look at that --4.2 to
+the third power. And I don't know what that is. That's going to be probably
+70 something and so we'll do that later. But that's part B. That's just plugging
+into your calculator. That's part B. Now what are they asking? Find the rate of
+growth after 3 hours. Let me do that in
+a special color. So what are they asking us for? Well they're essentially asking
+us what is the slope of this function after 3 hours? Or another way you could view
+it is what is the derivative at time is equal to 3? Let's do that. Let me erase all this
+other stuff I have. I think we can erase all of
+this because we've written down our equation here. We can erase that. Actually we could even erase
+all of this because we've just answered that. That's just plugging into a
+calculator at this point. Just want to keep our
+original equation. So let's do part C. Part C, find the rate of
+growth after 3 hours. So we just have to take the
+derivative of the bacteria function with respect to time. So let's do that. So b prime of t. It equals what? So what's the derivative of--
+Let's just do the chain rule. What's the derivative of-- so
+we can have 100 constant out there times the derivative
+of this inside function. Well, that's just a
+constant times t, so it's just a constant. So times ln of 4.2 times
+the derivative of e to the whole thing. Well, the derivative of e
+to the x is e to the x. So the chain rule tells us
+it's just the derivative of this whole expression. So times e to the ln 4.2t. So that's the derivative
+at any time t. And then they want to know
+what the rate of growth is after 3 hours. So b prime of 3 is equal
+to 100 ln of 4.2. All of that times-- Well,
+e to the-- As we just did this in part B. e to the ln 4.2 times 3, that's
+the same thing as-- Because this expression right
+here is just 4.2. This is times 4.2 to the third. That's just a little bit of
+logarithm math we did here. And it's the same exact logic. All I did is I substituted
+3 here and simplified. Hopefully that makes
+sense to you. If it doesn't, you might want
+to use your calculator. But this all is actually a
+pretty important thing to know. That e to the ln of x is
+just equal to x, right? Because ln of x is essentially
+saying what exponent do I have to raise e to to get x? So if I raise e to that
+exponent, I get x. So that's all I'm saying here. That this right here is the
+same thing as e to the ln 4.2 to the t, right? Because if you were to
+simplify, you just take this exponent and multiply
+this and you'd get this. And so this is just
+4.2 to the t, right? Actually that's-- I should
+have written our original equation as that. I could rewrite our original
+bacterial function equation as 100 times-- using that same
+thing --times 4.2 to the t power. Actually, that is a simpler
+bacterial equation than this one. And so that would be even a
+better answer for part A. And then that makes part
+B even easier to solve. And then part C. Well part C is actually-- it
+was easier to keep it in this form because taking a
+derivative of e is easier than taking a derivative
+of another base. And actually we would probably
+want to convert backwards. So it's good we left it in that
+form because it made the derivative all that easier. But we could rewrite the
+derivative as well. We could rewrite this
+as b prime of t is equal to 100 ln 4.2. All of that times 4.2
+to the t, right? I just took a this-- Sorry. No. I took this and I
+replaced it with this. Anyway, I got a little bit
+messier than I wanted to. But then their final
+question is when will the population reach 10,000? So let me see erase what
+we did with part C. When will the population
+reach 10,000? Let me write what we
+have already done a little bit neater. We know-- We knew that, part A,
+b of t is equal to 100 e to the natural log of 4.2t. And I said that's the
+same thing as 100 times 4.2 to the t power. And they say when will the
+population reach 10,000? So they're essentially saying
+when is-- at what time t is b of t equal to 10,000? So we can just say 10,000 is
+equal to this: 100-- And actually, I'm going to use this
+one because I want to take the natural log of both sides. And it just makes
+things simpler. 100e to the ln 4.2t. So you could divide
+both sides by 100. And you get 100 is equal
+to e to the ln 4.2t. And now take the natural
+logs of both sides of this equation, right? So then we get what? We get-- let me draw a
+divide-- Well, I'll do it in a different color. We get-- taking the natural log
+of both sides of this --the natural log of 100 is equal
+to-- Well if you take the natural log of e to
+something, you're just left with the something. And you might want to review
+all the logarithms if you found that a little confusing. But that-- If you take
+the natural log of this side, you're just left
+with the exponent. So that equals ln of 4.2t. And if you want to solve for
+t, you just divide both sides by ln of 4.2. And you get t is equal
+to ln of 100 divided by the natural log of 4.2. And that'll be an hour. So how many hours does it take? You just plug this in your
+calculator and you will get a number for the number of hours. Hopefully you didn't find
+that too confusing. And actually since-- Just to
+hit another point home, we could have used this equation. And it's the same thing, right? And what would we
+would have had? We would have had 100 times 4.2
+to t power is equal to 10,000. Divide both sides by 100
+and you get 4.2 to the t is equal to 100. And so, to solve this-- So
+you're essentially saying log base-- You would essentially
+want to take log base 4.2 of both sides of this. So you would say t is equal
+to log base 4.2 of 100. And I went over this in the
+exponent proper-- in the logarithm properties video. But it's a pretty useful
+thing to know in general. How do you figure out-- Your
+calculator has two bases. It has log base 10 and it
+has log base e, which is the natural log. How do you figure out log base
+of another number of 100? Well, the simple answer is you
+could take natural log of this and divide it by the
+natural log of this. You could also take log base
+ten of this and divide it by log ten base of this--
+log base ten of this. Anyway, hopefully I didn't
+further confuse you. And I will do-- This was
+actually exponential growth. And you could replace
+these words. You could say-- Instead of
+saying bacteria culture, you could say a bank account
+initially contains $100 and grows at a rate proportional
+to its size, which would mean compound interest. And then you could say, after
+an hour the population has increased to, whatever, $4.20. And then find the expression
+for the number of-- So essentially, you'd be trying
+to figure out the compound interest rate and all of that. But this is the exact
+same phenomenon. That the larger you grow,
+you're going to grow by an absolute value more than that. Anyway, I'll do more of these
+problems because they can be a little confusing. And I'll do one on
+exponential decay as well. See you soon.

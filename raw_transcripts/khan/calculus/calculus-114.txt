@@ -1,0 +1,151 @@
+Transcript for: Gradient of a scalar field | Multivariable Calculus | Khan Academy
+In the last video we had a
+three-dimensional surface, where the height z was
+a function of x and y. And it gave us surface in
+three-dimensional space. Now let's try to get our heads
+around what the gradient of a function of three
+variables looks like. So the easiest one for me to
+imagine is a scalar field. So what's a scalar field? One that I find fairly
+intuitive is temperature in a three-dimensional room. So let's say the temperature
+in a room is a function of where I am in the room. So let's say it's a function of
+my x, y, and z coordinates. And I don't know, I have never
+actually modeled temperature. But let's say I have, I don't
+know, a 20 kelvin-- actually, let me make it so that our
+vector field works out right. Let's say we have a 10
+kelvin heat force in the center of our room. I can imagine as you go further
+and further away from that heat source it's going to
+get colder and colder. So let's say that the
+temperature function. And let's say that center of
+the room is at the coordinates x, y, and z is equal to 0. So let's say our temperature
+function-- I'm just making this up, I don't know if this is an
+accurate model of temperature-- it's equal to 10 times e
+to the minus r squared. Now why did I say r? I said it's a function
+of x, y, and z. Well I'm just saying that it
+exponentially decays as you get further and further
+away from that source. Kind of radially further and
+further away from that source. So what's the radial
+distance away? And this actually isn't that
+relevant to learning gradients, but let's get a little
+intuition about what that actual temperature function--
+how it actually changes as you go through the room. So the radius away from the
+center, that's just going to be r squared is just x squared
+plus y squared plus z squared. That's just the Pythagorean
+theorem in three dimensions. So let's write our
+temperature function. So let's write temperature as
+a function of x, y, and z is equal to 10 e to the minus x
+squared plus y squared plus z squared-- which is exactly
+what I wrote up here. Instead of x squared plus y
+squared plus z squared, I wrote r squared, just to kind of give
+you the intuition that this expression is just saying the
+square of the distance as we get away from the center of
+our room, or from the coordinate 0, 0, 0. But that's not what
+we're learning here. But I want you to understand,
+at least conceptualize this, it's hard to draw
+a scalar field. All a scalar field means is
+that in any point in this base-- and in this case we're
+dealing with three-dimensional space-- at any point in that
+space we can associate a value. And that makes sense. If you were to take a
+thermometer and measure any point in space in the room
+that you're in right now, you would get a temperature. You wouldn't get a temperature
+and a direction, so it's not a vector field. You would just get
+a temperature. And that's why it's
+called a scalar field. Associated with every
+coordinate is just a temperature. So how would we view the
+gradient of this function? Well the gradient of this
+function is going to tell us in which direction-- and actually,
+the gradient of this function is going to generate a vector
+field, because it's going to tell us in which direction
+do we have the largest increase in temperature. And also, the magnitude of
+those vectors in that vector field will tell us how large
+of an increase in temperature we are looking at. Or you can kind of
+view it as almost a three-dimensional slope. Hope that doesn't confuse you. So let's compute the gradient,
+and then I'll show you a diagram that might make things
+a little bit more intuitive. Let me erase this
+thing down here. And I'm going to switch from
+this blue color, because it's a little nauseating. So the gradient of T is going
+to be equal to the partial derivative T with respect to x
+times the unit vector in the x direction, plus the partial
+derivative of the temperature function with respect to y
+times the unit vector in the y direction, plus the partial
+derivative of the temperature function with respect to z
+times the unit vector in the z direction. And now we just plug and
+chug and figure out the partial derivatives. So the gradient of T is equal
+to-- now you might be daunted. Oh, I have an e to this three
+variable function, how do I take the partial derivative? Remember, if you're taking the
+partial derivative with respect to x you just pretend like the
+y's and the z's are constants. So let's do that. So let's take the derivative
+of the inside function. That's the way I view it. So minus x squared plus y
+squared plus z squared, with respect to x. So you could distribute
+this minus if you like. So it'd be minus x
+squared minus y squared minus z squared. So the derivative of that with
+respect to x is just going to be-- these are just constants,
+so the derivative with respect to x is just 0. So the derivative is minus 2x. Right? Minus 2x is the derivative
+of minus x squared. Minus 2x times the
+derivative of the outside. Well, what's the
+derivative of e to the x? The derivative of e to
+the x is e to the x. That's why e is such
+an amazing number. And this 10 here, this is just
+a constant that when you take the derivative of a constant
+times something the constant carries over. So the derivative of the
+outside expression, the way I imagine it, is equal to 10 e
+to the minus x squared plus y squared plus z squared. And then all of that times the
+unit vector in the i direction. Right? And now we can do the same
+thing for the y direction. So plus-- what's the
+partial derivative of this with respect to y? Well it's going to
+look very similar. The partial derivative of this
+inner function with respect to y, it's minus y squared. So it's minus 2y. And then the derivative
+of the whole thing is just itself again. So times 10 e to the
+minus x squared plus y squared plus z squared. And then all of that times
+the unit vector in the y direction times j. And then finally, the partial
+derivative of the temperature function with respect to z. And that's just minus 2z times
+10 e to the minus x squared plus y squared plus z squared. This is just the chain rule. And I'm treating the other two
+variables that I'm not taking the partial derivative with
+respect to, as constants. And then all of that times the
+unit vector in the k direction. And we could simplify
+this a little bit. You could have
+minus 2x times 10. That's minus 20x. Let me write it up here. So the gradient of the
+temperature function is equal to minus 20 e to the minus x
+squared plus y squared-- you probably can't read this-- plus
+z squared, times i minus 20y. And actually, I'm not going to
+go into that, because I realize I'm running out of time. I think you can simplify
+this algebraically. But anyway, the more important
+thing is I always find with gradients it's easy to
+calculate them, but the intuition-- oh sorry. This is also included. This is a k right here. The harder part is
+the intuition. So let's get an intuition of
+what this gradient function will actually look like. So what would happen. If you wanted to know the
+gradient at any point in space, you would substitute an
+x, y, and z in here. So you could write it as
+the gradient function is a function of x, y, and z. Remember, T, the temperature at
+any point, was a scalar field. At any point in three
+dimensions it just gave you a number. Now when you have the gradient,
+at any point in three dimensions it gives
+you a vector. Right? Because it has i, j,
+and k components. Where the magnitude are the
+partial derivatives, and then the direction is
+given by i, j, and k. So we've gone from having a
+scalar field to a vector field. And let's see what
+it looks like. And let me make it bigger so we
+can explore it a little bit. I think that's pretty good. So this is the vector field. This is actually the gradient
+of the function that we just solved for. And as you can see, at any
+point-- and when this graphing program that did it, it just
+picked different points and it calculated the gradients at
+that point, and then it graphed them as vectors. So the length of the vectors
+are just the magnitudes of the x, y, and z components. And then you add them together
+like you would add any vectors. And then the direction is given
+by the relative weighting of the i, j, and k components. And as you can see, the
+intuition is pretty interesting. As you get closer and closer to
+our heat source, the rate at which the temperature
+increases, increases! Right? The vectors as you get closer,
+get bigger and bigger. And let me zoom in. Let's actually fly in
+to the vector field. So we're now within
+the vector field. And you can see as we get
+closer and closer to the center of our heat source, the
+vectors, the rate at which the temperature increases, gets
+bigger and bigger and bigger. Anyway, I hope I
+didn't confuse you. When I first learned gradients,
+I think the computation is relatively straightforward. It's just partial derivatives. But the intuition is always
+the interesting thing. And hopefully this temperature
+analogy-- and not even analogy-- this temperature
+model will make a little sense to you. But it applies to pretty
+much any scalar field. Anyway, I'll see you
+in the next video.
