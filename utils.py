@@ -87,13 +87,11 @@ def clean_transcripts(directory):
             with open(filepath, 'r', encoding='utf-8') as f:
                 content = f.read()
 
-            # Split only at ". " (period followed by a space)
             parts = content.strip().split('. ')
             sentences = [part.strip() + '.' for part in parts if part]
 
-            # Make sure we don't add an extra dot to the last one if it already ends with one
             if content.strip().endswith('.'):
-                sentences[-1] = sentences[-1][:-1]  # Remove duplicate period
+                sentences[-1] = sentences[-1][:-1]  
 
             cleaned_content = '\n'.join(sentences)
 
