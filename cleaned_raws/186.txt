@@ -80,7 +80,7 @@ Well, that's going to give us negative Q of xy, negative Q of xy times dx.
 So, this is kind of interesting statement.
 We've seen something not too different from this before, when we saw even just the definition of Green's theorem.
 Let me rewrite here just so we remember.
-So, the definition when we learned about Green's theorem, it told us if we're taking a line integral over this contour and there's multiple ways to write it, but one way that we often still see it, and we've explored it already in our videos is if we were to say M times dx plus N times dy, this is equal to and I'm just restating Green's theorem right here this is equal to the double integral over the region that this contour surrounds of.
+So, the definition when we learned about Green's theorem, it told us if we're taking a line integral over this contour and there's multiple ways to write it, but one way that we often still see it, and we've explored it already in our videos is if we were to say M times dx plus N times dy, this = and I'm just restating Green's theorem right here this = the double integral over the region that this contour surrounds of.
 .
 .
 And whatever function you have here times dy, you take the partial of that with respect to X, the partial of N with respect to X, and from that we subtract whatever was on the dx side, so the partial of M with respect to Y, and then you could say times df, dy, or you could say da, for the infinitesimally small little chunk of area.
@@ -90,7 +90,7 @@ Or we might as well write DA here, since we're speaking in generalizations, wher
 So this here, this is just a restatement of Green's theorem so we already know this.
 This is a restatement of Green's Theorem and how can we apply it here? Well, it's the same thing.
 You have a little bit of sine differences but you can apply Green's theorem here.
-This is going to be equal to the double integral over the region that this contour surrounds.
+This is going to be = the double integral over the region that this contour surrounds.
 And then, what we want to do is, we want to look at whatever is the function that is being multiplied by the dy.
 In this case, this is the function that is being multiplied times the dy.
 And we want to take the partial of that in respect to X.
@@ -99,7 +99,7 @@ So, the partial of P with respect to X.
 And then from that we are going to subtract.
 We're going to subtract the other function, whatever's being multiplied by dx, we're going to take the partial of that with respect to Y.
 So here, we're going to take the partial of this whole thing with respect to Y, but we have a negative out here so it's going to be minus partial of Q with respect to Y and then we have DA, and obviously, these two negatives, subtracting the negative just gives you a positive.
-So this is going to be equal to the double integral over the region.
+So this is going to be = the double integral over the region.
 And maybe you already see where this is going, maybe getting a little bit excited.
 The partial of P with respect to X plus the partial of Q with respect to Y, dA.
 Now, okay, I took the partial of.
@@ -116,7 +116,7 @@ This is the divergence by definition, really, this is the divergence of our vect
 And so, we have a very interesting thing.
 This thing that we saw was the original expression that we started studying which is essentially saying, "What's the speed at which the particles "are exiting this surface?" We now get it in terms of this little expression.
 And we'll interpret in an intuitive way and a little bit of this in a little bit.
-So this is equal to the divergent of F times dA over the whole region so the double integral.
+So this = the divergent of F times dA over the whole region so the double integral.
 So, we're summing up the divergence of F times the infinite, really small little chunk over there and we're summing them up over the whole region.
 Now, why does that make intuitive sense? And for you to realize why it makes intuitive sense, you just have to remind yourself what the divergence is.
 Divergence is a measure of whether things are expanding or diverging or kind of contracting.

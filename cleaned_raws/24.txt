@@ -4,7 +4,7 @@ And I think derivatives is all about exposure, it's all about practice.
 So I just encourage you to do as much practice as possible.
 And it's actually in some ways a pretty mechanical thing to do and it's easier than a lot of the math that you've learned before.
 Just maybe initially looks a little abstract.
-So let's say that f of x is equal to let's say the sin of 3x to the fifth plus 2x.
+So let's say that f of x = let's say the sin of 3x to the fifth plus 2x.
 So what is f prime of x? What is the derivative of this function? Well, we use the chain rule again.
 We take the derivative of the inside.
 So what's the derivative of the inside? Well, that's just 5 times 3 is 15 x to the fourth plus 2.
@@ -17,7 +17,7 @@ Let's say that let me switch colors just to not be monotonous.
 I'll pick powder blue.
 Very nice.
 Let's say that y and I'm going to switch notation on purpose that you get used to the various notations you can use.
-Let's say that y is equal to let me think of something good e to the x times cosine to the fifth of x.
+Let's say that y = let me think of something good e to the x times cosine to the fifth of x.
 That looks daunting to me.
 Let's see if we can break it down using the product and the chain rules.
 We want to figure out dy/dx.
@@ -99,7 +99,7 @@ You really have the tools now at your disposal to do a lot of derivative problem
 Probably most of the derivative problems you'll face in the first 1/2 year of calculus.
 I'm going to switch to green.
 Let's say y actually I'm tired of y.
-Let's say that p is equal to I don't know.
+Let's say that p = I don't know.
 Sin of x over cosine of x.
 Let's figure out what dp/dx.
 The rate at which p changes to x.
@@ -116,13 +116,13 @@ And then times the derivative of the outside.
 well that's minus 1 cosine of x to the minus 2, and then we multiply that times the first term, sin of x.
 So let's simplify that.
 So this is cosine of x divided by cosine of x.
-You see how this cancels out? This is cosine of x over cosine of x, so this is equal to 1.
+You see how this cancels out? This is cosine of x over cosine of x, so this = 1.
 Cosine of x divided cosine of x is 1.
 And then this minus sin cancels out with this minus sin, and we have sin times sin over cosine squared.
-So this is equal to 1.
+So this = 1.
 I'm going kind of fast because I'm about to run out of time, but I think you get what I'm doing.
-So this is sin squared x over cosine squared x, which is actually equal to what's sin over cosine? 1 plus 10 squared x.
-And if you know your trig identities, that equals 1 over cosine squared of x.
-And, of course, what we just proved is that the derivative of the tangent of x is equal to the secant squared of x.
+So this is sin squared x over cosine squared x, which is actually = what's sin over cosine? 1 plus 10 squared x.
+And if you know your trig identities, that = 1 over cosine squared of x.
+And, of course, what we just proved is that the derivative of the tangent of x = the secant squared of x.
 I hope I thoroughly confused you in that last problem.
 I'll see you in the next presentation.

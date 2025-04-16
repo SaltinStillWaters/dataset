@@ -1,6 +1,6 @@
 Transcript for: Maclaurin series of cos(x) | Series | AP Calculus BC | 
 In the last video, we hopefully set up some of the intuition for why - or I should say what - the Maclaurin series is all about, and I said at the end of the videos that a Maclaurin series is just a special case of a Taylor series.
-In the case of a Maclaurin series, we're approximating this function around x is equal to 0, and a Taylor series, and we'll talk about that in a future video, you can pick an arbitrary x value - or f(x) value, we should say, around which to approximate the function.
+In the case of a Maclaurin series, we're approximating this function around x = 0, and a Taylor series, and we'll talk about that in a future video, you can pick an arbitrary x value - or f(x) value, we should say, around which to approximate the function.
 But with that said, let's just focus on Maclaurin, becuase to some degree it's a little bit simpler, and that by itself can lead us to some pretty profound conclusions about mathematics, and that's actually where I'm trying to get to.
 So let's take the Maclurin series of some interesting functions and I'm gonna do functions where it's pretty easy to take the derivatives, and you can /keep/ taking their derivatives over and over and over and over and over again.
 So let's take the Maclaurin series of cosine of x, so if f(x)=cos(x), then - before I even apply this formula, that we somewhat derived in the last video, or at least got the intuitive for in the last video - let's take a bunch of derivatives of f(x), just so we have a good sense of it.
@@ -13,7 +13,7 @@ Whether you're talking about zero radians or zero degrees, doesn't matter, sine 
 And then cos(0) is, once again, one, but we have the negative out there, so it becomes negative one.
 So f - the second derivative evaluated at zero is negative one.
 Let's take the third derivative, the third derivative evaluated at zero well, sine of zero is just zero, and then the fourth derivative evaluated at zero, cosine of zero is one.
-So f prime prime prime at zero is now equal to one.
+So f prime prime prime at zero is now = one.
 So you see an interesting pattern here - one, zero, negative one, zero, one, then you go to zero, then you go to negative one, zero.
 So if we were to apply this to find it's Maclaurin representation, what would we get? Let me do my best attempt at this.
 So we would get, our polynomial would be - so our polynomial approximation of cosine of x is going to be f(0), f(0) is one, and then we have one plus f'(0) times x.

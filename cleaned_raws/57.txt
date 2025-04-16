@@ -11,7 +11,7 @@ And you take the variable 2x.
 And then the new exponent will be one less than the old exponent.
 So it'll be 2x to the 1, or just 2x.
 So that was easy.
-If I had y equals x squared we now know that the slope at any point on that curve, it would be 2x.
+If I had y = x squared we now know that the slope at any point on that curve, it would be 2x.
 So what if we wanted to go the other way? Let's say if we wanted to start with 2x, and I wanted to say 2x is the derivative of what.
 Well, we know the answer this question, right? Because we just took the derivative of x squared and we figured out 2x.
 But let's say we didn't know this already.
@@ -20,17 +20,17 @@ So in this case the notation well we know it's x squared but the notation for tr
 So 2x is the derivative of y.
 Let's get rid of this of what.
 Then we can say this.
-We can say that y is equal to and I'm going to throw some very fancy notation at you and actually I'll explain why we use this notation in a couple presentations down the road.
+We can say that y = and I'm going to throw some very fancy notation at you and actually I'll explain why we use this notation in a couple presentations down the road.
 But you just have to know at this point what the notation means or what it tells you to really do, which really is just the antiderivative or the indefinite integral.
-So we could say that y is equal to the indefinite integral 2x dx.
+So we could say that y = the indefinite integral 2x dx.
 And I'm going to explain what this squiggly line here is and dx, but all you have to know is when you see the squiggly line and this dx and then something in between, all they're asking is they want you to figure out what the antiderivative of this expression is.
 And I'll explain later why this is called the indefinite integral.
 And actually this notation will make a lot more sense when I show you what a definite integral is.
 But let's just take it for granted right now that an indefinite integral which I just drew here, it's kind of like a little squirrely thing is just the antiderivative.
-So y is equal to the antiderivative essentially, or the indefinite integral of the expression 2x.
-So what is y equal to? Well y is obviously equal to x squared.
+So y = the antiderivative essentially, or the indefinite integral of the expression 2x.
+So what is y =? Well y is obviously = x squared.
 Let me ask you a question.
-Is y just equal to x squared? Because we took the derivative, and clearly the derivative of x squared is 2x.
+Is y just = x squared? Because we took the derivative, and clearly the derivative of x squared is 2x.
 But what's the derivative of x squared what's the derivative x squared plus 1? Well, the derivative of x squared is still 2x.
 What's the derivative of 1? Right, derivative of 1 is 0, so it's 2x plus 0, or still just 2x.
 Similarly, what's the derivative of x squared plus 2? Well the derivative of x squared plus 2 once again is 2x plus 0.
@@ -43,26 +43,26 @@ So you're saying Sal, OK, you've showed me some notation, you've reminded me tha
 Well let's think about a way a systematic way if I didn't do it for you already that we could solve an indefinite integral.
 Let me clear this.
 A bolder color I think would make this more interesting.
-Let's say we said y is equal to the indefinite integral of let me throw something interesting in there.
+Let's say we said y = the indefinite integral of let me throw something interesting in there.
 Let's say the indefinite integral of x cubed dx.
 So we want to figure out some function whose derivative is x to the third.
-Well how can we figure that out? Well just from your intuition, you probably think, well it's probably something times x to the something, right? So let's say that y is equal to a x to the n.
+Well how can we figure that out? Well just from your intuition, you probably think, well it's probably something times x to the something, right? So let's say that y = a x to the n.
 So then what is dy/dx, or the derivative of y is n.
 Well we learned this in the derivative module.
 You take the exponent, multiply it by the coefficient.
 So it's a times n.
 And then it's x to the n minus 1.
 Well in this situation we're saying that x to the third is this expression, it's the derivative of y.
-This is equal to x to the third.
-So if this is equal to x to third, what's a and what's n.
+This = x to the third.
+So if this = x to third, what's a and what's n.
 Well, n is easy to figure out.
-n minus 1 is equal to 3.
-So that means that n is equal to 4.
-And then what is a equal to? Well a times n is equal to 1, right, because we just have a 1 in this coefficient, this has a starting coefficient of 1.
+n minus 1 = 3.
+So that means that n = 4.
+And then what is a =? Well a times n = 1, right, because we just have a 1 in this coefficient, this has a starting coefficient of 1.
 So a times n is 1.
 If n is 4, than a must be 1/4.
-So just using this definition of a derivative, I think we now figured out what y is equal to.
-y is equal to 1/4 x to the fourth.
+So just using this definition of a derivative, I think we now figured out what y =.
+y = 1/4 x to the fourth.
 I think you might start seeing a pattern here.
 Well how did we get from x to the third to 1/4 x to the fourth? Well, we increased the exponent by 1, and whatever the new exponent is, we multiply it times 1 over that new exponent.
 So let's think if we can do a generalized rule here.
@@ -88,7 +88,7 @@ So it's 5/8 x to the eighth.
 And if you don't trust me, take the derivative of this.
 Take the derivative d/dx of 5/8 x to the eighth.
 Well you multiply 8 times 5/8.
-Well that equals 5 x to the and now the new exponent will be 8 minus 1 5 x to the seventh.
+Well that = 5 x to the and now the new exponent will be 8 minus 1 5 x to the seventh.
 Oh, and of course, plus c.
 Don't want to forget the plus c.
 So I think you have a sense of how this works.

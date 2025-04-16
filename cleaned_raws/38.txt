@@ -1,11 +1,11 @@
 Transcript for: L'Hôpital's rule example 1 | Derivative applications | Differential Calculus | 
 Let's say we need to evaluate the limit as x approaches 0 of 2 sine of x minus sine of 2x, all of that over x minus sine of x.
-Now, the first thing that I always try to do when I first see a limit problem is hey, what happens if I just try to evaluate this function at x is equal to 0? Maybe nothing crazy happens.
+Now, the first thing that I always try to do when I first see a limit problem is hey, what happens if I just try to evaluate this function at x = 0? Maybe nothing crazy happens.
 So let's just try it out.
-If we try to do x equals 0, what happens? We get 2 sine of 0, which is 0.
+If we try to do x = 0, what happens? We get 2 sine of 0, which is 0.
 Minus sine of 2 times 0.
 Well, that's going to be sine of 0 again, which is 0.
-So our numerator is going to be equal to 0.
+So our numerator is going to be = 0.
 Sine of 0, that's 0.
 And then we have another sine of 0 there.
 That's another 0, so all 0's.
@@ -16,7 +16,7 @@ So maybe we can use L'Hopital's rule here.
 In order to use L'Hopital's rule then the limit as x approaches 0 of the derivative of this function over the derivative of this function needs to exist.
 So let's just apply L'Hopital's rule and let's just take the derivative of each of these and see if we can find the limit.
 If we can, then that's going to be the limit of this thing.
-So this thing, assuming that it exists, is going to be equal to the limit as x approaches 0 of the derivative of this numerator up here.
+So this thing, assuming that it exists, is going to be = the limit as x approaches 0 of the derivative of this numerator up here.
 And so what's the derivative of the numerator going to be? I'll do it in a new color.
 I'll do it in green.
 Well, the derivative of 2 sine of x is 2 cosine of x.
@@ -43,9 +43,9 @@ So does this mean that the limit doesn't exist? No, it still might exist, we mig
 Let me take the derivative of that and put it over the derivative of that.
 And then take the limit and maybe L'Hopital's rule will help us on the next [INAUDIBLE].
 So let's see if it gets us anywhere.
-So this should be equal to the limit if L'Hopital's rule applies here.
+So this should be = the limit if L'Hopital's rule applies here.
 We're not 100% sure yet.
-This should be equal to the limit as x approaches 0 of the derivative of that thing over the derivative of that thing.
+This should be = the limit as x approaches 0 of the derivative of that thing over the derivative of that thing.
 So what's the derivative of 2 cosine of x? Well, derivative of cosine of x is negative sine of x.
 So it's negative 2 sine of x.
 And then derivative of cosine of 2x is negative 2 sine of 2x.
@@ -62,7 +62,7 @@ And the denominator this is just an exercise in taking derivatives.
 What's the derivative of the denominator? Derivative of 1 is 0.
 And derivative negative cosine of x is just well, that's just sine of x.
 So let's take this limit.
-So this is going to be equal to well, immediately if I take x is equal to 0 in the denominator, I know that sine of 0 is just 0.
+So this is going to be = well, immediately if I take x = 0 in the denominator, I know that sine of 0 is just 0.
 Let's see what happens in the numerator.
 Negative 2 times sine of 0.
 That's going to be 0.
@@ -73,7 +73,7 @@ Are we done? Do we give up? Do we say that L'Hopital's rule didn't work? No, bec
 And if this is our first limit problem we say, hey, maybe we could use L'Hopital's rule here because we got an indeterminate form.
 Both the numerator and the denominator approach 0 as x approaches 0.
 So let's take the derivatives again.
-This will be equal to if the limit exist, the limit as x approaches 0.
+This will be = if the limit exist, the limit as x approaches 0.
 Let's take the derivative of the numerator.
 The derivative of negative 2 sine of x is negative 2 cosine of x.
 And then, plus the derivative of 4 sine of 2x.
@@ -95,12 +95,12 @@ So it's just going to be an 8.
 So negative 2 plus 8.
 Well this thing right here, negative 2 plus 8 is 6.
 6 over 1.
-This whole thing is equal to 6.
+This whole thing = 6.
 So L'Hopital's rule it applies to this last step.
 If this was the problem we were given and we said, hey, when we tried to apply the limit we get the limit as this numerator approaches 0 is 0.
 Limit as this denominator approaches 0 is 0.
-As the derivative of the numerator over the derivative of the denominator, that exists and it equals 6.
-So this limit must be equal to 6.
-Well if this limit is equal to 6, by the same argument, this limit is also going to be equal to 6.
-And by the same argument, this limit has got to also be equal to 6.
+As the derivative of the numerator over the derivative of the denominator, that exists and it = 6.
+So this limit must be = 6.
+Well if this limit = 6, by the same argument, this limit is also going to be = 6.
+And by the same argument, this limit has got to also be = 6.
 And we're done.

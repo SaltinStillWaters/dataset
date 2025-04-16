@@ -79,7 +79,7 @@ In this diagram, the z-axis is just popping out at us.
 It's popping out of the page.
 We're looking straight down.
 It's just like the same view as right there.
-And what I just drew, when s is equal to 0 radians, we're going to be out here, exactly one radius further along the y-axis.
+And what I just drew, when s = 0 radians, we're going to be out here, exactly one radius further along the y-axis.
 And then we're going to rotate.
 As we rotate around, we're going to rotate and then come all the way over here.
 That's when we're right over there, and then come back down.
@@ -103,7 +103,7 @@ So right here, let's call that the t-axis.
 That's, remember, how much we're rotated around the z-axis right there.
 And let's call this down here our s-axis.
 And I think this will help things out a good bit.
-So when s is equal to 0, and we vary just t, so they're both going to vary between 0 and 2 pi.
+So when s = 0, and we vary just t, so they're both going to vary between 0 and 2 pi.
 So this right here is 0, this right here is 2 pi.
 Let me do some things in between.
 This is pi, this would be pi over 2 obviously, pi over 2, this would be 3 pi over 4.
@@ -126,11 +126,11 @@ I think it will help all of our visualizations.
 All right.
 So this is my x-axis, that is my y-axis, and then my z-axis goes up like that.
 z-axis.
-Now remember, when s is equal to 0, that means we haven't rotated around this circle at all.
+Now remember, when s = 0, that means we haven't rotated around this circle at all.
 That means we're out here.
 We're going to be b away, and then a away again.
 Right? We haven't rotated around this at all.
-We're setting s as equal to zero.
+We're setting s as = zero.
 So essentially, we're going to be b away, so this is going to be a distance of b away, and then we're going to be another a away.
 The b is the center of the circle, and then we're going to be another a away.
 We're going to be right over there.
@@ -144,7 +144,7 @@ So let me draw the outer edge.
 And to do that a little bit better, let me draw the axes in both the positive and the negative domain.
 It might make my graph a little bit easier to visualize things.
 Positive and negative domain, this is negative z right there.
-So this line in our t-s plane, I guess we could say, this magenta line, we hold s at 0 radians and we increase t, this is t is zero, this is t is equal to 2 pi, that's t is equal to pi, this is t is equal to 3 pi over 2, all the way back to t is equal to 2 pi.
+So this line in our t-s plane, I guess we could say, this magenta line, we hold s at 0 radians and we increase t, this is t is zero, this is t = 2 pi, that's t = pi, this is t = 3 pi over 2, all the way back to t = 2 pi.
 This line corresponds to that line, as we rotate, as we increase t and hold s constant at 0.
 Now let's do another point.
 Let's say when s is at pi, right, remember, when s is at pi, we've gone exactly, pi is 180 degrees.
@@ -191,7 +191,7 @@ We would have rotated around the z-axis 90 degrees, so now we're over here.
 And now when we vary s, s will start off over here, and it'll go all the way around like that.
 So this line corresponds to that circle.
 We could keep doing it like this.
-When t is equal to pi, that means we've got all the way around the circle like that, and now when we vary s from 0 to pi over 2, we're going to start all the way over here, and then we're going to vary, all the way, we're going to go down and hit all those contours that we talked about before, and I'll do one more, just to kind of make this, the scaffold, clear.
+When t = pi, that means we've got all the way around the circle like that, and now when we vary s from 0 to pi over 2, we're going to start all the way over here, and then we're going to vary, all the way, we're going to go down and hit all those contours that we talked about before, and I'll do one more, just to kind of make this, the scaffold, clear.
 This dark purple, hopefully you can see it.
 When t is 3 pi over 4, we've rotated all the way.
 So we're in the x-z plane.

@@ -3,8 +3,8 @@ I just got sent this problem, and it's a pretty meaty problem.
 A lot harder than what you'd normally find in most textbooks.
 So I thought it would help us all to work it out.
 And it's one of those problems that when you first read it, your eyes kind of glaze over, but when you understand what they're talking about, it's reasonably interesting.
-So they say, the curve in the figure above is the parabola y is equal to x squared.
-So this curve right there is y is equal to x squared.
+So they say, the curve in the figure above is the parabola y = x squared.
+So this curve right there is y = x squared.
 Let us define a normal line as a line whose first quadrant intersection with the parabola is perpendicular to the parabola.
 So this is the first quadrant, right here.
 And they're saying that a normal line is something, when the first quadrant intersection with the parabola is normal to the parabola.
@@ -72,24 +72,24 @@ Now what do they want to know? And I think I only have time for the first part o
 Maybe I'll do the second part in the another video.
 Find the equation of the extreme normal line.
 Well, that seems very daunting at first, but I think our toolkit of derivatives, and what we know about equations of a line, should be able to get us there.
-So what's the slope of the tangent line at any point on this curve? Well, we just take the derivative of y equals x squared, and y prime is just equal to 2x.
+So what's the slope of the tangent line at any point on this curve? Well, we just take the derivative of y = x squared, and y prime is just = 2x.
 This is the slope of the tangent at any point x.
 So if I want to know the slope of the tangent at x0, at some particular x, I would just say, well, let me just say, slope, it would be 2 x0.
-Or let me just say, f of x0 is equal to 2 x0.
+Or let me just say, f of x0 = 2 x0.
 This is the slope at any particular x0 of the tangent line.
 Now, the normal line slope is perpendicular to this.
 So the perpendicular line, and I won't review it here, but the perpendicular line has a negative inverse slope.
 So the slope of normal line at x0 will be the negative inverse of this, because this is the slope of the tangent line x0.
-So it'll be equal to minus 1 over 2 x0.
+So it'll be = minus 1 over 2 x0.
 Fair enough.
 Now, what is the equation of the normal line at x0 let's say that this is my x0 in question.
 What is the equation of the normal line there? Well, we can just use the point-slope form of our equation.
 So this point right here will be on the normal line.
 And that's the point x0 squared.
-Because this the graph of y equals x0, x squared.
+Because this the graph of y = x0, x squared.
 So this normal line will also have this point.
-So we could say that the equation of the normal line, let me write it down, would be equal to, this is just a point-slope definition of a line.
-You say, y minus the y-point, which is just x0 squared, that's that right there, is equal to the slope of the normal line minus 1 over 2 x0 times x minus the x-point that we're at.
+So we could say that the equation of the normal line, let me write it down, would be =, this is just a point-slope definition of a line.
+You say, y minus the y-point, which is just x0 squared, that's that right there, = the slope of the normal line minus 1 over 2 x0 times x minus the x-point that we're at.
 Minus x, minus x0.
 This is the equation of the normal line.
 So let's see.
@@ -97,7 +97,7 @@ And what we care about is when x0 is greater than 0, right? We care about the no
 So that's my equation of the normal line.
 And let's solve it explicitly in terms of x.
 So y is a function of x.
-Well, if I add x0 squared to both sides, I get y is equal to, actually, let me multiply this guy out.
+Well, if I add x0 squared to both sides, I get y =, actually, let me multiply this guy out.
 I get minus 1/2 x0 times x, and then I have plus, plus, because I have a minus times a minus, plus 1/2.
 The x0 and the over the x0, they cancel out.
 And then I have to add this x0 to both sides.
@@ -109,19 +109,19 @@ This is its slope, this is the m, and then this is its y-intercept right here.
 That's kind of the b.
 Now, what do we care about? We care about where this thing intersects.
 We care about where it intersects the parabola.
-And the parabola, that's pretty straightforward, that's just y is equal to x squared.
-So to figure out where they intersect, we just have to set the 2 y's to be equal to each other.
-So they intersect, the x-values where they intersect, x squared, this y would have to be equal to that y.
+And the parabola, that's pretty straightforward, that's just y = x squared.
+So to figure out where they intersect, we just have to set the 2 y's to be = each other.
+So they intersect, the x-values where they intersect, x squared, this y would have to be = that y.
 Or we could just substitute this in for that y.
-So you get x squared is equal to minus 1 over 2 x0 times x, plus 1/2 plus x0 squared.
+So you get x squared = minus 1 over 2 x0 times x, plus 1/2 plus x0 squared.
 Fair enough.
 And let's put this in a quadratic equation, or try to solve this, so we can apply the quadratic equation.
 So let's put all of this stuff on the lefthand side.
-So you get x squared plus 1 over 2 x0 times x minus all of this, 1/2 plus x0 squared is equal to 0.
+So you get x squared plus 1 over 2 x0 times x minus all of this, 1/2 plus x0 squared = 0.
 All I did is, I took all of this stuff and I put it on the lefthand side of the equation.
 Now, this is just a standard quadratic equation, so we can figure out now where the x-values that satisfy this quadratic equation will tell us where our normal line and our parabola intersect.
 So let's just apply the quadratic equation here.
-So the potential x-values, where they intersect, x is equal to minus b, I'm just applying the quadratic equation.
+So the potential x-values, where they intersect, x = minus b, I'm just applying the quadratic equation.
 So minus b is minus 1 over 2 x0, plus or minus the square root of b squared.
 So that's that squared.
 So it's one over four x0 squared minus 4ac.
@@ -146,12 +146,12 @@ So let us factor out let me rewrite this.
 I can just divide everything by 1/2, so this is minus 1 over 4 x0, I just divided this by 2, plus or minus 1/2, that's just this 1/2 right there, times the square root, let me see what I can simplify out of here.
 So if I factor out a 4 over x0 squared, then what does my expression become? This term right here will become an x to the fourth, x0 to the fourth, plus, now, what does this term become? This term becomes a 1/2 x0 squared.
 And just to verify this, multiply 4 times 1/2, you get 2, and then the x0 squares cancel out.
-So write this term times that, will equal 2, and then you have plus now we factored a four out of this and the x0 squared, so plus 1/16.
+So write this term times that, will = 2, and then you have plus now we factored a four out of this and the x0 squared, so plus 1/16.
 Let me scroll over a little bit.
 And you can verify that this works out.
 If you were to multiply this out, you should get this business right here.
 I see the home stretch here, because this should actually factor out quite neatly.
-So what does this equal? So the intersection of our normal line and our parabola is equal to this.
+So what does this =? So the intersection of our normal line and our parabola = this.
 Minus 1 over 4 x0 plus or minus 1/2 times the square root of this business.
 And the square root, this thing right here is 4 over x0 squared.
 Now what's this? This is actually, lucky for us, a perfect square.
@@ -177,7 +177,7 @@ Let's see if that's the case.
 Let's see if the plus version actually simplifies to x0.
 So these are our two points.
 If I take the plus version, that should be our first quadrant intersection.
-So x is equal to minus 1/4 x0 plus x0 plus 1/4 x0.
+So x = minus 1/4 x0 plus x0 plus 1/4 x0.
 And, good enough, it does actually cancel out.
 That cancels out.
 So x0 is one of the points of intersection, which makes complete sense.
@@ -185,11 +185,11 @@ Because that's how we even defined the problem.
 But, so this is the first quadrant intersection.
 So that's the first quadrant intersection.
 The second quadrant intersection will be where we take the minus sign right there.
-So x, I'll just call it in the second quadrant intersection, it'd be equal to minus 1/4 x0 minus this stuff over here, minus the stuff there.
+So x, I'll just call it in the second quadrant intersection, it'd be = minus 1/4 x0 minus this stuff over here, minus the stuff there.
 So minus x0 minus 1 over 4 mine x0.
 Now what do we have? So let's see.
 We have a minus 1 over 4 x0, minus 1 over 4 x0.
-So this is equal to minus x0, minus x0, minus 1 over 2 x0.
+So this = minus x0, minus x0, minus 1 over 2 x0.
 So if I take minus 1/4 minus 1/4, I get minus 1/2.
 And so my second quadrant intersection, all this work I did got me this result.
 My second quadrant intersection, I hope I don't run out of space.
@@ -200,27 +200,27 @@ They call this the extreme normal line.
 The extreme normal line is when our second quadrant intersection essentially achieves a maximum point.
 I know they call it the smallest point, but it's the smallest negative value, so it's really a maximum point.
 So how do we figure out that maximum point? Well, we have our second quadrant intersection as a function of our first quadrant x.
-I could rewrite this as, my second quadrant intersection as a function of x0 is equal to minus x minus 1 over 2 x0.
-So this is going to reach a minimum or a maximum point when its derivative is equal to 0.
+I could rewrite this as, my second quadrant intersection as a function of x0 = minus x minus 1 over 2 x0.
+So this is going to reach a minimum or a maximum point when its derivative = 0.
 This is a very unconventional notation, and that's probably the hardest thing about this problem.
 But let's take this derivative with respect to x0.
-So my second quadrant intersection, the derivative of that with respect to x0, is equal to, this is pretty straightforward.
-It's equal to minus 1, and then I have a minus 1/2 times, this is the same thing as x to the minus 1.
+So my second quadrant intersection, the derivative of that with respect to x0, =, this is pretty straightforward.
+It's = minus 1, and then I have a minus 1/2 times, this is the same thing as x to the minus 1.
 So it's minus 1 times x0 to the minus 2, right? I could have rewritten this as minus 1/2 times x0 to the minus 1.
 So you just put its exponent out front and decrement it by 1.
 And so this is the derivative with respect to my first quadrant intersection.
 So let me simplify this.
-So x, my second quadrant intersection, the derivative of it with respect to my first quadrant intersection, is equal to minus 1, the minus 1/2 and the minus 1 become a positive when you multiply them, and so plus 1/2 over x0 squared.
-Now, this'll reach a maximum or minimum when it equals 0.
-So let's set that equal to 0, and then solve this problem right there.
+So x, my second quadrant intersection, the derivative of it with respect to my first quadrant intersection, = minus 1, the minus 1/2 and the minus 1 become a positive when you multiply them, and so plus 1/2 over x0 squared.
+Now, this'll reach a maximum or minimum when it = 0.
+So let's set that = 0, and then solve this problem right there.
 Well, we add one to both sides.
-We get 1 over 2 x0 squared is equal to 1, or you could just say that that means that 2 x0 squared must be equal to 1, if we just invert both sides of this equation.
-Or we could say that x0 squared is equal to 1/2, or if we take the square roots of both sides of that equation, we get x0 is equal to 1 over the square root of 2.
+We get 1 over 2 x0 squared = 1, or you could just say that that means that 2 x0 squared must be = 1, if we just invert both sides of this equation.
+Or we could say that x0 squared = 1/2, or if we take the square roots of both sides of that equation, we get x0 = 1 over the square root of 2.
 So we're really, really, really close now.
 We've just figured out the x0 value that gives us our extreme normal line.
 This value right here.
 Let me do it in a nice deeper color.
-This value right here, that gives us the extreme normal line, that over there is x0 is equal to 1 over the square root of 2.
+This value right here, that gives us the extreme normal line, that over there is x0 = 1 over the square root of 2.
 Now, they want us to figure out the equation of the extreme normal line.
 Well, the equation of the extreme normal line we already figured out right here.
 It's this.
@@ -229,20 +229,20 @@ So if we want the equation of the normal line at this extreme point, right here,
 So what do I get? I get, and this is the home stretch, and this is quite a beast of a problem.
 y minus x0 squared.
 x0 squared is 1/2, right? 1 over the square root of 2 squared is 1/2.
-Is equal to minus 1 over 2 x0.
+= minus 1 over 2 x0.
 So let's be careful here.
 So minus 1/2 times 1 over x0.
 One over x0 is the square root of 2, right? All of that times x minus x0.
 So that's 1 over the square root of 2.
 x0 is one over square root of 2.
 So let's simplify this a little bit.
-So the equation of our normal line, assuming I haven't made any careless mistakes, is equal to, so y minus 1/2 is equal to, let's see.
+So the equation of our normal line, assuming I haven't made any careless mistakes, =, so y minus 1/2 =, let's see.
 If we multiply this minus square root of 2 over 2x, and then if I multiply these square root of 2 over this, it becomes one.
 And then I have a minus and a minus, so that I have a plus 1/2.
 I think that's right.
-Yeah, plus 1/2, this times this times that is equal to plus 1/2.
+Yeah, plus 1/2, this times this times that = plus 1/2.
 And then, we're at the home stretch.
-So we just add 1/2 to both sides of this equation, and we get our extreme normal line equation, which is y is equal to minus square root of 2 over 2x.
+So we just add 1/2 to both sides of this equation, and we get our extreme normal line equation, which is y = minus square root of 2 over 2x.
 If you add 1/2 to both sides of this equation, you get plus 1.
 And there you go.
 That's the equation of that line there, assuming I haven't made any careless mistakes.

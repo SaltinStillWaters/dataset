@@ -5,7 +5,7 @@ I think I did it over several videos because it was a bit hairy.
 And I'll write our position vector-valued function first.
 So we have r as a function of our two parameters s and t.
 And then I'll review a little bit of what all the terms what the s, the t, and the a's and the b's represent.
-But it's equal to b plus a cosine of s.
+But it's = b plus a cosine of s.
 And once again, we saw this several videos ago.
 So you might want to watch the videos on parameterizing surfaces with two parameters to figure out how we got here.
 Times the sine of t.
@@ -109,7 +109,7 @@ So hopefully this makes some sense just as a review of taking a partial derivati
 Now let's do the same thing with respect to t.
 And I'll do that in a different color.
 So we're now going to take the partial of r with respect to t.
-So the partial of r with respect to t is equal to so now this whole term over here is a constant, and so it's going to be that whole term times the derivative of this with respect to t, which is just cosine of t.
+So the partial of r with respect to t = so now this whole term over here is a constant, and so it's going to be that whole term times the derivative of this with respect to t, which is just cosine of t.
 So it's going to be b plus a cosine of s times cosine of t i.
 And then, plus and it's actually going to be a minus because when you take the derivative of this with respect to t it's going to be minus sine of t.
 So it's going to be negative and then let me leave some space for this term right here.

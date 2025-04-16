@@ -1,9 +1,9 @@
 Transcript for: The Chain Rule Welcome back.
 I'm now going to do some more examples of a bit of a review of some of the derivatives that we've been seeing.
 And then I'll introduce you to something called the chain rule which expands the universe of the types of functions we can take the derivatives of.
-So in the last presentation, I showed you how to function if I had f of x is equal to 10x to the seventh plus 6x to the third plus 15x minus x to the 16th.
+So in the last presentation, I showed you how to function if I had f of x = 10x to the seventh plus 6x to the third plus 15x minus x to the 16th.
 To take the derivative of this entire function, we take just the derivatives of each of the pieces, right? Because you can add them up.
-So f prime of x in this example, is equal to and I think you get the hang of it at this point.
+So f prime of x in this example, = and I think you get the hang of it at this point.
 It's actually fairly straightforward.
 We take the 7, multiply it by the 10.
 So we get 70x, then 1 degree less.
@@ -54,7 +54,7 @@ OK.
 So now I'm going show you how to solve the derivatives of a slightly more complicated type of a function.
 It's actually not more complicated.
 It's just different.
-So let's say f of x is equal to 2x plus 3 to the fifth power.
+So let's say f of x = 2x plus 3 to the fifth power.
 And I want to figure out the derivative of this.
 We're going to use something called the chain rule.
 Because one thing we could do, we could just multiply out 2x plus 3 to the fifth power.
@@ -88,11 +88,11 @@ And then we multiplied it by the derivative of the greater function.
 And we just pretended like the 2x plus 3 was a variable.
 It was like x.
 So instead of 5x to the fourth, we got 5 times 2x plus 3 to the fourth.
-And if we just simplify that, f prime of x is equal to 2 times 5 is 10; 10 times 2x plus 3 to the fourth.
+And if we just simplify that, f prime of x = 2 times 5 is 10; 10 times 2x plus 3 to the fourth.
 That was a lot simpler than multiplying out 2x plus 3 to the fifth power, and then doing the derivatives the old way.
 I know this was probably a little confusing to you, so I'm going to try to do a couple more examples.
-Let's say I had g of x is equal to x-squared plus 2x plus 3 to the eighth power.
-So g prime of x is going to equal well what did we say? We take the derivative of the inside.
+Let's say I had g of x = x-squared plus 2x plus 3 to the eighth power.
+So g prime of x is going to = well what did we say? We take the derivative of the inside.
 This is called the chain rule.
 What's the derivative of the inside? It's 2x plus 2 plus 0, right? And then we take the derivative of the whole thing.
 And we just pretend like this whole expression, x-squared plus 2x plus 3 is just kind of like the variable x.
@@ -105,7 +105,7 @@ Because it's 2x plus 2 times 8 times x-squared plus 2x plus 3 to the seventh.
 To multiply this out, or to multiply this out is a huge pain as you know.
 But we could simplify a little bit.
 Let me draw a divider here.
-We could say that that equals 8 times 2x, 16x plus 16 times I'm making it really messy x-squared plus 2x plus 3 to the seventh power.
+We could say that that = 8 times 2x, 16x plus 16 times I'm making it really messy x-squared plus 2x plus 3 to the seventh power.
 I hope I didn't confuse you too much.
 In the next presentation, I'm just going to do a ton of examples using the chain rule.
 And I think the more examples you see, it's going to hit the point home.

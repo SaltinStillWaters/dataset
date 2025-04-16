@@ -11,7 +11,7 @@ So if we were to integrate both sides well if you integrate this side, you're ta
 So that's the integral of f prime of x g of x dx plus the integral of f of x g prime of x d of x.
 And now this might seem a little bit arbitrary, and it is a little bit arbitrary, let me take well, I could take either of these but let me just take this one and move it to this side of the equation.
 So I'm going to subtract this term from both sides of this equation.
-And so, we could say this so let me change colors, because this could get confusing this term right here, we could say that term f of x g prime of x d of x is equal to this term let me switch back to the yellow is equal to f of x g of x minus this term.
+And so, we could say this so let me change colors, because this could get confusing this term right here, we could say that term f of x g prime of x d of x = this term let me switch back to the yellow = f of x g of x minus this term.
 Because I put it onto this side of the equation.
 So what did I just do? It looks like I just well, I am just essentially playing with the product rule from differentiation.
 That's all I did.
@@ -53,7 +53,7 @@ But let's just move forward.
 And then this is minus the integral of the derivative of f of x.
 Well what's the derivative of f of x? Well, we said f of x is x, right? So the derivative is just 1 times g of x.
 Well, I already said that g of x is sine of x.
-And I think you would agree that we've now simplified this a good bit, because this is just the integral of sine of x, right? So this is just equal to x sine of x this is just this first term right here minus and what's the integral of sine of x? Well, the derivative of well, let me make it even simpler.
+And I think you would agree that we've now simplified this a good bit, because this is just the integral of sine of x, right? So this is just = x sine of x this is just this first term right here minus and what's the integral of sine of x? Well, the derivative of well, let me make it even simpler.
 Well we can make this a minus, we can make this a minus sign of x and make this a plus.
 And now it's really easy.
 What's the antiderivative of minus sine of x? We can ignore this 1.

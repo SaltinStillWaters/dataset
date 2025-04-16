@@ -69,10 +69,10 @@ And what's the run, what's this distance? Well, it's just b minus a.
 And if I were to draw a line that has that average slope, it would look something like this.
 We could make it go through those two points, but it really doesn't have to.
 Let me do it in a blue.
-So that's the average slope between those two points, right? So what does the mean value theorem tell us? It says, if f of x is defined over this closed interval from a to b, and f of x is continuous, and it's differentiable, that you could take the derivative at any point, that there must be some points c f prime of c is equal to this thing.
-So is equal to f prime of c.
+So that's the average slope between those two points, right? So what does the mean value theorem tell us? It says, if f of x is defined over this closed interval from a to b, and f of x is continuous, and it's differentiable, that you could take the derivative at any point, that there must be some points c f prime of c = this thing.
+So = f prime of c.
 I shouldn't have written it here.
-So what is that telling us? So all that's telling us, is if we're continuous, differentiable, defined over the closed interval, that there's some point c, oh, and c has to be between a and b, there's some point between a and b, and it could be at one of the points, but there's some point c where the derivative at c, or the slope at c, the instantaneous slope at c, is exactly equal to the average slope over that interval.
+So what is that telling us? So all that's telling us, is if we're continuous, differentiable, defined over the closed interval, that there's some point c, oh, and c has to be between a and b, there's some point between a and b, and it could be at one of the points, but there's some point c where the derivative at c, or the slope at c, the instantaneous slope at c, is exactly = the average slope over that interval.
 So what does that mean? So we can look at it visually.
 Is there any point along this curve where the slope looks very similar to this average slope that we calculated? Well, sure, let's see.
 It looks like, maybe, this point, right here? Just the way I drew it.
@@ -80,9 +80,9 @@ This is very inexact.
 But that point looks like the slope, you know, I could say the slope is something like that, right there.
 So we don't know what, analytically, this function is, but visually, you could see that at this point c, the derivative, so I just picked that point.
 So this could be our point c.
-And how do we just say that? Well, because f prime of c is this slope, and it's equal to the average slope.
-So f prime of c is this thing, and it's going to be equal to the average slope over the whole thing.
-And this curve actually probably has another point where the slope is equal to the average slope.
+And how do we just say that? Well, because f prime of c is this slope, and it's = the average slope.
+So f prime of c is this thing, and it's going to be = the average slope over the whole thing.
+And this curve actually probably has another point where the slope = the average slope.
 Let's see.
 This one looks, like, right around there.
 Just the way I drew it.
@@ -100,13 +100,13 @@ Position.
 And if I was moving at a constant velocity, my position as a function of time would just be a straight line, right? And the velocity is actually your slope.
 But let's say I had a varying velocity.
 And in reality, if you're driving a car, you are always at a variable velocity.
-So let's say I start at a standstill at time t equals 0, and then I accelerate, then I decelerate a little bit, decelerate a little bit, I keep decelerating, and then I come to a standstill, so my position stays still.
+So let's say I start at a standstill at time t = 0, and then I accelerate, then I decelerate a little bit, decelerate a little bit, I keep decelerating, and then I come to a standstill, so my position stays still.
 Then I accelerate again, decelerate, accelerate, et cetera.
 Right? So this could be, you know, I have a variable velocity, and this could be my position as a function of time.
 So all this says, let's say that after, this is time 0, position 0.
-Let's say after 1 hour, let's say that is 1 hour, this time equals 1 hour, let's say I have gone 60 miles.
-So what can you say? You could say that my average velocity equals just change in distance divided by change in times.
-It equals 60 miles per hour.
+Let's say after 1 hour, let's say that is 1 hour, this time = 1 hour, let's say I have gone 60 miles.
+So what can you say? You could say that my average velocity = just change in distance divided by change in times.
+It = 60 miles per hour.
 So what the mean values theorem says, is OK.
 Your average velocity, so you could almost view it as the average slope between this point and this point with 60, if your average velocity was 60 miles per hour, there was some point in time, maybe more, but there was at least one point in time, where you were going exactly sixty miles per hour.
 That make sense, right? If you average 60 miles per hour, maybe you're going 40 miles per hour some of the point, but at some point you went 80, and in between you had to be going 60 miles per hour.
@@ -116,15 +116,15 @@ So before I leave, let's do this analytically, just to work with numbers.
 And the reason why I have mixed feelings about the mean value theorem, it's useful later on, probably if you become a math major you'll maybe use it to prove some theorems, or maybe you'll prove it, itself.
 But if you're just applying calculus for the most part, you're not going to be using the mean value theorem too much.
 But anyway, if you've got to know it, you've got to know it, and it tells you something else about the world, so it's interesting that way.
-So let's say we have the function f of x is equal to x squared minus 4x, and the interval that I care about here is between, is a closed interval, so I'm including 2, from 2 to 4.
+So let's say we have the function f of x = x squared minus 4x, and the interval that I care about here is between, is a closed interval, so I'm including 2, from 2 to 4.
 Now, the mean value theorem tells us that if this function is defined on this interval, and it is, right? We could put any number.
 The domain of this is actually all real numbers, I could put any number here, so obviously it's going to be defined over this interval.
 But so it's defined over the interval, this is continuous, this is differentiable.
 You could take the derivative, and the derivative is continuous.
 So the mean value theorem should apply here.
-So let's see what value of c is equal to the average slope between 2 and 4.
+So let's see what value of c = the average slope between 2 and 4.
 So what's the average slope between 2 and 4? Well, it's going to be f of 4, so the change in the function, f of 4 minus f of 2 divided by the change in x, so 4 minus 2.
-So this equal to the average slope.
+So this = the average slope.
 So f of 4 is 16 minus 16, right? So that's 0.
 Let me make sure of that.
 4 times 4, 16, minus 4 times 4, 16, right.
@@ -132,19 +132,19 @@ Minus f of 2.
 f of 2 is 2 squared, is 4, right, and then minus 4 times 2.
 So minus 8.
 All of that over 2.
-And so this equals minus 4.
-So this equals 4 over 2.
-So the average slope from x is equal to 2 to x is equal to 4 is 2.
-And now the mean value theorem tells us, that there must be some point that's between these two, maybe including one of those, where the slope at that point is exactly equal to 2.
+And so this = minus 4.
+So this = 4 over 2.
+So the average slope from x = 2 to x = 4 is 2.
+And now the mean value theorem tells us, that there must be some point that's between these two, maybe including one of those, where the slope at that point is exactly = 2.
 Let's figure out what point that is.
 That c.
-Let's take the derivative, because the derivative at c is going to be equal to 2.
+Let's take the derivative, because the derivative at c is going to be = 2.
 So we just take the derivative.
-So let's say f prime of x is equal to 2x minus four.
-And we want to figure out, at what x value does this equal 2.
-So we say, 2x minus 4 is equal to 2.
-Where does the slope equal 2? And you get 2x is equal to 6, x is equal to 3.
-So if x is equal to 3, the derivative is exactly equal to the average slope.
+So let's say f prime of x = 2x minus four.
+And we want to figure out, at what x value does this = 2.
+So we say, 2x minus 4 = 2.
+Where does the slope = 2? And you get 2x = 6, x = 3.
+So if x = 3, the derivative is exactly = the average slope.
 But let me see if I can, let me get the graphing calculator here.
 Let me what I can do.
 OK.
@@ -169,9 +169,9 @@ So what we said, the average slope, so the closed interval that we care about, b
 That's the interval, 2 to 4.
 The average slope is 2.
 Doesn't look like it, only because I've kind of compressed the y-axis.
-And we're saying, at the point x is equal to 3, the slope is equal to exactly that.
-So at x is equal to three, the slope is equal to the same thing.
+And we're saying, at the point x = 3, the slope = exactly that.
+So at x = three, the slope = the same thing.
 That's all the mean value theorem is.
 I know sounds complicated.
-People talk about continuity, and differentiability, and f prime of c, and all this, but all it says is, there's some point between these two points where the instantaneous slope, or slope exactly at that point, is equal to the slope between these two points.
+People talk about continuity, and differentiability, and f prime of c, and all this, but all it says is, there's some point between these two points where the instantaneous slope, or slope exactly at that point, = the slope between these two points.
 Hope I didn't confuse you.

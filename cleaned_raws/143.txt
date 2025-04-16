@@ -4,7 +4,7 @@ And when I say that, I mean that let's say I were to take this line integral alo
 That's my x and y axis, and let's say my path looks something like this: I start there and I go over there to point c.
 My end point, the curve here is c.
 And so I would evaluate this line integral, this victor field along this path.
-This would be a path independent vector field, or we call that a conservative vector field, if this thing is equal to the same integral over a different path that has the same end point.
+This would be a path independent vector field, or we call that a conservative vector field, if this thing = the same integral over a different path that has the same end point.
 So let's call this c1, so this is c1, and this is c2.
 This vector field is conservative if I start at the same point but I take a different path.
 Let's say I go something like that: if I take a different path and this is my c2 I still get the same value.
@@ -19,7 +19,7 @@ And I'm not going to prove it in this video, but I think it'll be pretty intuiti
 So maybe it doesn't need to have a proof, or I'll prove it eventually, but I really just want to give you the intuition.
 And all that says is that if I have some function let's say I have f of x and y, but x and y are then functions of, let's say a third variable, t, so f of x of t and y of t that the derivative of f with respect to t is multivariable.
 I have two variables here in x and y.
-This is going to be equal to the partial of f with respect to x.
+This is going to be = the partial of f with respect to x.
 How fast does f change as x changes times the derivative of x with respect to t This is a single variable function right here, so you to take a regular derivative.
 So times how fast x changes with respect to t.
 This is a standard derivative, this is a partial derivative, because at that level we're dealing with two variables.
@@ -36,7 +36,7 @@ We're going to put that aside for a second.
 Now let's say I have some vector field f and it's different than this f, so I'll do it in a different color; magenta I have some vector field f that is a function of x and y.
 And let's say that it happens to be the gradient of some scalar field.
 I'll call that capital F.
-And this is gradient which means that capital F is also function of x and y so I don't want to write it on a new line, I could also write up here; capital F is also a function of x and y and the gradient, and all that means is that the vector field f of xy lower-case f of xy, is equal to the partial derivative of upper-case F with respect to x times the i-unit vector plus the partial of upper-case F with respect to y times the j-unit vector.
+And this is gradient which means that capital F is also function of x and y so I don't want to write it on a new line, I could also write up here; capital F is also a function of x and y and the gradient, and all that means is that the vector field f of xy lower-case f of xy, = the partial derivative of upper-case F with respect to x times the i-unit vector plus the partial of upper-case F with respect to y times the j-unit vector.
 This is the definition of the gradient right here.
 And if you imagine that upper-case F is some type of surface so this is uppercase F of xy the gradient F of xy is going to be a vector field that tells you the direction of steepest ascent at any point.
 So it'll be defined the xy plane.
@@ -51,24 +51,24 @@ Or you could say it doesn't matter what path we follow when we take a line integ
 Now let me see if I can prove that to you.
 So let's start with the assumption that f can be written this way, as the gradient, that lower-case f can be written as the gradient of some upper-case F.
 So in that case our integral well, let's define our path first.
-So our position vector function we always need one of those to do a line integral or a vector line integral r of t is going to be equal to x of t times i plus y of t times j 4t going between a and b.
+So our position vector function we always need one of those to do a line integral or a vector line integral r of t is going to be = x of t times i plus y of t times j 4t going between a and b.
 You've seen this multiple times; this is a definition of pretty much any path in two dimensions.
-And then we're going to say f of xy is going to be equal to this: it's going to be the partial derivative of uppercase F with respect to x so we're assuming that this exists, that this is true times i plus the partial of upper-case F with respect to y times j.
-Now, given this what is lower-case f dot dr going to equal over this path right here? This path is defined by this position function right there.
-Well, it's going to be equal to, we need to figure out what dr is, and we've done that in multiple videos.
+And then we're going to say f of xy is going to be = this: it's going to be the partial derivative of uppercase F with respect to x so we're assuming that this exists, that this is true times i plus the partial of upper-case F with respect to y times j.
+Now, given this what is lower-case f dot dr going to = over this path right here? This path is defined by this position function right there.
+Well, it's going to be =, we need to figure out what dr is, and we've done that in multiple videos.
 I'll do that on the right over here.
 dr, we've seen it multiple times.
 Actually, I'll solve it out again.
-dr over dt by definition was equal to dx over dt times i plus I don't know why it got all fat like that dy over dt times j.
+dr over dt by definition was = dx over dt times i plus I don't know why it got all fat like that dy over dt times j.
 That's what dr over dt is.
 So if we want to figure out what dr is, the differential of dr, if we want to play with differentials in this way, multiply both sides times dt.
 And actually I'm going to treat dt, I'll multiply it; I'll distribute it.
 It's dx over dt times dti plus dy over dt times dtj.
-So if we're taking the dot product of f with dr, what are we going to get? So this is going to be the integral over the curve from I'll write the c right there; we could write in terms of the end points as t once we feel good that we have everything in terms of t but it's going to be equal to this dot that, which is equal to I'll try to stay color consistent the partial of upper-case F with respect to x times that, times dx over d t I'm going to write this st in a different color times dt plus the partial of upper-case F with respect to y times we're multiplying the j components, right? When you take the dot product, multiply the i components, and then add that to what you get from the product of the j components so this j component's partial of upper-case F with respect to y, and then we have times switch to a yellow dy over dt times that dt right over there.
+So if we're taking the dot product of f with dr, what are we going to get? So this is going to be the integral over the curve from I'll write the c right there; we could write in terms of the end points as t once we feel good that we have everything in terms of t but it's going to be = this dot that, which = I'll try to stay color consistent the partial of upper-case F with respect to x times that, times dx over d t I'm going to write this st in a different color times dt plus the partial of upper-case F with respect to y times we're multiplying the j components, right? When you take the dot product, multiply the i components, and then add that to what you get from the product of the j components so this j component's partial of upper-case F with respect to y, and then we have times switch to a yellow dy over dt times that dt right over there.
 And then we can factor out the dt.
 Or actually, so I don't have to even write it again, right now I wrote it without, well let me write it again.
-So this is equal to the integral.
-And let's say we have it in terms of t; we've written everything in terms of t, so t goes from a to b, and so this is going to be equal to I'll write it in blue the partial of upper case F with respect to x times dx over dt plus I'm distributing this dt out plus the partial of uppercase F with respect to y.
+So this = the integral.
+And let's say we have it in terms of t; we've written everything in terms of t, so t goes from a to b, and so this is going to be = I'll write it in blue the partial of upper case F with respect to x times dx over dt plus I'm distributing this dt out plus the partial of uppercase F with respect to y.
 dy over dt.
 all of that times dt.
 This is equivalent to that.
@@ -81,11 +81,11 @@ You don't have to start from there -but this is our multivariable chain rule rig
 The driven of any function with respect t is the partial of that function with respect to x times dx over dt plus the partial of that function with respect to dy over dt.
 I have the partial of upper-case F with respect to x times dx over dt plus the partial upper-case F with respect to y.
 This and this are identical if you just replace this lower-case f with an upper-case F.
-So this in blue right here, this whole expression is equal to the integral from t is equal to a to t is equal to b of in blue here the derivative of f with respect to dt.
+So this in blue right here, this whole expression = the integral from t = a to t = b of in blue here the derivative of f with respect to dt.
 And how do you evaluate let me just the dt in green how do you evaluate something like this? I just want to make a point: this is just this from the multivariable chain rule.
 And how do you evaluate a definite integral like this? Well, you take the antiderivative of the inside with respect to dt.
-So what is this going to be equal to? You take the antiderivative of the inside, that's just f.
-So this is equal to f of t.
+So what is this going to be =? You take the antiderivative of the inside, that's just f.
+So this = f of t.
 And let me be clear.
 We wrote before that f is a function.
 So our upper-case F is a function of x and y, which could also be written, since each of these are functions of t, could be written as f of x of t of y of t.
@@ -95,22 +95,22 @@ These are all equivalent, depending on whether you want to include the x's or th
 Because both of the x's and y's are functions of t.
 So this is the derivative of f with respect to t.
 If this was just in terms of t, this is the derivative of that with respect to t.
-We take its antiderivative, we're left just with f, and we have to evaluate it from t is equal to a to t is equal to b.
-And so this is equal to and this is the home stretch this is equal to f of b minus f of a.
+We take its antiderivative, we're left just with f, and we have to evaluate it from t = a to t = b.
+And so this = and this is the home stretch this = f of b minus f of a.
 And if you want to think about it in these terms, this is the same thing.
-This is equal to f of x of b over y of b let me make sure I got all the parentheses minus f of x of a over y of a.
+This = f of x of b over y of b let me make sure I got all the parentheses minus f of x of a over y of a.
 These are equivalent.
 You give me any point on the xy plane, an x and a y, and it tells me where I am.
 This is my capital F, it gives me a height.
 Just like that.
 This associates a value with every point on the xy plane.
 But this whole exercise, remember this is the same thing as that.
-This is our whole thing that we were trying to prove: that is equal to f dot dr.
-f dot dr, our vector field, which is the gradient of the capital F remember F was equal to the gradient of F, we assume that it's the gradient of some function capital F, if that is the case, then we just did a little bit of calculus or algebra, whatever you want to call it, and we found that we can evaluate this integral by evaluating capital F at t is equal to b, and then subtracting from that capital F at t is equal to a.
-But what that tells you is that this integral, the value of this integral, is only dependent at our starting point, t is equal to a, this is the point x of a, y of a, and the ending point, t is equal to b, which is x of b, y of b.
+This is our whole thing that we were trying to prove: that = f dot dr.
+f dot dr, our vector field, which is the gradient of the capital F remember F was = the gradient of F, we assume that it's the gradient of some function capital F, if that is the case, then we just did a little bit of calculus or algebra, whatever you want to call it, and we found that we can evaluate this integral by evaluating capital F at t = b, and then subtracting from that capital F at t = a.
+But what that tells you is that this integral, the value of this integral, is only dependent at our starting point, t = a, this is the point x of a, y of a, and the ending point, t = b, which is x of b, y of b.
 That integral is only dependent on these two values.
 How do I know that? Because to solve it because I'm saying that this thing exists I just had to evaluate that thing at those two points; I didn't care about the curve in between.
-So this shows that if F is equal to the gradient this is often called a potential function of capital F, although they're usually the negative each other, but it's the same idea if the vector field f is the gradient of some scale or field upper-case F, then we can say that f is conservative or that the line integral of f dot dr is path independent.
+So this shows that if F = the gradient this is often called a potential function of capital F, although they're usually the negative each other, but it's the same idea if the vector field f is the gradient of some scale or field upper-case F, then we can say that f is conservative or that the line integral of f dot dr is path independent.
 It doesn't matter what path we go on as long as our starting and ending point are the same.
 Hopefully found that useful.
 And we'll some examples with that.

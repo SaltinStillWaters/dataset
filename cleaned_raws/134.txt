@@ -8,23 +8,23 @@ So let me write down some vector-valued functions.
 Actually, even a better place to start, let me draw a curve or let me describe a curve.
 So let's put that little f of x, y to the side.
 We can ignore it for now.
-Let's say I have some curve c and it's described, it can be parameterized I can't say that word as let's say, x is equal to x of t, y is equal to some function y of t.
+Let's say I have some curve c and it's described, it can be parameterized I can't say that word as let's say, x = x of t, y = some function y of t.
 And let's say that this is valid for t is between a and b.
-So t is greater than or equal to a and then, less than or equal to b.
+So t is greater than or = a and then, less than or = b.
 So if I were to just draw this on let me see I could draw it like this.
 I'm staying very abstract right now.
 This is not a very specific example.
 This is the x-axis.
 This is the y-axis.
-My curve let's say this is when t is equal to a.
+My curve let's say this is when t = a.
 And then the curve might do something like this.
 I don't know what it does.
 Let's say it's over there.
-This is t is equal to b.
+This is t = b.
 This actual point right here will be x of b.
 That would be the x-coordinate.
 You evaluate this function at b and y of b.
-And this is, of course, when t is equal to a.
+And this is, of course, when t = a.
 The actual coordinate in r2 on the Cartesian coordinates will be x of a, which is this right here.
 And then, y of a, which is that right there.
 And we've seen that before.
@@ -47,14 +47,14 @@ So let's see if we can describe this curve as a position vector-valued function.
 So we could say r of t.
 Let me switch back to that pink color.
 This can stay in green.
-Is equal to x of t times the unit vector in the x direction.
+= x of t times the unit vector in the x direction.
 The unit vector gets a little caret on top a little hat.
 That's like the arrow for it.
 That just says it's a unit vector.
 Plus y of t times j.
 If I was dealing with a curve in three dimensions I would have plus z of t times k.
 But we're dealing with two dimensions right here.
-And so the way this works is you're just taking your well, for any t and still, we're going to have t is greater than or equal to a and then, less than or equal to b.
+And so the way this works is you're just taking your well, for any t and still, we're going to have t is greater than or = a and then, less than or = b.
 And this is the exact same thing as that.
 Let me just redraw it.
 So let me draw our coordinates.
@@ -63,7 +63,7 @@ So that's the y-axis and this is the x-axis.
 So when you evaluate r of a, that's our starting point.
 So let me do that.
 So r of a maybe I'll do it right over here.
-Our position vector-valued function evaluated at t is equal to a, is going to be equal to x of a times our unit vector in the x direction.
+Our position vector-valued function evaluated at t = a, is going to be = x of a times our unit vector in the x direction.
 Plus y of a times our unit vector in the vertical direction, or in the y direction.
 And what's that going to look like? Well, x of a is this thing right here, so it's x of a times a unit vector.
 You know, maybe the unit vector is this long.

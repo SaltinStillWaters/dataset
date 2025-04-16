@@ -11,8 +11,8 @@ But let's say I have, I don't know, a 20 kelvin actually, let me make it so that
 Let's say we have a 10 kelvin heat force in the center of our room.
 I can imagine as you go further and further away from that heat source it's going to get colder and colder.
 So let's say that the temperature function.
-And let's say that center of the room is at the coordinates x, y, and z is equal to 0.
-So let's say our temperature function I'm just making this up, I don't know if this is an accurate model of temperature it's equal to 10 times e to the minus r squared.
+And let's say that center of the room is at the coordinates x, y, and z = 0.
+So let's say our temperature function I'm just making this up, I don't know if this is an accurate model of temperature it's = 10 times e to the minus r squared.
 Now why did I say r? I said it's a function of x, y, and z.
 Well I'm just saying that it exponentially decays as you get further and further away from that source.
 Kind of radially further and further away from that source.
@@ -20,7 +20,7 @@ So what's the radial distance away? And this actually isn't that relevant to lea
 So the radius away from the center, that's just going to be r squared is just x squared plus y squared plus z squared.
 That's just the Pythagorean theorem in three dimensions.
 So let's write our temperature function.
-So let's write temperature as a function of x, y, and z is equal to 10 e to the minus x squared plus y squared plus z squared which is exactly what I wrote up here.
+So let's write temperature as a function of x, y, and z = 10 e to the minus x squared plus y squared plus z squared which is exactly what I wrote up here.
 Instead of x squared plus y squared plus z squared, I wrote r squared, just to kind of give you the intuition that this expression is just saying the square of the distance as we get away from the center of our room, or from the coordinate 0, 0, 0.
 But that's not what we're learning here.
 But I want you to understand, at least conceptualize this, it's hard to draw a scalar field.
@@ -38,9 +38,9 @@ Hope that doesn't confuse you.
 So let's compute the gradient, and then I'll show you a diagram that might make things a little bit more intuitive.
 Let me erase this thing down here.
 And I'm going to switch from this blue color, because it's a little nauseating.
-So the gradient of T is going to be equal to the partial derivative T with respect to x times the unit vector in the x direction, plus the partial derivative of the temperature function with respect to y times the unit vector in the y direction, plus the partial derivative of the temperature function with respect to z times the unit vector in the z direction.
+So the gradient of T is going to be = the partial derivative T with respect to x times the unit vector in the x direction, plus the partial derivative of the temperature function with respect to y times the unit vector in the y direction, plus the partial derivative of the temperature function with respect to z times the unit vector in the z direction.
 And now we just plug and chug and figure out the partial derivatives.
-So the gradient of T is equal to now you might be daunted.
+So the gradient of T = now you might be daunted.
 Oh, I have an e to this three variable function, how do I take the partial derivative? Remember, if you're taking the partial derivative with respect to x you just pretend like the y's and the z's are constants.
 So let's do that.
 So let's take the derivative of the inside function.
@@ -55,7 +55,7 @@ Minus 2x times the derivative of the outside.
 Well, what's the derivative of e to the x? The derivative of e to the x is e to the x.
 That's why e is such an amazing number.
 And this 10 here, this is just a constant that when you take the derivative of a constant times something the constant carries over.
-So the derivative of the outside expression, the way I imagine it, is equal to 10 e to the minus x squared plus y squared plus z squared.
+So the derivative of the outside expression, the way I imagine it, = 10 e to the minus x squared plus y squared plus z squared.
 And then all of that times the unit vector in the i direction.
 Right? And now we can do the same thing for the y direction.
 So plus what's the partial derivative of this with respect to y? Well it's going to look very similar.
@@ -73,7 +73,7 @@ And we could simplify this a little bit.
 You could have minus 2x times 10.
 That's minus 20x.
 Let me write it up here.
-So the gradient of the temperature function is equal to minus 20 e to the minus x squared plus y squared you probably can't read this plus z squared, times i minus 20y.
+So the gradient of the temperature function = minus 20 e to the minus x squared plus y squared you probably can't read this plus z squared, times i minus 20y.
 And actually, I'm not going to go into that, because I realize I'm running out of time.
 I think you can simplify this algebraically.
 But anyway, the more important thing is I always find with gradients it's easy to calculate them, but the intuition oh sorry.

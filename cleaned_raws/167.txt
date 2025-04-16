@@ -1,7 +1,7 @@
 Transcript for: 2011 Calculus AB free response #4d | AP Calculus AB | 
-Part d, find the average rate of change of f on the interval from x is greater than or equal, negative four is less than or equal to x, which is less than or equal to three.
+Part d, find the average rate of change of f on the interval from x is greater than or =, negative four is less than or = x, which is less than or = three.
 So really the interval that they've depicted right over here.
-And then they say there's no point c between in that interval for which f prime of c is equal to the average rate of change.
+And then they say there's no point c between in that interval for which f prime of c = the average rate of change.
 Explain why the statement does not contradict the Mean Value theorem.
 Fascinating.
 Alright.
@@ -10,13 +10,13 @@ The average rate of change of f on the interval.
 Sounds like a very fancy thing, but the average rate of change on the interval is really just a slope of the line that connects the end points of the interval.
 So these, this right over here, those are the end points, and let's figure out the slope of that line.
 So, going we, going from this point to that point, our change in x, we do this in a color that you're likely to see.
-Our change in x over here, our change in x, change in x, is equal to 7.
+Our change in x over here, our change in x, change in x, = 7.
 And you can get that by taking 3 minus negative 4 or you could literally just count, 1, 2, 3, 4, 5, 6, 7.
 That's our change in x.
-And our change in y, when we, when we run over 7, when we go 7 to the right, our change in y, our change in y is equal to negative 2.
-We went from negative 1 to negative 3 is equal to negative 2.
+And our change in y, when we, when we run over 7, when we go 7 to the right, our change in y, our change in y = negative 2.
+We went from negative 1 to negative 3 = negative 2.
 So, slope, slope, which is change in y over change in x, rise over run.
-Is equal to 7 over negative 2, or well actually let me, the other way around.
+= 7 over negative 2, or well actually let me, the other way around.
 The change in y is negative 2 over 7.
 So negative two 7s and that's all it is.
 Now you could, you could kind of.
@@ -36,7 +36,7 @@ So, we did the first part.
 Our average rate of change of f on the interval is negative two 7s.
 And then let's think about the second part.
 You see there is no point c in that interval.
-For which f prime of c is equal to the average rate of change.
+For which f prime of c = the average rate of change.
 Explain why this statement does not contradict the Mean Value Theorem.
 So the Mean Value Theorem, just as a little bit of a review, as a little bit of review, it says that if we have some type of an interval.
 If you have an interval.
@@ -45,7 +45,7 @@ If you have an interval.
 Let me draw an interval like this.
 And over that interval you have a differentiable function.
 You have a differentiable function, so maybe my function looks like this.
-It says at least, there is at least one point c on that interval where the derivative at that point c is equal to the average rate of change.
+It says at least, there is at least one point c on that interval where the derivative at that point c = the average rate of change.
 So the way I've drawn it right over here, the average rate of change of this function, I'll do it in magenta, is this right over here.
 And the Mean Value Theorem says, is it, if this is deferentiable, there's at least one point c in this interval.
 Where I have the same slope.
@@ -57,12 +57,12 @@ And if you think about it, it's kind of.
 It's kind of intuitive that at some point, you know, here we're, we obviously have a larger slope and over we have a smaller slope and since our, since it's differentialable, our derivative is continuous.
 So at some point, at some point the slope has to get to exactly what the average slope is.
 Now, let's think about our little conundrum with this question right over here.
-Why is there not a point c for which f prime of c is equal to the average rate of change? You can even verify that for yourself because from negative 4 to 0 our slope is positive.
+Why is there not a point c for which f prime of c = the average rate of change? You can even verify that for yourself because from negative 4 to 0 our slope is positive.
 We have a positive slope here, and then the slope just jumps down to negative 2.
 It just jumps down to negative 2 which is a much more negative slope than this.
 So, it never goes to negative 2 7s, and the reason is that.
-This is not a differentiable function at x is equal to 0.
-It is not differentiable at x equals 0.
+This is not a differentiable function at x = 0.
+It is not differentiable at x = 0.
 Our slope jumps here and because it's not differentiable the Mean Value theorem doesn't apply.
 Now you can imagine if this was differentiable, if this did have a continuous derivative, then you would find a point.
 So if this looks something like this instead, I'll continue it over here.

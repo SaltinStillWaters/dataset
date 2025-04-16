@@ -5,44 +5,44 @@ So this function right there is f of x.
 And what we're going to do in this video is, it's not an experiment, but we're going to play around a little bit, and we're going to try to approximate this function using a polynomial with some coefficients.
 And this polynomial we're going to do, we're going to keep adding terms to the polynomial, so that we can better and better approximate this function.
 And that's actually called a power series.
-And we'll do more about that later, but we're going to specifically try, in this case, to approximate the function around x is equal to 0.
+And we'll do more about that later, but we're going to specifically try, in this case, to approximate the function around x = 0.
 So around this point.
 So the easiest way to approximate it is to say, well, the simplest polynomial is just a constant, right? Let's say this is my polynomial, let me call my polynomial p of x.
 The simplest polynomial is just a constant, and it would just be a horizontal line someplace.
-So if I just wanted this one term polynomial, what would be my best approximation for this function, at least at this point? Well, I could just set p of x is equal to f of 0.
+So if I just wanted this one term polynomial, what would be my best approximation for this function, at least at this point? Well, I could just set p of x = f of 0.
 And in that case, p of x would just look like a horizontal line going through f of 0.
 It would just look like that.
 I'm going to erase that now, just so I don't dirty up this picture too much.
 But that's, you could say, a very rough approximation of f of x, right? So that's a start.
-Well, what would be one way to approximate it even more? Well, what if not only does p of x equal f of 0 at x is equal to 0, so that horizontal line we did, we got p of 0 is equal to f of 0, so we knew that at x equals 0, at least that horizontal line is the same value of f of x, that's a very rough approximation.
-But what if we set it up so that the derivative of p of 0 is equal to the derivative of the function at 0? All of a sudden, this could be a little bit more interesting.
+Well, what would be one way to approximate it even more? Well, what if not only does p of x = f of 0 at x = 0, so that horizontal line we did, we got p of 0 = f of 0, so we knew that at x = 0, at least that horizontal line is the same value of f of x, that's a very rough approximation.
+But what if we set it up so that the derivative of p of 0 = the derivative of the function at 0? All of a sudden, this could be a little bit more interesting.
 So how could we set it up like that? Well, what if we set p of x, and I'm doing it very general, and we're going to do specific examples, and actually, the first example we're going to do is probably the coolest one.
-So what if p of x is equal to, well, the constant term is f of 0, and then it's plus the derivative of this function, so the slope of this function at that point, f prime of 0 times x.
+So what if p of x =, well, the constant term is f of 0, and then it's plus the derivative of this function, so the slope of this function at that point, f prime of 0 times x.
 Let's say I'm defining, so this is a polynomial.
 I just added a first degree term here.
 I had a constant, and now I'm adding a first degree term.
 And let me confirm that this will have the same derivative.
 So let's see.
-First of all, let's confirm that p of 0 is equal to f of 0.
-Well, p of 0 is equal to f of 0 plus f prime of 0 times 0.
+First of all, let's confirm that p of 0 = f of 0.
+Well, p of 0 = f of 0 plus f prime of 0 times 0.
 Well, this last term just goes to, is nothing, right? Times 0.
 So that checks out.
-At x is equal to 0, the two functions are equal to each other.
+At x = 0, the two functions are = each other.
 Now let me confirm that their derivative, their first derivatives are the same.
-So what's the first derivative of p? p prime of x is equal to, well, the derivative of a constant term is 0, right? Plus, and what's the derivative of a next term, of a first degree term? Well, it's just f prime of 0.
+So what's the first derivative of p? p prime of x =, well, the derivative of a constant term is 0, right? Plus, and what's the derivative of a next term, of a first degree term? Well, it's just f prime of 0.
 So this checks out.
-My new polynomial that I've defined right here is equal to the function f at x is equal to 0, and its derivative is equal to the function f at x is equal to 0.
-So what would it look like? Well, it would intersect, at x is equal to 0, the two functions would overlap.
+My new polynomial that I've defined right here = the function f at x = 0, and its derivative = the function f at x = 0.
+So what would it look like? Well, it would intersect, at x = 0, the two functions would overlap.
 And also, they would have the same slope at that point.
 So whatever f of x is doing, that function's going to be doing.
 So it's going to look something like, I'm going to try my best to, it's going to look something like that.
 And so that is a better approximation, if we had to use a line, that's as good as any, especially around 0, of what f of x is.
 f of x might have been some really crazy weirdo function, but we were able to approximate it reasonably well with this very simple linear equation.
 Well, that's all good, but let's approximate it with a quadratic equation, with adding another x squared term.
-And we're going to do that way, but we're going to say, well, we said, when at x is equal to 0, the functions equal each other.
+And we're going to do that way, but we're going to say, well, we said, when at x = 0, the functions = each other.
 That's what we did here.
-Then we said, the derivatives equal each other, and so we added this term.
-And now I'm going to say, what happens when their second derivatives equal each other? So what has to happen for their second derivatives to equal each other? Well, let's try out this, and I think you'll start to see the intuition here.
+Then we said, the derivatives = each other, and so we added this term.
+And now I'm going to say, what happens when their second derivatives = each other? So what has to happen for their second derivatives to = each other? Well, let's try out this, and I think you'll start to see the intuition here.
 Let me define my new p of x, so let me add another term.
 p of x, the first terms are going to be the same.
 They're going to be f of 0.
@@ -53,7 +53,7 @@ Now you're probably saying, why are you multiplying it by 1/2 here? And you'll s
 And that's why I put the 1/2 there.
 So that when I take the derivative, that 2 and the 1/2 cancel out, and I'm just left with the second derivative of the original function.
 So let me confirm that.
-So p of 0 is equal to f of 0 plus, well when x is equal to 0, that's 0, this term is 0, and when x is equal to 0, that term is 0, right? So that checks out.
+So p of 0 = f of 0 plus, well when x = 0, that's 0, this term is 0, and when x = 0, that term is 0, right? So that checks out.
 What's the first derivative of p? The first derivative of p is going to be, up here, this was the first derivative of p at 0, right? So what's the first derivative of p? Well, the constant term becomes 0, plus oh, actually, no, this was actually of x, sorry.
 I shouldn't go back on my work, I know it best when I'm doing it the first time around.
 Anyway.
@@ -63,18 +63,18 @@ And then, what's the derivative of this term? Well, we take the exponent, multip
 We have 2 times 1/2, that cancels out.
 So we're just left with f prime prime of 0 x.
 Right? You take the exponent, multiply by the whole thing, and then decrement the exponent by 1.
-So what is p prime of 0? What is the derivative at 0? Well, it equals, this is nothing.
-It equals f prime of 0 plus, and, well, this term's going to be 0.
+So what is p prime of 0? What is the derivative at 0? Well, it =, this is nothing.
+It = f prime of 0 plus, and, well, this term's going to be 0.
 So that checks out.
 And so what's the third derivative? Let me clean up some of the stuff on the top.
 Since this is our current f of x anyway, I can clean up all of this stuff.
 Let me clean up all of this.
 So what is the third derivative of this p that I defined here? This is our current p.
-Well, the third derivative is going to be, so p prime prime prime of x, we could have also written p3 of x, is equal to the derivative of this.
+Well, the third derivative is going to be, so p prime prime prime of x, we could have also written p3 of x, = the derivative of this.
 Oh, sorry, we're not on the third, we're only on the second derivative.
 p, and I'll write prime prime, I was going to write a 2 there.
 p prime prime of x.
-That equals what? That's the derivative of this.
+That = what? That's the derivative of this.
 So there was a 0 here, that goes to nothing.
 This is now a constant term, that becomes nothing.
 And then we take the derivative of this term.
@@ -83,13 +83,13 @@ Remember, this might look like a function or some variable.
 It's just a constant.
 Because we evaluated this curvy function, it's second derivative 0, so we just got a number here.
 So this derivative is just this number.
-So it equals f prime prime of 0.
-And so our current p of x has the same value when x is equal to 0 as f of x, it has the same first derivative at xis equal to zero as f of x, it has the same second derivative.
+So it = f prime prime of 0.
+And so our current p of x has the same value when x = 0 as f of x, it has the same first derivative at xis = zero as f of x, it has the same second derivative.
 And I don't, this is getting beyond my visualization ability, especially for an arbitrary function like this, but I could guess that maybe it looks something like this.
 I don't know.
 Maybe it looks, maybe our new function will curve, and it'll approximate it a little bit better, and then maybe it'll come down like that.
 I don't know.
 I'm just guessing.
-But around x is equal to 0, it's going to be a better approximation of f of x.
+But around x = 0, it's going to be a better approximation of f of x.
 Well, we could just keep doing this, and actually, we will keep doing this, and you know, just saying, well, the zeroth derivative, or at the value, is the same the first derivative is the same at 0, the second derivative is the same at 0, we'll say the third derivative, the fourth derivative, and we'll keep doing that.
 And I only have 20 seconds left in this video, so we will continue that in the next video.

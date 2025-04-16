@@ -5,19 +5,19 @@ But here E is for error.
 And we could also thought it will some times here referred to as Reminder function.
 And we saw it's really just the difference as we, the difference between the function and our approximation of the function.
 So for example, this, this distance right over here, that is our error.
-That is our error at the x is equal to b.
+That is our error at the x = b.
 And what we really care about is the absolute value of it.
 Because at some points f of x might be larger than the polynomial.
 Sometimes the polynomial might be larger than f of x.
 What we care is the absolute distance between them.
 And so what I want to do in this video is try to bound, try to bound our error at some b.
 Try to bound our error.
-So say it's less than or equal to some constant value.
+So say it's less than or = some constant value.
 Try to bound it at b for some b is greater than a.
 We're just going to assume that b is greater than a.
 And we saw some tantalizing, we, we got to a bit of a tantalizing result that seems like we might be able to bound it in the last video.
-We saw that the n plus 1th derivative of our error function is equal to the n plus 1th derivative of our function.
-Or their absolute values would also be equal to.
+We saw that the n plus 1th derivative of our error function = the n plus 1th derivative of our function.
+Or their absolute values would also be =.
 So if we could somehow bound the n plus 1th derivative of our function over some interval, an interval that matters to us.
 An interval that maybe has b in it.
 Then, we can, at least bound the n plus 1th derivative our error function.
@@ -39,7 +39,7 @@ We know that the absolute value of the n plus 1th derivative, the n plus 1th.
 And, I apologize I actually switch between the capital N and the lower-case n and I did that in the last video.
 I shouldn't have, but now that you know that I did that hopefully it doesn't confuse it.
 N plus 1th, so let's say we know that the n plus 1th derivative of f of x, the absolute value of it, let's say it's bounded.
-Let's say it's less than or equal to some m over the interval, cuz we only care about the interval.
+Let's say it's less than or = some m over the interval, cuz we only care about the interval.
 It might not be bounded in general, but all we care is it takes some maximum value over this interval.
 So over, over, over the interval x, I could write it this way, over the interval x is a member between a and b, so this includes both of them.
 It's a closed interval, x could be a, x could be b, or x could be anything in between.
@@ -79,7 +79,7 @@ What matters is if f of x is negative.
 If f of x, if f of x is negative the entire time, so if this our x-axis, that is our y-axis.
 If f of x is, well we saw if it's positive the entire time, you're taking the absolute value of a positive, absolute value of positive.
 It's not going to matter.
-These two things are going to be equal.
+These two things are going to be =.
 If f of x is negative the whole time, then you're going to get, then this integral going to evaluate to a negative value.
 But then, you would take the absolute value of it.
 And then over here, you're just going to, this is, the integral going to value to a positive value and it's still going to be the same thing.
@@ -96,13 +96,13 @@ Then you will, especially when f of x goes both positive and negative over the i
 Then you would if you took the integral first and then the absolute value.
 Cuz once again, if you took the integral first, for something like this, you'd get a low value cause this stuff would cancel out.
 Would cancel out with this stuff right over here then you'd take the absolute value of just a lower, a lower magnitude number.
-And so in general, the integral, the integral, sorry the absolute value of the integral is going to be less than or equal to the integral of the absolute value.
-So we can say, so this right here is the integral of the absolute value which is going to be greater than or equal.
+And so in general, the integral, the integral, sorry the absolute value of the integral is going to be less than or = the integral of the absolute value.
+So we can say, so this right here is the integral of the absolute value which is going to be greater than or =.
 What we have written over here is just this.
-That's going to be greater than or equal to, and I think you'll see why I'm why I'm doing this in a second.
-Greater than or equal to the absolute value, the absolute value of the integral of, of the n plus 1th derivative.
+That's going to be greater than or =, and I think you'll see why I'm why I'm doing this in a second.
+Greater than or = the absolute value, the absolute value of the integral of, of the n plus 1th derivative.
 The n plus 1th derivative of, x, dx.
-And the reason why this is useful, is that we can still keep the inequality that, this is less than, or equal to this.
+And the reason why this is useful, is that we can still keep the inequality that, this is less than, or = this.
 But now, this is a pretty straight forward integral to evaluate.
 The indo, the anti-derivative of the n plus 1th derivative, is going to be the nth derivative.
 So this business, right over here.
@@ -116,8 +116,8 @@ But this all error.
 The, noth, nothing about probability or expected value in this video.
 This is.
 E for error.
-So anyway, this is going to be the nth derivative of our error function, which is going to be less than or equal to this.
-Which is less than or equal to the anti-derivative of M.
+So anyway, this is going to be the nth derivative of our error function, which is going to be less than or = this.
+Which is less than or = the anti-derivative of M.
 Well, that's a constant.
 So that's going to be mx, mx.
 And since we're just taking indefinite integrals.
@@ -125,19 +125,19 @@ We can't forget the idea that we have a constant over here.
 And in general, when you're trying to create an upper bound you want as low of an upper bound as possible.
 So we wanna minimize, we wanna minimize what this constant is.
 And lucky for us, we do have, we do know what this, what this function, what value this function takes on at a point.
-We know that the nth derivative of our error function at a is equal to 0.
+We know that the nth derivative of our error function at a = 0.
 I think we wrote it over here.
-The nth derivative at a is equal to 0.
+The nth derivative at a = 0.
 And that's because the nth derivative of the function and the approximation at a are going to be the same exact thing.
 And so, if we evaluate both sides of this at a, I'll do that over here on the side, we know that the absolute value.
-We know the absolute value of the nth derivative at a, we know that this thing is going to be equal to the absolute value of 0.
+We know the absolute value of the nth derivative at a, we know that this thing is going to be = the absolute value of 0.
 Which is 0.
-Which needs to be less than or equal to when you evaluate this thing at a, which is less than or equal to m a plus c.
+Which needs to be less than or = when you evaluate this thing at a, which is less than or = m a plus c.
 And so you can, if you look at this part of the inequality, you subtract m a from both sides.
-You get negative m a is less than or equal to c.
+You get negative m a is less than or = c.
 So our constant here, based on that little condition that we were able to get in the last video.
-Our constant is going to be greater than or equal to negative ma.
-So if we want to minimize the constant, if we wanna get this as low of a bound as possible, we would wanna pick c is equal to negative Ma.
+Our constant is going to be greater than or = negative ma.
+So if we want to minimize the constant, if we wanna get this as low of a bound as possible, we would wanna pick c = negative Ma.
 That is the lowest possible c that will meet these constraints that we know are true.
 So, we will actually pick c to be negative Ma.
 And then we can rewrite this whole thing as the absolute value of the nth derivative of the error function.
@@ -146,7 +146,7 @@ Not the expected value.
 I have a strange suspicion I might have said expected value.
 But, this is the error function.
 The nth der.
-The absolute value of the nth derivative of the error function is less than or equal to M times x minus a.
+The absolute value of the nth derivative of the error function is less than or = M times x minus a.
 And once again all of the constraints hold.
 This is for, this is for x as part of the interval.
 The closed interval between, the closed interval between a and b.
@@ -163,11 +163,11 @@ Of the error function, not the expected value.
 Of the error function.
 The nth derivative of the error function of x.
 The nth derivative of the error function of x dx.
-So we know that this is less than or equal to based on the exact same logic there.
+So we know that this is less than or = based on the exact same logic there.
 And this is useful because this is just going to be, this is just going to be the nth minus 1 derivative of our error function of x.
 And of course we have the absolute value outside of it.
-And now this is going to be less than or equal to.
-It's less than or equal to this, which is less than or equal to this, which is less than or equal to this right over here.
+And now this is going to be less than or =.
+It's less than or = this, which is less than or = this, which is less than or = this right over here.
 The anti-derivative of this right over here is going to be M times x minus a squared over 2.
 You could do U substitution if you want or you could just say hey look.
 I have a little expression here, it's derivative is 1.
@@ -183,7 +183,7 @@ We figured that out, all, up here in the last video.
 So you get, I'm gonna do it on the right over here.
 You get zero, when you valued the left side of a.
 The right side of a, if you, the right side of the value of a you get m times a menus a square over 2.
-So you are gonna get 0 plus c, so you are gonna get, 0 is less or equal to c.
+So you are gonna get 0 plus c, so you are gonna get, 0 is less or = c.
 Once again we want to minimize our constant, we wanna minimize our upper boundary up here.
 So we wanna pick the lowest possible c that we talk constrains.
 So the lowest possible c that meets our constraint is zero.
@@ -192,9 +192,9 @@ And so we keep integrating it at the exact same, same way that I've done it all 
 All the way until we get, the bound on the error function of x.
 So you could view this as the 0th derivative.
 You know, we're going all the way to the 0th derivative, which is really just the error function.
-The bound on the error function of x is going to be less than or equal to, and what's it going to be? And you can already see the pattern here.
+The bound on the error function of x is going to be less than or =, and what's it going to be? And you can already see the pattern here.
 Is that it's going to be m times x, minus a.
-And the exponent, the one way to think about it, this exponent plus this derivative is going to be equal to n plus 1.
+And the exponent, the one way to think about it, this exponent plus this derivative is going to be = n plus 1.
 Now this derivative is zero so this exponent is going to be n plus 1.
 And whatever the exponent is, you're going to have, a nd maybe I should have done it, you're going to have n plus one factorial over here.
 And if say wait why, where does this n plus 1 factorial come from? I just had a two here.
@@ -210,6 +210,6 @@ If we're able to figure out that maximum value of our function right there.
 We now have a way of bounding our error function over that interval, over that interval between a and b.
 So for example, the error function at b.
 We can now bound it if we know what an m is.
-We can say the error function at b is going to be less than or equal to m times b minus a to the n plus 1th power over n plus 1 factorial.
+We can say the error function at b is going to be less than or = m times b minus a to the n plus 1th power over n plus 1 factorial.
 So that gets us a really powerful, I guess you could call it, result, kinda the, the math behind it.
 And now we can show some examples where this could actually be applied.

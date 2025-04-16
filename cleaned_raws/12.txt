@@ -3,13 +3,13 @@ We're first exposed to the idea of a slope of a line early on in our algebra car
 So let me draw some axes.
 That is my y-axis.
 Maybe I should call it my f of x-axis.
-y is equal to f of x.
+y = f of x.
 Let me draw my x-axis, just like that, that is my x-axis.
 And let me draw a line, let me draw a line like this.
 And what we want to do is remind ourselves, how do we find the slope of that line? And what we do is, we take two points on the line, so let's say we take this point, right here.
-Let's say that that is the point x is equal to a.
+Let's say that that is the point x = a.
 And then what would this be? This would be the point f of a, where the function is going to be some line.
-We could write f of x is going to be equal to mx plus b.
+We could write f of x is going to be = mx plus b.
 We don't know what m and b are, but this is all a little bit of review.
 So this is a.
 And then the y-value is what happens to the function when you evaluated it at a, so that's that point right there.
@@ -24,11 +24,11 @@ Actually, let me make it clear that this coordinate right is the point a, f of a
 So how do we find the slope between these 2 points, or more generally, of this entire line? Because whole the slope is consistent the whole way through it.
 And we know that once we find the slope, that's actually going to be the value of this m.
 That's all a review of your algebra, but how do we do it? Well, a couple of ways to think about it.
-Slope is equal to rise over run.
+Slope = rise over run.
 You might have seen that when you first learned algebra.
 Or another way of writing it, it's change in y over change in x.
 So let's figure out what the change in why over the change in x is for this particular case.
-So the change in y is equal to what? Well, let's just take, you can take this guy as being the first point, or that guy as being the first point.
+So the change in y = what? Well, let's just take, you can take this guy as being the first point, or that guy as being the first point.
 But since this guy has a larger x and a larger y, let's start with him.
 The change in y between that guy and that guy is this distance, right here.
 So let me draw a little triangle.
@@ -37,7 +37,7 @@ Or I could just transfer it to the y-axis.
 This is the change in y.
 That is your change in y, that distance.
 So what is that distance? It's f of b minus f of a.
-So it equals f of b minus f of a.
+So it = f of b minus f of a.
 That is your change in y.
 Now what is your change in x The slope is change in y over change in x.
 So what our change in x? What's this distance? Remember, we're taking this to be the first point, so we took its y minus the other point's y.
@@ -62,7 +62,7 @@ Well, actually, I want to leave this up here, show you the similarity.
 Let's say I have, I'll keep it pretty general right now.
 Let's say I have a curve.
 I'll make it a familiar-looking curve.
-Let's say it's the curve y is equal to x squared, which looks something like that.
+Let's say it's the curve y = x squared, which looks something like that.
 And I want to find the slope.
 Let's say I want to find the slope at some point.
 And actually, before even talking about it, let's even think about what it means to find the slope of a curve.
@@ -78,7 +78,7 @@ Let me do it in a different color.
 Let me do it in purple.
 So over here, your slope is slightly less negative.
 It's a slightly less downward-sloping line.
-And then when you go over here, at the 0 point, right here, your slope is pretty much flat, because the horizontal line, y equals 0, is tangent to this curve.
+And then when you go over here, at the 0 point, right here, your slope is pretty much flat, because the horizontal line, y = 0, is tangent to this curve.
 And then as you go to more positive x's, then your slope starts increasing.
 I'm trying to draw a tangent line.
 And here it's increasing even more, it's increased even more.
@@ -113,7 +113,7 @@ And the difference, it's just h bigger than x.
 Or actually, instead of saying h bigger, let's just, well let me just say h bigger.
 So this is x plus h.
 That's what that point is right there.
-So what going to be their corresponding y-coordinates on the curve? Well, this is the curve of y is equal to f of x.
+So what going to be their corresponding y-coordinates on the curve? Well, this is the curve of y = f of x.
 So this point right here is going to be f of our particular x right here.
 And maybe to show you that I'm taking a particular x, maybe I'll do a little 0 here.
 This is x naught, this is x naught plus h.
@@ -134,7 +134,7 @@ So these are the 2 points.
 So maybe a good start is to just say, hey, what is the slope of this secant line? And just like we did in the previous example, you find the change in y, and you divide that by your change in x.
 Let me draw it here.
 Your change in y would be that right here, change in y, and then your change in x would be that right there.
-So what is the slope going to be of the secant line? The slope is going to be equal to, let's start with this point up here, just because it seems to be larger.
+So what is the slope going to be of the secant line? The slope is going to be =, let's start with this point up here, just because it seems to be larger.
 So we want a change in y.
 so this value right here, this y-value, is f of x naught plus h.
 I just evaluated this guy up here.
@@ -145,7 +145,7 @@ So that is going to be, so the change in y is going to be a f of x naught plus h
 That's just the y-coordinate up here.
 Minus this y-coordinate over here.
 So minus f of x naught.
-So that equals our change in y.
+So that = our change in y.
 And you want to divide that by your change in x.
 So what is this? This is the larger x-value.
 We started with this coordinate, so we start with its x-coordinate.
@@ -159,14 +159,14 @@ So this is the slope of the secant line.
 We still haven't answered what the slope is right at that point, but maybe this will help us get there.
 If we simplify this, so let me write it down like this.
 The slope of the secant, let me write that properly.
-The slope of the secant line is equal to the value of the function at this point, f of x naught plus h, minus the value of the function here, mine f of x naught.
+The slope of the secant line = the value of the function at this point, f of x naught plus h, minus the value of the function here, mine f of x naught.
 So that just tells us the change in y.
 It's the exact same definition of slope we've always used.
 Over the change in x.
 And we can simplify this.
 We have x naught plus h minus x naught.
 So x naught minus x naught cancel out, so you have that over h.
-So this is equal to our change in y over change in x.
+So this = our change in y over change in x.
 Fair enough.
 But I started off saying, I want to find the slope of the line at that point, at this point, right here.
 This is the zoomed-out version of it.
@@ -192,9 +192,9 @@ The exact same thing.
 h, delta x, doesn't matter.
 We're taking h as the difference between one x point and then the higher x point, and then we're just going to take the limit as that approaches zero.
 We could have called that delta x just as easily.
-But I'm going to call this thing, which equals the slope of the tangent line, and it does equal the slope of the tangent line, I'm going to call this the derivative of f.
+But I'm going to call this thing, which = the slope of the tangent line, and it does = the slope of the tangent line, I'm going to call this the derivative of f.
 Let me write that down.
-And I'm going to say that this is equal to f prime of x.
+And I'm going to say that this = f prime of x.
 And this is going to be another function.
 Because remember, the slope changes at every x-value.
 No matter what x-value you pick, the slope is going to be different.

@@ -6,7 +6,7 @@ I changed colors really for no reason.
 Just to change colors.
 Sometimes I do that.
 I'll change colors again.
-The derivative of f of g of x is equal to the rate at which f changes with respect to g.
+The derivative of f of g of x = the rate at which f changes with respect to g.
 So that's df to dg times the rate at which g changes with respect to x.
 And you're saying Sal, this looks completely foreign to me.
 And one, you could think about what I just said and I think it'll make sense.
@@ -17,7 +17,7 @@ So the way I taught you, what's the change of f with respect to g? Well that's j
 So hopefully this make sense to you that these are just two different ways of writing the chain rule.
 I think what was this, this is either Lagrange or Leibniz's notation, and this the other guy.
 But I forget.
-And this actually makes sense just from a fractions point of view that this term and that term cancels out and you get, you know that this equals that rate at which f changes with respect x.
+And this actually makes sense just from a fractions point of view that this term and that term cancels out and you get, you know that this = that rate at which f changes with respect x.
 So with that out of the way, let's use this to solve something kind of hopefully a little bit neat.
 Let's say I have a cone.
 Let's say it's one of those cups you have at the water cooler.
@@ -33,25 +33,25 @@ Let's say this is where the water line is.
 But that's where the water is in this cone.
 What's the volume assuming that the height is h.
 Assuming that I've let's say 8 centimeters of water.
-What is the volume of water that I put in the cone? Well, if you don't know it, and I sometimes well actually later when we do rotations of solid into integration modules I can actually prove this to you but the volume of a cone is equal to 1/3 base times height, where the base is actually, you can kind of view it as the surface area of the water.
-And what's the base? Well that's just equal to volume is equal to 1/3.
-The base is equal to pi r squared, where r is the radius.
+What is the volume of water that I put in the cone? Well, if you don't know it, and I sometimes well actually later when we do rotations of solid into integration modules I can actually prove this to you but the volume of a cone = 1/3 base times height, where the base is actually, you can kind of view it as the surface area of the water.
+And what's the base? Well that's just = volume = 1/3.
+The base = pi r squared, where r is the radius.
 This is just kind of solid geometry review.
 And what's the radius in this case? It's 1/3 pi r squared times h.
 And in this example I said that the radius is 1/2 of the height.
-So this equals 1/3 pi 1/2 the height I just replaced it for r squared times h.
+So this = 1/3 pi 1/2 the height I just replaced it for r squared times h.
 We haven't done any calculus yet.
 This is just complicated not complicated really just a little bit hairy solid geometry.
-And if we simplify that we get volume is equal to let's see.
+And if we simplify that we get volume = let's see.
 So we get 1/2 squared is 1/4 times 1/3 is 1/12 pi, and then h squared times h, h to the third.
 Very interesting, Now let's start doing some calculus.
 I think this might blow your mind.
 Let's say I am pouring water into this cup at a rate of 1 cubic centimeter per second.
-And for you metric jocks, you'll know sometimes doctors or nurses will say 1 cc, and that's also equal to 1 millimeter.
+And for you metric jocks, you'll know sometimes doctors or nurses will say 1 cc, and that's also = 1 millimeter.
 Just for other frames of reference, but I like to stay in centimeters cubed per second because we're going to work with centimeters in multiple dimensions.
 But let's say we're pouring 1 centimeter cubed per second into this cup.
 I want to know this is an interesting question how fast is the water level rising.
-How fast is h changing, the height of the water, at the moment when h is equal to 2 centimeters.
+How fast is h changing, the height of the water, at the moment when h = 2 centimeters.
 So how do we do that? This just give us a static picture of if we know the height we can figure out the volume.
 But if we figure it out, if we took the rate of change with respect to time off of both sides of this equation, something interesting might happen.
 So let's take the derivative with respect time on both sides.
@@ -65,7 +65,7 @@ It might not seem obvious but all we're doing is the chain rule.
 It's a little confusing because I had no t's in this equation before, and all of a sudden I'm picking a derivative with respect to t.
 But let's just say that h actually is a function of t, which as you know it is.
 So let's then just solve that.
-So dv the derivative of v with respect to t is equal to the derivative of v with respect to h.
+So dv the derivative of v with respect to t = the derivative of v with respect to h.
 Well that's easy.
 The derivative of v with respect to h is just simple.
 So 3 times 1/12, that's 3/12.
@@ -73,19 +73,19 @@ That's 1/4 pi, so we can just write pi over 4 h squared.
 So that's this part.
 And in this part is just still see, I can rewrite in this new color dh/dt, times dh/dt.
 So you're saying Sal, what have you now done.
-I said the rate of which the volume is changing with respect to time is equal to pi over 4 times the height squared times the rate at which the height is changing with respect to time.
+I said the rate of which the volume is changing with respect to time = pi over 4 times the height squared times the rate at which the height is changing with respect to time.
 So can this solve the problem for us? Well what do we know? We know the rate at which the volume is changing with respect to time.
 1 centimeter cubed per second squared.
-So we could say dv/dt is equal to 1.
+So we could say dv/dt = 1.
 I'm going to get rid of the units.
 Most physics instructors would cringe.
-But 1 centimeter cubed per second is equal to pi over 4.
+But 1 centimeter cubed per second = pi over 4.
 This one is v the rate at which the volume is changing with respect to time.
 pi over 4 h squared.
 We know what h is right now.
 h is 2, so it's 2 squared times 4.
 We said the height is 2 right then, so 2 squared is 4 times dh/dt.
-So this cancels out, and we get 1 is equal to pi times dh/dt.
+So this cancels out, and we get 1 = pi times dh/dt.
 And we solve for dt/dt we get let me make sure not to confuse you.
 The rate at which the height of water is changing with respect to time is just 1 over pi.
 Fascinating.

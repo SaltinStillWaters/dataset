@@ -4,7 +4,7 @@ So we're on problem number 2.
 And I cut and pasted the table that they gave for the problem.
 And I'll read the rest of the problem.
 And let's see what we can do.
-So it says concert tickets went on sale at noon, t equals 0, and were sold out within 9 hours.
+So it says concert tickets went on sale at noon, t = 0, and were sold out within 9 hours.
 The number of people waiting in line to purchase tickets at time t, is modeled by a twice differentiable function L, L of t.
 So this is the number of people waiting in line at anytime.
 And this is noon, 12:00 noon, 1:00 pm, 9:00 pm.
@@ -18,7 +18,7 @@ There you go.
 You probably can't read it.
 But it says use the data in the table to estimate the rate at which the number of people waiting in line was changing at 5:30 pm.
 So they don't give us any data on 5:30 pm.
-They give us 4:00 pm and 7:00 pm, or t equals 5.
+They give us 4:00 pm and 7:00 pm, or t = 5.
 5.
 Show the computations that lead to your answer.
 Indicate the units of measure.
@@ -35,7 +35,7 @@ So we could write average rate of change or delta L over delta t at 5.
 You can write it however you want, however you think that the exam graders would best like to see it.
 We could say at time 5.
 5.
-We could say approximately equals, or whatever.
+We could say approximately =, or whatever.
 But it's just going to be the slope between these two points.
 So it's L of 7 minus L of 4, all of that over 7 over 4.
 Rise over run or change in the value of the function divided by change in the independent variable.
@@ -43,8 +43,8 @@ L of 7 is 154.
 They give us that.
 L of 4 is 126.
 And we divide it by 7 minus 4.
-So that equals 54 minus 126 is 24 plus 26 is 50.
-So it's equal to 28.
+So that = 54 minus 126 is 24 plus 26 is 50.
+So it's = 28.
 Right, if this was 2 less, it would be 30.
 And 7 minus 4 is 3.
 So you could say that the average rate of change is 28 over 3.
@@ -89,20 +89,20 @@ This would be 50.
 I don't know what that sound was from.
 But let's keep going forward.
 Let's plot the points.
-At t equals 0 there are 120 people in line.
+At t = 0 there are 120 people in line.
 That's about right there.
-At t equals 1, 156.
+At t = 1, 156.
 I'm just approximating.
 It's about right there.
-At t equals 3 they skip 2 at t equals 3 it's 176 people in line.
+At t = 3 they skip 2 at t = 3 it's 176 people in line.
 So that's going to be right about there, just approximating it.
-At t equals 4, we have 126 people in line.
-It's a little bit more than at t equals 0.
-At t equals 7, we have 150 people in line.
+At t = 4, we have 126 people in line.
+It's a little bit more than at t = 0.
+At t = 7, we have 150 people in line.
 It's right about there.
-At t equals 8 we have 80.
+At t = 8 we have 80.
 That's about right there.
-And t equal 9, the line is gone.
+And t = 9, the line is gone.
 Everyone has gotten their tickets, or maybe they got sold out.
 Let's connect those points.
 Connect the dots.

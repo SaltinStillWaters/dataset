@@ -4,22 +4,22 @@ So the average value of a function over an interval is just going to be so let's
 The average value of our function is just going to be the integral over the interval negative 1 to 1 of f of x, d of x, divided by our change in x.
 Sorry, this is from negative 1 to 1.
 And our change in x is 1 minus negative 1.
-So this is going to be equal to 1/2 times the integral.
+So this is going to be = 1/2 times the integral.
 And here, f of x is piecewise-defined.
 So what we can do is break up this integral into two intervals.
 We can say the integral of f of x from negative 1 to 0 of f of x dx plus let me just write it this way so we don't have to keep rewriting the 1/2.
 I'll use brackets plus the integral from 0 to 1 of f of x dx.
 And the reason why I broke it up like this is because this function has a different definition, or it's piecewise-defined.
-It's different when we're less than or equal to 0, versus when we are greater than 0.
+It's different when we're less than or = 0, versus when we are greater than 0.
 So that's why I like to break it up this way.
-So then we get, this is equal to 1/2 times and in big brackets like this.
+So then we get, this = 1/2 times and in big brackets like this.
 This first part right over here, we can write as the integral from negative 1 to 0.
 What is f of x between negative 1 and 0? It's 1 minus 2 sine of x dx.
 And then plus this thing right over here.
 Plus the integral from 0 to 1.
 And what is our function when it's between 0 and 1? It's e to the negative 4x dx.
 And now we can do each of these integrals separately.
-And so this is going to be equal to 1/2 and once again, I'll do a big open bracket right over here.
+And so this is going to be = 1/2 and once again, I'll do a big open bracket right over here.
 My pen is getting loose, let me tie on the front a little bit better.
 There you go.
 All right, back to work.
@@ -33,14 +33,14 @@ Derivative of cosine of x is negative sine of x.
 You have the 2 out front, so it's negative 2 sine of x.
 So we're going to evaluate that at 0 and at negative 1.
 And to that, we are going to add so let's do this definite integral over here.
-The antiderivative of e to the negative 4x is going to be equal to negative e to the negative 4x over 4.
+The antiderivative of e to the negative 4x is going to be = negative e to the negative 4x over 4.
 And the way you realize that is, if this was just an e to the x, then it's antiderivative would just be e to the x.
 If you have an e to the negative 4x, then you know that whatever its antiderivative is is going to be, essentially, an e to the negative 4x.
 But when you take its derivative, you're going to have to take the derivative of the negative 4x part because of the chain rule.
 And so you're going to have a negative 4 that comes out.
 But we don't see a negative 4 over here, so we're obviously going to have to divide by negative 4 so it cancels out.
 Another way to think about it is, we could have rewritten we this thing.
-So this is equal to e to the negative 4x dx.
+So this = e to the negative 4x dx.
 This is exactly what our problem is, what we need to take the definite integral.
 So then, it becomes completely clear.
 So that the derivative of this thing is sitting around here, we could put a negative 4 over here.
@@ -54,7 +54,7 @@ And then you have this negative 1/4 over here.
 So either way, hopefully that makes sense.
 We go into more detail of that earlier in the calculus playlist.
 So then this is from we're going to evaluate it at 1 and at 0, and then we want to close the brackets.
-And so, what do we have here? This is equal to 1/2.
+And so, what do we have here? This = 1/2.
 Once again, open the brackets.
 If you evaluate all of this at 0, you get 0 plus 2 cosine of 0.
 Cosine of 0 is 1.
@@ -74,12 +74,12 @@ e to the 0 is 1.
 So that's just negative 1 over 4.
 And once again, all of this is going to be multiplied by 1/2.
 And now we just have to simplify it.
-So this is equal to well, I'll just still throw out the 1/2 here.
-This is equal to 1/2 times so I'll do this in a new color here.
+So this = well, I'll just still throw out the 1/2 here.
+This = 1/2 times so I'll do this in a new color here.
 Let me do it well I don't have too many new colors.
 OK.
-So this is equal to 2 plus 1.
-So this and this together is going to be equal to 3.
+So this = 2 plus 1.
+So this and this together is going to be = 3.
 And then you have this negative outside.
 So that's why it was a plus 1.
 And then you have a negative times a positive 2.

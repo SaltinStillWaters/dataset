@@ -1,5 +1,5 @@
 Transcript for: Definite Integrals (part 5) Welcome back.
-Where I had just left off we were trying to figure out this area between these two curves, and we figured out that it's really the area between the curves between the point 0, x equals 0 and x equals 1.
+Where I had just left off we were trying to figure out this area between these two curves, and we figured out that it's really the area between the curves between the point 0, x = 0 and x = 1.
 And I was proposing of a way to do it.
 Let's figure out the entire area under the square root of x from 0 to 1, and we can subtract from that, this purple area, which is the area under x squared.
 So just based on the last example we did, we could just write the indefinite integral, and I'm not going to rewrite the fundamental theorem from calculus, because I think you know that by now.
@@ -24,7 +24,7 @@ So let's stick with the second one.
 So first of all we just have to figure out what the antiderivative of this inner expression is.
 So you haven't seen square root of x yet.
 Do you think you know how to do it? Well, I think you do.
-Let's say that equals square root of x is just x to the 1/2 power, right? So we just use the same antiderivative rules we've always used.
+Let's say that = square root of x is just x to the 1/2 power, right? So we just use the same antiderivative rules we've always used.
 We raise it one more power so it becomes x to the 3/2.
 Right, it was 1/2, we added 1 to it.
 And then we divide by this new exponent.
@@ -34,13 +34,13 @@ That's the antiderivative of minus x squared, minus 1/3 x to the third.
 And we're going to have to evaluate this thing at 0 and 1 and subtract the difference.
 Subtract this expression evaluated at 0 from this expression evaluated at 1.
 I think I'm running out of space.
-What happens when x equals 1? 1 to the 3/2 is 1.
+What happens when x = 1? 1 to the 3/2 is 1.
 1 to the third is 1.
 So it's 2/3 minus 1/3.
 Well that's easy.
 It's 1/3.
 I just put 1 in for x.
-And then when x is equal to 0 what is this expression equal? Well that's easy too.
+And then when x = 0 what is this expression =? Well that's easy too.
 That's 0.
 So there you go.
 1/3 minus 0 or 1/3.
@@ -51,7 +51,7 @@ But this one it's just one of those neat things about math.
 The area between the square root of x and x squared is 1/3, which is a pretty clean number.
 Actually let me do one more problem since I have time.
 It's a bit of a trick problem.
-I mean, you might actually find this easy, but let's figure out the area between f of x is equal to I don't know, x to the fifth.
+I mean, you might actually find this easy, but let's figure out the area between f of x = I don't know, x to the fifth.
 I'm going to do something simple.
 Let me draw it actually.
 OK, I'm going to draw the x-axis.
@@ -62,23 +62,23 @@ Let's say I want to figure out the area inside of the curve where the height her
 So I want to figure out this area inside the curve.
 How do we do that? Well one way we could do it is just like we did the last one, we can figure out some function that's essentially a line, a horizontal line that goes straight across here.
 And we'll essentially just be figuring out the area between the two functions.
-So what's a function that's a line that just goes straight at y equals 32? I think I just gave you the answer.
+So what's a function that's a line that just goes straight at y = 32? I think I just gave you the answer.
 Exactly.
 Let me stick with that greenish color.
-So we could say g of x is equal to 32.
+So we could say g of x = 32.
 It's just a constant function.
 It just goes straight across.
 And then we need to figure out what the area is between the two, so we need to figure out what are these two points.
-So when does x to the fifth equal 32? I mean you could solve it algebraically, you know, you could say x to the fifth equals 32.
-x is equal to 2, and actually, you know what? I made a mistake.
-Let's say that this is not equal to x to the fifth.
-Let's say that f of x is equal to x to the absolute value of x to the fifth.
+So when does x to the fifth = 32? I mean you could solve it algebraically, you know, you could say x to the fifth = 32.
+x = 2, and actually, you know what? I made a mistake.
+Let's say that this is not = x to the fifth.
+Let's say that f of x = x to the absolute value of x to the fifth.
 Because the mistake, obviously x to the fifth is not a parabola looking thing.
 x to the fifth goes negative like this.
 But I have committed so much to this cup shape that I'll make it the absolute value of x to the fifth.
-So if I say the absolute value of x to the fifth is equal to 32, I think you see where I realized my mistake.
+So if I say the absolute value of x to the fifth = 32, I think you see where I realized my mistake.
 But if I say the absolute value of x to the fifth is 32, there's two places where that's true.
-It's x is equal to plus or minus 2.
+It's x = plus or minus 2.
 These are the two points.
 I should have done something with an even exponent so I could have had this cup shape, but anyway the absolute value solved my problem.
 So what is this area? We know it's between negative 2 and 2, so we just set up the indefinite integral.

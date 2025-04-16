@@ -13,9 +13,9 @@ So let's think about how we can approximate this using polynomials of ever incre
 So we could have a polynomial of just one term.
 And it would just be a constant term.
 So this would be a polynomial of degree 0.
-And if we have a constant term, we at least might want to make that constant polynomial it really is just a constant function equal the function at f of 0.
-So at first, maybe we just want p of 0, where p is the polynomial that we're going to construct, we want p of 0 to be equal to f of 0.
-So if we want to do that using a polynomial of only one term, of only one constant term, we can just set p of x is equal to f of 0.
+And if we have a constant term, we at least might want to make that constant polynomial it really is just a constant function = the function at f of 0.
+So at first, maybe we just want p of 0, where p is the polynomial that we're going to construct, we want p of 0 to be = f of 0.
+So if we want to do that using a polynomial of only one term, of only one constant term, we can just set p of x = f of 0.
 So if I were to graph it, it would look like this.
 It would just be a horizontal line at f of 0.
 And you could say, Sal, that's a horrible approximation.
@@ -26,25 +26,25 @@ At least we got it right at f of 0.
 So this is about as good as we can do with just a constant.
 And even though I just want to remind you this might not look like a constant, but we're assuming that given the function, we could evaluate it at 0 and that will just give us a number.
 So whatever number that was, we would put it right over here.
-We'd say p of x is equal to that number.
+We'd say p of x = that number.
 It would just be a horizontal line right there at f of 0.
 But that obviously is not so great.
 So let's add some more constraints.
-Beyond the fact that we want p of 0 to be equal to f of 0, let's say that we also want p prime at 0 to be the same thing as f prime at 0.
+Beyond the fact that we want p of 0 to be = f of 0, let's say that we also want p prime at 0 to be the same thing as f prime at 0.
 Let me do this in a new color.
 So we also want, in the new color, we also want that's not a new color.
 We also want p prime.
 We want the first derivative of our polynomial, when evaluated at 0, to be the same thing as the first derivative of the function when evaluated at 0.
 And we don't want to lose this right over here.
-So what if we set p of x as being equal to f of 0? So we're taking our old p of x, but now we're going to add another term so that the derivatives match up.
+So what if we set p of x as being = f of 0? So we're taking our old p of x, but now we're going to add another term so that the derivatives match up.
 Plus f prime of times x.
 So let's think about this a little bit.
-If we use this as our new polynomial, what happens? What is p is 0? p of 0 is going to be equal to you're going to have f of 0 plus whatever this f prime of 0 is times 0.
+If we use this as our new polynomial, what happens? What is p is 0? p of 0 is going to be = you're going to have f of 0 plus whatever this f prime of 0 is times 0.
 If you put a 0 in for x, this term is just going to be 0.
-So you're going to be left with p of 0 is equal to f of 0.
+So you're going to be left with p of 0 = f of 0.
 That's cool.
 That's just as good as our first version.
-Now what's the derivative over here? So the derivative is p prime of x is equal to you take the derivative of this.
+Now what's the derivative over here? So the derivative is p prime of x = you take the derivative of this.
 This is just a constant, so its derivative is 0.
 The derivative of a coefficient times x is just going to be the coefficient.
 So it's going to be f prime of 0.
@@ -55,12 +55,12 @@ So this is just obviously going to be f prime of 0.
 Its derivative is a constant value.
 This is a constant value right here.
 We're assuming that we can take the derivative of our function and evaluate that thing at 0 to give a constant value.
-So if p prime of x is equal to this constant value, obviously, p prime of x evaluated at 0 is going to be that value.
-But what's cool about this right here, this polynomial that has a 0 degree term and a first degree term, is now this polynomial is equal to our function at x is equal to 0.
+So if p prime of x = this constant value, obviously, p prime of x evaluated at 0 is going to be that value.
+But what's cool about this right here, this polynomial that has a 0 degree term and a first degree term, is now this polynomial = our function at x = 0.
 And it also has the same first derivative.
-It also has the same slope at x is equal to 0.
+It also has the same slope at x = 0.
 So this thing will look, this new polynomial with two terms getting a little bit better it will look something like that.
-It will essentially have it'll look like a tangent line at f of 0, at x is equal to 0.
+It will essentially have it'll look like a tangent line at f of 0, at x = 0.
 So we're doing better, but still not a super good approximation.
 It kind of is going in the same general direction as our function around 0.
 But maybe we can do better by making sure that they have the same second derivative.
@@ -73,7 +73,7 @@ And I'm about to embark on our third try.
 So in our third try, my goal is that the value of my polynomial is the same as the value of the function at 0.
 They have the same derivative at 0.
 And they also have the same second derivative at 0.
-So let's define my polynomial to be equal to so I'm going to do the first two terms of these guys right over here.
+So let's define my polynomial to be = so I'm going to do the first two terms of these guys right over here.
 So it's going to be f of 0 plus f prime of 0 times x, so exactly what we did here.
 But now let me add another term.
 I'll do the other term in a new color.
@@ -82,15 +82,15 @@ And hopefully it might make sense why I'm about to do this.
 Plus 1/2 times the second derivative of our function evaluated at 0 x squared.
 And when we evaluate the derivative of this, I think you'll see why this 1/2 is there.
 Because now let's evaluate this and its derivatives at 0.
-So if we evaluate p of 0, p of 0 is going to be equal to what? Well, you have this constant term.
+So if we evaluate p of 0, p of 0 is going to be = what? Well, you have this constant term.
 If you evaluate it at 0, this x and this x squared are both going to be 0.
 So those terms are going to go away.
-So p of 0 is still equal to f of 0.
+So p of 0 is still = f of 0.
 If you take the derivative of p of x so let me take the derivative right here.
 I'll do it in yellow.
-So the derivative of my new p of x is going to be equal to so this term is going to go away.
+So the derivative of my new p of x is going to be = so this term is going to go away.
 It's a constant term.
-It's going to be equal to f prime of 0.
+It's going to be = f prime of 0.
 That's the coefficient on this.
 Plus this is the power rule right here 2 times 1/2 is just 1, plus f prime prime of 0 times x.
 Take the 2, multiply it times 1/2, and decrement that 2 right there.
@@ -101,8 +101,8 @@ p prime of 0 is what? Well, this term right here is just going to be 0, so you'r
 So it's going to be f prime of 0.
 So so far, our third generation polynomial has all the properties of the first two.
 And let's see how it does on its third derivative, or I should say the second derivative.
-So p prime prime of x is equal to this is a constant, so its derivative is 0.
-So you just take the coefficient on the second term is equal to f prime prime of 0.
+So p prime prime of x = this is a constant, so its derivative is 0.
+So you just take the coefficient on the second term = f prime prime of 0.
 So what's the second derivative of p evaluated at 0? Well, it's just going to be this constant value.
 It's going to be f prime prime of 0.
 So notice, by adding this term, now, not only is our polynomial value the same thing as our function value at 0, its derivative at 0 is the same thing as the derivative of the function at 0.
@@ -129,7 +129,7 @@ If we just had this only, and if you were to take the fourth derivative of this,
 And in general, you can keep adding terms where the n-th term will look like this.
 The n-th derivative of your function evaluated at 0 times x to the n over n factorial.
 Notice this is the same thing as 4 factorial.
-4 factorial is equal to 4 times 3 times 2 times 1.
+4 factorial = 4 times 3 times 2 times 1.
 You don't have to write the 1 there, but you could put it there.
 This right here is the same thing as 3 factorial 3 times 2 times 1.
 I didn't put the 1 there.
@@ -141,11 +141,11 @@ We won't have to study it too much over here.
 But this general series that I've kind of set up right here is called the Maclaurin series.
 And you can approximate a polynomial.
 And we'll see it leads to some pretty powerful results later on.
-But what happens and I don't have the computing power in my brain to draw the graph properly is that when only the functions equal, you get that horizontal line.
-When you make the function equal 0 and their first derivatives equal at 0, then you have something that looks like the tangent line.
+But what happens and I don't have the computing power in my brain to draw the graph properly is that when only the functions =, you get that horizontal line.
+When you make the function = 0 and their first derivatives = at 0, then you have something that looks like the tangent line.
 When you add another degree, it might approximate the polynomial something like this.
 When you add another degree, it might look something like that.
-And as you keep adding more and more degrees, when you keep adding more and more terms, it gets closer and closer around, especially as you get close to x is equal to 0.
+And as you keep adding more and more degrees, when you keep adding more and more terms, it gets closer and closer around, especially as you get close to x = 0.
 But in theory, if you add an infinite number of terms, you shouldn't be able to do I haven't proven this to you, so that's why I'm saying that.
 I haven't proved it yet to you.
 But if you add an infinite number of terms, all of the derivatives should be the same.

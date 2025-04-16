@@ -3,9 +3,9 @@ So far, we've used integrals to figure out the area under a curve.
 And let's just review a little bit of the intuition, although this should hopefully be second nature to you at this point.
 If it's not, you might want to review the definite integration videos.
 But if I have some function this is the xy plane, that's the x-axis, that's the y-axis and I have some function.
-Let's call that, you know, this is y is equal to some function of x.
+Let's call that, you know, this is y = some function of x.
 Give me an x and I'll give you a y.
-If I wanted to figure out the area under this curve, between, let's say, x is equal to a and x is equal to b.
+If I wanted to figure out the area under this curve, between, let's say, x = a and x = b.
 So this is the area I want to figure out.
 What I do is, I split it up into a bunch of columns or a bunch of rectangles.
 Where let me draw one of those rectangles where you could view and there's different ways to do this, but this is just a review.
@@ -20,16 +20,16 @@ One there, one there.
 Then we'll get the area, and if we have infinite number of these rectangles, and they're infinitely skinny, we have exactly the area under that curve.
 That's the intuition behind the definite integral.
 And the way we write that it's the definite integral.
-We're going to take the sums of these rectangles, from x is equal to a, to x is equal to b.
+We're going to take the sums of these rectangles, from x = a, to x = b.
 And the sum, or the areas that we're summing up, are going to be the height is f of x, and the width is d of x.
 It's going to be f of x times d of x.
-This is equal to the area under the curve.
-f of x, y is equal to f of x, from x is equal to a to x is equal to b.
+This = the area under the curve.
+f of x, y = f of x, from x = a to x = b.
 And that's just a little bit of review.
 But hopefully, you'll now see the parallel of how we extend this to taking the volume under a surface.
 So first of all, what is a surface? Well, if we're thinking in three dimensions, a surface is going to be a function of x and y.
 So we can write a surface as, instead of y is a function of f and x I'm sorry.
-Instead of saying that y is a function of x, we can write a surface as z is equal to a function of x and y.
+Instead of saying that y is a function of x, we can write a surface as z = a function of x and y.
 So you can kind of view it as the domain.
 Right? The domain is all of the set of valid things that you can input into a function.
 So now, before, our domain was just at least, you know, for most of what we dealt with was just the x-axis, or kind of the real number line in the x direction.
@@ -64,7 +64,7 @@ So, for example, you give me a coordinate in the xy plane.
 Say, here, I'll put it into the function and it'll give us a z value now.
 And I'll plot it there and it'll be a point on the surface.
 So what we want to figure out is the volume under the surface.
-And we have to specify bounds, right? From here, we said x is equal to a, to x is equal to b.
+And we have to specify bounds, right? From here, we said x = a, to x = b.
 So let's make a square bound first, because this keeps it a lot simpler.
 So let's say that the domain or the region not the domain the region of the x and y region of this part of the surface under which we want to calculate the volume.
 Let's say, the shadow if the sun was right above the surface, the shadow would be right there.
@@ -72,10 +72,10 @@ Let me try my best to draw this neatly.
 So this is what we're going to try to figure out the volume of.
 And let's say so, if we wanted to draw it in the xy plane, like you can kind of view the projection of the surface of the xy plane, or the shadow of the surface of the xy plane.
 What are the bounds? You can almost view what are the bounds of the domain? Well, let's say that this point let's say that this right here, that's 0, 0 in the xy plane.
-Let's say that this is y is equal to I don't know, that's y is equal to a.
+Let's say that this is y = I don't know, that's y = a.
 That's this line right here.
-Y is equal to a.
-And let's say that this line right here is x is equal to b.
+Y = a.
+And let's say that this line right here is x = b.
 Hope you get that, right? This is the xy plane.
 If we have a constant x, it would be a line like that.
 A constant y, a line like that.
@@ -103,7 +103,7 @@ Well, it would be we said the height of each of these rectangles is f of xy, rig
 It depends which x and y we pick down here.
 And then its width is going to be d of x.
 Not d of x, dx.
-And then if we integrated it, from x is equal to 0, which was back here, all the way to x is equal to b, what would it look like? It would look like that.
+And then if we integrated it, from x = 0, which was back here, all the way to x = b, what would it look like? It would look like that.
 x is going from 0 to b.
 Fair enough.
 And this would actually give us a function of y.

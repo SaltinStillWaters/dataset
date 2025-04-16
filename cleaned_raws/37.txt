@@ -15,14 +15,14 @@ L'Hopital's rule is normally what they are testing you for.
 And in a future video I might prove it, but that gets a little bit more involved.
 The application is actually reasonably straightforward.
 So what l'Hopital's rule tells us that if we have and I'll do it in abstract form first, but I think when I show you the example it will all be made clear.
-That if the limit as x approaches c of f of x is equal to 0, and the limit as x approaches c of g of x is equal to 0, and and this is another and and the limit as x approaches c of f prime of x over g prime of x exists and it equals L.
+That if the limit as x approaches c of f of x = 0, and the limit as x approaches c of g of x = 0, and and this is another and and the limit as x approaches c of f prime of x over g prime of x exists and it = L.
 then so all of these conditions have to be met.
 This is the indeterminate form of 0/0, so this is the first case.
-Then we can say that the limit as x approaches c of f of x over g of x is also going to be equal to L.
+Then we can say that the limit as x approaches c of f of x over g of x is also going to be = L.
 So this might seem a little bit bizarre to you right now, and I'm actually going to write the other case, and then I'll do an example.
 We'll do multiple examples and the examples are going to make it all clear.
 So this is the first case and the example we're going to do is actually going to be an example of this case.
-Now the other case is if the limit as x approaches c of f of x is equal to positive or negative infinity, and the limit as x approaches c of g of x is equal to positive or negative infinity, and the limit of I guess you could say the quotient of the derivatives exists, and the limit as x approaches c of f prime of x over g prime of x is equal to L.
+Now the other case is if the limit as x approaches c of f of x = positive or negative infinity, and the limit as x approaches c of g of x = positive or negative infinity, and the limit of I guess you could say the quotient of the derivatives exists, and the limit as x approaches c of f prime of x over g prime of x = L.
 Then we can make this same statement again.
 Let me just copy that out.
 Edit, copy, and then let me paste it.
@@ -45,10 +45,10 @@ And obviously, as x approaches 0 of x, that's also going to be 0.
 So this is our indeterminate form.
 And if you want to think about it, this is our f of x, that f of x right there is the sine of x.
 And our g of x, this g of x right there for this first case, is the x.
-g of x is equal to x and f of x is equal to sine of x.
+g of x = x and f of x = sine of x.
 And notice, well, we definitely know that this meets the first two constraints.
 The limit as x, and in this case, c is 0.
-The limit as x approaches 0 of sine of sine of x is 0, and the limit as x approaches 0 of x is also equal to 0.
+The limit as x approaches 0 of sine of sine of x is 0, and the limit as x approaches 0 of x is also = 0.
 So we get our indeterminate form.
 So let's see, at least, whether this limit even exists.
 If we take the derivative of f of x and we put that over the derivative of g of x, and take the limit as x approaches 0 in this case, that's our c.
@@ -64,16 +64,16 @@ Let's try to take the limit as x approaches 0 of f prime of x over g prime of x 
 So that's going to be the limit as x approaches 0 of cosine of x over 1.
 I wrote that 1 a little strange.
 And this is pretty straightforward.
-What is this going to be? Well, as x approaches 0 of cosine of x, that's going to be equal to 1.
-And obviously, the limit as x approaches 0 of 1, that's also going to be equal to 1.
+What is this going to be? Well, as x approaches 0 of cosine of x, that's going to be = 1.
+And obviously, the limit as x approaches 0 of 1, that's also going to be = 1.
 So in this situation we just saw that the limit as x approaches our c in this case is 0.
-As x approaches 0 of f prime of x over g prime of x is equal to 1.
-This limit exists and it equals 1, so we've met all of the conditions.
+As x approaches 0 of f prime of x over g prime of x = 1.
+This limit exists and it = 1, so we've met all of the conditions.
 This is the case we're dealing with.
-Limit as x approaches 0 of sine of x is equal to 0.
-Limit as z approaches 0 of x is also equal to 0.
-The limit of the derivative of sine of x over the derivative of x, which is cosine of x over 1 we found this to be equal to 1.
+Limit as x approaches 0 of sine of x = 0.
+Limit as z approaches 0 of x is also = 0.
+The limit of the derivative of sine of x over the derivative of x, which is cosine of x over 1 we found this to be = 1.
 All of these top conditions are met, so then we know this must be the case.
-That the limit as x approaches 0 of sine of x over x must be equal to 1.
+That the limit as x approaches 0 of sine of x over x must be = 1.
 It must be the same limit as this value right here where we take the derivative of the f of x and of the g of x.
 I'll do more examples in the next few videos and I think it'll make it a lot more concrete.

@@ -15,7 +15,7 @@ So first, let's take the partial with respect to s the partial of r with respect
 So right over here, all the stuff with the t in it, you can just view that as a constant.
 So cosine of t isn't going to change.
 The partial of or the derivative of cosine of s with respect to s is negative sine of s.
-So this is going to be equal to I'll put the negative out front negative cosine of t sine of s.
+So this is going to be = I'll put the negative out front negative cosine of t sine of s.
 I'm going to keep everything that has a t involved purple.
 Sine of s.
 And let me make I don't know.
@@ -46,7 +46,7 @@ And now times the k unit vector.
 Now we're ready to take the cross product of these two characters right over here.
 And to take the cross products let me write this down.
 So we're going to say, we're going to take the cross product of that with that.
-Is going to be equal to and I'm going to set up this huge matrix.
+Is going to be = and I'm going to set up this huge matrix.
 Or, it's really just a three by three matrix but it's going to be huge because it's going to take up a lot of space to have to write down all this stuff.
 So maybe I'll take up about that much space so that I have space to work in.
 And I'll write my unit vectors up here.
@@ -68,7 +68,7 @@ And then finally, cosine of t.
 So let's take the determinant now.
 So first we'll think about our i component.
 Are i component, you would essentially ignore this column the first column in the first row and then take the determinant of this submatrix right over here.
-So it's going to be i so this is going to be equal to i times something.
+So it's going to be i so this is going to be = i times something.
 I'll put the something in parentheses there.
 Normally you see the something in front of the i but you can swap them there.
 So let me just so it's going to be i times something.
@@ -110,40 +110,40 @@ Now this is already looking pretty hairy but it already looks like a simplificat
 And that's where the colors are helpful.
 Actually, now I have trouble doing math in anything other than multiple pastel colors because this actually makes it much easier to see some patterns.
 And so what we can do over here is we can factor out the cosine t sine t.
-And so this is equal to cosine t sine t times sine squared s plus cosine squared s.
+And so this = cosine t sine t times sine squared s plus cosine squared s.
 And this we know the definition of the unit circle.
-This is just going to be equal to 1.
+This is just going to be = 1.
 So that was a significant simplification.
-And so now we get our cross product being equal to let me just rewrite it all.
+And so now we get our cross product being = let me just rewrite it all.
 Our cross product.
-r sub s crossed with r sub t is going to be equal to cosine squared t cosine s times our i unit vector plus cosine squared t cosine sine of s times our j unit vector plus all we have left because this is just 1 cosine t sine t times our k unit vector.
+r sub s crossed with r sub t is going to be = cosine squared t cosine s times our i unit vector plus cosine squared t cosine sine of s times our j unit vector plus all we have left because this is just 1 cosine t sine t times our k unit vector.
 So that was pretty good but we're still not done.
 We need to figure out the magnitude of this thing.
 Remember, d sigma simplified to the magnitude of this thing times ds dt.
 So let's figure out what the magnitude of that is.
 And this is really the home stretch so I'm really crossing my fingers that I don't make any careless mistakes now.
-So the magnitude of all of this business is going to be equal to the square root and I'm just going to square each of these terms and then add them up the square root of the sum of the squares of each of those terms.
+So the magnitude of all of this business is going to be = the square root and I'm just going to square each of these terms and then add them up the square root of the sum of the squares of each of those terms.
 So the square of this is going to be cosine squared squared is cosine to the fourth cosine to the fourth t cosine squared of s plus cosine to the fourth t sine squared s and I already see a pattern jumping out plus cosine squared t sine squared t.
 Now, the first pattern I see is this is just this first part right over here.
 We can factor out a cosine to the fourth t.
 Then we get something like this happening again.
 So let's do that.
-So these first two terms are equal to cosine to the fourth t times cosine squared s plus sine squared s.
+So these first two terms are = cosine to the fourth t times cosine squared s plus sine squared s.
 Which, once again, we know is just 1.
 So this whole expression has simplified to cosine to the fourth t plus cosine squared t sine squared t.
 Now we can attempt to simplify this again because this term and this term both have a cosine squared t in them.
 So let's factor those out.
-So this is going to be equal to everything I'm doing is under the radical sign.
-So this is going to be equal to a cosine squared t times cosine squared t.
+So this is going to be = everything I'm doing is under the radical sign.
+So this is going to be = a cosine squared t times cosine squared t.
 And when you factor out a cosine squared t here, you just have a plus a sine squared t.
 And that's nice because that, once again, simplified to 1.
 All of this is under the radical sign.
 Maybe I'll keep drawing the radical signs here to make it clear that all this is still under the radical sign.
 And then this is really, really useful for us because the square root of cosine squared of t is just going to be cosine of t.
 So all of that business actually finally simplified to something pretty straightforward.
-So all of this is just going to be equal to cosine of t.
+So all of this is just going to be = cosine of t.
 So going back to what we wanted before, we want to rewrite what d sigma.
 It's just cosine t ds dt.
 so let me write that down.
-So d sigma and then we can use this for the next part d sigma is equal to cosine of t ds dt.
+So d sigma and then we can use this for the next part d sigma = cosine of t ds dt.
 And I'll see you in the next part.

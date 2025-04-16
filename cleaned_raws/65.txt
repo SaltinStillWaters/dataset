@@ -6,12 +6,12 @@ I'll use distance and velocity.
 And actually this could be a good review for derivatives, or actually an application of derivatives.
 So let's say that I described the position of something moving.
 Let's say it's x.
-Let's say that x is equal to, I don't know, 16t squared.
+Let's say that x =, I don't know, 16t squared.
 Right? So s is distance.
 Let me write this in the corner.
 I don't know why the convention is to use s as the variable for distance.
 One would think, well actually, I know, why won't they use d? Because d is the letter used for differential, I guess.
-So s is equal to distance, and then t is equal to time.
+So s = distance, and then t = time.
 So this is just a formula that tells us the position, kind of how far has something gone, after x many, let's say, seconds, right? So after like, 4 seconds, we would have gone, let's say the distance is in feet, this is in seconds.
 After 4 seconds, we would have gone 256 feet.
 That's all that says.
@@ -31,8 +31,8 @@ So this is the distance function.
 What would the velocity be? Well the velocity is just, what's velocity? It's distance divided by time, right? And since this velocity is always changing, we want to figure out the instantaneous velocity.
 And that's actually one of the initial uses of what made derivatives so useful.
 So we want to find the change, the instantaneous change with respect to time of this formula, right? Because this is the distance formula.
-So if we know the instant rate of change of distance with respect to time, we'll know the velocity, right? So ds, dt, is equal to? So what's the derivative here? It's 32t, right? And this is the velocity.
-Maybe I should switch back to, let me write that, v equals velocity.
+So if we know the instant rate of change of distance with respect to time, we'll know the velocity, right? So ds, dt, =? So what's the derivative here? It's 32t, right? And this is the velocity.
+Maybe I should switch back to, let me write that, v = velocity.
 I don't know why I switched colors, but I'll stick with the yellow.
 So let's graph this function.
 This will actually be a fairly straightforward graph to draw.

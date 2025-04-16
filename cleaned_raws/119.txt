@@ -1,12 +1,12 @@
 Transcript for: Curl 3 | Partial derivatives, gradient, divergence, curl | Multivariable Calculus | 
 Let's say I have the vector field v.
-The vector at any given point is equal to minus or the magnitude of my x direction is actually dependent on y.
+The vector at any given point = minus or the magnitude of my x direction is actually dependent on y.
 So where we are in the y coordinate and the xy plane.
 Plus and then my magnitude in the y direction is dependent on x.
 Fair enough.
 So first, let's just chuck through this, and figure out it's curl.
 So the curl of v.
-It is equal to our del vector operator, cross v.
+It = our del vector operator, cross v.
 Which is nothing but this.
 And even though this looks like a two dimensional vector field, we actually have to take the cross product in 3 dimensions.
 Because a curl is just like torque, and when you like we did the right hand rule when we studied well, I hope you watched some of the videos on magnetism and torque but the torque actually goes in a direction that is perpendicular to both of the vectors in your cross product.
@@ -18,7 +18,7 @@ The x component is minus y.
 The j component is x.
 And we have no k component.
 This one should be a little bit cleaner to calculate than the last example.
-So this is going to be equal to well, see the i component let's cross out its column and its row.
+So this is going to be = well, see the i component let's cross out its column and its row.
 So it's going to be the partial with respect to y of 0 minus the partial with respect to z of x.
 Minus that.
 And all of that times i minus and now it's going to be the j component.
@@ -51,11 +51,11 @@ So it would be the z direction.
 If that confuses you, don't worry about it.
 But if it doesn't, then you could apply the same argument to the j vector.
 But anyway, lets simplify this.
-So this is equal to the partial derivative of x with respect to x.
+So this = the partial derivative of x with respect to x.
 Well, that's just 1.
 Minus the partial derivative of y of minus y with respect to y.
 Well, that's just minus 1.
-So it equals 2.
+So it = 2.
 So the curl, at any point of this vector field, is 2.
 Let's see what this vector field looks like, and let's see if that gives us if our intuition holds in this example.
 And let me try to make it a little bit bigger.

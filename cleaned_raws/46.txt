@@ -1,5 +1,5 @@
 Transcript for: Another example graphing with derivatives | Differential Calculus | 
-Let's say we've got the function, f of x is equal to the natural log of x to the fourth plus 27.
+Let's say we've got the function, f of x = the natural log of x to the fourth plus 27.
 And all we want to do is take its first and second derivatives, and use as much of our techniques as we have at our disposal to attempt to graph it without a graphing calculator.
 If we have time, I'll take out the graphing calculator and see if our answer matches up.
 So a good place to start is to take the first derivative of this.
@@ -10,7 +10,7 @@ So the derivative of the natural log of x is 1over x.
 So the derivative of this whole thing with respect to this inside expression is going to be, so times 1 over x to the fourth plus 27.
 If you found that confusing, you might want to rewatch the chain rule videos.
 But that's the first derivative of our function.
-I could rewrite this, this is equal to 4x to the third over x to the fourth, plus 27.
+I could rewrite this, this = 4x to the third over x to the fourth, plus 27.
 Or I could write it as 4x to the third times x to the fourth, plus 27 to the negative 1.
 All three of these expressions are equivalent.
 I'm just the writing, I multiplied it out, or I could write this as a negative exponent, or I could write this as a fraction, with this in the denominator.
@@ -19,28 +19,28 @@ So that's our first derivative.
 Let's do our second derivative.
 Our second derivative, this looks like it'll get a little bit hairier.
 So our second derivative is the derivative of this.
-So it's equal to, we can now use the product rule, is the derivative of this first expression, times the second expression.
+So it's =, we can now use the product rule, is the derivative of this first expression, times the second expression.
 So the derivative of this first expression, 3 times 4is 12.
 12x squared, right, we just decrement the 3 by 1, times the second expression, times x to the fourth plus 27 to the minus 1, and then to that, we want to add just the first expression, not its derivative, so just 4x to the third, times the derivative of the second expression.
 And the derivative of the second expression, we could take the derivative of the inside, which is just 4x to the third, the derivative of 27 is just 0, so times 4x to the third, times the derivative of this whole thing with respect to the inside.
 So times, so you take this exponent, put out front, so times minus 1, times this whole thing, x to the fourth plus 27 to the, we decrement this by one more, so minus two.
 So let's see if I can simplify this expression a little bit.
-So this is equal to, so this right here is equal to 12x squared over this thing, x to the fourth plus 27, and then, let's see, if we multiply we're going to have a minus here, so it's a minus, you multiply these two guys, 4 times 4is 16, 16x to the third times x to the third is x to the sixth, over this thing squared.
+So this =, so this right here = 12x squared over this thing, x to the fourth plus 27, and then, let's see, if we multiply we're going to have a minus here, so it's a minus, you multiply these two guys, 4 times 4is 16, 16x to the third times x to the third is x to the sixth, over this thing squared.
 Over x to the fourth plus 27 squared.
 That's just another way to rewrite that expression right there, right? To the minus 2, you just put in the denominator and make it into a positive 2 in the denominator.
 Same thing.
-Now, if you've seen these problems in the past, we always want to set these things equal to 0.
-We want to solve for x equals 0.
+Now, if you've seen these problems in the past, we always want to set these things = 0.
+We want to solve for x = 0.
 So it'll be useful to have this expressed as just one fraction, instead of the difference or the sum of two fractions.
 So what we can do, is we could have a common denominator.
-So we could multiply both the numerator and denominator of this expression by x to the fourth plus 27, and what do we get? So this is equal to, so if we multiply this first expression, times x to the fourth plus 27, we get 12x squared, times x to the fourth, plus 27.
+So we could multiply both the numerator and denominator of this expression by x to the fourth plus 27, and what do we get? So this =, so if we multiply this first expression, times x to the fourth plus 27, we get 12x squared, times x to the fourth, plus 27.
 And then in the denominator, you have x to the fourth plus 27 squared.
 All I did, I multiplied this numerator and this denominator by x to the the fourth plus 27.
 I didn't change it.
 And then we have that second term.
 Minus 16 x to the sixth over x to the fourth plus 27 squared.
 The whole reason why did that? Now I have a common denominator, now I can just add the numerators.
-So this is going to be equal to, let's see.
+So this is going to be =, let's see.
 The denominator, we know what the denominator is, it is x to the fourth plus 27 squared.
 That's our denominator.
 And then we can multiply this out.
@@ -50,25 +50,25 @@ I don't even feel like multiplying 27 times 12, so I'll just write that out.
 So plus 27 times 12x squared, I just multiplied the 12x squared times the 27, and then minus 16x to the sixth minus 16x to the sixth.
 And this simplifies to, let's see if I can simplify this even further.
 7x to the sixth here, x to the sixth here.
-So this is equal to, do this in pink.
-This is equal to the 27 times 12x squared, I don't feel like figuring that out right now, times 12x squared, and then you have minus 16x to the sixth and plus 12x to the sixth.
+So this =, do this in pink.
+This = the 27 times 12x squared, I don't feel like figuring that out right now, times 12x squared, and then you have minus 16x to the sixth and plus 12x to the sixth.
 So you add those two, you get minus 4.
 12 minus 15is minus 4, x to the sixth, all of that over x to the fourth plus 27 plus 27 squared.
 And that is our second derivative.
 Now, we've done all of the derivatives, and this was actually a pretty hairy problem.
-And now we can solve for when the first and the second derivatives equal 0, and we'll have our candidate, well, we'll know our critical points, and then we'll have our candidate inflection points, and see if we can make any headway from there.
-So first, let's see where our first derivative is equal to 0, and get our critical points.
+And now we can solve for when the first and the second derivatives = 0, and we'll have our candidate, well, we'll know our critical points, and then we'll have our candidate inflection points, and see if we can make any headway from there.
+So first, let's see where our first derivative = 0, and get our critical points.
 Or at least maybe, also maybe, where it's undefined.
-So this is equal to 0.
-If we want to set, if the only place that this can equal to 0 is if this numerator is equal to 0.
-This denominator, actually, if we are assuming we're dealing with real numbers, this term right here is always going to be greater than or equal to 0 for any value of x, because it's an even exponent.
-So this thing can never equals 0, right, because you're adding 27 to something that's non-negative.
-So this will never equal 0, so this will also never be undefined.
-So there's no undefined critical points here, but we could set the numerator equal to 0 pretty easily.
-If we wanted to set this equal to 0, we just say 4x to the third is equal to 0, and we know what x-value will make that equal to 0, x has to be equal to 0.
-4 times something to the third is equal to 0, that something has to be 0.
+So this = 0.
+If we want to set, if the only place that this can = 0 is if this numerator = 0.
+This denominator, actually, if we are assuming we're dealing with real numbers, this term right here is always going to be greater than or = 0 for any value of x, because it's an even exponent.
+So this thing can never = 0, right, because you're adding 27 to something that's non-negative.
+So this will never = 0, so this will also never be undefined.
+So there's no undefined critical points here, but we could set the numerator = 0 pretty easily.
+If we wanted to set this = 0, we just say 4x to the third = 0, and we know what x-value will make that = 0, x has to be = 0.
+4 times something to the third = 0, that something has to be 0.
 x to the third has to be 0, x has to be 0.
-So we can write, f prime of 0 is equal to 0.
+So we can write, f prime of 0 = 0.
 So 0 is a critical point.
 0 is a critical point.
 The slope at 0 is 0.
@@ -86,17 +86,17 @@ Well, we could just say 2.
 9 and it kept going.
 So this is a critical point right here.
 The slope is 0 here.
-Slope is equal to 0 at x is equal to 0.
+Slope = 0 at x = 0.
 So this is one thing we want to block off.
 And let's see if we can find any candidate inflection points.
-And remember, candidate inflection points are where the second derivative equals 0.
-Now if the second derivative equals 0, that doesn't tell us that those are definitely inflection points.
+And remember, candidate inflection points are where the second derivative = 0.
+Now if the second derivative = 0, that doesn't tell us that those are definitely inflection points.
 Let me make this very clear.
 If, let me do it in a new color.
-If x is inflection, then the second derivative at x is going to be equal to 0.
+If x is inflection, then the second derivative at x is going to be = 0.
 Because you're having a change concavity.
 You have a change in the slope, goes from either increasing to decreasing or from decreasing to increasing.
-But if the derivative is equal to 0, the second derivative is equal to 0, you cannot assume that is an inflection point.
+But if the derivative = 0, the second derivative = 0, you cannot assume that is an inflection point.
 So what we're going to do is, we're going to find all of the point at which this is true, and then see if we actually do have a sign change in the second derivative of that point, and only if you have a sign change, then you can say it's an inflection point.
 So let's see if we can do that.
 So just because a second derivative is 0, that by itself does not tell you it's an inflection point.
@@ -106,34 +106,34 @@ So we can say, if f prime changes signs around x, then we can say that x is an i
 And if it's changing signs around x, then it's definitely going to be 0 right at x, but you have to actually see that if it's negative before x, has to be positive after x, or if it's positive before x, has to be negative after x.
 So let's test that out.
 So the first thing we need to do is find these candidate points.
-Remember, the candidate points are where the second derivative is equal to 0.
+Remember, the candidate points are where the second derivative = 0.
 We're going to find those points, and then see if this is true, that the sign actually changes.
-We want to find where this thing over here is equal to 0.
-And once again, for this to be equal to 0, the numerator has to be equal to 0.
-This denominator can never be equal to 0 if we're dealing with real numbers, which I think is a fair assumption.
-So let's see where this our numerator can be equal to 0 for the second derivative.
+We want to find where this thing over here = 0.
+And once again, for this to be = 0, the numerator has to be = 0.
+This denominator can never be = 0 if we're dealing with real numbers, which I think is a fair assumption.
+So let's see where this our numerator can be = 0 for the second derivative.
 So let's set the numerator of the second derivative.
-27 times 12x squared minus 4x to the sixth is equal to 0.
+27 times 12x squared minus 4x to the sixth = 0.
 Remember, that's just the numerator of our second derivative.
 Any x that makes the numerator 0 is making the second derivative 0.
 So let's factor out a 4x squared.
 So 4x squared.
-Now we'll have 27 times, if we factor 4 out of the 12, we'll just get a 3, and we factored out the x squared, minus, we factored out the 4, we factored out an x squared, so we have x to the fourth is equal to 0.
-So the x's that will make this equal to 0 will satisfy either, I'll switch colors, either 4x squared is equal to 0, or, now 27 times 3, I can do that in my head.
+Now we'll have 27 times, if we factor 4 out of the 12, we'll just get a 3, and we factored out the x squared, minus, we factored out the 4, we factored out an x squared, so we have x to the fourth = 0.
+So the x's that will make this = 0 will satisfy either, I'll switch colors, either 4x squared = 0, or, now 27 times 3, I can do that in my head.
 That's 81.
 20 times 3 is 60, 7 times 3 is 21, 60 plus 21is 81.
-Or 81 minus x to the fourth is equal to 0.
-Any x that satisfies either of these will make this entire expression equal 0.
-Because if this thing is 0, the whole thing is going to be equal to 0.
-If this thing is 0, the whole thing is going to be equal to 0.
+Or 81 minus x to the fourth = 0.
+Any x that satisfies either of these will make this entire expression = 0.
+Because if this thing is 0, the whole thing is going to be = 0.
+If this thing is 0, the whole thing is going to be = 0.
 Let me be clear, this is 81 right there.
 So let's solve this.
-This is going to be 0 when x is equal to 0, itself.
-This is going to be equal to 0 when x, let's see.
-If we add x to the fourth to both sides, you get x to the fourth is equal to 81.
-If we take the square root of both sides of this, you get x squared is equal to 9, or so you get x is plus or minus 3.
-x is equal to plus or minus three.
-So these are our candidate inflection points, x is equal to 0, x is equal to plus 3, or x is equal to minus 3.
+This is going to be 0 when x = 0, itself.
+This is going to be = 0 when x, let's see.
+If we add x to the fourth to both sides, you get x to the fourth = 81.
+If we take the square root of both sides of this, you get x squared = 9, or so you get x is plus or minus 3.
+x = plus or minus three.
+So these are our candidate inflection points, x = 0, x = plus 3, or x = minus 3.
 So what we have to do now, is to see whether the second derivative changes signs around these points in order to be able to label them inflection points.
 So what happens when x is slightly below 0? So let's take the situation, let's do all the scenarios.
 What happens when x is slightly below 0? Not all of them, necessarily, but if x is like 0.
@@ -158,7 +158,7 @@ So if x is 0.
 You're going to be subtracting a very small positive number from 81, but 81 minus a small number is still going to be positive.
 So you're going to positive times a positive, so your second derivative is still going to be greater than 0.
 So something interesting here.
-f at your second derivative is 0 when x is equal to 0, but it is a not an inflection point.
+f at your second derivative is 0 when x = 0, but it is a not an inflection point.
 Because notice, the concavity did not change around 0.
 Our second derivative is positive as we approach 0 from the left, and it's positive as we approach 0 from the right.
 So in general, at 0, we're always, as we're near 0 from either direction, we're going to be concave upwards.
@@ -172,7 +172,7 @@ The whole second derivative is this thing right here, but I've been ignoring the
 So if we're trying to understand whether things are positive or negative, we just really have to determine whether the numerator is positive or negative.
 Because this expression right there is always positive.
 It's something to the second power.
-So let's test whether we have a change in concavity around x is equal to positive or negative 3.
+So let's test whether we have a change in concavity around x = positive or negative 3.
 So remember, the numerator of our, let me just rewrite our second derivative, just so you see it here.
 f prime prime of x.
 The numerator is this thing right here.
@@ -223,12 +223,12 @@ But if we take minus 3.
 So in that case as well, we'll have a positive times a negative divided by a positive, so then our second derivative is going to be negative.
 And so we're going to be downwards.
 So I think we're ready to plot.
-so first of all, is x plus or minus 3 inflection points? Sure! As we approach x is equal to 3 from the left, we are concave upwards, and then as we cross 3, the second derivative is 0.
+so first of all, is x plus or minus 3 inflection points? Sure! As we approach x = 3 from the left, we are concave upwards, and then as we cross 3, the second derivative is 0.
 The second derivative's 0, I lost it up here.
 The second derivative is 0.
 And then, as we go to the right of 3, we become concave downwards.
 So we got our sign change in the second derivative.
-So x is equal to 3.
+So x = 3.
 So 3 is definitely an inflection point, and the same argument could be made for negative 3.
 We switch signs as we cross 3.
 So these definitely are inflection points.
@@ -242,7 +242,7 @@ And then we know that the points positive 3 and minus 3 are inflection points, a
 So they're actually going to have the same y-coordinates, because if you put a minus3 or positive 3 and take it to the fourth power, you're going to get the same thing.
 Let's figure out what they are.
 So if we take 3 to the fourth power, that's what, 81.
-81 plus 27 is equal to 108, and then we want to take the natural log of it.
+81 plus 27 = 108, and then we want to take the natural log of it.
 Let's just say 4.
 7, just to get a rough idea.
 That's4.
@@ -286,8 +286,8 @@ Let me draw it like 1, 2, 3.
 7, 1, 2, 3, 4.
 7 looks like that.
 So we know at 0, we are slope of 0 and we're concave upwards, so we look like this.
-We're concave upwards, until x is equal to 3.
-And at x is equal to 3, we become concave downwards, and we go, let me try my best to draw it well, and we go off like that.
+We're concave upwards, until x = 3.
+And at x = 3, we become concave downwards, and we go, let me try my best to draw it well, and we go off like that.
 And then we're concave upwards around 0, until we get, we're concave upwards as long as x is greater than minus 3, and then at minus 3 we become concave downwards again.
 Maybe I should do it in that color.
 This concave downwards right here, that's this, right here.
@@ -300,7 +300,7 @@ So this is my sense of what the graph will look like and maybe it'll just you kn
 But let's test whether we've grafted correctly using a graphing calculator.
 So let me get out my TI-85, trusty TI-85, and let's graph this sucker.
 All right, press graph.
-y equals the natural log of x to the fourth plus 27.
+y = the natural log of x to the fourth plus 27.
 All right, I want to hit that graph there.
 So I do second, graph.
 And let's cross our fingers.

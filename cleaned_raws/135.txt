@@ -6,8 +6,8 @@ So let me draw some new stuff right here.
 So let's say I have the vector-valued function r of t, and this is no different than what I did in last video.
 x of t times unit vector i plus y of t times the unit vector j.
 If we were doing it in 3 dimensions, we'd add a z of t times k, but let's keep things relatively simple, and let's say that this describes a curve, and let's say the curve we're dealing with, t is between a and b, and this curve will look something like, let me do my best effort to draw the curve, I'll just draw some random curve here, so let's say the curve looks something like that.
-This is when t is equal to a, so it's going to go in this direction.
-This is when t is equal to b right here, this is t is equal to a, so this right here would be x of a, this right here is y of a, and similarly, this up here, this is x of b, and this over here is y of b.
+This is when t = a, so it's going to go in this direction.
+This is when t = b right here, this is t = a, so this right here would be x of a, this right here is y of a, and similarly, this up here, this is x of b, and this over here is y of b.
 Now, we saw in the last video that the endpoints of these position vectors are what's describing this curve.
 So r of a we saw in the last video, it describes that point right there.
 I don't want to review that too much.
@@ -36,8 +36,8 @@ And it should make sense, because when you add vectors, you go heads to tails.
 You could alternatively write this as r of t plus this character right here, plus r of t plus h minus r of t.
 When you add two vectors, you're adding, let me make it very clear, I'm adding this vector to this vector right here.
 You put the tail of the second vector at the head of the first.
-So this is the first vector, and I put the tail of the second there, and then the sum of those two, as we predicted, should be equal to this last one.
-It should be equal to r of t plus h.
+So this is the first vector, and I put the tail of the second there, and then the sum of those two, as we predicted, should be = this last one.
+It should be = r of t plus h.
 And we see that is the case, and algebraically, you would see that obviously this guy and that guy are going to cancel out.
 So hopefully that satisfies you.
 And I want to be clear.
@@ -47,7 +47,7 @@ Now all of a sudden he's, it's just kind of a pure vector.
 It's describing just a change between two other position vectors.
 So this guy is right out here.
 But this vector literally describes the change.
-But say we care, and how would this look algebraically if we were to expand it like that? So this is going to be equal to, what's r of t plus h? That's the same thing as x of, let me do it over here.
+But say we care, and how would this look algebraically if we were to expand it like that? So this is going to be =, what's r of t plus h? That's the same thing as x of, let me do it over here.
 This is the same thing as x of t plus h times the unit vector i plus y of t plus h times the unit vector j, that's just that piece, that piece right there is that piece, minus this piece, so minus, I'll do it in the second line, I could have done it out here, but I'm running out of space.
 Minus x of t, right r of t is just x of t times i, plus, but I'll just distribute the minus sign, so it's minus y of t times j.
 Actually let me write it, this would be minus, let me write this way, plus this.
@@ -56,9 +56,9 @@ I'm just evaluating at t.
 So you have x of t and y of t, and then later we can distribute, right? If you distribute this minus sign, you get a minus x of t and a minus y of t.
 And in vector addition, you might need a little review on this if you haven't seen it in a while, you know that you can just add the corresponding components.
 You can add the x-components and you can add the y-components.
-So this is going to be equal to, let me rewrite it over here, because I think I'm going to need some space later on.
+So this is going to be =, let me rewrite it over here, because I think I'm going to need some space later on.
 So let me rewrite it over here.
-So I have r of t plus h minus r of t is equal to, and I'm just going to group the x- and the y-components, this is equal to the x-components added together, but this is a negative, so we're going to subtract this guy from that guy.
+So I have r of t plus h minus r of t =, and I'm just going to group the x- and the y-components, this = the x-components added together, but this is a negative, so we're going to subtract this guy from that guy.
 So x of t plus h minus x of t, and then all of that times our unit vector in the x-direction, and then we'll have plus y of t plus h minus y of t times a unit vector the j-direction, I'm just rearranging things right now, and this will tell us what is our change between any 2 r's for given change in distance.
 And our change in distance here is h between any 2 position vectors.
 Now, what I set out at the beginning of this video, I said, well, I wanted to figure out the change, and we're going to think about the instantaneous change with respect to t.
@@ -104,7 +104,7 @@ Or this is dx dt.
 This right here is y prime of t, or we could write that as dy dt.
 So all of a sudden we can define, we can say, and I'm being a little hand-wavy here, but I want to give you the intuition, more than anything.
 We can say that the derivative, we can call this expression right here, as the derivative of my vector-valued function r with respect to t, or we could call it dr dt, notice I keep the vector signs there.
-This is its derivative, and all it's going to be equal to, r prime of t, is going to be equal to, well, this is just the derivative of x with respect to t, is equal to x prime of t times the x-unit vector, the horizontal unit vector, plus y prime of t, times the y-unit vector, times j, the unit vector in the horizontal direction.
+This is its derivative, and all it's going to be =, r prime of t, is going to be =, well, this is just the derivative of x with respect to t, = x prime of t times the x-unit vector, the horizontal unit vector, plus y prime of t, times the y-unit vector, times j, the unit vector in the horizontal direction.
 That's a pretty nice and simple outcome.
 But the hard thing may be to a kind of visualize what it represents.
 So if we think about what happens, let me draw a big graph, just to get the visualization in a healthy way.

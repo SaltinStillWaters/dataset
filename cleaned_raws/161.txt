@@ -20,11 +20,11 @@ So our change in temperature is negative 23 degrees.
 Or our temperature has gone down 23 degrees Celsius over the course of the first 10 minutes.
 So that is part c right over there.
 Now, let's do part d.
-"At time t equals 0, biscuits with temperature 100 degrees were removed from an oven.
+"At time t = 0, biscuits with temperature 100 degrees were removed from an oven.
 " So now we're talking about biscuits.
 We started with tea, now biscuits.
-"The temperature of the biscuits at time t is modeled by a differentiable function B, for which it is known that B prime of t" is equal to this business right over here.
-"Using the given models at time t equals 10, how much cooler are the biscuits than the tea?" Well, we know what the temperature of the tea is.
+"The temperature of the biscuits at time t is modeled by a differentiable function B, for which it is known that B prime of t" = this business right over here.
+"Using the given models at time t = 10, how much cooler are the biscuits than the tea?" Well, we know what the temperature of the tea is.
 So we just have to figure out the temperature of the biscuits to figure out how much cooler they are than the tea.
 And to figure out the temperature of the biscuits, we can essentially just use the exact same idea.
 We can say, we know that the biscuits started off at 100 degrees Celsius.
@@ -43,11 +43,11 @@ And now we just evaluate this.
 Well, we can evaluate this.
 What we'd have to is because we know the derivative of e to the a x is a e to the x.
 Let me write that.
-The derivative of e to the ax is equal to ae to the ax, just from the chain rule.
+The derivative of e to the ax = ae to the ax, just from the chain rule.
 Derivative of the inside is just a.
 And then we multiply that times the derivative of the entire thing.
 And derivative of e to the x is just e to the x.
-Or we could say that the integral of e to the ax dx is equal to 1 over a e to the ax plus c.
+Or we could say that the integral of e to the ax dx = 1 over a e to the ax plus c.
 And you could take the derivative of this to see that you would get this right over here.
 So using that same idea, the anti-derivative of this over here is just going to be the negative 13.
 84.
@@ -70,7 +70,7 @@ So e to the if we multiply this times 10 this is negative 1.
 That's when I evaluated it at 10.
 And from that we want to subtract when this is evaluated at 0.
 If the exponent here is 0, if t is 0, the whole exponent is 0.
-So e to the 0 power is just equal to 1.
+So e to the 0 power is just = 1.
 And now we can get our calculator out to evaluate this.
 So I'll get my TI-85 out.
 I'm just going to evaluate this inner expression right over here.

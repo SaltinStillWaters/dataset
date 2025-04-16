@@ -1,65 +1,66 @@
 Transcript for: Introduction to limits 2 | Limits | Precalculus | 
+
 Welcome to the presentation on limits.
 Let's get started with some well, first an explanation before I do any problems.
 So let's say I had let me make sure I have the right color and my pen works.
 OK, let's say I had the limit, and I'll explain what a limit is in a second.
 But the way you write it is you say the limit oh, my color is on the wrong OK, let me use the pen and yellow.
-OK, the limit as x approaches 2 of x squared.
-Now, all this is saying is what value does the expression x squared approach as x approaches 2? Well, this is pretty easy.
+OK, the limit as <EXPRESSION>> approaches <EXPRESSION>> of <EXPRESSION>>.
+Now, all this is saying is what value does the expression <EXPRESSION>> approach as <EXPRESSION>> approaches <EXPRESSION>>? Well, this is pretty easy.
 If we look at let me at least draw a graph.
 I'll stay in this yellow color.
-So let me draw.
-x squared looks something like let me use a different color.
-x square looks something like this, right? And when x is equal to 2, y, or the expression because we don't say what this is equal to.
-It's just the expression x squared is equal to 4, right? So a limit is saying, as x approaches 2, as x approaches 2 from both sides, from numbers left than 2 and from numbers right than 2, what does the expression approach? And you might, I think, already see where this is going and be wondering why we're even going to the trouble of learning this new concept because it seems pretty obvious, but as x as we get to x closer and closer to 2 from this direction, and as we get to x closer and closer to 2 to this direction, what does this expression equal? Well, it essentially equals 4, right? The expression is equal to 4.
-The way I think about it is as you move on the curve closer and closer to the expression's value, what does the expression equal? In this case, it equals 4.
-You're probably saying, Sal, this seems like a useless concept because I could have just stuck 2 in there, and I know that if this is say this is f of x, that if f of x is equal to x squared, that f of 2 is equal to 4, and that would have been a no-brainer.
+So let me draw <EQUATION>.
+<EXPRESSION>> looks something like let me use a different color.
+<EXPRESSION>> looks something like this, right? And when <EXPRESSION>> = <EXPRESSION>>.
+It's just the expression <EXPRESSION>> = <EXPRESSION>>, right? So a limit is saying, as <EXPRESSION>> approaches <EXPRESSION>> from both sides, from numbers left than <EXPRESSION>> and from numbers right than <EXPRESSION>>, what does the expression approach? And you might, I think, already see where this is going and be wondering why we're even going to the trouble of learning this new concept because it seems pretty obvious, but as <EXPRESSION>> as we get to <EXPRESSION>> closer and closer to <EXPRESSION>> from this direction, and as we get to <EXPRESSION>> closer and closer to <EXPRESSION>> to this direction, what does this <EXPRESSION>> =? Well, it essentially = <EXPRESSION>>, right? The <EXPRESSION>> = <EXPRESSION>>.
+The way I think about it is as you move on the curve closer and closer to the expression's value, what does the <EXPRESSION>> =? In this case, <EXPRESSION>> = <EXPRESSION>>.
+You're probably saying, Sal, this seems like a useless concept because I could have just stuck 2 in there, and I know that if this is say this is <EXPRESSION>>, that if <EXPRESSION>> = <EXPRESSION>>, that <EXPRESSION>> = <EXPRESSION>>, and that would have been a no-brainer.
 Well, let me maybe give you one wrinkle on that, and hopefully now you'll start to see what the use of a limit is.
-Let me to define let me say f of x is equal to x squared when, if x does not equal 2, and let's say it equals 3 when x equals 2.
+Let me define <EXPRESSION>> = <EXPRESSION>> when, if <EXPRESSION>> does not = <EXPRESSION>>, and let's say it = <EXPRESSION>> when <EXPRESSION>> = <EXPRESSION>>.
 Interesting.
 So it's a slight variation on this expression right here.
-So this is our new f of x.
+So this is our new <EXPRESSION>>.
 So let me ask you a question.
-What is my pen still works what is the limit I used cursive this time what is the limit as x that's an x as x approaches 2 of f of x? That's an x.
+What is the limit as <EXPRESSION>> approaches <EXPRESSION>> of <EXPRESSION>>?
 It says x approaches 2.
 It's just like that.
 I just I don't know.
 For some reason, my brain is working functionally.
-OK, so let me graph this now.
+OK, so let me graph <EXPRESSION>> now.
 So that's an equally neat-looking graph as the one I just drew.
-Let me draw.
-So now it's almost the same as this curve, except something interesting happens at x equals 2.
+Let me draw <EXPRESSION>.
+So now it's almost the same as this curve, except something interesting happens at <EXPRESSION>> = <EXPRESSION>>.
 So it's just like this.
-It's like an x squared curve like that.
-But at x equals 2 and f of x equals 4, we draw a little hole.
-We draw a hole because it's not defined at x equals 2.
-This is x equals 2.
-This is 2.
-This is 4.
-This is the f of x axis, of course.
-And when x is equal to 2 let's say this is 3.
-When x is equal to 2, f of x is equal to 3.
+It's like an <EXPRESSION>> curve like that.
+But at <EXPRESSION>> = <EXPRESSION>> and <EXPRESSION>> = <EXPRESSION>>, we draw a little hole.
+We draw a hole because it's not defined at <EXPRESSION>> = <EXPRESSION>>.
+This is <EQUATION>>.
+This is <EXPRESSION>>.
+This is <EXPRESSION>>.
+This is the <EQUATION>> axis, of course.
+And when <EXPRESSION>> = <EXPRESSION>> let's say this is <EXPRESSION>>.
+When <EXPRESSION>> = <EXPRESSION>>, <EXPRESSION>> = <EXPRESSION>>.
 This is actually right below this.
 I should it doesn't look completely right below it, but I think you got to get the picture.
-See, this graph is x squared.
-It's exactly x squared until we get to x equals 2.
-At x equals 2, We have a grap No, not a grap.
+See, this graph is <EXPRESSION>>.
+It's exactly <EXPRESSION>> until we get to <EXPRESSION>> = <EXPRESSION>>.
+At <EXPRESSION>> = <EXPRESSION>>.
 We have a gap in the graph, which maybe could be called a grap.
-We have a gap in the graph, and then we keep and then after x equals 2, we keep moving on.
-And that gap, and that gap is defined right here, what happens when x equals 2? Well, then f of x is equal to 3.
-So this graph kind of goes it's just like x squared, but instead of f of 2 being 4, f of 2 drops down to 3, but then we keep on going.
-So going back to the limit problem, what is the limit as x approaches 2? Now, well, let's think about the same thing.
+We have a gap in the graph, and then we keep and then after <EXPRESSION>> = <EXPRESSION>>, we keep moving on.
+And that gap, and that gap is defined right here, what happens when <EXPRESSION>> = <EXPRESSION>>? Well, then <EXPRESSION>> = <EXPRESSION>>.
+So this graph kind of goes it's just <EXPRESSION>>, but instead of <EXPRESSION>> = <EXPRESSION>>, <EXPRESSION>> drops down to <EXPRESSION>>, but then we keep on going.
+So going back to the limit problem, what is the limit as <EXPRESSION>> approaches <EXPRESSION>>? Now, well, let's think about the same thing.
 We're going to go this is how I visualize it.
 I go along the curve.
 Let me pick a different color.
-So as x approaches 2 from this side, from the left-hand side or from numbers less than 2, f of x is approaching values approaching 4, right? f of x is approaching 4 as x approaches 2, right? I think you see that.
-If you just follow along the curve, as you approach f of 2, you get closer and closer to 4.
+So as <EXPRESSION>> approaches <EXPRESSION>> from this side, from the left-hand side or from numbers less than <EXPRESSION>>, <EXPRESSION>> is approaching values approaching <EXPRESSION>>, right? <EXPRESSION>> is approaching <EXPRESSION>> as <EXPRESSION>> approaches <EXPRESSION>>, right? I think you see that.
+If you just follow along the curve, as you approach <EXPRESSION>>, you get closer and closer to <EXPRESSION>>.
 Similarly, as you go from the right-hand side make sure my thing's still working.
-As you go from the right-hand side, you go along the curve, and f of x is also slowly approaching 4.
-So, as you can see, as we go closer and closer and closer to x equals 2, f of whatever number that is approaches 4, right? So, in this case, the limit as x approaches 2 is also equal to 4.
-Well, this is interesting because, in this case, the limit as x approaches 2 of f of x does not equal f of 2.
+As you go from the right-hand side, you go along the curve, and <EXPRESSION>> is also slowly approaching <EXPRESSION>>.
+So, as you can see, as we go closer and closer and closer to <EQUATION>>, <EXPRESSION>> of whatever number that is approaches <EXPRESSION>>, right? So, in this case, the limit as <EXPRESSION>> approaches <EXPRESSION>> is also = <EXPRESSION>>.
+Well, this is interesting because, in this case, the limit as x approaches 2 of f of x does not = f of 2.
 Now, normally, this would be on this line.
-In this case, the limit as you approach the expression is equal to evaluating the expression of that value.
+In this case, the limit as you approach the expression = evaluating the expression of that value.
 In this case, the limit isn't.
 I think now you're starting to see why the limit is a slightly different concept than just evaluating the function at that point because you have functions where, for whatever reason at a certain point, either the function might not be defined or the function kind of jumps up or down, but as you approach that point, you still approach a value different than the function at that point.
 Now, that's my introduction.

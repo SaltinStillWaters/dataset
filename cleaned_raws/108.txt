@@ -11,12 +11,12 @@ And frankly, I haven't taken calculus in 20 years.
 But you really just have to think about what they're saying, and it's not that daunting.
 So what's the average value of a function? And you learned this in calculus.
 You might not remember it.
-So let's say the average value of f is equal to essentially let's say, between 2 points, b and a it's the difference between the 2 points divided by the area under the curve of f of x.
+So let's say the average value of f = essentially let's say, between 2 points, b and a it's the difference between the 2 points divided by the area under the curve of f of x.
 From a to b.
 Right? That's, I think they call that the second fundamental theorem of calculus.
 Or corollary to the fundamental theorem of calculus, whatever.
 But it makes sense.
-Right? The average value of a function is equal to the area under the curve divided by, you could kind of say, the base of the figure.
+Right? The average value of a function = the area under the curve divided by, you could kind of say, the base of the figure.
 Right? Because another way to think about it, if you just took the average value of the function so if the function was, say, this, and you just multiplied that average value times the base, you would get the same area as the integral.
 That's another way to view it.
 You could rewrite this as b minus a.
@@ -77,7 +77,7 @@ Trusty TI-85 emulator.
 Let's see.
 176 plus 126.
 Enter.
-Divided by 2, is equal to 151.
+Divided by 2, = 151.
 So this area right here is 1 times 151, or 151.
 So what's the total area? It's just going to be the sum of these 3 trapezoids.
 So it's the sum of those 3 trapezoids.
@@ -86,7 +86,7 @@ So that's the total area under those trapezoids.
 But then they ask us, well, what's the average value of the function? Well, the average value is just the area divided by the base.
 The base is 4, right? From noon to 4:00 p.
 m.
-or from time equals 0 to time equals 4.
+or from time = 0 to time = 4.
 So we just divide this value by 4.
 So divided by 4, we get 155.
 25.
@@ -114,7 +114,7 @@ Part c.
 OK, copied it.
 Edit, paste.
 OK.
-For t is greater than 0, is less than 9, right? What is the fewest number of times at which l prime of t must be equal to 0? Give a reason for your answer.
+For t is greater than 0, is less than 9, right? What is the fewest number of times at which l prime of t must be = 0? Give a reason for your answer.
 So l prime of t, that's the derivative of this.
 When I connected these dots, I just kind of wanted to get a shape of the curve.
 But it's really a curve.
@@ -127,9 +127,9 @@ You know, it might look something like this.
 I don't know, a curve and then it maxes out at some point, comes down.
 Then it comes up like this.
 And then it, maybe it maxes out, and it comes down like that.
-It'll be a curve, right? Anyway, they say, what is the fewest number of times that l prime of t must be equal to 0? Well, what happens when l prime of t is equal to 0? That means that we are at a local minima or a local maxima, or sometimes an inflection point.
+It'll be a curve, right? Anyway, they say, what is the fewest number of times that l prime of t must be = 0? Well, what happens when l prime of t = 0? That means that we are at a local minima or a local maxima, or sometimes an inflection point.
 But we don't know that for sure.
-But at minima and maxima point, we know for sure that l prime of t is equal to 0.
+But at minima and maxima point, we know for sure that l prime of t = 0.
 And so we can just eyeball it.
 We could look at this graph and we could say, well, you know, there has to be a minima point someplace in this range.
 Right? Between here and here.
@@ -137,7 +137,7 @@ So, you know, the way I drew it, it looks like the slope is 0 there.
 And between here and here, it looks like the slope is also going to have to bottom out at some point.
 Like there.
 And then there's a maximum point right someplace in this range, and it's going to max out.
-So when I just eyeball it, I say, well, I have 2 maximum points, and one minima point, so the slope is going to equal 0 at at least 3 points, right? But they tell us, give us a reason for your answer.
+So when I just eyeball it, I say, well, I have 2 maximum points, and one minima point, so the slope is going to = 0 at at least 3 points, right? But they tell us, give us a reason for your answer.
 Give us a reason.
 And my reason and actually, you could use Rolle's Theorem or the mean value theorem, but the simplest reason is that here we have 3 sign changes in the average velocity.
 Or the average, not the average velocity, the rate the l of t.

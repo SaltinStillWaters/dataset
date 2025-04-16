@@ -5,8 +5,8 @@ So let me start with a fairly straightforward function.
 That's my y-axis.
 This is my x-axis.
 Let me draw my function.
-I'm going to draw y equals the square root of x, but I'll keep it general right now, just so this applies generally to a lot of things.
-So y equals the square root of x looks something like that.
+I'm going to draw y = the square root of x, but I'll keep it general right now, just so this applies generally to a lot of things.
+So y = the square root of x looks something like that.
 It keeps going.
 Actually, let me redraw that, because I didn't want it to curve down like that at the end.
 It goes up like that, and then it just keeps going up like that.
@@ -22,7 +22,7 @@ I'm drawing everything crooked today.
 Let me do a different color.
 If we wanted this area right here, we would essentially just be just as a review be summing up a bunch of small squares, where each square has a bunch of rectangles, has a width dx, and its height at that point would be whatever x value here is it would be f of x.
 And if we take the sum of all of these areas, of all of these rectangles, we would get the area to this curve.
-And we learned in the definite integral video that that's just equal to the definite integral from a that's a lower bound from a to b of f of x times d of x.
+And we learned in the definite integral video that that's just = the definite integral from a that's a lower bound from a to b of f of x times d of x.
 Where each [? rafter ?] angle is f of x times d of x.
 And hopefully this makes a little bit of intuitive sense to you.
 I think a lot of people go through calculus just learning how to do it mechanistically, just learning you know how to do it like a robot without really understanding necessarily what's going on.
@@ -49,7 +49,7 @@ So you would have a whoops, I'm not trying that well.
 This is really testing the limits of my ability to use this computer to draw things.
 It'd be kind of a circle on one end, and then it would curve down a little bit and it would be another circle on the other end.
 And if I were to draw the x-axis, the x-axis would kind of pop out of the middle right there.
-That right there would be the point b, x equals b.
+That right there would be the point b, x = b.
 If we were to kind of go behind or look into the object we would see the other surface of this rotational solid.
 And this point right here, that would be a.
 That would be a.
@@ -80,11 +80,11 @@ That's the same thing as this.
 We just rotated it around.
 So what would be the volume of this disk? It would be the area of this side.
 It'll be this area right here times this height.
-Well what's the area? Well we know the radius, right? Area is equal to pi r squared.
-What's this radius? My radius is f of x, right? So the area of this disk is equal to pi times the radius squared, it so it's pi times f of x, the whole thing squared.
+Well what's the area? Well we know the radius, right? Area = pi r squared.
+What's this radius? My radius is f of x, right? So the area of this disk = pi times the radius squared, it so it's pi times f of x, the whole thing squared.
 So what would be the volume of this entire disk? So it'll just be this area times dx.
 I'm running out of space and colors.
-So the volume of that disk is going to be equal to area of that disk, pi f of x squared.
+So the volume of that disk is going to be = area of that disk, pi f of x squared.
 The whole function, whatever length this is at any point squared, that gives us the area, times the depth you can say, so that's d of x.
 Now that gives us just the volume of this one disk when it's rotated around.
 So if we wanted the volume of this entire object that I drew here, we would just sum up a bunch of these disks.
@@ -93,7 +93,7 @@ And so essentially we're going to take an infinite sum of a bunch of these small
 So this is the volume of each disk.
 We could call that a volume of a disk.
 So what's the volume of the whole thing? Well we just take a sum, an integral sum of each of these disks.
-So the volume when you rotate it is going to be equal to the definite integral between and remember, our boundaries were a and b between a and b of this quantity right here pi f of x squared dx.
+So the volume when you rotate it is going to be = the definite integral between and remember, our boundaries were a and b between a and b of this quantity right here pi f of x squared dx.
 So hopefully that makes sense to you.
 Just remember, this is the width of each disk.
 This is the radius of the disk, or the radius of the surface, so it would be squared, and that makes sense, that's the height, f of x.

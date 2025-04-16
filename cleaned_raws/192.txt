@@ -2,7 +2,7 @@ Transcript for: Surface integral ex2 part 2: Evaluating integral | Multivariable
 Now that we've set up the parametrization, let's try to evaluate the integral.
 And the next thing we'll do is essentially try to express ds right over here in terms of du and dv.
 And we've seen this before.
-ds is going to be equal to the magnitude of the cross product of the partial of r with respect to u crossed with the partial of r with respect to v du dv.
+ds is going to be = the magnitude of the cross product of the partial of r with respect to u crossed with the partial of r with respect to v du dv.
 So first, let's take the cross product, and we'll do that with a 3 by 3 matrix.
 I'll do that right over here.
 We set up, and I'll just kind of fill in what r sub u and r sub v is in the actual determinant right over here.
@@ -22,7 +22,7 @@ So the i component, it's going to be i.
 So we cross out this column, this row.
 It's going to be 0 times 2v minus 1 times 1.
 So essentially, it's just going to be negative 1 times i.
-So we're going to have negative i, so this is equal to negative i.
+So we're going to have negative i, so this = negative i.
 And then the j component and we're going to have to put a negative out front, because, remember, we do that checkerboard pattern.
 So cross out that row, that column.
 1 times 2v is 2v.
@@ -45,7 +45,7 @@ That would have been a disaster.
 2 plus 4v squared du dv.
 And if we want, maybe it'll help us a little bit if we factor out a 2 right over here.
 This is the same thing as 2 times 1 plus 2v squared du dv.
-If you factor out the 2, you get this is equal to the square root of 2 times the square root of 1 plus 2v squared du dv.
+If you factor out the 2, you get this = the square root of 2 times the square root of 1 plus 2v squared du dv.
 And I now think we are ready to evaluate the surface integral.
 So let's do it.
 All right.
@@ -57,9 +57,9 @@ And then we're going to have du, which I'll write in green, du, and then dv.
 So this is just the ds part.
 This is just the ds.
 Now, we have the y right over here.
-y is just equal to v.
+y is just = v.
 All right, so I'll write that in purple.
-So y is just equal to v.
+So y is just = v.
 That is y let me make it very clear and all of this is ds.
 And now I can write the bounds in terms of u and v.
 And so the u part, u is the same thing as x.
@@ -79,7 +79,7 @@ But this is even easier.
 This integral is just going to evaluate to 1.
 So this whole thing just evaluates to 1.
 And so we've simplified this into one single integral.
-So this simplifies to and I could even take the square root of 2 out front the square root of 2 times the integral from v is equal to 0 to v is equal to 2 of v times the square root of 1 plus 2v squared dv.
+So this simplifies to and I could even take the square root of 2 out front the square root of 2 times the integral from v = 0 to v = 2 of v times the square root of 1 plus 2v squared dv.
 And so we really are in the home stretch of evaluating this surface integral.
 And here, this is basic.
 This is actually a little bit of u substitution that we can do in our head.
@@ -104,7 +104,7 @@ And so we are left this stuff over here is 1/6 times.
 And now if you evaluate this at 2, you have 2v squared.
 That's going to be 2 times 4 is 8 plus 1 is 9, 9 to the 3/2 power.
 So 9 to the 1/2 is 3, 3 to the 3rd is 27.
-So it's going to be equal to 27.
+So it's going to be = 27.
 And then minus this thing evaluated at 0.
 Well, this evaluated at 0 is just going to be 1.
 1 to the 3/2 is just 1, so minus 1.

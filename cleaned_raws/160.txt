@@ -1,10 +1,10 @@
 Transcript for: 2011 Calculus AB free response #2 (a & b) | AP Calculus AB | 
 As a pot of tea cools, the temperature the tea is modeled by a differentiable function h.
-For 0 is less than or equal to, t is less than or equal to 10.
+For 0 is less than or =, t is less than or = 10.
 Where time t is measured in minutes.
 And temperature h of t is measured in degrees Celsius.
 Values of h of t, at selected time, selected values of time t are shown in the table above, so that's right over there.
-Use the data in the table to approximate the rate at which the temperature of the t is changing at time t equals 3.
+Use the data in the table to approximate the rate at which the temperature of the t is changing at time t = 3.
 5.
 Show the computations that lead to your answer.
 So, they give us a bunch of points, so let's just graph this, just so we can visualize what this data's telling us a little bit.
@@ -27,9 +27,9 @@ So this is really just a graph showing how it cools off over those ten minutes, 
 That's what the data is telling us.
 It's kind of a curve like this, and we've sampled it at these points.
 So going back to Part A.
-Use the data in the table to approximate the rate at which the temperature of the tea is changing at time t equals 3.
+Use the data in the table to approximate the rate at which the temperature of the tea is changing at time t = 3.
 5.
-So the rate of change is really just a slope of this curve at time t is equal to 3.
+So the rate of change is really just a slope of this curve at time t = 3.
 5.
 So really, we just wanna find the slope at that point right over there.
 We wanna find the slope, and we don't know the actual function.
@@ -120,7 +120,7 @@ So we have 126, plus 168, plus 192, plus 43.
 5.
 Gives us 529.
 5.
-So this is equal to 529.
+So this = 529.
 5.
 And so that's our approximation for the definite integral part.
 But then we also have to divide it by 10, or we have to multiply time 1 10th.

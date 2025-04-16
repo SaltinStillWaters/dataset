@@ -1,8 +1,8 @@
 Transcript for: Chain Rule Examples I'm now going to do a bunch more examples using the chain rule.
 So let's see.
 Once again.
-If I had f of x is equal to, let's see, I don't like this tool that I'm using now, let's have one of these.
-f of x is equal to, say, x to the third plus 2x squared minus, let's say, minus x to the negative 2.
+If I had f of x =, let's see, I don't like this tool that I'm using now, let's have one of these.
+f of x =, say, x to the third plus 2x squared minus, let's say, minus x to the negative 2.
 We haven't put any negative exponents in yet, but I think you'll see that the same patterns apply.
 And all of that to, let's say, the minus seven.
 We want to figure out what f prime of x, what the derivative of f of x is.
@@ -22,12 +22,12 @@ x to the third plus 2x squared minus x to the minus 2.
 That's minus x to the minus 2.
 And all of that, we just decrease this exponent by 1, to the minus 8.
 So let me write it all down a little bit neater now.
-So we get f prime of x as the derivative of f of x is equal to 3x squared plus 4x plus 2x to the minus third power, I don't know why did that.
+So we get f prime of x as the derivative of f of x = 3x squared plus 4x plus 2x to the minus third power, I don't know why did that.
 That's minus 3.
 Times minus seven times x to the third plus 2x squared minus x to the minus two, all of that to the negative eight power.
 And we could simplify it little bit.
 Maybe we could just multiply this minus 7, times, we could distribute it across this expression.
-So we'd say, that equals minus 7, so this equals minus 21 x squared, minus 28 x minus 14x to the negative 3.
+So we'd say, that = minus 7, so this = minus 21 x squared, minus 28 x minus 14x to the negative 3.
 All of that times x to the third plus 2 x squared minus x to the minus 2 to the minus 8.
 So there we did it.
 We took this, what I would say is a very complicated function, and using the chain rule and just the basic rules we had introduced a couple of presentations ago, we were able to find the derivative of it.
@@ -36,11 +36,11 @@ Let me do a slightly harder one, to show you that the chain rule, you can kind o
 OK.
 So let's say I had, let me see if I can write it a little bit thinner.
 If I had f of x, I don't know if you can see that, I'm going to do it a little fatter.
-f of x is equal to, I want to make it a little bit more complicated this time.
+f of x =, I want to make it a little bit more complicated this time.
 3x to the minus 2 plus 5 x to the third minus 7x, all of that to the fifth, and then this whole expression to the third power.
 So I imagine you saying, Sal, you're starting to go nuts, this is going to take us forever.
 Well, I'll show you, using the chain rule, it will not take that long.
-So the way I think about it, so f prime of x, f prime of x equals.
+So the way I think about it, so f prime of x, f prime of x =.
 I start off kind with the innermost function.
 So let me see if I can use colors to make it a little bit simpler.
 Let's take the derivative of this innermost function first.

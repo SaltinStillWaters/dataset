@@ -99,7 +99,7 @@ Let's say we have a function, f.
 Let's say we have a function, f, .
 .
 .
-and it is equal to.
+and it =.
 .
 .
 .
@@ -131,7 +131,7 @@ we'll multiply it times this scalar right over here.
 .
 .
 for that same point in three dimensions.
-So it's equal to.
+So it's =.
 .
 .
 .

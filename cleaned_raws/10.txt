@@ -4,12 +4,12 @@ And I'll just draw it visually for now, and we'll do some specific examples a li
 So that's my y-axis, and that's my x-axis.
 And let;s say the function looks something like I'll make it a fairly straightforward function let's say it's a line, for the most part.
 Let's say it looks just like, accept it has a hole at some point.
-x is equal to a, so it's undefined there.
+x = a, so it's undefined there.
 Let me black that point out so you can see that it's not defined there.
-And that point there is x is equal to a.
-This is the x-axis, this is the y is equal f of x-axis.
+And that point there is x = a.
+This is the x-axis, this is the y is = f of x-axis.
 Let's just say that's the y-axis.
-And let's say that this is f of x, or this is y is equal to f of x.
+And let's say that this is f of x, or this is y = f of x.
 Now we've done a bunch of videos on limits.
 I think you have an intuition on this.
 If I were to say what is the limit as x approaches a, and let's say that this point right here is l.
@@ -20,7 +20,7 @@ And we see that it's approaching this l right there.
 And when we approach a from that side and we've done limits where you approach from only the left or right side, but to actually have a limit it has to approach the same thing from the positive direction and the negative direction but as you go from there, if you pick this x, then this is f of x.
 f of x is right there.
 If x gets here then it goes here, and as we get closer and closer to a, f of x approaches this point l, or this value l.
-So we say that the limit of f of x ax x approaches a is equal to l.
+So we say that the limit of f of x ax x approaches a = l.
 I think we have that intuition.
 But this was not very, it's actually not rigorous at all in terms of being specific in terms of what we mean is a limit.
 All I said so far is as we get closer, what does f of x get closer to? So in this video I'll attempt to explain to you a definition of a limit that has a little bit more, or actually a lot more, mathematical rigor than just saying you know, as x gets closer to this value, what does f of x get closer to? And the way I think about it's: kind of like a little game.
@@ -34,7 +34,7 @@ So let's say you give me 0.
 And as long as I'm in that range around a, as long as I'm the range around you give me, f of x will always be at least that close to our limit point.
 Let me draw it a little bit bigger, just because I think I'm just overriding the same diagram over and over again.
 So let's say that this is f of x, this is the hole point.
-There doesn't have to be a hole there; the limit could equal actually a value of the function, but the limit is more interesting when the function isn't defined there but the limit is.
+There doesn't have to be a hole there; the limit could = actually a value of the function, but the limit is more interesting when the function isn't defined there but the limit is.
 So this point right here that is, let me draw the axes again.
 So that's x-axis, y-axis x, y, this is the limit point l, this is the point a.
 So the definition of the limit, and I'll go back to this in second because now that it's bigger I want explain it again.
@@ -56,7 +56,7 @@ And as long as you pick an x value that's within this range around a, long as yo
 Just make this a little bit more concrete, let's say you say, I want f of x to be within 0.
 5 let's just you know, make everything concrete numbers.
 Let's say this is the number 2 and let's say this is number 1.
-So we're saying that the limit as x approaches 1 of f of x I haven't defined f of x, but it looks like a line with the hole right there, is equal to 2.
+So we're saying that the limit as x approaches 1 of f of x I haven't defined f of x, but it looks like a line with the hole right there, = 2.
 This means that you can give me any number.
 Let's say you want to try it out for a couple of examples.
 Let's say you say I want f of x to be within point let me do a different color I want f of x to be within 0.
@@ -77,12 +77,12 @@ And just to be clear, that was just a specific example.
 You gave me one epsilon and I gave you a delta that worked.
 But by definition if this is true, or if someone writes this, they're saying it doesn't just work for one specific instance, it works for any number you give me.
 You can say I want to be within one millionth of, you know, or ten to the negative hundredth power of 2, you know, super close to 2, and I can always give you a range around this point where as long as you pick an x in that range, f of x will always be within this range that you specify, within that were you know, one trillionth of a unit away from the limit point.
-And of course, the one thing I can't guarantee is what happens when x is equal to a.
+And of course, the one thing I can't guarantee is what happens when x = a.
 I'm just saying as long as you pick an x that's within my range but not on a, it'll work.
 Your f of x will show up to be within the range you specify.
 And just to make the math clear because I've been speaking only in words so far and this is what we see the textbook: it says look, you give me any epsilon greater than 0.
 Anyway, this is a definition, right? If someone writes this they mean that you can give them any epsilon greater than 0, and then they'll give you a delta remember your epsilon is how close you want f of x to be to your limit point, right? It's a range around f of x they'll give you a delta which is a range around a, right? Let me write this.
-So limit as approaches a of f of x is equal to l.
+So limit as approaches a of f of x = l.
 So they'll give you a delta where as long as x is no more than delta So the distance between x and a, so if we pick an x here let me do another color if we pick an x here, the distance between that value and a, as long as one, that's greater than 0 so that x doesn't show up on top of a, because its function might be undefined at that point.
 But as long as the distance between x and a is greater than 0 and less than this x range that they gave you, it's less than delta.
 So as long as you take an x, you know if I were to zoom the x-axis right here this is a and so this distance right here would be delta, and this distance right here would be delta as long as you pick an x value that falls here so as long as you pick that x value or this x value or this x value as long as you pick one of those x values, I can guarantee you that the distance between your function and the limit point, so the distance between you know, when you take one of these x values and you evaluate f of x at that point, that the distance between that f of x and the limit point is going to be less than the number you gave them.

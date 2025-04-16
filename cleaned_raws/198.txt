@@ -519,7 +519,7 @@ and I'll give you a.
 .
 .
 that unit normal vector.
-It is going to be equal to.
+It is going to be =.
 .
 .
 .

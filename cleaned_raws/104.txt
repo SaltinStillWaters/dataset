@@ -2,15 +2,15 @@ Transcript for: AP Calculus BC exams: 2008 1 b&c | AP Calculus BC |
 Let's keep doing the first problem from the 2008 Calculus BC exam.
 We're on Part b.
 I think that's too thick.
-OK it says, the horizontal line y equals negative 2 splits the region r this is r into two parts.
+OK it says, the horizontal line y = negative 2 splits the region r this is r into two parts.
 Write, but do not evaluate, an integral expression for the area of the part of r that is below the horizontal lines.
-Let's draw y is equal to negative 2.
-So y equals negative 2 would look like this.
+Let's draw y = negative 2.
+So y = negative 2 would look like this.
 y is just a constant.
 That's not thick enough.
 I don't know if you can see that.
 Let me do it as a thick line and in a darker color maybe.
-y is equal to negative 2 will look something like that.
+y = negative 2 will look something like that.
 And what they're saying is if it splits this region r into two parts, this part and this part.
 And what they want to know is an integral expression for the area of the part of r that is below the horizontal line.
 So they care about the area of this part of r.
@@ -20,18 +20,18 @@ So how do we figure this out? Well the easy part is actually to figure out what 
 And it's going to be a little bit harder to figure out the boundary points.
 So what is the expression within the definite integral that we will use? Well, just like we did in Part a, think about we're going to take a sum of a bunch of rectangles.
 And the height of the rectangles is going to be the difference between the two functions.
-And this is y is equal to negative 2, and then this function right here is y is equal to and we had written it down in Part 3 but that's x cubed minus 4x.
+And this is y = negative 2, and then this function right here is y = and we had written it down in Part 3 but that's x cubed minus 4x.
 That's this curve right here.
 So the height of each of these little rectangles is going to be minus 2 minus x to the third minus 4x.
 That's the height of each of these rectangles.
 And then the width of each of those rectangles we know from well, just learning calculus or learning integrals the width is dx.
 So we're going to multiply that times dx.
-And then we're going to take all of the sums from x is equal to whatever this point is to whatever this point is.
+And then we're going to take all of the sums from x = whatever this point is to whatever this point is.
 So we need to figure out this point, this value of f, which is going to be here, and then this value of x, which is going to be there.
 And so these are really just two of the points where these two functions intersect each other.
-So how do we figure out those points? Well what we could do is we can set them equal to each other, so we could say at what x values does x to the third minus 4x equal minus 2.
-At what x values are the y values the same? So we just set them equal to each other.
-If we wanted to write this is a proper polynomial expression, we would get x to the third minus 4x plus 2 is equal to 0.
+So how do we figure out those points? Well what we could do is we can set them = each other, so we could say at what x values does x to the third minus 4x = minus 2.
+At what x values are the y values the same? So we just set them = each other.
+If we wanted to write this is a proper polynomial expression, we would get x to the third minus 4x plus 2 = 0.
 And I actually just tried to record a video where I was doing this on the fly, and I kept staring at this and I was like, boy, this is a hard polynomial to factor.
 I kept trying to guess numbers, or figuring out I even tried to do Newton's method and I kept getting weird numbers, and I became suspicious of myself.
 And then I looked at the actual test actually I can show it to you.
@@ -57,7 +57,7 @@ Well that's just going to be 2.
 And now we can just hit solve.
 And we get three crazy numbers, and this shows you that this would have been very hard to solve analytically if you have a normal brain.
 So let's see.
-There are three places where y equals negative 2 intersects y is equal to x to the third minus 4x.
+There are three places where y = negative 2 intersects y = x to the third minus 4x.
 It intersects at minus 2.
 21.
 Well that's off of this graph, that's not even here.
@@ -70,12 +70,12 @@ Right, that looks like 1.
 It also intersects at 0.
 539, which is right there.
 So we can use those values that our graphing calculator gave us and put it into our definite integral.
-So this point right here our polynomial solver told us is x is equal to 0.
+So this point right here our polynomial solver told us is x = 0.
 539.
 So we'll put here 0.
 539.
-And then this point right here so this is our limits of integration for our definite integral, right? We're going to sum up these little rectangles from x is equal to 0.
-539 to x is equal to 1.
+And then this point right here so this is our limits of integration for our definite integral, right? We're going to sum up these little rectangles from x = 0.
+539 to x = 1.
 675.
 And they told us that they do not want us to evaluate it, so we are done with Part b.
 We could just write this and we should hopefully get full credit.

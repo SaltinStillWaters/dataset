@@ -14,7 +14,7 @@ So let's now evaluate this definite integral.
 Now I'll rearrange some of the terms here just to make it a little bit easier to read.
 But the way I always think about it is, well I have a cosine and a sin.
 The cosine is squared, so all these crazy things are happening to it, so it seems like I could use substitution or the reverse chain rules some out here.
-And what was the chain rule? The chain rule said if I took the derivative of f of g of x that this is equal to f prime of g of x times g prime of x.
+And what was the chain rule? The chain rule said if I took the derivative of f of g of x that this = f prime of g of x times g prime of x.
 That might completely confuse you, but I just wrote that here because we could say, well what if g of x is cosine of x.
 f prime of g of x is the cosine of x squared, and then the derivative of g of x or the derivative of cosine of x is sin of x.
 Well it's actually minus sin of x, and we have a minus sin here, so that works out well too.
@@ -35,21 +35,21 @@ And now it should be clearer to you.
 What's the derivative of cosine of x? It's minus sin of x.
 So I have a function and it's being squared, and I have its derivative, so I can figure out its antiderivative by using substitution or the reverse chain rule.
 So let's make a substitution.
-u is equal to cosine of x.
-How did I know to substitute u is equal to cosine of x? Well because I say, well the derivative of this function is here.
+u = cosine of x.
+How did I know to substitute u = cosine of x? Well because I say, well the derivative of this function is here.
 So when I find du, this whole thing is going to end up being du, and let me show that to you.
-So what is du/dx? du/dx is equal to minus sin of x.
+So what is du/dx? du/dx = minus sin of x.
 That hopefully we've learned already.
-So what is du? If we multiply both sides by the differential d of x get du is equal to minus sin of x dx.
-So if we look at the original equation, this right here we just showed is equal to du, and this right here is what? Cosine of x is u.
+So what is du? If we multiply both sides by the differential d of x get du = minus sin of x dx.
+So if we look at the original equation, this right here we just showed = du, and this right here is what? Cosine of x is u.
 That was our original substitution.
 So we have u squared.
 So now let's take the integral.
 And I will arbitrarily switch colors.
 And now this is a very important thing.
-If you're going to do substitution, if we're going to say u is equal to cosine of x, we're going to have to actually make this substitution on the boundaries.
+If you're going to do substitution, if we're going to say u = cosine of x, we're going to have to actually make this substitution on the boundaries.
 Or we could do the substitution and reverse the substitution and then evaluate the boundaries, but let's do that.
-So if this is going from x is equal to pi over 2 to pi, what is u going from? Well when x is equal to pi over 2, u is equal to cosine of pi over 2.
+So if this is going from x = pi over 2 to pi, what is u going from? Well when x = pi over 2, u = cosine of pi over 2.
 Because u is just cosine of x.
 And then when x is pi, i is going to be cosine of pi.
 And now the fun part.
@@ -59,14 +59,14 @@ And minus sin of x dx, that's the same thing is du did that here.
 This is pretty straightforward and I'm just going to rewrite it.
 What's cosine of pi? Cosine of pi is minus 1.
 Cosine of pi over 2, well that's a 0.
-So we have the integral from u is equal to 0 to u is equal to negative 1 of u squared du.
+So we have the integral from u = 0 to u = negative 1 of u squared du.
 And now this seems like a simple problem.
-So this is equal to the antiderivative of u squared, which is fairly straightforward.
+So this = the antiderivative of u squared, which is fairly straightforward.
 u cubed over 3.
 You could just take the derivative of this, you get this.
 All I did is I increased this exponent to get the third, and I divided by that exponent.
 Now we're going to have to evaluate it at minus 1 and subtract from that, it evaluated at 0.
-So this is equal to minus 1 to the third over 3 minus 0 over 3, and so this is equal to minus 1/3.
+So this = minus 1 to the third over 3 minus 0 over 3, and so this = minus 1/3.
 And we are done.
 And if we look at this area from our original graph, what we just solved, as we said the area of the curve between here and here is minus 1/3.
 Or if we wanted the absolute area because you can't really have a negative area, it's 1/3 but we know it's negative because this curve is below the x-axis here.
@@ -87,8 +87,8 @@ So this is the same thing.
 So the antiderivative is cosine of x to the third over 3, and I evaluate it at pi and pi over 2.
 And remember, how did I do this? What allowed me to treat this cosine of x just like an x or like a u when I did it with the substitution? Well I had its derivative sitting right here, minus sin of x.
 So that's what gave me the license to just take the antiderivative, pretend like this cosine of x is just an x, is just a u, you could even say, and just take it's exponent, raise it by 1 and divide it by 3 and then evaluate it from pi to pi over 2.
-So this is equal to cosine of pi cubed over 3 minus cosine of pi over 2 cubed over 3.
-This is minus 1 to the third, so this is equal to minus 1/3 minus this is 0.
+So this = cosine of pi cubed over 3 minus cosine of pi over 2 cubed over 3.
+This is minus 1 to the third, so this = minus 1/3 minus this is 0.
 So we get the same answer.
 I just wanted to show you that.
 It's exactly the same with substitution.

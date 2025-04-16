@@ -3,19 +3,19 @@ So where we left off I was attempting to give you the intuition of divergence an
 But anyway, I had defined this fairly straightforward vector field that tells us the velocity of particles in a fluid at any given point.
 And let me clean it up a little bit.
 This one half I had all these scratch offs.
-The velocity, I'm just going to rewrite it, is equal to 1/2xi.
+The velocity, I'm just going to rewrite it, = 1/2xi.
 So at any given point has no y component.
 So all of the velocity is only in the x direction there is no upwards movement in the xy plane.
 And I was drawing it out.
-I said OK, when x is equal to 1, the magnitude of the velocity is 1/2 maybe meters per second, if that's our unit.
-When x is equal to 2, the velocity to the right will be 1 meter per second, right 1/2 times 2.
+I said OK, when x = 1, the magnitude of the velocity is 1/2 maybe meters per second, if that's our unit.
+When x = 2, the velocity to the right will be 1 meter per second, right 1/2 times 2.
 So the further we go to the right, or the more we go to the right, the faster the particles are moving to the right.
 So now let's try to get our handle on what divergence means.
 So first of all, let's take that the divergence of this function.
 So that divergence of v, of our velocity vector field you could also view that if you want to abuse some notation, is our del vector, dot v.
 But if we only have one dimension, so it's the partial derivative of the x magnitude with respect to x.
-So what's the partial derivative? So it's equal to the partial derivative with respect to x, of 1/2x.
-So it's equal to well the derivative of this with respect to x is just equal to 1/2.
+So what's the partial derivative? So it's = the partial derivative with respect to x, of 1/2x.
+So it's = well the derivative of this with respect to x is just = 1/2.
 So that divergence of this vector field at any point is 1/2.
 Now what does that tell us? Well, if you just look at the definition, right, we essentially just took the how much does the magnitude of the field increase in the x direction? And we see it visually.
 As we go, increase in the x direction, the field gets stronger and stronger.
@@ -38,7 +38,7 @@ So we're going to be getting less dense at any given point.
 Or you could almost view it as any given point is almost a source of particles, or if you have a sphere, more particles are going to be coming out of the sphere through the right, than coming in through the sphere to the left.
 So you could view a positive divergence as you could kind of say well, the field is becoming less dense at that point, or the point is a source of the field, or it's a source of particles, depending on what model you want to use.
 Now, with that said, let's take the opposite situation.
-Let's say that the vector field is equal to is minus 1/2x times i.
+Let's say that the vector field = is minus 1/2x times i.
 And so the divergence I'll use this notation the divergence of our vector field is just a partial derivative with respect to x, which is just minus 1/2.
 If I were to graph it this is my y-axis, this is my x-axis.
 So here at like, say, the point 1, my velocity is going to be the left 1/2.
@@ -85,10 +85,10 @@ Another way to think of it if you have a constant vector field.
 So the magnitude of the vectors, no matter what my value of x, is always going to be the same.
 It's always going to be 5.
 So if I were to draw a region, what's happening here? Are more particles entering than leaving or leaving than entering? No.
-For any amount that's coming in, an equal amount are coming out in a certain amount of time, if we use velocity as our example.
+For any amount that's coming in, an = amount are coming out in a certain amount of time, if we use velocity as our example.
 So when you have a divergence of 0, that means that that part of the field is not becoming any more or less dense.
 And you could have done it let me show you another.
-If my function was, let's say it equals 2i plus 2j.
+If my function was, let's say it = 2i plus 2j.
 It's still a constant, right? So this velocity field or vector field will look something like this.
 All the points would be, the vectors would have a slope of 1.
 But I just wanted you to see something in two dimensions.

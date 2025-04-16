@@ -7,7 +7,7 @@ And you might just want to do this yourself instead of watching me do it, becaus
 And then you could check your work.
 You can pause right now, and then you can check to see that we got the same answer.
 You'll probably be right and I probably made a careless mistake.
-So f of x is equal to sine of x.
+So f of x = sine of x.
 First of all, let's just figure out all of the derivatives of sine of x.
 We can already guess that it probably cycles similar to cosine of x, with slight variation.
 So what's the derivative of sine of x? Well, that's just cosine of x.
@@ -23,12 +23,12 @@ And then the cycle continues.
 So the fifth derivative is just going to be cosine of x, or just the derivative of the sine of x.
 And then the cycle continues, right? All right.
 So we know the derivatives, and we can just keep going.
-So let's evaluate the derivatives of our function of sine of x at x equals 0.
+So let's evaluate the derivatives of our function of sine of x at x = 0.
 f of 0.
 Well, that's sine of zero.
 What's sine of 0? Well, sine of 0 is 0.
-f prime of 0 is equal to cosine of 0.
-That's equal to 1.
+f prime of 0 = cosine of 0.
+That's = 1.
 The second derivative at 0, that's minus sine of 0.
 Well, sine of 0 is still 0.
 So that's 0.
@@ -40,29 +40,29 @@ This you already know.
 The fourth derivative is 0.
 Sine of 0 is 0.
 And then it starts to cycle again.
-The fifth derivative, 0 equal to 1.
+The fifth derivative, 0 = 1.
 So we start with 0, then positive 1, then 0, then minus 1, then 0, then positive 1.
 Every other number is a 0.
 Every other, I guess you could say, coefficient in the Maclaurin series is a 0.
 The coefficient when you don't include the factorial term.
 And then the ones in between oscillate between positive 1 and negative 1.
-So what would be the Maclaurin series for sine of x? The Maclaurin series representation? So we could say that sine of x And remember, I haven't proven to you that the Maclaurin series representation of sine of x or cosine of x or e to the x really is equal to those functions over the entire domain.
+So what would be the Maclaurin series for sine of x? The Maclaurin series representation? So we could say that sine of x And remember, I haven't proven to you that the Maclaurin series representation of sine of x or cosine of x or e to the x really = those functions over the entire domain.
 I might do that later.
 Frankly, I've been thinking about the proof myself.
 It hasn't been completely intuitive how to do that proof.
 Although if you test them out, it does seem to make a lot of sense.
 But you shouldn't just take my word for it.
 I'm going to look up the proof and I will prove it to you, eventually.
-But for now, you just have to take it as a bit of a leap of faith that the Maclaurin series representations just don't approximate those functions around 0, that when you take the infinite series, it actually equals the function.
+But for now, you just have to take it as a bit of a leap of faith that the Maclaurin series representations just don't approximate those functions around 0, that when you take the infinite series, it actually = the function.
 So sine of x.
-The Maclaurin series representation is going to be equal to well, f of 0, that's 0 plus f of so the first derivative, it's going to be 1 times x to the 1 over 1 factorial, which is just 1.
+The Maclaurin series representation is going to be = well, f of 0, that's 0 plus f of so the first derivative, it's going to be 1 times x to the 1 over 1 factorial, which is just 1.
 This is just 1.
 And then we have this is just plus 0 and then we have minus and now this is the third derivative so, minus 1 times x to the third over 3 factorial.
 And then you have a 0.
 Then we have a plus 1.
 And this is now the fifth derivative, so x to the fifth over five factorial.
 And we'll just keep going, but I think you see the pattern as we write and rewrite it.
-Sine of x is equal to 0, so we get x to the first, so that's just x minus x to the third over 3 factorial plus x to the fifth over 5 factorial.
+Sine of x = 0, so we get x to the first, so that's just x minus x to the third over 3 factorial plus x to the fifth over 5 factorial.
 And then you can imagine the pattern.
 We'd go minus we're just taking the odd numbers x to the seventh over 7 factorial plus x to the ninth over 9 factorial minus x to the eleventh over 11 factorial, and we'll just keep going.
 And so we'll just keep oscillating in sine that's a bit of a pun and we use all of the odd exponents.
@@ -80,7 +80,7 @@ So it's negative 1 to the 2n plus 1 times x to the 2n.
 Oh, no, no, sorry, I was right in the previous video.
 See, I'm confusing myself, because I don't count the 0 terms.
 It would probably help me to write the sigma down first.
-So this is equal to as you can see I do all of this in real time infinity from n is equal to 0.
+So this = as you can see I do all of this in real time infinity from n = 0.
 And so, the first term is positive, so it'll be negative 1 to the n, right? Because negative 1 to the 0 power is 1, right? So that's positive and then the second term is negative, then positive, negative, right? And so, the zeroth term is x, so it has to be x to the let me see 2n plus 1.
 Does that work? Right, because the first term would then be 3.
 Right.
@@ -88,7 +88,7 @@ x to the 2n plus 1 over 2n plus 1 factorial.
 It's almost easier when you just write it out like that.
 Well, that's pretty interesting.
 But what's even more interesting is if you see the similarity between the Maclaurin series representation for sine of x, and then the representation we figured out for cosine of x in the previous video.
-We figured out that cosine of x is equal to 1 minus x squared over 2 factorial plus x to the fourth over 4 factorial minus x to the sixth over six factorial plus x to the eighth over 8 factorial.
+We figured out that cosine of x = 1 minus x squared over 2 factorial plus x to the fourth over 4 factorial minus x to the sixth over six factorial plus x to the eighth over 8 factorial.
 So they're almost the opposite, right? They almost complement each other.
 The cosine, these are all of the even exponents, right? And even factorials.
 And sine is all of the odd exponents, because this is x to the 0, right? So that's why you get 1 here.

@@ -1,18 +1,18 @@
 Transcript for: Gradient 1 | Partial derivatives, gradient, divergence, curl | Multivariable Calculus | 
 Let's learn a little bit about the gradient, and we'll use the same function we've been using since we're pretty familiar with it's graph and it's partial derivatives.
-So let's say that f of x y is equal to x squared plus x times y plus y squared.
+So let's say that f of x y = x squared plus x times y plus y squared.
 Now we're going to take the gradient of this, and then I'll give you a little bit of intuition on what a gradient is.
 We're going to take the gradient in two-dimensional space, and you'll see what that means in a second.
 You can extend this to any dimension.
-So the gradient that we use this vector differential operator this upside down triangle the gradient of f is equal to the partial of f in the x direction times the unit vector i which is the unit vector in the x direction so it gives the magnitude of the slope and the x direction, and then it points the vector in that direction plus the partial with respect to y in the j direction.
+So the gradient that we use this vector differential operator this upside down triangle the gradient of f = the partial of f in the x direction times the unit vector i which is the unit vector in the x direction so it gives the magnitude of the slope and the x direction, and then it points the vector in that direction plus the partial with respect to y in the j direction.
 And obviously if there's a function of more variables you could keep going and you'd multiply the magnitude of the derivative in each of those dimension's directions times the unit vector in that dimension.
-Well what does this mean? And another way to view it, you could have also written this as the gradient of f is equal to the partial with respect to x of f of x y and then all of that in the i direction.
+Well what does this mean? And another way to view it, you could have also written this as the gradient of f = the partial with respect to x of f of x y and then all of that in the i direction.
 This is just different notation.
 Plus the partial with respect to y times f of x y.
 Not times, operated on f of x y.
 So the partial of f of x y with respect to y times the j unit vector.
 And because of this notation, a lot of people view this delta operator and actually it's pretty consistent when we learn about the divergence and the curl a lot of people view this delta operator, they actually define it.
-They say that is equal to the partial with respect to x in the i direction plus the partial with respect to y in the j direction.
+They say that = the partial with respect to x in the i direction plus the partial with respect to y in the j direction.
 And then if you wanted to do it into three space that's not going to apply to our problem because we only care about two dimensions right now.
 And you'll see what I mean.
 Because even though we're applying it to a three-dimensional surface, but then you can do the partial with respect to z times the k vector.

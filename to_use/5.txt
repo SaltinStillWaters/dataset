@@ -1,13 +1,14 @@
 Transcript for: Limit examples (part 3) | Limits | Differential Calculus | 
+
 Let's do some more limit examples.
 So let's get another problem.
-If I had the limit as x approaches 3 of, let's say, x squared minus 6x plus 9 over x squared minus 9.
+If I had the limit as <EXPRESSION>> approaches <EXPRESSION>> of, let's say, <EXPRESSION>>.
 So the first thing I like to do whenever I see any of these limits problems is just substitute the number in and see if I get something that makes sense, and then we'd be done.
 Well, usually we'd be done.
 I don't want to make these sweeping statements.
 If the function is continuous, we'd be done.
-But if we put the 3 in the numerator, we get 3 squared, which is 9, minus 18 plus 9.
-So that equals 0.
+But if we put the <EXPRESSION>> in the numerator, we get <EXPRESSION>>, which is <EXPRESSION>>, <EXPRESSION>>.
+So <EXPRESSION>> equals <EXPRESSION>>.
 And the denominator also let's see, 3 squared minus 9, that also equals 0.
 So we don't like having 0/0.
 My pen tool is malfunctioning again.

@@ -10,7 +10,7 @@ This is why you don't see many surface integrals actually get done, or many exam
 Let's take the cross product of these two fellows.
 So the partial of r with respect to s, crossed with in magenta the partial of r with respect to t.
 This will be a little bit of review of cross products for you.
-You might remember this is going to be equal to the determinant.
+You might remember this is going to be = the determinant.
 I'm going to write the unit vectors up here.
 The first row is i, j, and k.
 And then the next 2 rows are going to be let me do that in that yellow color the next 2 rows are going to be the components of these guys.
@@ -35,7 +35,7 @@ Make sure we know that these are separate terms.
 And finally, we don't have to copy and paste it, but just since we did for all of the other terms, I'll do it for that 0, as well.
 So the cross product of these is literally the determinant of this matrix right here.
 And so, just as a bit of a refresher of taking determinants, this is going to be i times the subdeterminant right here, if you cross out this column and that row.
-So it's going to be equal to i you're not used to seeing the unit vector written first, but we can switch the order later times i times the submatrix right here.
+So it's going to be = i you're not used to seeing the unit vector written first, but we can switch the order later times i times the submatrix right here.
 If you cross out this column and that row.
 So it's going to be this term times 0 which is just 0 minus this term times that term.
 So minus this term times this term- the negative signs are going to cancel out, so this'll be positive.
@@ -102,7 +102,7 @@ And this term right here, we can if we just focus on that term and this is all k
 If we just focus on that term, this term right here can be rewritten as a sine of s if we factor that out times sine squared of t plus cosine squared of t times our unit vector, k.
 Right? I just factored out an a sine of s from both of these terms.
 And this is our most fundamental trig identity from the unit circle.
-This is equal to 1.
+This = 1.
 So this last term simplifies to a sine of s times k.
 So, so far we've gotten pretty far.
 We were able to figure out the cross product of these 2, I guess, partial derivatives of the vector valued, or our original parameterization there.
@@ -110,7 +110,7 @@ We were able to figure out what this thing right here, before we take the magnit
 Let me rewrite it well, I don't need to rewrite it.
 You know it.
 Well, I'll rewrite it.
-So that's equal to I'll rewrite it neatly and we'll use this in the next video b plus a cosine of s times open bracket a cosine of s sine of t times i plus switch back to the blue plus a cosine of s cosine of t times j plus switch back to the blue this thing plus this simplified nicely a sine of s times k.
+So that's = I'll rewrite it neatly and we'll use this in the next video b plus a cosine of s times open bracket a cosine of s sine of t times i plus switch back to the blue plus a cosine of s cosine of t times j plus switch back to the blue this thing plus this simplified nicely a sine of s times k.
 Times the unit vector k.
 This right here is this expression right there.
 And I'll finish this video, since I'm already over 10 minutes.

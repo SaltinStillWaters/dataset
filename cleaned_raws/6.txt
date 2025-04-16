@@ -12,11 +12,11 @@ Not that There's no x.
 It's a z.
 Of z squared plus 2z minus 8.
 All of that over z to the fourth minus 16.
-So the first thing when you want to do when you try a limit problem is, well you just try to substitute the value into Maybe there's no problem when z equals 2 and you just evaluate the function at z equals 2.
+So the first thing when you want to do when you try a limit problem is, well you just try to substitute the value into Maybe there's no problem when z = 2 and you just evaluate the function at z = 2.
 If it's a continuous function, then the limit as z approaches 2 is going to be the function at 2.
 But you immediately see a problem if you put 2 right here 2 to the fourth minus 16 and you get a 0 in the denominator, which is undefined, so we have to figure out some way to get around that.
 And nine times out of 10, when you see a problem like this, the solution, because both the numerator and the denominator look factorable, is to factor the numerator and the denominator.
-So this is equal to the limit as z approaches 2.
+So this = the limit as z approaches 2.
 What's the numerator factored? Let's see.
 Something when you add two numbers, you get positive 2, and you multiply them, you get minus 8.
 So it's probably plus 4 and minus 2, right? So this is going to be x plus No.
@@ -36,12 +36,12 @@ And then, of course, this also has the form a squared plus b squared, right? So 
 Well, our factoring paid off.
 We see a term in the numerator and the denominator that are the same.
 And not only are they the same, but they This is the term that was giving us the problems, right? Because you put a 2 in here, you got a 0.
-So let's assume that we're not evaluating it at z equals 2.
+So let's assume that we're not evaluating it at z = 2.
 And so, for all other values, we can divide those because those are going to be the same values.
-And then what are we left with? This is equal to the limit and I've change colors arbitrarily as z approaches 2 of z plus 4 over z squared plus 4 times z plus 2.
-Which is equal what? That's equal to 6 over what's 2 squared plus 4? Is 8.
+And then what are we left with? This = the limit and I've change colors arbitrarily as z approaches 2 of z plus 4 over z squared plus 4 times z plus 2.
+Which is = what? That's = 6 over what's 2 squared plus 4? Is 8.
 And then 2 plus 2 is 4.
-6 over 12 is equal to 1/2.
+6 over 12 = 1/2.
 There you go.
 I thought that was a pretty interesting problem.
 Let's do another one.
@@ -100,7 +100,7 @@ And remember: anything you do in the numerator, you have to do in the denominato
 Otherwise you're changing the value.
 So times 1 over x over 1 over x.
 I'm just dividing the numerator and the denominator by x.
-So this is equal to the limit as x approaches infinity of What's That's going to be 4 plus 1 over x over Let me ask you a question.
+So this = the limit as x approaches infinity of What's That's going to be 4 plus 1 over x over Let me ask you a question.
 What is 1 over x times this thing? What is This is a bit of an algebra review, but 1 over x.
 What's 1 over x times x squared plus 4x plus 1? I'm just doing a little on the side here.
 Well if we take the 1 over x and we put it into the radical sign, it becomes 1 over x squared, right? This is the same thing as You can say 1 squared over x squared, but 1 over x squared.
@@ -116,7 +116,7 @@ But when you put it under the radical sign, it becomes 1 over x squared.
 Let me put it this way.
 1 over x times the square root of a.
 That's the same thing.
-That equals the square root of 1 squared over x squared times a, right? And this is just 1 over x squared.
+That = the square root of 1 squared over x squared times a, right? And this is just 1 over x squared.
 So that's the property, or the algebra that we're using.
 So anyway, we divide all of this by x squared.
 So that becomes a 1 plus 4 over x plus 1 over x squared.
@@ -125,9 +125,9 @@ So that just becomes a 1.
 So now what's the limit as x approaches infinity? Well as x approaches infinity, this term right here goes to 0, right? 1 over infinity is 0.
 This term right here goes to 0.
 This term right here goes to 0.
-And so what are we left with? This is equal to 4 over the square root of 1 plus 1.
+And so what are we left with? This = 4 over the square root of 1 plus 1.
 Well that's just 1.
-So that equals 4 over 2, which is equal to 2.
+So that = 4 over 2, which = 2.
 There you go.
 Now let's do one more problem.
 This is the third one she'd given me.
@@ -149,10 +149,10 @@ You would have thought that the cosecant is 1 over cosine.
 But it's not.
 It's 1 over sine.
 So I remember that it's not intuitive.
-And cotangent of 2x is equal to 1 over tangent of 2x.
+And cotangent of 2x = 1 over tangent of 2x.
 And tangent is sine over cosine, so cotangent's the opposite.
-And so that equals cosine of 2x over sine of 2x, right? OK.
-So what is this equal to? So this is going to be the limit as x approaches 0.
+And so that = cosine of 2x over sine of 2x, right? OK.
+So what is this =? So this is going to be the limit as x approaches 0.
 Cotangent of 2x, we said, was cosine of 2x over sine of 2x.
 And then it's going to be all of that over the cosecant of x.
 Well that's just 1 over sine of x.
@@ -171,15 +171,15 @@ Because really, this is just We haven't even done any manipulation yet.
 This is the same thing as this.
 And if you put the 0 right here, you get undefined.
 So what can we do? Well this is where your break out the trig or you brush off your memory.
-What is the sine of 2x equal? And this is your double One of the double angle formulas.
-Sine of 2x is equal to 2 sine of x cosine of x.
+What is the sine of 2x =? And this is your double One of the double angle formulas.
+Sine of 2x = 2 sine of x cosine of x.
 So if you know that, then you've gone a long way because then it becomes pretty simple to simplify.
 So it becomes 2 sine of x cosine of x.
 And if we assume that x isn't 0, it's just approaching 0, we can divide the numerator and the denominator by sine of x.
 And what are we left with? We're left with the limit as x approaches 0 of cosine of 2x over 2 cosine of x.
 Well what's cosine of 0? Cosine of 0 is 1, right? So cosine of 2 times 0, which is 0, that's also 1.
-So that is equal to 1 over right, cosine of 0 is 1 over 2 times 1.
-So it equals 1/2.
+So that = 1 over right, cosine of 0 is 1 over 2 times 1.
+So it = 1/2.
 There you go.
 I think those are three fairly meaty limit problems.
 And if you know that, you're probably prepared for something that your calculus teacher might throw at you.

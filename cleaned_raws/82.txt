@@ -7,22 +7,22 @@ So let's say that I want to actually, let me do something different.
 Let me draw here.
 So that's my y-axis.
 This is my x-axis.
-Now let me draw the function y is equal to x squared.
-And we know that that could be written as y is equal to x squared, or we could write that as x is equal to square root of y, depending on what we want to be a function of what.
+Now let me draw the function y = x squared.
+And we know that that could be written as y = x squared, or we could write that as x = square root of y, depending on what we want to be a function of what.
 This is the y-axis.
 This is the x-axis.
-Let's say I also have the line y equals 2.
+Let's say I also have the line y = 2.
 Goes over what I just wrote.
-y equals 2.
+y = 2.
 Now this problem is going to be slightly different then what we've done so far.
 I'm going to take a rotation, but instead of taking a rotation around the y or the x-axis, I'm going to take a rotation around another line.
-So let's say I want to take a rotation between x is equal to 0.
+So let's say I want to take a rotation between x = 0.
 Actually let me do something arbitrary.
-Let me say between x is equal to 1, so that's that point, and x is equal to 2.
+Let me say between x = 1, so that's that point, and x = 2.
 That's where they intersect.
 This is the point right here, this is 2, 2.
 I'm sorry, no, 2, 4.
-Because y is equal to x squared.
+Because y = x squared.
 So this is 2, 4.
 This is the point 4.
 So what point is this.
@@ -30,15 +30,15 @@ This is the point 1, right? So our y values go from 4 to 1, our x values go from
 And that makes sense, because y is x squared.
 And so if we were to kind of take the area that we're going to rotate, and I haven't told you what we're going to rotate it around yet, and this might prove to be shocking to you.
 So this is the area we're going to rotate.
-Instead of rotating it around the y-axis, I want to rotate it around the line y is equal to minus 2.
-So if that's 2, y equals minus 2 should be roughly here.
+Instead of rotating it around the y-axis, I want to rotate it around the line y = minus 2.
+So if that's 2, y = minus 2 should be roughly here.
 So I'm going to rotate this area around this line.
 So what's it going to look like? It's going to be a fairly big ring.
 Like if I were to try to draw it let me see if I can even make an attempt.
 Once again this is always the hardest part, just drawing what I'm trying to rotate.
 I'll try to do it from an upward perspective.
 So that's kind of the inner loop, and then there will be an outer loop.
-The top is flat right, because it's defined by y is equal to 4, so that's the top.
+The top is flat right, because it's defined by y = 4, so that's the top.
 And the inside is also going to be a hard edge.
 But then the outside is going to curve inward.
 I don't know if you see what I'm saying, because this is the outside, it's curving inward.
@@ -62,7 +62,7 @@ So the shell method we're going to take slivers like this, where the width of th
 I could draw it really big.
 So that's our direct angle, is going to be dx.
 What's the height going to be of the sliver? Well it's going to be the top function minus the bottom function.
-It's going to be y equals 4 minus x squared.
+It's going to be y = 4 minus x squared.
 So this is going to be 4 minus x squared, the height at any point right here.
 And then if I were to do the shell just like we did before let me see if I can draw a decent shell.
 I think I'm getting better at this.
@@ -74,11 +74,11 @@ So it's going to be essentially 2 plus x.
 That's going to be the radius at any point.
 And this is where we diverge from what we've done before.
 Before the radius was just x, but now it's 2 plus x.
-So what's the circumference of each shell going to be? Well circumference is equal to 2 pi r, and our radius is 2 plus x.
-So it's 2 pi times 2 plus x, which equals 4 pi plus 4 pi plus 2 pi x.
+So what's the circumference of each shell going to be? Well circumference = 2 pi r, and our radius is 2 plus x.
+So it's 2 pi times 2 plus x, which = 4 pi plus 4 pi plus 2 pi x.
 That's the circumference.
 And then what's the surface area of this? Well it's going to be the circumference times the height.
-So surface area is equal to that.
+So surface area = that.
 The circumference 4 pi plus 2 pi x, all of that times the height times 4 minus x squared.
 And let's see if we can foil this out or distribute this out.
 So 4 pi times 4 is 16 pi.
@@ -88,7 +88,7 @@ So that's the surface area of each ring.
 And then if we want the volume of each shell, essentially we multiply it times the width, the dx.
 So that's the volume of each shell, and if we want the volume of all the shells, we sum them up.
 So we take the integral, that's an integral sign, and I'm running out of space like I always do.
-And where did I take the integral from? I take the integral from x is equal to 1 to x is equal to 2.
+And where did I take the integral from? I take the integral from x = 1 to x = 2.
 From 1 to 2.
 That's probably too small for you to read.
 So let's see if we can take the antiderivative of this.

@@ -10,7 +10,7 @@ And all you have to realize now is if we took the derivative of a polynomial, it
 it actually it turns out is the same way the other way around.
 The antiderivative of this entire expression is just the sum of the antidervatives of each of the individual terms.
 So we can just take the [? integers ?] of each term and we'll get the answer.
-So what does this equal? Well in this case 3x to the minus 5 power.
+So what does this =? Well in this case 3x to the minus 5 power.
 So we take the exponent, we add 1 to the exponent, so now we get x to the negative 4, and then we multiply the coefficient times 1 over the new exponent.
 So 1 over the new exponent is minus 1/4.
 So 3 times minus 1/4 is minus 3/4.
@@ -66,7 +66,7 @@ And if you took the derivative, well you multiply the 0 times c and you get 0.
 Well, you might get minus 1 depending on how you're doing it.
 But that's actually kind of an interesting question.
 OK I'll stop digressing.
-But you get a 0 here, and if you simplify that, that just equals 3x to the minus 5 minus 7x to the third plus 3 minus x to the ninth.
+But you get a 0 here, and if you simplify that, that just = 3x to the minus 5 minus 7x to the third plus 3 minus x to the ninth.
 Think we have time for one more problem like this.
 I think you probably got this.
 This is probably one of the more straightforward things you'll learn in mathematics.

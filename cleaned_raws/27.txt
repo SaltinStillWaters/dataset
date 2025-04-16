@@ -9,7 +9,7 @@ That's just a review.
 So let's take the derivative of this.
 I think I'm going to need a lot of space for this.
 I'm going to try to do it as neatly as possible.
-So the derivative of the natural log of x equals well let's just take the definition of a derivative, right? We just take the slope at some point and find the limit as we take the difference between the two points to 0.
+So the derivative of the natural log of x = well let's just take the definition of a derivative, right? We just take the slope at some point and find the limit as we take the difference between the two points to 0.
 So let's take the limit as delta x approaches 0 of f of x plus delta x.
 So I'm going to take the limit of this whole thing.
 The natural log ln of x plus delta x right, that's like one point that I'm going to take evaluate the function minus the ln of x.
@@ -17,19 +17,19 @@ All of that over delta x.
 And if you remember from the derivative videos, this is just the slope, and I'm just taking the limit as I find the slope between a smaller and a smaller distance.
 Hopefully you remember that.
 So let's see if we can do some logarithm properties to simplify this a little bit.
-Hopefully you remember and if you don't, review the logarithm properties but remember that log of a minus log of b is equal to log of a over b, and that comes out of the fact that logarithm expressions are essentially exponents, so they follow the exponent rules.
+Hopefully you remember and if you don't, review the logarithm properties but remember that log of a minus log of b = log of a over b, and that comes out of the fact that logarithm expressions are essentially exponents, so they follow the exponent rules.
 And if that doesn't make sense to you, you should review those as well.
 But let's apply this logarithm property to this equation.
 So let me rewrite the whole thing, and I'm going to keep switching colors to keep it from getting monotonous.
 So we have the limit as delta x approaches 0 of this big thing.
 Let's see.
-So log of a minus b equals log a over b, so this top, the numerator, will equal the natural log of x plus delta x over x.
+So log of a minus b = log a over b, so this top, the numerator, will = the natural log of x plus delta x over x.
 Right? a b a/b, all of that over delta x.
-And so that equals the limit as delta x approaches 0 I think it's time to switch colors again delta x approaches 0 of well let me just write this 1 over delta x out in front.
+And so that = the limit as delta x approaches 0 I think it's time to switch colors again delta x approaches 0 of well let me just write this 1 over delta x out in front.
 So this is 1 over delta x, and we're going to take the limit of everything.
 ln x divided by x is 1 plus delta x over x.
 Fair enough.
-Now I'm going to throw out another logarithm property, and hopefully you remember that and let me put the properties separate so you know it's not part of the proof that a log b is equal to log of b to the a.
+Now I'm going to throw out another logarithm property, and hopefully you remember that and let me put the properties separate so you know it's not part of the proof that a log b = log of b to the a.
 And that comes from when you take something to an exponent, and then to another exponent you just have to multiply those two exponents.
 I don't want to confuse you, but hopefully you should remember this.
 So how does apply here? Well this would be a log b.
@@ -39,9 +39,9 @@ And remember all this is the natural log of this entire thing.
 And then we're going to take the limit as delta x approaches 0.
 If you've watched the compound interest problems and you know the definition of e, I think this will start to look familiar.
 But let me make a substitution that might clean things up a little bit.
-Let me make the substitution, let me call it n no, no, no, let me call u is equal to delta x over x.
-And then if that's true then we can multiply both sides by x and we get xu is equal to delta x.
-Or we would also know that 1 over delta x is equal to 1 over xu.
+Let me make the substitution, let me call it n no, no, no, let me call u = delta x over x.
+And then if that's true then we can multiply both sides by x and we get xu = delta x.
+Or we would also know that 1 over delta x = 1 over xu.
 These are all equivalent.
 So let's make the substitution.
 So if we're taking the limit is delta x approaches 0, in this expression if delta x approaches 0, what does u approach? u approaches 0.
@@ -49,8 +49,8 @@ So delta x approaching 0 is the same exact thing as taking the limit as u approa
 So we can write this as the limit as u approaches 0 of the natural log of 1 plus well we did the substitution, delta x over x is now u to the 1 over delta x, and that same substitution told us that's the same thing as one over xu.
 Remember we're taking the natural log of everything.
 And we know this is an exponent property, which I'll now do in a different color.
-We know that a to the bc is equal to a to the b to the c power.
-So that tells us that this me is equal to the limit as u approaches 0 of the natural log of 1 plus u to the 1/u, because this is one over xu, right? 1/u, and then all of that to the 1/x.
+We know that a to the bc = a to the b to the c power.
+So that tells us that this me = the limit as u approaches 0 of the natural log of 1 plus u to the 1/u, because this is one over xu, right? 1/u, and then all of that to the 1/x.
 And how did I do that? Just from this exponent property, right? If I were to simplify this, I would have 1/x times 1/u, and that's where I get this 1 over xu.
 Well then we can just do this logarithm property in reverse.
 If I have b to the a I can put that a out front.
@@ -68,7 +68,7 @@ And by now hopefully you would recognize that this is the definition.
 This limit comes to e, if you remember anything from compound interest.
 You might remember it as the limit as n approaches infinity of 1 plus 1 over n to the n.
 But these things are equivalent.
-If you just took the substitution u is equal to 1/n, you would get this.
+If you just took the substitution u = 1/n, you would get this.
 You would just get this.
 So this expression right here is e That expression is e.
 So we're getting close.
@@ -76,11 +76,11 @@ So this whole thing is equivalent to 1/x times the natural log, and this we know
 So the limit as u approaches 0 of 1 plus u to the 1/u.
 That is e.
 And what is the natural log? Well it's the log base e.
-So you know this is equal to 1/x times the log base e of e.
+So you know this = 1/x times the log base e of e.
 So that's saying e to what power is e.
-Well e to the first power is e, right? This is equal to 1.
-So 1 times 1/x is equal to 1/x.
+Well e to the first power is e, right? This = 1.
+So 1 times 1/x = 1/x.
 There we have it.
-The derivative of the natural log of x is equal to 1/x, which I find kind of neat, because all of the other exponents lead to another exponent.
-But all of a sudden in the mix here you have the natural log and the derivative of that is equal to x to the negative 1 or 1/x.
+The derivative of the natural log of x = 1/x, which I find kind of neat, because all of the other exponents lead to another exponent.
+But all of a sudden in the mix here you have the natural log and the derivative of that = x to the negative 1 or 1/x.
 Fascinating.

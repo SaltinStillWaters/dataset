@@ -6,8 +6,8 @@ How do we take the derivative? Well, what's the classic definition of the deriva
 All of that over delta x.
 Now that we know the binomial theorem we can figure out what the expansion of x plus delta x is to the nth power.
 And if you don't know the binomial theorem, go to my pre-calculus play list and watch the videos on the binomial theorem.
-The binomial theorem tells us that this is equal to I'm going to need some space for this one the limit as delta x approaches zero.
-And what's the binomial theorem? This is going to be equal to I'm just going to do the numerator x to the n plus n choose 1.
+The binomial theorem tells us that this = I'm going to need some space for this one the limit as delta x approaches zero.
+And what's the binomial theorem? This is going to be = I'm just going to do the numerator x to the n plus n choose 1.
 Once again, review the binomial theorem if this is looks like latin to you and you don't know latin.
 n choose 1 of x to the n minus 1 delta x plus n choose 2 x to the n minus 2, that's x n minus 2, delta x squared.
 Then plus, and we have a bunch of the digits, and in this proof we don't have to go through all the digits but the binomial theorem tells us what they are and, of course, the last digit we just keep adding is going to be 1 it would be n choose n which is 1.
@@ -22,7 +22,7 @@ Let's see if we can simplify.
 First of all we have an x to the n here, and at the very end we subtract out an x to the n, so these two cancel out.
 If we look at every term here, every term in the numerator has a delta x, so we can divide the numerator and the denominator by delta x.
 This is the same thing as 1 over delta x times this whole thing.
-So that is equal to the limit as delta x approaches zero of, so we divide the top and the bottom by delta x, or we multiply the numerator times 1 over delta x.
+So that = the limit as delta x approaches zero of, so we divide the top and the bottom by delta x, or we multiply the numerator times 1 over delta x.
 We get n choose 1 x to the n minus 1.
 What's delta x divided by delta x, that's just 1.
 Plus n choose 2, x to the n minus 2.
@@ -40,14 +40,14 @@ This first term has no delta x in it, but every other term does.
 Every other term, even after we divided by delta x has a delta x in it.
 So that's a zero.
 Every term is zero, all of the other n minus 1 terms, they're all zeros.
-All we're left with is that this is equal to n choose 1 of x the n minus 1.
-And what's n choose 1? That equals n factorial over 1 factorial divided by n minus 1 factorial times x to the n minus 1.
+All we're left with is that this = n choose 1 of x the n minus 1.
+And what's n choose 1? That = n factorial over 1 factorial divided by n minus 1 factorial times x to the n minus 1.
 1 factorial is 1.
 If I have 7 factorial divided by 6 factorial, that's just 1.
 Or if I have 3 factorial divided by 2 factorial, that's just 3, you can work it out.
 10 factorial divided by 9 factorial that's 10.
-So n factorial divided by n minus 1 factorial, that's just equal to n.
-So this is equal to n times x to the n minus 1.
+So n factorial divided by n minus 1 factorial, that's just = n.
+So this = n times x to the n minus 1.
 That's the derivative of x to the n.
 n times x to the n minus 1.
 We just proved the derivative for any positive integer when x to the power n, where n is any positive integer.

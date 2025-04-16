@@ -11,7 +11,7 @@ And I said, great.
 I will.
 And so that's what I'm doing right here.
 And it's super useful, because what it does is and we could have calculated a lot of this on our own, or even done it on a graphic calculator.
-But you usually can do it just with one step on WolframAlpha is see how well we can approximate sine of x using you could call it a Maclaurin series expansion, or you could call it a Taylor series expansion at x is equal to 0 using more and more terms.
+But you usually can do it just with one step on WolframAlpha is see how well we can approximate sine of x using you could call it a Maclaurin series expansion, or you could call it a Taylor series expansion at x = 0 using more and more terms.
 And having a good feel for the fact that the more terms we add, the better it hugs the sine curve.
 So this over here in orange is sine of x.
 That should hopefully look fairly familiar to you.
@@ -21,9 +21,9 @@ They actually calculate the factorials.
 3 factorial is 6, 5 factorial is 120, so on and so forth.
 But what's interesting here is you can pick how many of the approximations you want to graph.
 And so what they did is if you want just one term of the approximation so if we didn't have this whole thing.
-If we just said that our polynomial is equal to x, what does that look like? Well, that's going to be this graph right over here.
+If we just said that our polynomial = x, what does that look like? Well, that's going to be this graph right over here.
 They tell us which term how many terms we used by how many dots there are right over here, which I think is pretty clever.
-So this right here, that is the function p of x is equal to x.
+So this right here, that is the function p of x = x.
 And so it's a very rough approximation, although for sine of x, it doesn't do a bad job.
 It hugs the sine curve right over there.
 And then it starts to veer away from the sine curve again.

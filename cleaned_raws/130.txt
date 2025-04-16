@@ -1,7 +1,7 @@
 Transcript for: Introduction to the line integral | Multivariable Calculus | 
 If we're just dealing with two dimensions, and we want to find the area under a curve, we have good tools in our toolkit already to do it, and I'll just remind us of our tools.
 so let's say, that's the x-axis, that's the y-axis, let me draw some arbitrary function right here, and that's my function f of x.
-And let's say we want to find the area between x is equal to a, so that's x equal to a, and x is equal to b.
+And let's say we want to find the area between x = a, so that's x = a, and x = b.
 We saw this many, many, many videos ago.
 The way you can think about it, is you take super small widths of x, or super small changes in x.
 We could call them delta x's, but because they're so small, we're going to call them a dx.
@@ -16,7 +16,7 @@ And the notations that we use, they would go from a b.
 And we've done many videos on how do you evaluate these things.
 I just want to remind you, conceptually, what this is saying.
 This is conceptually saying, let's take a small change in x, multiply it times the height at that point, and you're going to have an infinite number of these, because these x's are super small, they're infinitely small, so you're going to have an infinite number of those.
-So take an infinite sum of all of those, from x is equal to a to x is equal to b.
+So take an infinite sum of all of those, from x = a to x = b.
 And that's just our standard definite integral.
 Now what I want to do in this video is extend this, broaden this a little bit, to solve, I guess it maybe could say a harder or a broader class of problems.
 Let's say that we are, let's go to three dimensions now.
@@ -28,17 +28,17 @@ You can imagine if I just pushed on this and knocked it down.
 So that's the y-axis, and that is my x-axis right there.
 And let's say I some path in the x-y plane.
 And in order to really define a path in the x-y plane, I'll have to parameterize both the x and y variables.
-So let's say that x is equal to, let me switch colors.
+So let's say that x =, let me switch colors.
 I'm using that orange too much.
-Let's say that x is is equal to some function of some parameter t, and let's say y is equal to some other function of that same parameter t, and let's say we're going to start, we're going to have t go from, t is going to be greater than or equal to a, and then less than or equal to b.
+Let's say that x is = some function of some parameter t, and let's say y = some other function of that same parameter t, and let's say we're going to start, we're going to have t go from, t is going to be greater than or = a, and then less than or = b.
 Now this will define a path in the x-y plane, and if this seems confusing, you might want to review the videos on parametric equations.
-But essentially, when t is equal to a, you're going to have x is equal to, so t is equal to a, you're going to have x is equal to g of a, and you're going to have y is equal to h of a.
+But essentially, when t = a, you're going to have x =, so t = a, you're going to have x = g of a, and you're going to have y = h of a.
 So you're going to have this point right here, so maybe it might be, I don't know, I'll just draw a random point here.
-When t is equal to a, you're going to plot the coordinate point g of a.
+When t = a, you're going to plot the coordinate point g of a.
 That's going to be our x-coordinate.
 This is g of a, right here.
 And then our y-coordinate is going to be h of a.
-Right? You just put t is equal to a in each of these equations, and then you get a value for x and y.
+Right? You just put t = a in each of these equations, and then you get a value for x and y.
 So this coordinate right here would be h of a.
 And then, you would keep incrementing t larger and larger, until you get to b, but you're going to get a series of points that are going to look something like that.
 That right there is a curve, or it's a path, in the x-y plane.
@@ -94,11 +94,11 @@ Let's make a little change in distance of our curve.
 Let's call that ds.
 That's a little change in distance of my curve, right there.
 And if I multiply that change in distance of the curve times f of x y at that point, I'm going to get the area of that little rectangle right there.
-Right? So if I take the ds, my change in my, you can imagine the arc length of this curve at that point, so let me write, you know, ds is equal to super small change in arc length of our path, or of our curve.
+Right? So if I take the ds, my change in my, you can imagine the arc length of this curve at that point, so let me write, you know, ds = super small change in arc length of our path, or of our curve.
 That's our ds.
 So you can imagine, the area of that little rectangle right there, along my curvy wall, is going to be ds, I'll make it a capital S, ds times the height at that point.
 Well, that's f of x y.
-And then if I take the sum, because these are infinitely narrow, these ds's have infinitely small width, if I were take the infinite sum of all of those guys, from t is equal to a to t is equal to b, right, from t is equal to a, I keep taking the sum of those rectangles, to t is equal to b, right there, that will give me my area.
+And then if I take the sum, because these are infinitely narrow, these ds's have infinitely small width, if I were take the infinite sum of all of those guys, from t = a to t = b, right, from t = a, I keep taking the sum of those rectangles, to t = b, right there, that will give me my area.
 I'm just using the exact same logic as I did up there.
 I'm not being very mathematically rigorous, but I want to give you the intuition of what we're doing.
 We're really just bending the base of this thing to get a curvy wall instead of a straight, direct wall like we had up here.
@@ -113,7 +113,7 @@ So if I were to reflip the x-y axis like that, actually, let me do that with tha
 So that's my y-axis, that is my x-axis.
 And so this path right here, if I were to just draw it straight up like this, it would look something like this.
 Right? That's my path, my arc.
-You know, this is when t is equal to a, so this is t is equal to a, this is t is equal to b.
+You know, this is when t = a, so this is t = a, this is t = b.
 Same thing, I just kind of picked it back up so you can visualize it.
 And we say that we have some change in arc length, let's say, let me switch colors.
 Let's say that this one right here.
@@ -121,15 +121,15 @@ Let's say that's some small change in arc length, and we're calling that ds.
 Now, is there some way to relate ds to infinitely small changes in x or y? Well, if we think about it, if we really and this is all a little bit hand-wavy, I'm not being mathematically rigorous, but I think it'll give you the correct intuition if you imagine this is, you can figure out the length of ds if you know the length of these super small changes in x and super small changes in y.
 So if this distance right here is ds, infinitesimally small change in x, this distance right here is dy, infinitesimally small change in y, right? Then we could figure out ds from the Pythagorean Theorem.
 You can say that ds is going to be, it's the hypotenuse of this triang.
-e It's equal to the square root of dx squared plus dy squared.
+e It's = the square root of dx squared plus dy squared.
 So that seems to make things a little bit, you know, we can get rid of the ds all of a sudden.
 So let's rewrite this little expression here, using this sense of what ds, is really the square root of dx squared plus dy squared.
 And I'm not being very rigorous, and actually it's very hard to be rigorous with differentials, but intuitively I think it makes a lot of sense.
-So we can say that this integral, the area of this curvy curtain, is going to be the integral from t is equal to a to t is equal to b of f of x y, instead of writing ds, we can write this, times the square root of dx squared plus dy squared.
+So we can say that this integral, the area of this curvy curtain, is going to be the integral from t = a to t = b of f of x y, instead of writing ds, we can write this, times the square root of dx squared plus dy squared.
 Now we at least got rid of this big capital S, but we still haven't solved the problem of, how do you solve something, you know, an integral, a definite integral that looks like this? We have it in terms of t here, but we only have it in terms of x's and y's here.
 So we need to get everything in terms of t.
 Well, we know x and y are both functions of t, so we can actually rewrite it like this.
-We can rewrite it as from t is equal to a, to t is equal to b.
+We can rewrite it as from t = a, to t = b.
 And f of x y, we can write it, f is a function of x, which is a function of t, and f is also a function of y, which is also a function of t.
 So you give me a t, I'll be able to give you an x or y, and once you give me an x or y, I can figure out what f is.
 So we have that, and then we have this part right here.
@@ -148,17 +148,17 @@ If we're to bring in this part inside of the square root sign, right, so let me 
 This is the same thing as 1 over dt times the square root of dx squared plus dy squared, and then times that dt.
 Right? I just wanted to write it this way to show you I'm just multiplying by 1.
 And here, I'm just taking this dt, writing it there, and leaving this over here.
-And now if I wanted to bring this into the square root sign, this is the same thing, this is equal to, and I'll do it very slowly, just to make sure, I'll allow you to believe that I'm not doing anything shady with the algebra.
+And now if I wanted to bring this into the square root sign, this is the same thing, this =, and I'll do it very slowly, just to make sure, I'll allow you to believe that I'm not doing anything shady with the algebra.
 This is the same thing as the square root of 1 over dt squared, let me make the radical a little bit bigger, times dx squared plus dy squared, and all of that times dt, right? I didn't do anything, you could just take the square root of this and you'd get 1 over dt.
-And if I just distribute this, this is equal to the square root, and we have our dt at the end, of dx squared, or we could even write, dx over dt squared, plus dy over dt squared.
+And if I just distribute this, this = the square root, and we have our dt at the end, of dx squared, or we could even write, dx over dt squared, plus dy over dt squared.
 Right? dx squared over dt squared is just dx over dt squared, same thing with the y's.
 And now all of a sudden, this starts to look pretty interesting.
 Let's substitute this expression with this one.
 We said that these are equivalent.
 And I'll switch colors, just for the sake of it.
 So we have the integral.
-From t is equal to a.
-Let me get our drawing back, if I from t is equal to a to t is equal to b of f of x of t times, or f of x of t and f of, or and y of t, they're both functions of t, and now instead of this expression, we can write the square root of, well, what's dx, what's the change in x with respect to, whatever this parameter is? What is dx dt? dx dt is the same thing as g prime of t.
+From t = a.
+Let me get our drawing back, if I from t = a to t = b of f of x of t times, or f of x of t and f of, or and y of t, they're both functions of t, and now instead of this expression, we can write the square root of, well, what's dx, what's the change in x with respect to, whatever this parameter is? What is dx dt? dx dt is the same thing as g prime of t.
 Right? x is a function of t.
 The function I wrote is g prime of t.
 And then dy dt is same thing as h prime of t.

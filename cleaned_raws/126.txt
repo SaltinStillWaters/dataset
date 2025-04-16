@@ -1,7 +1,7 @@
 Transcript for: Triple integrals 1 | Double and triple integrals | Multivariable Calculus | 
-Let's say I wanted to find the volume of a cube, where the values of the cube let's say x is between x is greater than or equal to 0, is less than or equal to, I don't know, 3.
-Let's say y is greater than or equal to 0, and is less than or equal to 4.
-And then let's say that z is greater than or equal to 0 and is less than or equal to 2.
+Let's say I wanted to find the volume of a cube, where the values of the cube let's say x is between x is greater than or = 0, is less than or =, I don't know, 3.
+Let's say y is greater than or = 0, and is less than or = 4.
+And then let's say that z is greater than or = 0 and is less than or = 2.
 And I know, using basic geometry you could figure out you know, just multiply the width times the height times the depth and you'd have the volume.
 But I want to do this example, just so that you get used to what a triple integral looks like, how it relates to a double integral, and then later in the next video we could do something slightly more complicated.
 So let's just draw that, this volume.
@@ -9,8 +9,8 @@ So this is my x-axis, this is my z-axis, this is the y.
 x, y, z.
 OK.
 So x is between 0 and 3.
-So that's x is equal to 0.
-This is x is equal to let's see, 1, 2, 3.
+So that's x = 0.
+This is x = let's see, 1, 2, 3.
 y is between 0 and 4.
 1, 2, 3, 4.
 So the x-y plane will look something like this.
@@ -45,7 +45,7 @@ This is dx.
 This is dz.
 This is dy.
 So you can say that a small volume within this larger volume you could call that dv, which is kind of the volume differential.
-And that would be equal to, you could say, it's just the width times the length times the height.
+And that would be =, you could say, it's just the width times the length times the height.
 dx times dy times dz.
 And you could switch the orders of these, right? Because multiplication is associative, and order doesn't matter and all that.
 But anyway, what can you do with it in here? Well, we can take the integral.
@@ -54,9 +54,9 @@ So, what we could do is we could take this cube and first, add it up in, let's s
 So we could take that cube and then add it along the up and down axis the z-axis so that we get the volume of a column.
 So what would that look like? Well, since we're going up and down, we're adding we're taking the sum in the z direction.
 We'd have an integral.
-And then what's the lowest z value? Well, it's z is equal to 0.
+And then what's the lowest z value? Well, it's z = 0.
 And what's the upper bound? Like if you were to just take keep adding these cubes, and keep going up, you'd run into the upper bound.
-And what's the upper bound? It's z is equal to 2.
+And what's the upper bound? It's z = 2.
 And of course, you would take the sum of these dv's.
 And I'll write dz first.
 Just so it reminds us that we're going to take the integral with respect to z first.
@@ -73,11 +73,11 @@ So if we're summing in the y direction, we could just take another integral of t
 And y goes from 0 to what? y goes from 0 to 4.
 I wrote this integral a little bit too far to the left, it looks strange.
 But I think you get the idea.
-y is equal to 0, to y is equal to 4.
+y = 0, to y = 4.
 And then that'll give us the volume of a sheet that is parallel to the zy plane.
 And then all we have left to do is add up a bunch of those sheets in the x direction, and we'll have the volume of our entire figure.
 So to add up those sheets, we would have to sum in the x direction.
-And we'd go from x is equal to 0, to x is equal to 3.
+And we'd go from x = 0, to x = 3.
 And to evaluate this is actually fairly straightforward.
 So, first we're taking the integral with respect to z.
 Well, we don't have anything written under here, but we can just assume that there's a 1, right? Because dz times dy times dx is the same thing as 1 times dz times dy dx.
@@ -85,14 +85,14 @@ So what's the value of this integral? Well, the antiderivative of 1 with respect
 And you evaluate that from 2 to 0.
 So then you're left with so it's 2 minus 0.
 So you're just left with 2.
-So you're left with 2, and you take the integral of that from y is equal to 0, to y is equal to 4 dy, and then you have the x.
-From x is equal to 0, to x is equal to 3 dx.
+So you're left with 2, and you take the integral of that from y = 0, to y = 4 dy, and then you have the x.
+From x = 0, to x = 3 dx.
 And notice, when we just took the integral with respect to z, we ended up with a double integral.
 And this double integral is the exact integral we would have done in the previous videos on the double integral, where you would have just said, well, z is a function of x and y.
-So you could have written, you know, z, is a function of x and y, is always equal to 2.
+So you could have written, you know, z, is a function of x and y, is always = 2.
 It's a constant function.
 It's independent of x and y.
-But if you had defined z in this way, and you wanted to figure out the volume under this surface, where the surface is z is equal to 2 you know, this is a surface, is z is equal to 2 we would have ended up with this.
+But if you had defined z in this way, and you wanted to figure out the volume under this surface, where the surface is z = 2 you know, this is a surface, is z = 2 we would have ended up with this.
 So you see that what we're doing with the triple integral, it's really, really nothing different.
 And you might be wondering, well, why are we doing it at all? And I'll show you that in a second.
 But anyway, to evaluate this, you could take the antiderivative of this with respect to y, you get 2y let me scroll down a little bit.
@@ -101,7 +101,7 @@ And then, so you get 2 times 4.
 So it's 8 minus 0.
 And then you integrate that from, with respect to x from 0 to 3.
 So that's 8x from 0 to 3.
-So that'll be equal to 24 four units cubed.
+So that'll be = 24 four units cubed.
 So I know the obvious question is, what is this good for? Well, when you have a kind of a constant value within the volume, you're right.
 You could have just done a double integral.
 But what if I were to tell you, our goal is not to figure out the volume of this figure.
@@ -117,7 +117,7 @@ If we wanted to figure out the mass of any small volume, it would be that volume
 So if you multiply it times meter cubed, you get kilograms.
 So we could say that the mass well, I'll make up notation, d mass this isn't a function.
 Well, I don't want to write it in parentheses, because it makes it look like a function.
-So, a very differential mass, or a very small mass, is going to equal the density at that point, which would be xyz, times the volume of that of that small mass.
+So, a very differential mass, or a very small mass, is going to = the density at that point, which would be xyz, times the volume of that of that small mass.
 And that volume of that small mass we could write as dv.
 And we know that dv is the same thing as the width times the height times the depth.
 dv doesn't always have to be dx times dy times dz.

@@ -4,7 +4,7 @@ But what we'll do is we'll define the triple integral.
 We're going to something similar that we did in the second video where we figured out the mass using a density function.
 But what I want to do in this video is show you how to set the boundaries when the figure is a little bit more complicated.
 And if we have time we'll try to do it where we change the order of integration.
-So let's say I have the surface let me just make something up 2x plus 3z plus y is equal to 6.
+So let's say I have the surface let me just make something up 2x plus 3z plus y = 6.
 Let's draw that surface.
 It looks something like this.
 This will be my x-axis.
@@ -15,14 +15,14 @@ x, y and z.
 And I care about the surface in the kind of positive octant, right, because when you're dealing with three-dimensionals we have, instead of four quadrants we have eight octants.
 But we want the octant where all x, y and z is positive, which is the one I drew here.
 So let's see, let me draw some what is the x-intercept? When y and z are 0, so we'll write here, that's the x-intercept.
-2x is equal to 6, so x is equal to 3.
+2x = 6, so x = 3.
 So 1, 2, 3.
 So that's the x-intercept.
-The y-intercept when x and z are 0 are on the y-axis, so y will be equal to 6.
+The y-intercept when x and z are 0 are on the y-axis, so y will be = 6.
 so we have 1, 2, 3, 4, 5, 6 is the y-intercept.
 Then finally the z-intercept when x and y are 0 we're on the z-axis.
-3z will be equal to 6.
-So z is equal to 1, 2.
+3z will be = 6.
+So z = 1, 2.
 So the figure that I care about will look something like this it's be this inclined surface.
 It will look something like that.
 In this positive octant.
@@ -30,7 +30,7 @@ So this is the surface defined by this function.
 Let's say that I care about the volume, and I'm going to make it a little bit more complicated.
 We could say oh, well let's find the volume between the surface and the xy plane.
 But I'm going to make it a little bit more complicated.
-Let's say the volume above this surface, and the surface z is equal to 2.
+Let's say the volume above this surface, and the surface z = 2.
 So the volume we care about is going to look something like this.
 Let me see if I can pull off drawing this.
 If we go up 2 here let me draw the top in a different color, let me draw the top in green.
@@ -39,8 +39,8 @@ And then the other edge is going to look something like this.
 Let me make sure I can draw it this is the hardest part.
 We'll go up 2 here, and this is along the zx plane.
 And we'd have another line connecting these two.
-So this green triangle, this is part of the plane z is equal to 2.
-The volume we care about is the volume between this top green plane and this tilted plane defined by 2x plus 3z plus y is equal to 6.
+So this green triangle, this is part of the plane z = 2.
+The volume we care about is the volume between this top green plane and this tilted plane defined by 2x plus 3z plus y = 6.
 So this area in between.
 Let me see if I can make it a little bit clearer.
 Because the visualization, as I say, is often the hardest part.
@@ -60,14 +60,14 @@ So the first thing I like to do is I visualize what we're going to do is we're g
 So if I had a let me do it in a bold color so that you can see it so if I have a cube maybe I'll do it in brown, it's not as bold but it's different enough from the other colors.
 So if I had a little cube here in the volume under consideration, that's a little cube you consider that dv.
 The volume of that cube is kind of a volume differential.
-And that is equal to dx no, sorry, this is dy.
+And that = dx no, sorry, this is dy.
 Let me do this in yellow, or green even better.
 So dy, which is this.
 dy times dx, dx times dz.
 That's the volume of that little cube.
 And if we wanted to know the mass of that cube, we would multiply the density function at that point times this dv.
 So the mass, you could call it d I don't know, dm.
-The mass differential is going to be equal to that times that.
+The mass differential is going to be = that times that.
 So x squared y z times this.
 dy, dx, and dz.
 And we normally switch this order around, depending on what we're going to integrate with respect to first so we don't get confused.
@@ -82,17 +82,17 @@ So going up and down first, right? So if we do that, what is the bottom boundary
 So, if we want that bottom bound defined in terms of z, we just have to solve this in terms of z.
 So let's subtract.
 So what do we get.
-If we want this defined in terms of z, we get 3z is equal to 6 minus 2x minus y.
-Or z is equal 2 minus 2/3x minus y over 3.
+If we want this defined in terms of z, we get 3z = 6 minus 2x minus y.
+Or z is = 2 minus 2/3x minus y over 3.
 This is the same thing as that.
 But when we're talking about z, explicitly defining a z, this is how we get it, algebraically manipulated.
 So the bottom boundary and you can visualize it, right? The bottom of these columns are going to go up and down.
 We're going to add up all the columns in up and down direction, right? You can imagine summing them.
 The bottom boundary is going to be this surface.
-z is equal to 2 minus 2/3x minus y over 3.
-And then what's the upper bound? Well, the top of the column is going to be this green plane, and what did we say the green plane was? It was z is equal to 2.
+z = 2 minus 2/3x minus y over 3.
+And then what's the upper bound? Well, the top of the column is going to be this green plane, and what did we say the green plane was? It was z = 2.
 That's this plane, this surface right here.
-Z is equal to 2.
+Z = 2.
 And, of course, what is the volume of that column? Well, it's going to be the density function, x squared yz times the volume differential, but we're integrating with respect to z first.
 Let me write dz there.
 I don't know, let's say we want to integrate with respect to I don't know, we want to integrate with respect to x for next.
@@ -105,7 +105,7 @@ The top boundary is that plane.
 The bottom boundary is this surface.
 Now we want to integrate with respect to x.
 So we're going to add up all of the dx's.
-So what is the bottom boundary for the x's? Well, this surface is defined all the way to the volume under question is defined all the way until x is equal to 0.
+So what is the bottom boundary for the x's? Well, this surface is defined all the way to the volume under question is defined all the way until x = 0.
 And if you get confused, and it's not that difficult to get confused when you're imagining these three-dimensional things, say you know what, we already integrated with respect to z.
 The two variables I have left are x and y.
 Let me draw the projection of our volume onto the xy plane, and what does that look like? So I will do that.
@@ -113,33 +113,33 @@ Because that actually does help simplify things.
 So if we twist it, if we take this y and flip it out like that, and x like that we'll get in kind of the traditional way that we learned when we first learned algebra.
 The xy-axis.
 So this is x, this is y.
-And this point is what? Or this point? What is that? That's x is equal to 3.
+And this point is what? Or this point? What is that? That's x = 3.
 So it's 1, 2, 3.
-That's x is equal to 3.
-And this point right here is y is equal to 6.
+That's x = 3.
+And this point right here is y = 6.
 So 1, 2, 3, 4, 5, 6.
 So on the xy-axis, kind of the domain you can view it that looks something like that.
 So one way to think about it is we've figured out if these columns we've integrated up/down or along the z-axis.
 But when you view it looking straight down onto it, you're looking on the xy plane, each of our columns are going to look like this where the column's going to pop out out of your screen in the z direction.
 But the base of each column is going to dx like that, and then dy up and down, right? So we decided to integrate with respect to x next.
 So we're going to add up each of those columns in the x direction, in the horizontal direction.
-So the question was what is the bottom boundary? What is the lower bound in the x direction? Well, it's x is equal to 0.
+So the question was what is the bottom boundary? What is the lower bound in the x direction? Well, it's x = 0.
 If there was a line here, then it would be that line probably as a function of y, or definitely as a function of y.
-So our bottom bound here is x is equal to 0.
+So our bottom bound here is x = 0.
 What's our top bound? I realize I'm already pushing.
 Well, our top bound is this relation, but it has to be in terms of x, right? So what is this relation.
-So, you could view it as kind of saying well, if z is equal to 0, what is this line? What is this line right here? So z is equal to 0.
-We have 2x plus y is equal to 6.
+So, you could view it as kind of saying well, if z = 0, what is this line? What is this line right here? So z = 0.
+We have 2x plus y = 6.
 We want the relationship in terms of x.
-So we get 2x is equal to 6 minus y where x is equal to 3 minus y over 2.
+So we get 2x = 6 minus y where x = 3 minus y over 2.
 And then finally we're going to integrate with respect to y.
 And this is the easy part.
 So we've integrated up and down to get a column.
 These are the bases of the column, so we've integrated in the x direction.
 Now we just have to go up and down with respect to y, or in the xy plane with respect to y.
 So what is the y bottom boundary? Well, it's 0.
-y is equal to 0.
-And the top boundary is y is equal to 6.
+y = 0.
+And the top boundary is y = 6.
 And there you have it.
 We have set up the integral and now it's just a matter of chugging through it mechanically.
 But I've run out of time and I don't want this video to get rejected.

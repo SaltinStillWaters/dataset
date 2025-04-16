@@ -4,14 +4,14 @@ We started off just thinking about what it means to take the partial derivative 
 You know, what was the whole point in getting here, Sal? And the whole point is so that I can give you the tools you need to understand what a surface integral is.
 So let's just think about, let's draw the st plane, and then see how it gets transformed into this surface r.
 So let's do that.
-Let's say that is the t-axis, and let's say that that is the s-axis, and let's say that our vector-valued function, our positioned vector-valued function, is defined from s's between a and b, I'm just picking arbitrary boundaries, and between t being equal to c and d.
+Let's say that is the t-axis, and let's say that that is the s-axis, and let's say that our vector-valued function, our positioned vector-valued function, is defined from s's between a and b, I'm just picking arbitrary boundaries, and between t being = c and d.
 So the area under question, if you take any t and any s in this rectangle right here, it will be mapped to part of that surface.
 And if you map each of these points, you will eventually get the surface r.
 So let me draw r in 3 dimensions.
 A surface in 3D.
 So that is our x-axis, that is our y-axis, and then that is the z-axis.
 And just as a bit of a reminder, it might look something like this.
-If we were to, this point right here, where s is equal to a, and t is equal to c, remember, we're going to draw the surface indicated by the position vector function s, r of s and t.
+If we were to, this point right here, where s = a, and t = c, remember, we're going to draw the surface indicated by the position vector function s, r of s and t.
 So this point right here, when s is a and t is c, maybe it maps to, I'm just, you know, that point! Right there.
 When you take a and c, and you put it into this thing over here, you're just going to get the vector that points at that.
 So you could say, it'll give you a position vector that'll point right at that position, right there.
@@ -81,9 +81,9 @@ The difference of these two vectors, head to tails.
 The difference of these two vectors is going to be this vector.
 If you subtract this vector that vector, you're going to get that vector, right there.
 A vector that looks just like that.
-So that's what this is equal to, that vector.
+So that's what this =, that vector.
 And it makes sense.
-This blue vector plus the orange vector, this vector, right here, plus the orange vector, is equal to this vector.
+This blue vector plus the orange vector, this vector, right here, plus the orange vector, = this vector.
 It makes complete sense.
 Heads to tails.
 So that's what that represents.
@@ -105,14 +105,14 @@ So what is that vector minus this blue vector? The magenta vector minus the blue
 It's going to be a vector that looks like this.
 I'll do it in white.
 It's going to be a vector that looks like that.
-And you can imagine, if you take the blue vector plus the white vector, the blue vector plus this white vector is going to equal this purple vector.
-So it makes sense, if the purple vector minus the blue vector is going to be equal to this white vector.
+And you can imagine, if you take the blue vector plus the white vector, the blue vector plus this white vector is going to = this purple vector.
+So it makes sense, if the purple vector minus the blue vector is going to be = this white vector.
 So something interesting is going on here.
 I have these two, this is a vector that is kind of going along this parameterized surface, as we changed our s by a super small amount.
 And then this is a vector that is going along our surface if we change our t by a super small amount.
 Now, you may or may not remember this, and I've done several videos where I showed this to you.
 But the magnitude, if I take 2 vectors, and I take their cross product, so if I take the cross product of a and b, and I take the magnitude of the resulting vector remember, when you take the cross product, you get a third vector that is perpendicular to both of these.
-But if you were just to take the magnitude of that vector, that is equal to the area of a parallelogram, defined by a and b.
+But if you were just to take the magnitude of that vector, that = the area of a parallelogram, defined by a and b.
 What do I mean by that? Well, if that is vector a and that is vector b, that's a and that is b, if you were to just take the cross product of those two, you're going to get a third vector.
 You're going to get a third vector that's perpendicular to both of them, it kind of popped out of the page.
 That would be a cross b.
@@ -135,7 +135,7 @@ The more rectangles we had, the better.
 So let's call this little change in our surface d sigma, for a little change, for a little amount of our surface.
 And we could even say that, you know, the surface area of the surface will be the infinite sum of all of these infinitely small d sigmas.
 And there's actually a little notation for that.
-So surface area is equal to, we could integrate over the surface, and the notation usually is a capital sigma for a surface as opposed to a region or so you're integrating over the surface, and you do a double integral, because you're going in two directions, right? A surface is a kind of a folded, two-dimensional structure.
+So surface area =, we could integrate over the surface, and the notation usually is a capital sigma for a surface as opposed to a region or so you're integrating over the surface, and you do a double integral, because you're going in two directions, right? A surface is a kind of a folded, two-dimensional structure.
 And you're going to take the infinite sum of all of the d sigmas.
 So this would be the surface area.
 So that's what a d sigma is.
@@ -143,7 +143,7 @@ Now we just figured out, we just said, well, that d sigma can be represented, th
 So let me write here.
 And this is not rigorous mathematics.
 The whole point here is to give you the intuition of what a surface integral is all about.
-So we can write that d sigma is equal to the cross product of the orange vector and the white vector.
+So we can write that d sigma = the cross product of the orange vector and the white vector.
 The orange vector is this, but we could also write it like this.
 This was the result from the last video.
 I'll write it in orange.
@@ -153,14 +153,14 @@ So this orange vector is the same thing is that.
 And we're going to take the cross product of that with this white vector.
 This white vector is the same thing as that, which we saw, which was the same thing as this.
 The partial of r with respect to t, dt.
-And we saw, if we take the magnitude of that, that's going to be equal to our little small change in area, or the area of this little parallelogram over here Now, you may or may not remember that if you take these, so let's just be clear.
+And we saw, if we take the magnitude of that, that's going to be = our little small change in area, or the area of this little parallelogram over here Now, you may or may not remember that if you take these, so let's just be clear.
 This and this, these are vectors, right? When you take the partial derivative of a vector-valued function, you're still getting a vector.
 This ds, this is a number.
 That's a number and that's a number.
 And you might remember, when we, in the linear algebra or whenever you first saw taking cross products, taking the cross product of some scalar multiple.
 You can take the scalars out.
 So if we take this number and that number, we essentially factor them out of the cross product.
-This is going to be equal to the magnitude of the cross product of the partial of r, with respect to s, crossed with the partial of r with respect to t, and then all of that times these two guys, over here.
+This is going to be = the magnitude of the cross product of the partial of r, with respect to s, crossed with the partial of r with respect to t, and then all of that times these two guys, over here.
 Times ds and dt.
 So I wrote this here, hey, maybe our surface area, if we were to take the sum of all of these little d sigmas, but there's no obvious way to evaluate that.
 But we know that all of the d sigmas, they're the same thing as if you take all of the ds's and all of the dt's.
@@ -172,7 +172,7 @@ We will get the surface area.
 So we can write I know this is all a little bit convoluted.
 And you need to kind of ponder a little bit.
 Surface intervals, at least in my head, are one of the hardest things to really visualize, but it all hopefully makes sense.
-So we can say that this thing right over here, the sum of all of the little parallelograms on our surface, or the surface area, is going to be equal to, instead of taking the sum over the surface, let's take the sum of all the ds times dt's over this region right here.
+So we can say that this thing right over here, the sum of all of the little parallelograms on our surface, or the surface area, is going to be =, instead of taking the sum over the surface, let's take the sum of all the ds times dt's over this region right here.
 And of course, we're also going to have to take this cross product here.
 And we know how to do that.
 That's a double integral.

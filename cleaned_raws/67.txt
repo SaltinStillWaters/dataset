@@ -8,16 +8,16 @@ So, let's say that the distance, s this time I'll write it as a function let's s
 You're not only accelerating, your rate of acceleration is increasing.
 I think, actually, the rate of acceleration, if I'm not mistaken, is actually called jerk, but I might have to Wikipedia that.
 Let's say its 2t to the third plus 5.
-And let's say I wanted to know how far I travel between t equals 2 seconds and t equals 5 seconds.
+And let's say I wanted to know how far I travel between t = 2 seconds and t = 5 seconds.
 Right? I'm not looking for the total distance I've traveled.
-I just want to know how far do I travel between time equals 2 seconds and time equal 5 seconds.
+I just want to know how far do I travel between time = 2 seconds and time = 5 seconds.
 Right? So this might be 2 and this is 5.
-So an easy way to do that is I could just evaluate this function at t equals 5 let me use a different color.
-I think it's getting messy I could just evaluate this function at t equals 5.
-If t equals 5, 5 to the third power is 125, 250, it's 255, so the object has gone 255 feet at t equals 5, right? And then, at time equals 2, the object has gone how far? 2 to the third is 8.
+So an easy way to do that is I could just evaluate this function at t = 5 let me use a different color.
+I think it's getting messy I could just evaluate this function at t = 5.
+If t = 5, 5 to the third power is 125, 250, it's 255, so the object has gone 255 feet at t = 5, right? And then, at time = 2, the object has gone how far? 2 to the third is 8.
 16.
 It's gone 21 feet.
-Right? To figure out how far I travelled between time equals 2 and time equals 5, I just say s of 5 minus s of 2, right? How far did I go after 5 seconds minus how far I already was after 2 seconds.
+Right? To figure out how far I travelled between time = 2 and time = 5, I just say s of 5 minus s of 2, right? How far did I go after 5 seconds minus how far I already was after 2 seconds.
 And this is just 255 minus 21 and that's, what, 234.
 234 feet is how far I travelled between 2 seconds and 5 seconds.
 Interesting.
@@ -44,8 +44,8 @@ And now, if we just had this velocity graph, if we didn't know all of this over 
 I said, how far does this thing travel between 2 seconds and 5 seconds? Right? Well, I could do it the way that we learned in the previous video where I draw a bunch of small rectangles, each of a really small width, and I multiply it times its instantaneous velocity at that exact moment, right? And then I sum up all of those rectangles look how pretty that is I sum up all of the rectangles.
 And I'll get a pretty good approximation for how far I've travelled between 2 and 5 seconds.
 Because remember, the area of each of these rectangles represents how far I traveled in that little amount of time, dt.
-Because time times a constant velocity is equal to distance.
-But as you can see this also tells me the area between t equals 2 and t equals 5.
+Because time times a constant velocity = distance.
+But as you can see this also tells me the area between t = 2 and t = 5.
 So, not only did I figure out the distance between how far I traveled from 2 seconds to 5 seconds, I also figured out the area under this curve from 2 seconds to 5 seconds.
 So, interestingly enough, if I just changed this from a to b, and, in general, if you want to figure out the area under a curve from a to b, it's just the indefinite integral from a to b actually, from b to a.
 The b should be the larger one.
@@ -71,7 +71,7 @@ The derivative and the antiderivative don't only apply to distance and velocity.
 But I did this to give you an intuition of why this works and why the antiderivative is the area under a curve.
 So let me clear this up and just rewrite that last thing I wrote, but maybe a little bit cleaner.
 OK.
-So let's say that F of x with a big, fat capital F is equal to actually, let me do it a better way let me say that the derivative of big fat F of x is equal to f of x.
+So let's say that F of x with a big, fat capital F = actually, let me do it a better way let me say that the derivative of big fat F of x = f of x.
 Right? I think, actually, this is the fundamental theorem of calculus, but I don't want to throw out things without knowing for sure.
 I have to go make sure.
 See, I haven't done math in a long time.

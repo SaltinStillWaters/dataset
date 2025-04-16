@@ -16,13 +16,13 @@ in a different color.
 So I want to do it in blue - the area of this coin is just pi times the radius of that coin, squared.
 And what is the radius of the coin? Well, the radius of the coin is this height - is this height right over here.
 And what is that height? Well it is 1-f(x).
-So that is equal to the radius.
-So the area - the surf- the area - the kind of the face of this coin is going to be pi - the area of the face of this coin is going to be pi times the radius squared, which is equal to pi times one minus f of x - one minus f of x squared - that's this blue area right over here, and if I want to find the volume of this coin I would multiply it by - by the depth of the coin.
+So that = the radius.
+So the area - the surf- the area - the kind of the face of this coin is going to be pi - the area of the face of this coin is going to be pi times the radius squared, which = pi times one minus f of x - one minus f of x squared - that's this blue area right over here, and if I want to find the volume of this coin I would multiply it by - by the depth of the coin.
 So times - so times dx.
 And if I wanted to find the volume of this entire solid - this entire rotated, i would want to find the sum of all of these volumes.
 So this is just the disk right over here but I can have another disk, a similar disk that I do right over here, I could have another disk right over here, and I want to take the sum of ALL of those disks.
-So I want to take - I want to take - so the volume is going to be the sum over all of those disks - so x goes from 0 - which is this bounding point - to x is equal to 1/2, times pi(1-f(x))^2 - this is the area of e- the fa- the area of the face of each of those disks and then I multiply time the depth of each of those disks - no this gives the volume of each of those disks, and I'm taking the sum of all of them.
-So this is the volume - this is the volume if I were to just rotate f(x) around y=1 - actually I should just write dx here - and so this right over here - this expression - I just did that so they really are equal - this is obviously just the volume of each of those disks.
+So I want to take - I want to take - so the volume is going to be the sum over all of those disks - so x goes from 0 - which is this bounding point - to x = 1/2, times pi(1-f(x))^2 - this is the area of e- the fa- the area of the face of each of those disks and then I multiply time the depth of each of those disks - no this gives the volume of each of those disks, and I'm taking the sum of all of them.
+So this is the volume - this is the volume if I were to just rotate f(x) around y=1 - actually I should just write dx here - and so this right over here - this expression - I just did that so they really are = - this is obviously just the volume of each of those disks.
 So this is the volume if I were to take f(x) around y=1.
 Let's figure out - so let me call this volume of f(x) - and by the same logic - the same exact logic - we can figure out the volume if we take g(x) - if we rotate g(x) around - if we rotate g(x) - if we construct disks like this and rotate them around y=1.
 And so the volume - if I take g(x) around y=1 would be 0 to 1/2 times pi(1-g(x) - cause 1-g(x) is each of these radius' right over here - each of these radius' - that squared, dx.

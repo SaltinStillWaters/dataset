@@ -4,10 +4,10 @@ Sometimes my brain malfunctions.
 But just going back to that problem we were doing, actually I think we should do it.
 I'm a little schizophrenic today.
 So let's figure out the equation for the volume of a sphere.
-So what's the equation? It's x squared plus y squared is equal to r squared.
+So what's the equation? It's x squared plus y squared = r squared.
 And let's just write y as a function of x, just so we can do it the way we did that last problem.
-So you get y squared is equal to r squared minus x squared.
-y is equal to the square root of r squared minus x squared.
+So you get y squared = r squared minus x squared.
+y = the square root of r squared minus x squared.
 And let's draw it.
 So if this is my y-axis, this is my x-axis, and the equation draw it straight that's my x-axis, and then I actually have a circle tool, let me see if I can use it effectively well, close enough.
 There you go.
@@ -15,7 +15,7 @@ I think you get the point.
 But anyway.
 This is just going to be the upper half of the circle.
 Actually, I should probably just undo that circle tool and try to draw it by hand.
-So y equals the square root of r squared minus x squared.
+So y = the square root of r squared minus x squared.
 That's just going to be the upper half of the circle.
 So it will be the positive x quadrant and then actually, I should have drawn the whole hemisphere.
 But anyway.
@@ -33,14 +33,14 @@ Let's just visualize the disks again.
 So let me make a disk.
 So let's say that that's the side of one of the disks again, and as we know, the depth of the disk is just going to be dx.
 That's how wide that disk is, dx.
-And its radius at any point is f of x, and in this case, it's y is equal to square root of r squared minus x squared.
+And its radius at any point is f of x, and in this case, it's y = square root of r squared minus x squared.
 So what's the surface area of each disk? What's this? The surface area of each of the disks.
 I hope you know what I'm saying.
-So area is equal to pi r squared, the radius at any point is equal to this, radius is equal to y which is equal to square root and remember, this is not this r.
+So area = pi r squared, the radius at any point = this, radius = y which = square root and remember, this is not this r.
 This is the radius of this disk.
 I know it might be a little confusing.
-y is equal to the square root of r squared minus x squared.
-So the area is going to equal pi times this squared.
+y = the square root of r squared minus x squared.
+So the area is going to = pi times this squared.
 So if you square this quantity, you just get rid of the square root sign, right? So pi r squared minus x squared, and that's the area, and so what's the volume of that disk? Well just like we've done in every video up to this point, the volume of that disk is just that, so the volume of that disk is just this pi r squared minus x squared times dx.
 And so if we want to figure out the volume of all these disks, I have a disk here, a disk here, going around and around and around and around and around and they get smaller and smaller until we have a sphere.
 We just take the integral, the upper bound is positive r, the lower bound is minus r, and we take the integral of this expression.
@@ -64,9 +64,9 @@ And then, what is this? This is pi r cubed, but then we have a minus sign up.
 This is minus pi r cubed, and then we have a minus sign up here, so this becomes plus pi r cubed, and then minus because we have a plus here and a minus out here, so distribute it so minus 1/3pi r cubed.
 And let's see, what do we have? We have essentially 1.
 If we just distribute out the pi r cubes, we have pi r cubed times 1 minus 1/3 plus 1 minus 1/3.
-Well that's 2 minus 2/3, or another way, let's see, is 2 minus 2/3 this is turning into a fractions problem and what's well, that's 6/3 minus 2/3, it equals 4/3.
-So this is equal to 4/3.
-So the volume of the sphere is equal to 4/3 pi r cubed, which is the equation for the volume of a sphere.
+Well that's 2 minus 2/3, or another way, let's see, is 2 minus 2/3 this is turning into a fractions problem and what's well, that's 6/3 minus 2/3, it = 4/3.
+So this = 4/3.
+So the volume of the sphere = 4/3 pi r cubed, which is the equation for the volume of a sphere.
 And actually, now that I realize, it did take me eight and a half minutes, so I am glad.
 My first intuition is always correct, I am glad I did this in a separate video.
 But that should be pretty interesting to you.

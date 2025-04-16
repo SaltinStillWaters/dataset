@@ -2,7 +2,7 @@ Transcript for: Integration by Parts (part 6 of Indefinite Integration) Welcome 
 Well I'm now going to do just a bunch of integration by parts problems, as many as I can do in ten minutes without confusing you.
 So let me just write the formula for integration by parts, and if you ever forget it I mean, it doesn't hurt to memorize it, but if you ever forget it you just really have to just derive it from the product rule of differentiation.
 But it just says that if we have an integral of f of x times g prime of x so if you see, within the integral, sign, one function and then you see the derivative of another function, and I think with practice integration by parts is really a bit of an art.
-It's not systematic that's g prime of x that equals f of access times g of x this is how it's the product rule in reverse minus the integral of the derivative of the first function, f prime of x, times the second function.
+It's not systematic that's g prime of x that = f of access times g of x this is how it's the product rule in reverse minus the integral of the derivative of the first function, f prime of x, times the second function.
 And it kind of easy to memorize, because there's this symmetry to the formula.
 So let's see if we can apply this.
 And really, once you know that you should use integration by parts, I think you'll find that it's not that hard to do it.
@@ -23,13 +23,13 @@ And I need to pick my g prime of x, I would guess that either x squared is going
 Or at least, not more complicated.
 I know that if I take the derivative of x squared, that simplifies it.
 And I also know that the and once again, this is one of my, to me, a very mind blowing idea but that the antiderivative of e to the x is e to the x.
-So it's probably a good idea to say that f of x is equal to it's probably, let me change colors it's probably a good idea to make f of x is equal to x squared, because later I'm going to take the derivative of it, and the derivative of it simplifies it, and it's probably a good idea to make g prime of x e to the x, because later, I'm going to take the antiderivative of it, and the antiderivative of e to the x is e to the x.
+So it's probably a good idea to say that f of x = it's probably, let me change colors it's probably a good idea to make f of x = x squared, because later I'm going to take the derivative of it, and the derivative of it simplifies it, and it's probably a good idea to make g prime of x e to the x, because later, I'm going to take the antiderivative of it, and the antiderivative of e to the x is e to the x.
 It's not going to become any more complicated.
 So if we assume what I'm doing is right, then what did we say? Well here, we just multiply the two real functions, right? So when I say the real functions, I mean not the derivatives of e to one of them.
 So f of x, we're saying f of x is x squared.
 Let me try to stay color consistent.
-And we said g of x now don't get confused we're saying g prime of x let me write it in a corner down here we're saying that g prime of x is equal to e to the x.
-And of course, if g prime of x is equal to ex, then g of x is also equal to e to the x.
+And we said g of x now don't get confused we're saying g prime of x let me write it in a corner down here we're saying that g prime of x = e to the x.
+And of course, if g prime of x = ex, then g of x is also = e to the x.
 So g of x I don't want you to think that I'm somehow putting g prime of x here.
 I've taken the antiderivative, it just happens to be the same function.
 And then from that, we subtract the integral, we take the derivative of x squared, so you get 2x, and then times the antiderivative of g prime of x.
@@ -44,7 +44,7 @@ Maybe I need to do integration by parts again.
 So let's do that.
 So let's say let me do it separately let's assume I think you getting a little bit of the hang of it along the same vein, that this is f of x, that this is f of x, and that this is g prime of x now.
 We're kind of doing integration by parts within integration by parts.
-So if that is the case, that this integral is going to equal because we have the minus sign out front, this minus sign out front this integral is going to equal f of x times g of x where f of x is just 2x.
+So if that is the case, that this integral is going to = because we have the minus sign out front, this minus sign out front this integral is going to = f of x times g of x where f of x is just 2x.
 Our g of x, this is g prime of x now.
 Remember, we're kind of doing a new problem within the original big problem.
 So this is g prime of x, but g of x is still just e of x.

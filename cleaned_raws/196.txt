@@ -14,7 +14,7 @@ And so now we are ready to integrate.
 So let's do the first part.
 Let's do this inside part right over here.
 And I'm just going to rewrite the outside part.
-So this is going to be equal to we have our square root of 2 times the integral from 0 to 2 pi of and we have d theta right over here.
+So this is going to be = we have our square root of 2 times the integral from 0 to 2 pi of and we have d theta right over here.
 So that's the outside.
 This inside part right over here, we can rewrite it as if we distribute the r.
 It's r minus r squared cosine of theta.
@@ -31,8 +31,8 @@ And then minus both of these evaluated at 0, well those are just going to be 0.
 It's all going to be 0.
 So this business right over here just evaluates to 1/2 minus 1/3 cosine of theta.
 And so we get the integral.
-This is all going to be equal now to the square root of 2 times the integral from theta 0 to 2 pi of 1/2 minus 1/3 cosine of theta d theta.
-And this is equal to square root of 2 times the antiderivative of 1/2 is 1/2 theta.
+This is all going to be = now to the square root of 2 times the integral from theta 0 to 2 pi of 1/2 minus 1/3 cosine of theta d theta.
+And this = square root of 2 times the antiderivative of 1/2 is 1/2 theta.
 And the antiderivative of cosine theta is sine theta.
 So minus 1/3 sine theta.
 And we're evaluating it from 0 to 2 pi.

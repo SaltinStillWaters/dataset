@@ -3,11 +3,11 @@ Welcome back.
 We're doing the last part of Problem 1 of the 2008 Calculus BC exam.
 And I'll repeat the problem.
 It says, the region R models the surface of a small pond.
-At all points in R at a distance x from the y-axis, the depth of the water is given by h of x is equal to 3 minus x.
+At all points in R at a distance x from the y-axis, the depth of the water is given by h of x = 3 minus x.
 Find the volume of the water in the pond.
 So we thought about, this is, you know, a perspective drawing of this, this is the surface of the pond, right here.
 And I was trying to draw the depth.
-So when x is equal to 0, the pond is exactly 3, I guess, you know, we could say feet, or whatever the units are, deep, and then when x is equal to 2, the pond is 1 unit deep.
+So when x = 0, the pond is exactly 3, I guess, you know, we could say feet, or whatever the units are, deep, and then when x = 2, the pond is 1 unit deep.
 And so to find the volume, we think about it the same way.
 What does a cross section at any point of the pond look like? Well if we, let's see.
 So if we were to take a cross section, so let's say that this, let's take this cross section of the pond.
@@ -28,9 +28,9 @@ So that's the area of each cross section.
 So we want the volume for the entire pond, we take essentially the volume of each of these kind of slivers of the pond.
 So we take the area of each cross section, and we multiply it by a very small width to get a very small sliver.
 So we take that and multiply it by dx, and we integrate.
-We sum up all of these slivers of the pond from x is equal to 0 to x is equal to 2.
+We sum up all of these slivers of the pond from x = 0 to x = 2.
 So let's do that.
-Let's integrate from x is equal to 0 from x is equal to 2.
+Let's integrate from x = 0 from x = 2.
 Once again, this is a really hard integral.
 Or it's something that you can do, especially if you use integration by parts, but it's a little bit messy, and you only have 45 minutes to do all three problems on the BC exam, so I'm assuming that they want you to use the calculator here.
 So let's use the calculator to evaluate it.
@@ -51,12 +51,12 @@ So let's insert times 3 minus x close parentheses.
 And so, let's see.
 We have sine of pi x minus x to the third plus 4x, right, that's the same thing as this.
 Times 3 minus x.
-And our variable of integration is x, and we're integrating from x is equal to zero to x is equal to 2.
+And our variable of integration is x, and we're integrating from x = zero to x = 2.
 Let's hit enter.
 And it noticed, it is calculating.
 And our answer is 8.
 37, I think, is a fair answer.
-So the volume this time, the volume of the pond, is equal to 8.
+So the volume this time, the volume of the pond, = 8.
 37.
 Anyway, hopefully you found that useful.
 I will, every day, try to do a couple of these problems.

@@ -3,9 +3,9 @@ In the last video, we took the Maclaurin series of cosine of x.
 We approximated it using this polynomial.
 And we saw this pretty interesting pattern.
 Let's see if we can find a similar pattern if we try to approximate sine of x using a Maclaurin series.
-And once again, a Maclaurin series is really the same thing as a Taylor series, where we are centering our approximation around x is equal to 0.
+And once again, a Maclaurin series is really the same thing as a Taylor series, where we are centering our approximation around x = 0.
 So it's just a special case of a Taylor series.
-So let's take f of x in this situation to be equal to sine of x.
+So let's take f of x in this situation to be = sine of x.
 And let's do the same thing that we did with cosine of x.
 Let's just take the different derivatives of sine of x really fast.
 So if you have the first derivative of sine of x, is just cosine of x.
@@ -15,7 +15,7 @@ So I'll just write a 3 in parentheses there, instead of doing prime, prime, prim
 So the third derivative is the derivative of this, which is negative cosine of x.
 The fourth derivative is the derivative of this, which is positive sine of x again.
 So you see, just like cosine of x, it kind of cycles after you take the derivative enough times.
-And we care in order to do the Maclaurin, series we care about evaluating the function, and each of these derivatives at x is equal to 0.
+And we care in order to do the Maclaurin, series we care about evaluating the function, and each of these derivatives at x = 0.
 So let's do that.
 So for this, let me do this in a different color, not that same blue.
 I'll do it in this purple color.

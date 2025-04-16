@@ -64,6 +64,7 @@ def get_verbs_from_text(nlp, text_orig_name, text_count):
         for token in doc:
             if token.pos_ == 'VERB':
                 verbs.add(token.text)
+        verbs = sorted(verbs)
         string += f'{verbs}\n\n\n'
     return string
 

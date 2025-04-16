@@ -1,14 +1,14 @@
 Transcript for: 2011 Calculus AB free response #1a | AP Calculus AB solved exams | AP Calculus AB | 
 Problem 1.
-For 0 is less than or equal to t is less than or equal to 6, a particle is moving along the x-axis.
+For 0 is less than or = t is less than or = 6, a particle is moving along the x-axis.
 The particle's position x of t is not explicitly given.
-The velocity of the particle is given by v of t is equal to all of this business right over here.
-The acceleration of the particle is given by a of t is equal to all of this business over here.
+The velocity of the particle is given by v of t = all of this business right over here.
+The acceleration of the particle is given by a of t = all of this business over here.
 They actually didn't have to give us that because the acceleration is just the derivative of the velocity.
-And they also gave us they don't tell us the position function, but they tell us where we start off, x of 0 is equal to 2.
+And they also gave us they don't tell us the position function, but they tell us where we start off, x of 0 = 2.
 Fair enough.
 Now let's do part A.
-Is the speed of the particle increasing or decreasing at time t equals 5.
+Is the speed of the particle increasing or decreasing at time t = 5.
 5? Give a reason for your answer.
 It looks like they did something a little sneaky here because they gave us a velocity function and then they ask about a speed.
 And you might say, wait, aren't those the same thing? And I would say, no, they aren't quite the same thing.
@@ -59,7 +59,7 @@ And now that is the second parentheses that I've closed.
 And I get negative 1.
 3 well, I just say roughly negative 1.
 36.
-So this is equal to, or approximately equal to, negative 1.
+So this =, or approximately =, negative 1.
 36 if I round it.
 And we don't care about so much as the actual value.
 What we really care about is its sign.
@@ -76,7 +76,7 @@ And then it's negative.
 So at some point our velocity is going to be something smaller.
 Then that means that the speed would also be decreasing.
 So if we have a positive velocity, then the fact that acceleration is negative means that both velocity and speed would be decreasing.
-On the other hand, if we had a negative velocity at time t equals 5.
+On the other hand, if we had a negative velocity at time t = 5.
 5, then the fact that it's decreasing means that we're getting even more negative.
 And if we're getting even more negative, then that means the speed is increasing.
 The magnitude is increasing in the leftward direction.
@@ -86,7 +86,7 @@ So let's evaluate the velocity.
 The velocity at 5.
 5 and we'll just get our calculator out again.
 Velocity at 5.
-5 this is our velocity function is going to be equal to 2 times the sine of let me write it this way.
+5 this is our velocity function is going to be = 2 times the sine of let me write it this way.
 Just because I want to make sure I get my parentheses right.
 2 times the sine let me write it this way 2 sine of e to the 5.
 5, that's our time, divided by 4.

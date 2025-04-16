@@ -2,7 +2,7 @@ Transcript for: L'Hôpital's rule example 3 | Derivative applications | Differen
 We want to figure out the limit as x approaches 1 of the expression x over x minus 1 minus 1 over the natural log of x.
 So let's just see what happens when we just try to plug in the 1.
 What happens if we evaluate this expression at 1? Well then, we're going to get a one here, over 1 minus 1.
-So we're going to get something like a 1 over a 0, minus 1 over, and what's the natural log of 1? e to the what power is equal to one? Well, anything to the zeroth power is equal to 1, so e to the zeroth power is going to be equal to 1, so the natural log of 1 is going to be 0.
+So we're going to get something like a 1 over a 0, minus 1 over, and what's the natural log of 1? e to the what power = one? Well, anything to the zeroth power = 1, so e to the zeroth power is going to be = 1, so the natural log of 1 is going to be 0.
 So we get the strange, undefined 1 over 0 minus 1 over 0.
 It's this bizarre-looking undefined form.
 But it's not the indeterminate type of form that we looked for in l'Hopital's rule.
@@ -29,7 +29,7 @@ And in the denominator we get a 1 minus 1, which is 0, times the natural log of 
 And there you have it.
 We have indeterminate form that we need for l'Hopital's rule, assuming that if we take the derivative of that, and put it over the derivative of that, that that limit exists.
 So let's try to do it.
-So this is going to be equal to, if the limit exists, this is going to be equal to the limit as x approaches 1.
+So this is going to be =, if the limit exists, this is going to be = the limit as x approaches 1.
 And let's take the derivative in magenta, I'll take the derivative of this numerator right over here.
 And for this first term, just do the product rule.
 Derivative of x is one, and then so 1 times the natural log of x, the derivative of the first term times the second term.
@@ -56,22 +56,22 @@ So you're going to get a 0 over 0 again.
 0 over 0.
 So once again, let's apply l'Hopital's rule again.
 Let's take the derivative of that, put it over the derivative of that.
-So this, if we're ever going to get to a limit, is going to be equal to the limit as x approaches 1 of the derivative of the numerator, 1 over x, right, the derivative of ln of x is 1/x, over the derivative of the denominator.
+So this, if we're ever going to get to a limit, is going to be = the limit as x approaches 1 of the derivative of the numerator, 1 over x, right, the derivative of ln of x is 1/x, over the derivative of the denominator.
 And what's that? Well, derivative of natural log of x is 1 over x plus derivative of x minus 1 over x.
 You could view it this way, as 1 over x times x minus 1.
 Well, derivative of x to the negative 1, we'll take the derivative of the first one times the second thing, and then the derivative of the second thing times the first thing.
 So the derivative of the first term, x to the negative 1, is negative x to the negative 2 times the second term, times x minus 1, plus the derivative of the second term, which is just 1 times the first term, plus 1 over x.
-So this is going to be equal to, I just had a random thing pop up on my computer.
+So this is going to be =, I just had a random thing pop up on my computer.
 Sorry for that little sound, if you heard it.
 But where was I? Oh, let's just simplify this over here.
 We were doing our l'Hopital's rule.
-So this is going to be equal to, let me, this is going to be equal to, if we evaluate x as equal to 1, the numerator is just 1/1, which is just 1.
+So this is going to be =, let me, this is going to be =, if we evaluate x as = 1, the numerator is just 1/1, which is just 1.
 So we're definitely not going to have an indeterminate or at least a 0/0 form anymore.
 And the denominator is going to be, if you evaluate it at 1, this is 1/1, which is 1, plus negative 1 to the negative 2.
 So, or you say, 1 to the negative 2 is just 1, it's just a negative one.
 But then you multiply that times 1 minus 1, which is 0, so this whole term's going to cancel out.
 And you have a plus another 1 over 1.
-So plus 1 And so this is going to be equal to 1/2.
+So plus 1 And so this is going to be = 1/2.
 And there you have it.
 Using L'Hopital's rule and a couple of steps, we solved something that at least initially didn't look like it was 0/0.
 We just added the 2 terms, got 0/0, took derivatives of the numerators and the denominators 2 times in a row to eventually get our limit.

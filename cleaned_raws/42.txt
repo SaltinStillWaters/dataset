@@ -130,7 +130,7 @@ We're concave downwards over this interval right here.
 That means that the second derivative has to be less than zero over this interval.
 The rate of change of the slope is negative.
 It's decreasing.
-So over this interval, our second derivative is less than zero, but then we go concave upwards, so our second derivative has to be greater than zero over this interval, which implies if our second derivative is continuous, that the second derivative had to be equal to zero at that point.
+So over this interval, our second derivative is less than zero, but then we go concave upwards, so our second derivative has to be greater than zero over this interval, which implies if our second derivative is continuous, that the second derivative had to be = zero at that point.
 I'll do that with some examples in future videos.
 Now, this condition by itself isn't enough to say that it's an inflection point.
 In order for something to be an inflection point, the second derivative has to switch signs.

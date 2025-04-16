@@ -11,16 +11,16 @@ And in the z-direction, I don't know, let's make it cosine of x times cosine of 
 Now we said that you can view the curl of this vector field and I have no intuition of what this vector field looks like; I just made this up.
 Maybe we'll graph it for fun just to see how messed up it looks but we said this curl, you could view it as a cross product of our del operator and the vector field.
 Well, when you were using this engineering notation, when you have a vector broken down into it x, y, and z components, or it's i, j, and k components, you can take the determinant of that matrix when I showed you how to compute the cross product to figure out the cross product.
-So how do we do this? So the cross product is going to be equal to I didn't have to draw a straight line so how you take the cross product of this vector field and the gradient operator? Well, you write i, j, k on top like you're taking the cross product of any two three dimensional vectors, and then you take the first vector but it's really a vector operator, but it's this del operator.
+So how do we do this? So the cross product is going to be = I didn't have to draw a straight line so how you take the cross product of this vector field and the gradient operator? Well, you write i, j, k on top like you're taking the cross product of any two three dimensional vectors, and then you take the first vector but it's really a vector operator, but it's this del operator.
 And what are the components of the del operator? It's the partial derivative with respect to x, the partial derivative with respect to y, partial derivative with respect to z, right? Let me just rewrite the del operator.
-You can view it as being equal to the partial with respect to x, i plus the partial with respect to y, j plus the partial with respect to z, k.
+You can view it as being = the partial with respect to x, i plus the partial with respect to y, j plus the partial with respect to z, k.
 So its x, y, and z components are the partials with respect to x, with respect to y, with respect to z.
 And then the second, where we're taking this operator cross the vector field.
 So what are the components of the vector field? I'll probably run out of space, but it's x squared, y, sine, z.
 Then here it's xy squared, z I should written all of this bigger and then the third column, the z component is cosine of x times cosine of y.
 Just the x, y, and z components.
 And now we are ready to take the determinant, which will probably, well, it'll probably get pretty messy, but let's try it.
-So this is equal to the i-unit vector let me use a more vibrant color the i-unit vector times it's subdeterminant.
+So this = the i-unit vector let me use a more vibrant color the i-unit vector times it's subdeterminant.
 So you cross out it's row and column, and so you take the determinant of this expression, so it's going to be times this times this, but it's really the partial.
 If you multiply the partial with respect to y operator times that expression, you're really just taking, since it's an operator and not an expression, you're really just going to take the partial of this with respect to y, but I'll write it down.
 So it's going to be the partial with respect to y of cosine x, cosine y minus the partial with respect to z times xy squared, z and now we're on to our j component plus j.

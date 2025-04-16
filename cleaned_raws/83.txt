@@ -13,10 +13,10 @@ Minus pi over 2.
 And now we can simplify it.
 Let's see what we can do.
 This is really a hairy problem.
-The 16 pi minus 8 pi, that equals 8 pi.
+The 16 pi minus 8 pi, that = 8 pi.
 And then that's a plus.
 The 32 plus 8 pi.
-32 pi plus 8 pi, that equals 40 pi.
+32 pi plus 8 pi, that = 40 pi.
 So let's see, I've simplified it to 40 pi, and what's minus 8 times 4 is 32 pi over 3.
 And then all of that, let's see if I can simplify this.
 Let's see, 16 pi plus 4 pi, that's 20 pi.
@@ -25,8 +25,8 @@ Minus 4 pi over 3 minus pi over 2.
 So let's get a common denominator for this part right here.
 So if I put everything over 6 20 pi over 6 is the same thing is 120 pi over 6, and then minus 4 pi over 3, if I put it over 6 it becomes 8 pi over 6, right? And then pi over 2, if I put it over 6 it becomes 3 pi over 6.
 So minus 3 pi.
-So this whole term that we're going to have to subtract from this term is equal to 120 minus 11, right? So that's 109 pi over 6.
-This equals 1 is that right? Yeah, 109 pi over 6.
+So this whole term that we're going to have to subtract from this term = 120 minus 11, right? So that's 109 pi over 6.
+This = 1 is that right? Yeah, 109 pi over 6.
 See what happens when you make up problems on the fly? You get ugly numbers.
 109 pi over 6.
 And what does that top part translate? So this is what we're going to subtract.
@@ -35,7 +35,7 @@ And let's simplify this one.
 So that one, if we put 3 common denominator, that's 120 pi over 3 minus 32 pi over 3.
 120 minus 32, let's see, we get 90 88? Right.
 88 pi over 3.
-So that equals 88 pi over 3, and remember, that's just the top part.
+So that = 88 pi over 3, and remember, that's just the top part.
 And then this is more of a review of fractions than anything else and then if I want to put it over 6, I just double it.
 So I think we're almost done.
 Let me switch colors.
@@ -55,7 +55,7 @@ This is kind of a strange shape.
 It's kind of a wide ring that has the upper part of the ring and the inner part of the ring are hard edges.
 But then it's curved on the outside.
 And we were able to figure out the volume of that.
-Especially and what was weird about this, is when it was rotated around the line y is equal to minus 2.
+Especially and what was weird about this, is when it was rotated around the line y = minus 2.
 Hopefully I didn't confuse you.
 These are about as difficult as these volume of revolution problems get.
 If you want more, just let me know.

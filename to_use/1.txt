@@ -36,7 +36,7 @@ Let's say that we have <EXPRESSION>, we could define it as <EXPRESSION>
 So once again, a kind of an interesting function that, as you'll see, is not fully continuous, it has a discontinuity.
 Let me graph <EQUATION>.
 So this is my y = f of x axis, this is my x-axis right over here.
-Let me draw x = 2, x, let's say this is x = 1, this is x = 2, this is negative 1, this is negative 2.
+Let me draw <EQUATION>, x, let's say this is x = 1, this is x = 2, this is negative 1, this is negative 2.
 And then let me draw <EQUATION>
 So let me draw <EQUATION> like this.
 So it's going to be a parabola, looks something like this, let me draw a better version of the parabola.
@@ -48,9 +48,9 @@ And that's looking better.
 OK, all right, there you go.
 All right, now, this would be the graph of just <EQUATION>.
 But this can't be.
-When x = 2, so let's say that, and I'm not doing them on the same scale, but let's say that.
-So this, on the graph of f of x = x squared, this would be 4, this would be 2, this would be 1, this would be 3.
-So when x = 2, our function = 1.
+When <EXPRESSION> = <EXPRESSION>, so let's say that, and I'm not doing them on the same scale, but let's say that.
+So this, on the graph of <EXPRESSION> = <EXPRESSION>, this would be <EXPRESSION>, this would be <EXPRESSION>, this would be <EXPRESSION>, this would be <EXPRESSION>.
+So when <EXPRESSION> = <EXPRESSION>, our function = 1.
 So this is a bit of a bizarre function, but we can define it this way.
 You can define a <EXPRESSION> however you like to define it.
 And so notice, graph <EXPRESSION> = <EXPRESSION>

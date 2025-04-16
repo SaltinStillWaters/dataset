@@ -4,11 +4,11 @@ So let me right down the fundamental theorem of calculus.
 I know I covered it really fast in the last presentation.
 Just to make sure you understand this formula.
 The last couple presentations were really to give you an intuition for this exact formula.
-Let's say that big f prime of x is equal to f of x, right? That's also like saying that the that's equivalent to saying that f of x big f of x is equal to the antiderivative of f of x, right? Well, let's just that it's one of the possible antiderivatives of f of x, right? Because there's always a constant term here and you're not sure whether it is.
+Let's say that big f prime of x = f of x, right? That's also like saying that the that's equivalent to saying that f of x big f of x = the antiderivative of f of x, right? Well, let's just that it's one of the possible antiderivatives of f of x, right? Because there's always a constant term here and you're not sure whether it is.
 And this is why people tend to use this standard because we know that f of x is the derivative of big f prime of x.
 Big f of x is just one of the antiderivatives of f of x.
 So this is a little bit not true, but I think you get the idea.
-But the fundamental theorem of calculus tells us if this top line is true, then the definite integral from a to b of f of x d x is equal to its antiderivative evaluated at b minus its antiderivative evaluated at a.
+But the fundamental theorem of calculus tells us if this top line is true, then the definite integral from a to b of f of x d x = its antiderivative evaluated at b minus its antiderivative evaluated at a.
 And I know I said here that big f isn't the only antiderivative, right? Because you could at any constant to this and that would also be the antiderivative.
 But when you subtract here, the constants will cancel out.
 So it really doesn't matter which of the constants you pick.
@@ -21,7 +21,7 @@ There you go.
 Look how straight that is.
 Draw the x-axis.
 Not perfect but it'll do.
-Let's say that my f of x is equal to x squared plus 1.
+Let's say that my f of x = x squared plus 1.
 So f of x looks like this.
 This is 1.
 So it'll start at 1.
@@ -33,7 +33,7 @@ So that's f of x.
 It's a parabola.
 y-intercept at 1.
 And let's say I want to figure out the area under the curve between the curve and, really, the x-axis.
-Let's say I want to figure out the area between the curve and the x-axis from x equals negative 1 to, I don't know, x equals 3.
+Let's say I want to figure out the area between the curve and the x-axis from x = negative 1 to, I don't know, x = 3.
 So this is the area I want to figure out.
 I'm going to shade it in.
 So this is the area.
@@ -46,7 +46,7 @@ But if you watched the last videos, hopefully that hit the point home.
 But now we'll just mechanically compute because, actually, understanding it is a bit harder than just doing it.
 But let's just mechanically compute it.
 So we are essentially just going to figure out the integral from minus 1 to 3 of f of x, which is x squared plus 1 d x.
-What's the antiderivative of x squared plus 1? This just equals the antiderivative.
+What's the antiderivative of x squared plus 1? This just = the antiderivative.
 So it's just x to the third we could say 1/3 x to the third or x to the third over 3 plus x, right? The derivative of x is 1.
 And then we don't have to worry about plus c because we're going to subtract out the c's.
 You'll see.
@@ -56,7 +56,7 @@ You could pick an arbitrary c right here and it'll just cancel out.
 And we're going to evaluate that at 3 and negative 1 and we're going to subtract out big f of negative 1 from big f of 3.
 This is just the notation they use.
 You figure out the antiderivative and you say where you're going to evaluate it.
-And then this is equal to So if I evaluate 3.
+And then this = So if I evaluate 3.
 3 to the third power is what? That's 27.
 27 divided by 3 is 9.
 And then 9 plus 3 is 12.
@@ -69,7 +69,7 @@ And then, from that we'll subtract big f of negative 1, right? Minus big f of ne
 And if we put minus 1 here.
 Let's see, minus 1 to the third power is minus 1.
 So it's minus 1/3 and then plus minus 1, right? So minus 1/3 plus minus 1.
-I think that equals minus 4/3, correct? I think so.
+I think that = minus 4/3, correct? I think so.
 Maybe I'm making a mistake with negative signs.
 Minus 1/3 minus 4/3.
 And I'm going to subtract that, right? So if I'm subtracting minus 4/3, it's the same thing as adding minus 4/3.
@@ -85,12 +85,12 @@ Let me draw again.
 Some coordinates.
 I don't know if I'm going to have time to do it in this video but I'll try.
 I always try.
-Let's say I have f of x is equal to the square root of x.
+Let's say I have f of x = the square root of x.
 So it looks something like this.
 That's actually a pretty nice looking, kind of sideways parabola, I think.
 This is f of x.
 And let's say I have another function.
-g of x which equals x squared.
+g of x which = x squared.
 So g of x is actually going to look something like this.
 Whoops! I was doing well and then something happened.
 And, of course, it'll continue on this side as well.
@@ -98,9 +98,9 @@ Because it is defined for negative numbers.
 But anyway, my question to you, or my question to myself, really, is what is the area between the curves where they intersect? What is this? What is this area? Well, the first thing you have to figure out is just what are the boundary points? What is this point? And what is this point? Well this point, I think, is pretty clear.
 It's 0, 0, right? They both intersect at 0, 0.
 And even this point, you could probably do it from intuition.
-But if you don't, I guess, want to do it through intuition, you could just set these 2 equations equal to each other, right? You could say x squared is equal to the square root of x, right? And then you could do a bunch of things.
+But if you don't, I guess, want to do it through intuition, you could just set these 2 equations = each other, right? You could say x squared = the square root of x, right? And then you could do a bunch of things.
 You could square both sides or well, actually, this is the same thing as doing it by intuition.
-But I think it's pretty obvious that the only places where x squared is equal to the square root of x are the points x equals 0, which you already know, and x equals 1.
+But I think it's pretty obvious that the only places where x squared = the square root of x are the points x = 0, which you already know, and x = 1.
 So this is the point 1, 1.
 Which is true for both of them.
 And this is more algebra, so I won't go into that in too much detail.

@@ -12,7 +12,7 @@ And rho, this p looking thing with a curvy bottom that gives us the density at a
 And at the end of the last video we said, well, what is mass? Mass is just density times volume.
 You could view it another way.
 Density is the same thing as mass divided by volume.
-So the mass around a very, very small point, and we called that d mass, the differential of the mass, is going equal the density at that point, or the rough density at exactly that point, times the volume differential around that point, times the volume of this little small cube.
+So the mass around a very, very small point, and we called that d mass, the differential of the mass, is going = the density at that point, or the rough density at exactly that point, times the volume differential around that point, times the volume of this little small cube.
 And then, as we saw it on the last video, if you're using rectangular coordinates, this volume differential could just be the x distance times the y distance times the z distance.
 So, the density was that our density function is defined to be x, y, and z, and we wanted to figure out the mass of this volume.
 And let's say that our x, y, and z coordinates their values, let's say they're in meters and let's say this density is in kilograms per meter cubed.
@@ -58,10 +58,10 @@ So you get xy squared.
 And y goes from 0 to 4.
 And then we still have the outer integral to do.
 x goes from 0 to 3 dx.
-And when y is equal to 4 you get 16x.
+And when y = 4 you get 16x.
 And then when y is 0 the whole thing is 0.
 So you have 16x integrated from 0 to 3 dx.
-And that is equal to what? 8x squared.
+And that = what? 8x squared.
 And you evaluate it from 0 to 3.
 When it's 3, 8 times 9 is 72.
 And 0 times 8 is 0.

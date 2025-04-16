@@ -1,13 +1,13 @@
 Transcript for: Solid of Revolution (part 4) Let's continue on with our study of rotation of functions around the x, and we'll soon see the y-axis as well.
 So let's do a slightly harder example than what we've been doing, but I think it might be obvious how to approach it.
-So there's my y-axis, there's my x-axis, and in a couple of I think it was two problems ago we figured out if we had the function y is equal to square root of x let me try to draw it so this is y equals square root of x if we were rotate that around the x-axis, what the volume would be between two points, let's say 0 and some other point.
+So there's my y-axis, there's my x-axis, and in a couple of I think it was two problems ago we figured out if we had the function y = square root of x let me try to draw it so this is y = square root of x if we were rotate that around the x-axis, what the volume would be between two points, let's say 0 and some other point.
 Now let's just pick an arbitrary point 1.
 I think you know how to do that at this point.
 Now let's make it a slightly more difficult problem.
-Let's say I were to also draw the function y is equal to x squared.
+Let's say I were to also draw the function y = x squared.
 So that looks if this is 1, they both meet at 1, right? Because square root of 1 is 1, and 1 squared is 1, so that would look something like this.
-They should be actually symetric around y equals x, but anyway.
-So say y equals x squared looks like that.
+They should be actually symetric around y = x, but anyway.
+So say y = x squared looks like that.
 So my question now is, what is the volume if I were to take this figure and rotate it around? So what do I mean? So this area here, if I were to rotate that about the x-axis, what would the volume be? So now, what we did just with the square root of x, we had like a solid cup, right? It would look something like this.
 It would be like a cup, and it was solid, we were just trying to figure out the volume of it.
 Hopefully that made sense to you.
@@ -15,31 +15,31 @@ Now it's going to be kind of a hollowed-out cup, because we have this inside fun
 Hopefully that makes a little sense.
 Remember you're just taking this and then you're rotating it around the x-axis.
 Well, the way to think about it especially if you having trouble visualizing actually, the solution might help you visualize it.
-The volume of this figure, which I'm having trouble drawing, it will be the volume formed by the outside rotation of this y equals square root of x.
+The volume of this figure, which I'm having trouble drawing, it will be the volume formed by the outside rotation of this y = square root of x.
 We'll do that in the yellow.
 It'll be the volume formed when that is rotated around, and then the whole solid volume minus the volume when minus this volume.
-So if we took the y equals x squared, y equals x squared would look something like that, and then if you rotated it around the axis, it would look something like that.
+So if we took the y = x squared, y = x squared would look something like that, and then if you rotated it around the axis, it would look something like that.
 I don't know if you've ever been to Morocco, but they have these tajin plates that the tops look a lot like that.
 Well, you probably haven't.
 Well, anyway.
 It would look something like that.
-So if we subtract out this volume when it's rotated around from the volume of y equals square root of x, when that's rotated, we'll get this figure that we're trying to figure out, this area when it's rotated around.
+So if we subtract out this volume when it's rotated around from the volume of y = square root of x, when that's rotated, we'll get this figure that we're trying to figure out, this area when it's rotated around.
 And that should be intuitive for you, hopefully, because when we just did area under a curve, that's how we would figure out the area of this green area.
-We would figure out the area under square root of x, and we'd subtract out the area under y equals x squared.
-This time, we're going to say the volume of the revolution of y equals square root of x minus the volume of the revolution of y equals x squared.
+We would figure out the area under square root of x, and we'd subtract out the area under y = x squared.
+This time, we're going to say the volume of the revolution of y = square root of x minus the volume of the revolution of y = x squared.
 So let's do the problem.
-So the total volume let me do a good color, that looks good total volume is going to be equal to the volume formed when we rotate y equals square root of x around the x-axis.
+So the total volume let me do a good color, that looks good total volume is going to be = the volume formed when we rotate y = square root of x around the x-axis.
 I said from 0 to 1, and that's because I picked where they meet.
-Sometimes in a book, or on an exam, they'll just say, oh, you know, the area between y equals x squared and y equals square of x, we're going to rotate that around and you have to figure out, well they intersected at 1, and you can just set the equations equal to each other to figure that out.
+Sometimes in a book, or on an exam, they'll just say, oh, you know, the area between y = x squared and y = square of x, we're going to rotate that around and you have to figure out, well they intersected at 1, and you can just set the equations = each other to figure that out.
 We're going from 0 to 1, because they also intersect at 0.
 0 squared is the same thing as square root of 0.
-We're going from 0 to 1, and so what's the volume of the larger? Or I guess the y equals square root of x rotated around? I always forget the formula, that's why I always redraw a disk, so if that's the radius of my disk, the disk is going to come around like that, so we know that the radius is a function of the disk, and that's, of course, the dx is the depth of the disk.
+We're going from 0 to 1, and so what's the volume of the larger? Or I guess the y = square root of x rotated around? I always forget the formula, that's why I always redraw a disk, so if that's the radius of my disk, the disk is going to come around like that, so we know that the radius is a function of the disk, and that's, of course, the dx is the depth of the disk.
 So the radius is the function which, for the outside one, is square root of x, and we know area of this disk is pi r squared, so we square the radius, take a pi outside, and then we multiply that times the width, so that's where we get our dx, and of course we sum them all up and that's where we get the integral.
 I'm going to do it as two separate integrals.
 Some people will put them both within the same integral, but I really want to hit the point home that this is the volume of the outside surface, formed by the outside surface or the cup, minus the volume formed by the the inside function.
 It's going to be minus pi still going to be from 0 to 1 I drew fairly huge integral signs, I don't know why and what's the inside function? It's x squared, and that's going to be the radius of its own disks, if that's the radius that's the disk, dx is the width, so it'll be x squared, squared, times dx.
 So let's see if we can figure that out.
-So, volume equals let's take the pis out.
+So, volume = let's take the pis out.
 I think you'll see that that pi is applying to everything, so we can take the pi out.
 And then, times the integral, and now we can merge them back, because integrals are additive like that.
 You'll see what I'm talking about.
@@ -47,7 +47,7 @@ This integral is the same thing.
 So what's square root of x squared? Well that's just x.
 And what's x squared, squared? That's x to the fourth, right? You multiply the exponents, exponent rules.
 We have a minus sign here.
-Minus x to the fourth, all that times dx, we've got that pi on the outside, that equals let's keep our pi on the outside.
+Minus x to the fourth, all that times dx, we've got that pi on the outside, that = let's keep our pi on the outside.
 We're going to have to evaluate the antiderivative at 1 and 0.
 So what's the antiderivative of x? Well, that's x squared over 2, minus what's the antiderivative of x to the fourth? Well, it's x to the fifth over 5.
 That's hopefully second nature to you.
@@ -55,8 +55,8 @@ x to the fifth over 5, and we're going to evaluate that at 1 and 0.
 1 and 0.
 We're going to subtract them.
 Fundamental theorem of calculus.
-So that equals I'm going to switch colors to avoid monotony that equals pi times, let's evaluate it at 1, so it's 1/2 minus 1/5 and when you evaluate it at 0, it's 0 minus 0, so when you evaluate 0, you get nothing.
-And so what's 1/2 minus 1/5? That's pi times 2, get a common denominator of 10, 5/2 is 1/2 minus 2/10 is 1/5, so this equals, this would be 3, so we get 3pi over 10.
+So that = I'm going to switch colors to avoid monotony that = pi times, let's evaluate it at 1, so it's 1/2 minus 1/5 and when you evaluate it at 0, it's 0 minus 0, so when you evaluate 0, you get nothing.
+And so what's 1/2 minus 1/5? That's pi times 2, get a common denominator of 10, 5/2 is 1/2 minus 2/10 is 1/5, so this =, this would be 3, so we get 3pi over 10.
 That's the volume formed.
 So it's almost easier to figure out the volume of this figure than to draw it.
 Anyway, I think I'll leave you there with this video, and in the next video, we're going to start rotating around the y-axis.

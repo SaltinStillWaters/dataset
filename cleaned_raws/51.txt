@@ -16,15 +16,15 @@ I think we should be able to find a constraint on this, because we know what the
 Find the cost of materials for the cheapest such container.
 OK, so let's do a couple things.
 First, let's figure out what the height is in terms of x, and then we can find an equation for the cost in terms of x, and then take the derivatives, and find the minimum, et cetera, et cetera.
-So what do we know about this? What's the volume of this box? The volume of this box is equal to the, what did I say, this is the length, but it doesn't really matter.
+So what do we know about this? What's the volume of this box? The volume of this box = the, what did I say, this is the length, but it doesn't really matter.
 Length times the width times the height.
 So it's 2x times x, 2x squared times h.
 So it's 2x squared times h, right? Base times height times width, whatever.
 Length times width times height.
 Just the volume of a rectangle.
 And they already said that the volume is 10 meters cubed, so that gives us a good constraint.
-So that has to equal 10.
-Let's divide both sides by 2x squared, and so what do we get? If we take this equation, we divide both sides by 2x squared, we get h is equal to 10 over 2x squared, which is equal to, we could say, 5x to the minus 2 power.
+So that has to = 10.
+Let's divide both sides by 2x squared, and so what do we get? If we take this equation, we divide both sides by 2x squared, we get h = 10 over 2x squared, which =, we could say, 5x to the minus 2 power.
 So this is, so we could write this as 5x to the minus 2 power.
 That is h.
 We have just solved that.
@@ -34,7 +34,7 @@ So now let's see what the cost of the material, the total cost of the material, 
 So I'll do that in magenta.
 The cost of the material.
 And I can even say, as a function of x.
-is equal to what? OK.
+= what? OK.
 Material for the sides costs $6 per square meter.
 So what is the surface area of the sides? Oh no, they tell the material for the base first.
 So material for the base costs $10 per square meter.
@@ -67,7 +67,7 @@ And now we're ready to just take the derivative and find out what the minimum po
 So let's do that.
 So c prime of x, and this is a fun, non-hairy derivative.
 So it's 40, 2 times 20 x and then minus 180 x to the minus 2.
-And the minimum or maximum point are going to be where this is equal to 0, so let's set that equal to 0.
+And the minimum or maximum point are going to be where this = 0, so let's set that = 0.
 Let me clear up some space.
 I think you understand all of this, so let me get rid of that.
 Actually, I like the drawing, but it's got to go, because I need the room.
@@ -75,11 +75,11 @@ If you need to review it, just rewind the video.
 OK.
 So we want to set the derivative, to find the minimum or maximum point, at minimum or maximum point on the curve, the slope is 0, so the derivative is 0.
 So let's figure that out.
-So 40x minus 180 x to the minus 2 is equal to 0.
-And the first thing I would do is just, you could divide both sides by 20, and you get 2x minus 9x minus 2 is equal to 0 divided by 20, which is 0.
+So 40x minus 180 x to the minus 2 = 0.
+And the first thing I would do is just, you could divide both sides by 20, and you get 2x minus 9x minus 2 = 0 divided by 20, which is 0.
 And then, let's see what you get.
-If you add 9x to the minus 2 to both sides, you get 2x is equal to 9x to the minus 2, or 9 over x squared, right? That's the same thing is 9x to the minus 2.
-Now, I don't know, let's multiply both sides of this equation by x squared, so you get 2x to the third is equal to 9, or x to the third is equal to 9/2, or x is equal to the cube root, or we could just say 9/2 to the 1/3 power, whatever that could be.
+If you add 9x to the minus 2 to both sides, you get 2x = 9x to the minus 2, or 9 over x squared, right? That's the same thing is 9x to the minus 2.
+Now, I don't know, let's multiply both sides of this equation by x squared, so you get 2x to the third = 9, or x to the third = 9/2, or x = the cube root, or we could just say 9/2 to the 1/3 power, whatever that could be.
 4.
 5 to the 1/3 power.
 And do we know that this is a minimum or a maximum point? Well, we could go and take the second derivative, and then confirm that we're concave upwards at this point, and then we would know that we are at a minimum point, and this is the cheapest such container.
@@ -89,7 +89,7 @@ Try some other x.
 And you know that this is either going to be a maximum or a minimum, or at least a local maximum or minimum, or if you try another x and if it's greater, then you have a minimum.
 Or the other thing is, well, you know, if there's only one critical point, and they ask you to find the cheapest container, that critical point is probably going to be the minimum point.
 But anyway.
-So just for fun, let's figure out what that is actually equal to.
+So just for fun, let's figure out what that is actually =.
 I'll actually go to google.
 com, and let's see.
 We could just say, we want 9/2 to the 1/3 power.
@@ -98,7 +98,7 @@ So that is 4.
 1.
 65.
 So that's our answer.
-If x is equal to 1.
+If x = 1.
 65, you know, plus some other points, then we have the cheapest container to produce.
 It's 1.
 65 something something.

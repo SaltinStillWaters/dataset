@@ -13,7 +13,7 @@ So we had our traditional x and y-axis before, but now let's give another dimens
 Let's say that this is my x-axis and I'll draw the positive quadrant.
 That's my x-axis.
 That's the y-axis, and that's the z-axis.
-And the convention is to kind of follow the right hand rule, where the x-axis taking the cross product of the x-axis with the y-axis is equal to the z-axis.
+And the convention is to kind of follow the right hand rule, where the x-axis taking the cross product of the x-axis with the y-axis = the z-axis.
 What do I mean by that? This is x those colors really don't go well together.
 This is y.
 This is z.
@@ -27,7 +27,7 @@ It's in y-direction, but it has a magnitude of 1.
 And I'll use a different color for z.
 z is up.
 And the unit vector for there is k.
-And this is just a convention, that i cross j is equal to k.
+And this is just a convention, that i cross j = k.
 And that's just the convention, you know, for drawing the x-axis.
 Do we make increasing x pointing out this way? Or do we make increasing x point inwards? And this gives us the convention.
 So i goes in this direction.
@@ -43,20 +43,20 @@ So that's just a good to know, where did that convention come from? This is kind
 But let's get to the meat and potatoes.
 So how do we define a surface in three dimensions? Well, we can define z as a function of x and y.
 So let's do that.
-And just the notation, z is equal to a function of x and y.
+And just the notation, z = a function of x and y.
 And all that means is that if I give you an x-value and a y-value you get a z-value.
 And so, I don't know, let's pick one.
-z is equal to x plus y.
-So this z is equal to, I don't know, x squared plus y.
+z = x plus y.
+So this z =, I don't know, x squared plus y.
 So how do we plot the points on the surface? And I'll show you, actually, computer generated surfaces that are far more professional looking than anything I could possibly try to draw.
 So let's say, what's f of f of, I don't know, 2 comma 1.
 Well, that would mean x is 2, so it's 2 squared plus 1.
-Well, it equals 5.
+Well, it = 5.
 And if we had to plot that point of the surface and maybe I'll actually graph this one in a little bit we go along the x-axis 2.
 So 1, 2.
 We go along the y-axis 1.
-So if you take this point this is x is equal to y is equal to 1.
-And then we go and then we say, well, z is equal to 5.
+So if you take this point this is x = y = 1.
+And then we go and then we say, well, z = 5.
 So we can go up here, I don't know, we'd go up 5 units.
 And we would plot that point.
 And you would see, if you kept doing that, you would plot a surface.
@@ -91,7 +91,7 @@ And make that toothpick tangent to the bowl, and you can see that on any point o
 So you kind of have to pick the orientation of that toothpick.
 So what we're going to learn is when you take a derivative in three dimensions, you have to specify the direction that you're taking the derivative in.
 And this is why I actually drew this wall here.
-This wall is the equation y is equal to 0.
+This wall is the equation y = 0.
 3.
 So you can kind of view it.
 Along this wall, y is a constant, right? So if we assume that y is constant, then maybe we could take just the derivative with respect to x.
@@ -101,7 +101,7 @@ So first of all, what is the equation of this surface? And I just picked one tha
 But the equation of that surface is and I'm going to remove this now, so I don't sound like I'm melting.
 The equation of that surface and let me just clear out everything, just because we'll probably need the extra space.
 Go back to the pen tool.
-The equation is z is equal to x squared plus xy plus y squared.
+The equation is z = x squared plus xy plus y squared.
 So we said if we want to take a derivative, it's hard to you know, you can't just say there is one derivative.
 We have to pick a direction.
 We have to hold everything else constant and take the derivative with respect to just one variable.
@@ -113,7 +113,7 @@ So let's say we wanted to hold y constant.
 And we just say, for any constant y, how much does z change with respect to x? Then we take the partial derivative this is the notation.
 You can view it as a d with the top curled.
 The partial derivative of z with respect to x.
-It equals all we do is we take this expression we take the derivative of x and we just assume that y is some constant.
+It = all we do is we take this expression we take the derivative of x and we just assume that y is some constant.
 So what's the derivative of 2x with respect to x? Well, it's just 2x.
 What's the derivative of xy with respect to x? Well, y is just a number.
 It's just a constant.
@@ -127,27 +127,27 @@ So the derivative of just the number with respect to x is just 0.
 So the derivative of that is 0.
 So the partial derivative of z with respect to x is 2x plus y.
 Now, what does that mean? Well, that means if I were and actually, let me give you a little notation, before I show you what that means.
-Another way to write this exact same thing is if we wrote that f of xy is equal to the same thing x squared plus xy plus y squared the partial of f with respect to x we could have written as this.
-The partial derivative of f with respect to x and still a function of x and y, right? It still depends on what constant y you're using is equal to 2x plus y.
+Another way to write this exact same thing is if we wrote that f of xy = the same thing x squared plus xy plus y squared the partial of f with respect to x we could have written as this.
+The partial derivative of f with respect to x and still a function of x and y, right? It still depends on what constant y you're using = 2x plus y.
 Anyway, I thought it's nice to see that notation.
 Now, what does this mean? Well, what is the slope of z with respect to x at, say, when x is 1 and actually, let's pick smaller numbers.
-When x is equal to, I don't know, when x is equal to 0.
-2 and y is equal to, I don't know, 0.
+When x =, I don't know, when x = 0.
+2 and y =, I don't know, 0.
 3.
 Well, we could use this.
 The partial derivative of f, with respect to x, at the point 0.
 2, 0.
-3 is equal to 2 times x that's 0.
+3 = 2 times x that's 0.
 4 plus y plus 0.
 3.
 So the slope of this function with respect to x at the 0.
 2, comma 0.
-3, is equal to 0.
+3, = 0.
 7.
 Let's see if we can visualize that.
-So that wall represents the line y is equal to 0.
+So that wall represents the line y = 0.
 3.
-And we want the slope at equal at x is equal to 0.
+And we want the slope at = at x = 0.
 2.
 So this is x is 0.
 2, right here.

@@ -7,7 +7,7 @@ The point of here isn't to show you how to integrate, the point of here is to sh
 And frankly, in double integral problems the hardest part is figuring out the boundaries.
 Once you do that, the integration is pretty straightforward.
 It's really not any harder then single variable integration.
-So let's say that's our surface: z is equal to xy squared.
+So let's say that's our surface: z = xy squared.
 Let me draw the axes again.
 So that's my x-axis.
 That's my z-axis.
@@ -24,15 +24,15 @@ Let's say that x goes from 0 to 1.
 And let's say that the volume that we want to figure out under the surface, it's not from a fixed y to an upper-bound y.
 I'll show you: it's actually a curve.
 So this is all on the xy plane, everything I'm drawing here.
-And this curve, we could view it two ways: we could say y is a function of x, y is equal to x squared.
-Or we could write is equal to square root of y.
+And this curve, we could view it two ways: we could say y is a function of x, y = x squared.
+Or we could write = square root of y.
 We don't have to write plus or minus or anything like that because we're in the first quadrant.
 So this is the area above which we want to figure out the volume.
 Let me, yeah, it doesn't hurt to color it in just so we can really hone in on what we care about.
 So that's the area above which we want to figure out the volume.
 You could kind of say, that's our bounded domain.
-And so x goes from 0 to 1, and then this point is going to be what? That point's going to be 1 comma 1, right? 1 is equal to 1 squared, 1 is equal to the square root of 1.
-So this point is y is equal to 1.
+And so x goes from 0 to 1, and then this point is going to be what? That point's going to be 1 comma 1, right? 1 = 1 squared, 1 = the square root of 1.
+So this point is y = 1.
 And then I'm not going to draw this surface exactly.
 I'm just trying to give you a sense of what the volume of the figure we're trying to calculate is.
 If this is just some arbitrary surface let me do it in a different color so this is the top.
@@ -47,7 +47,7 @@ You get the idea.
 And then the boundary here is like this.
 And this top isn't flat, you know, it could be curved surface.
 I do a little like that, but it's a curved surface.
-And we know in the example we're about to do that the surface right here is z is equal to x squared.
+And we know in the example we're about to do that the surface right here is z = x squared.
 So we want to figure out the volume under this.
 So how do we do it? Well, let's think about it.
 We could actually use the intuition that I just gave you.
@@ -58,9 +58,9 @@ So let me rotate it up like that.
 I'm just going to draw our xy plane.
 Because that's what matters.
 Because the hard part here is just figuring out our bounds of integration.
-So the curve is just y is equal to x squared, look something like that.
-This is the point y is equal to 1.
-This is y-axis, this is the x-axis, this is the point x is equal to 1.
+So the curve is just y = x squared, look something like that.
+This is the point y = 1.
+This is y-axis, this is the x-axis, this is the point x = 1.
 That's not an x, that's a 1.
 This is the x.
 Anyway, so we want to figure out, how do we sum up this dx times dy, or this da, along this domain? So let's draw it.
@@ -80,15 +80,15 @@ So we want to sum that dx, sum one here, sum here, et cetera, et cetera.
 So we're going to sum in the x-direction.
 So my question to you is, what is our lower bound of integration? Well, we're kind of holding our y constant, right? And so if we go to the left, if we go lower and lower x's we kind of bump into the curve here.
 So the lower bound of integration is actually the curve.
-And what is this curve if we were to write x is a function of y? This curve is y is equal to x squared, or x is equal to the square root of y.
-So if we're integrating with respect to x for a fixed y right here we're integrating in the horizontal direction first our lower bound is x is equal to the square root of y.
+And what is this curve if we were to write x is a function of y? This curve is y = x squared, or x = the square root of y.
+So if we're integrating with respect to x for a fixed y right here we're integrating in the horizontal direction first our lower bound is x = the square root of y.
 That's interesting.
 I think it's the first time you've probably seen a variable bound integral.
 But it makes sense because for this row that we're adding up right here, the upper bound is easy.
-The upper bound is x is equal to 1.
-The upper bound is x is equal to 1, but the lower bound is x is equal to the square root of y.
+The upper bound is x = 1.
+The upper bound is x = 1, but the lower bound is x = the square root of y.
 Because you go back like, oh, I bump into the curve.
-And what's the curve? Well the curve is x is equal to the square root of y because we don't know which y we picked.
+And what's the curve? Well the curve is x = the square root of y because we don't know which y we picked.
 Fair enough.
 So once we've figured out the volume so that'll give us the volume above this rectangle right here and then we want to add up the dy's.
 And remember, there's a whole volume above what I'm drawing right here.
@@ -98,11 +98,11 @@ Now if we want to figure out the entire volume of the solid, we integrate along 
 Or we add up all the dy's.
 This was a dy right here, not a dx.
 My dx's and dy's look too similar.
-So now what is the lower bound on the y-axis if I'm summing up these rectangles? Well, the lower bound is y is equal to 0.
-So we're going to go from y is equal to 0 to what what is the upper bound? to y is equal to 1.
+So now what is the lower bound on the y-axis if I'm summing up these rectangles? Well, the lower bound is y = 0.
+So we're going to go from y = 0 to what what is the upper bound? to y = 1.
 And there you have it.
 Let me rewrite that integral.
-So the double integral is going to be from x is equal to square root of y to x is equal to 1, xy squared, dx, dy.
+So the double integral is going to be from x = square root of y to x = 1, xy squared, dx, dy.
 And then the y bound, y goes from 0 to y to 1.
 I've just realized I've run out of time.
 In the next video we'll evaluate this, and then we'll do it in the other order.

@@ -2,7 +2,7 @@ Transcript for: Calculus: Maximum and minimum values on an interval I've been re
 So these were sent to me by [? Akosh ?].
 I don't know where he is but these are interesting problems and I haven't done anything like these before, so I thought I would do the exact problem he's given.
 So the first problem says, identify the critical point, and find the maximum and minimum value on the given interval.
-And they say f of x is equal to x squared plus 4x plus 4.
+And they say f of x = x squared plus 4x plus 4.
 And the interval that they care about is from minus 4, and including minus 4 that's why we have the brackets there to 0.
 And just so you know, this interval notation, if it was written like this with parentheses, it would mean all the numbers between minus 4 and 0, but not including them.
 This is a closed interval, so you're including minus 4 and you're including 0.
@@ -10,48 +10,48 @@ This is called an open interval.
 But anyway you can ignore this, because that's not what was in the problem.
 So the first thing they ask is what are the critical points.
 And different people use different terminology, but my understanding is critical points are all the points that are interesting.
-So it's the points where the derivatives equal to 0, or the derivative just doesn't exist.
+So it's the points where the derivatives = 0, or the derivative just doesn't exist.
 But as we see in this interval, we'll stick to the derivative.
-f prime of x is equal to 2x plus 4.
-So why does this equal to 0? Let's see.
-2x plus 4 is equal to 0.
-2x is equal to minus 4.
+f prime of x = 2x plus 4.
+So why does this = 0? Let's see.
+2x plus 4 = 0.
+2x = minus 4.
 I just almost made a mistake there.
-x is equal to minus 2.
-When x is equal to minus 2, what is f of minus 2? So we know that f prime of minus 2 is equal 0.
+x = minus 2.
+When x = minus 2, what is f of minus 2? So we know that f prime of minus 2 is = 0.
 We just solved for that.
 So we know the slope is 0 at that point.
 But I just want to know what the coordinate point is.
 So f of minus 2 is 4 minus 8 plus 4.
 So f minus 2 is 0.
 Let's evaluate the function at the end points of this interval.
-f of minus 4 is equal to minus 4 squared is 16.
+f of minus 4 = minus 4 squared is 16.
 Minus 16, 4 times, so that's 0.
 And then plus 4, so f of minus 4 is 4.
-And then what's f of 0? f of 0 is equal to well that's 0 0, that's equal to 4.
+And then what's f of 0? f of 0 = well that's 0 0, that's = 4.
 So now we could graph this.
 Let me graph the difference.
-So if this is the x-axis and that is the y-axis, and the interval that we care about is from x is equal to minus 4.
+So if this is the x-axis and that is the y-axis, and the interval that we care about is from x = minus 4.
 From minus 4 to 0.
 So the first thing they said, we'll identify the critical points.
-Well the critical points were when the slope is equal to 0.
-And that's when f is equal to minus 2, and that happens at the point minus 2, 0, so it's right here, which is directly in between those two points incidentally.
-Which is a good intuition behind why these two values are equal, because this is a parabola and it's symmetric, so if you go 2 away on either side, the function should have the same value.
+Well the critical points were when the slope = 0.
+And that's when f = minus 2, and that happens at the point minus 2, 0, so it's right here, which is directly in between those two points incidentally.
+Which is a good intuition behind why these two values are =, because this is a parabola and it's symmetric, so if you go 2 away on either side, the function should have the same value.
 But anyway, ignore that if it confused you.
 So at minus 2 we have a negative slope.
-f of 0 is equal to 4.
-And f of minus 4 is equal to 4.
+f of 0 = 4.
+And f of minus 4 = 4.
 So the graph is going to look something like this.
 And I'll do it in another color.
 And since we only care about that interval, let's only graph it over that interval.
 It's going to look something like that.
 And if you said this was a critical point and they want to know the maximum and the minimum point.
 Well the minimum point is pretty clear.
-It's this critical point right here where the derivative was equal to 0.
+It's this critical point right here where the derivative was = 0.
 And if you wanted to use you know whatever they call it, the concavity theorem.
 But hopefully you have the intuition of why.
 You would see that the second derivative at this point is positive.
-And what's the second derivative? If that's f prime of x, f prime of x for all x is equal to 2.
+And what's the second derivative? If that's f prime of x, f prime of x for all x = 2.
 So really at any point you test you're going to get the second derivative to be positive.
 So especially at this critical point where the first derivative is 0.
 The second derivative being positive tells you that the slope is constantly increasing.
@@ -59,21 +59,21 @@ So the rate of change of the slope is positive.
 The slope is really negative there, little less negative, goes to 0, and then keeps increasing, becomes more positive, even more positive slope there.
 So I think that was out of scope of this exact problem, but it's good to have that intuition.
 And they want to know the maximum points.
-Well the value here, x is equal to minus 4 and the value x equals 0.
+Well the value here, x = minus 4 and the value x = 0.
 They're both maximum points.
 They tie for first place.
-So those are the maximum points, x equals 0 and x equals minus 4.
+So those are the maximum points, x = 0 and x = minus 4.
 You could say 0, 4 or minus 4, 4.
 What's the next problem they give? Let's see.
 Understanding the problem and the terminology is often more confusing then the problem itself.
-So they give h of r is equal to 1/r, and they care about the interval I'm assuming from this interval on r from negative 1 to 3, and we're going to include negative 1 and 3 because we have brackets.
+So they give h of r = 1/r, and they care about the interval I'm assuming from this interval on r from negative 1 to 3, and we're going to include negative 1 and 3 because we have brackets.
 Well what are the critical points? They're the points where either the derivative is 0, or the derivative doesn't exist.
 Now this brings up an interesting point.
 We'll see in a second there's a point here where the derivative doesn't exist, but the function also isn't defined at that point.
 So that's not a critical point.
 So in order to get a critical point and this is a bit of a technicality.
 The easy one is derivative is 0.
-Derivative equals 0.
+Derivative = 0.
 The other critical point and I was little bit non-rigorous with it when I said before is when there's no derivative.
 But f of x is defined.
 So as you're going to see in this problem, there is a point where the derivative is undefined but f of x or in this case, h of r is also not defined at that point, so it won't be a critical point.
@@ -85,9 +85,9 @@ But anyway.
 What's the derivative here? h prime of r.
 Well that's r to the negative 1, right, so it becomes negative r of the negative 2, or that's minus 1 over r squared.
 That's the derivative.
-Can this ever equal 0? Well no, it's never going to be equal 0.
-But where is it undefined? Well it's undefined when r is equal to 0.
-And r equal to 0 is in that interval.
+Can this ever = 0? Well no, it's never going to be = 0.
+But where is it undefined? Well it's undefined when r = 0.
+And r = 0 is in that interval.
 So h prime of 0 is undefined.
 But h of 0 is also undefined, right? 1/0 is undefined.
 h of 0 also undefined.
@@ -101,7 +101,7 @@ You can ever go wrong with that.
 Let's see, 1/r.
 So we want to go from negative 1 to 3, so we're going to have some negative values.
 So we want to go from r this is the r-axis, right, because this is the function of r, this is the h of r-axis.
-So we're going to go from r is equal to negative 1 to r is equal to 3.
+So we're going to go from r = negative 1 to r = 3.
 And we could plot some points.
 What is h of negative 1? It's 1 over negative 1, so it's this point right here.
 And then what happens is we get to smaller and smaller negative numbers.

@@ -36,7 +36,7 @@ f prime of x.
 What's the derivative of cosine of x? It's minus sine of x.
 So sine of x d x, it's minus sine of x.
 I could put the minus here, that'll make it look messy, I could put the minus here that'll make it messy or I could just put minus here and make these minuses cancel out and I get a plus here.
-So I get the integral of e to the x cosine of x d x is equal to e to the x cosine of x plus the integral of e to the x sine of x d x.
+So I get the integral of e to the x cosine of x d x = e to the x cosine of x plus the integral of e to the x sine of x d x.
 Hopefully I haven't confused you too much.
 I should actually do some integration by parts problems without e to the x.
 It's very hard to keep track of what I've done here.
@@ -46,7 +46,7 @@ This is g prime of x, this is g of x.
 So once again we are not clear whether we've made any progress.
 We've gone from e to the x cosine of x to e to the x sine of x.
 Let's take integration by parts again, see what happens.
-I'm just going to write on the right side of the equal sign, because this might get a little long.
+I'm just going to write on the right side of the = sign, because this might get a little long.
 I'm just going to write this first part x to the x cosine of x plus and now let's do integration by parts again.
 For this round of integration by parts this was g of x, but now, for this around, I'm going to assume it's g prime of x.
 Which doesn't really make a difference because whenever I take the anti-derivative of it to g of x, it stays the same.
@@ -61,7 +61,7 @@ It seems like I just keep adding terms, making it more and more complicated.
 In order to see if we're getting anywhere, let me just rewrite the whole thing and maybe get rid of these parenthesis, because it's just a plus, so we can get rid of the parenthesis.
 Let me use a new color.
 OK.
-So this is the original problem, e to the x cosine of x d x equals, and now let me switch back to this color, it equals e to the x cosine of x, and then I can just this parentheses doesn't matter because I'm just adding everything in the parentheses e to x cosine of x plus e to the x sine of x minus e to the x cosine x access d x.
+So this is the original problem, e to the x cosine of x d x =, and now let me switch back to this color, it = e to the x cosine of x, and then I can just this parentheses doesn't matter because I'm just adding everything in the parentheses e to x cosine of x plus e to the x sine of x minus e to the x cosine x access d x.
 Now you might think that I arbitrarily switched colors here when I rewrote this, but if you look you might see why I actually did switch colors here.
 See anything interesting? Exactly.
 This is the same thing as this, just a minus right? So we're going to do something what I think to be fairly cool.
@@ -69,12 +69,12 @@ Let's add this term to both sides of the equation.
 Let's take this and let's put it on to this side of the equation.
 If I take this and put it on this side of the equation, what happens? I then have two of these on the left side equation, so that becomes I mean I could write it out it's e to the x cosine of x d x plus, right? Because I'm taking this and I'm putting it on that side of the equation, e to the x cosine of x d x.
 That's just the same thing as 2 times the integral of e to the x cosine of x d x.
-And then that equals this term.
-Which equals e to the x cosine of x plus e to the x sine of x.
+And then that = this term.
+Which = e to the x cosine of x plus e to the x sine of x.
 I know it's really messy.
 All I have to do now to solve this integral is divide both sides by 2 and I'm done.
 So let me write it out, this is very exciting, it's the home stretch.
-If I divide both sides by 2, I get and I'm going to try to write it so you can see everything e to the x cosine of x d x equals and on that side I have e to the x cosine of x plus e to the x sine of x over 2.
+If I divide both sides by 2, I get and I'm going to try to write it so you can see everything e to the x cosine of x d x = and on that side I have e to the x cosine of x plus e to the x sine of x over 2.
 I think that's pretty neat.
 It's neat how integration by parts allowed us to do this.
 We actually never even have to evaluate this integral.

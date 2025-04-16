@@ -21,8 +21,8 @@ I don't know.
 Let me see.
 It could look like this.
 And so on.
-And if you have a curve like this and you'll see all sorts of curves when you do your calculus, because you have multiple degree polynomials, et cetera what are the interesting points? Well, the interesting points tend to be when the slope is equal to 0.
-So, in this, where does the slope equal 0? What are the interesting points here? Let me make sure I'm using the right tool.
+And if you have a curve like this and you'll see all sorts of curves when you do your calculus, because you have multiple degree polynomials, et cetera what are the interesting points? Well, the interesting points tend to be when the slope = 0.
+So, in this, where does the slope = 0? What are the interesting points here? Let me make sure I'm using the right tool.
 Right there the slope is 0, right? Because if you were to take the tangent right there, it would look something like that.
 Right there the slope is 0, as well, because if you took the tangent it would look something like that.
 And then right there, as well, the slope is 0.
@@ -39,7 +39,7 @@ So this would be the global minimum point.
 And then this is called an inflection point, because it's neither a maximum, minimum, but you kind of see that the graph kind of inflects.
 So let's study them a little bit more and see if we can get a little intuition on what happens to the graph, the first derivative, and the second derivative, at each of these points.
 Let's start with a maximum point, because maybe that's well, let's start with a minimum point, because that's what we see the most.
-You know, when we used to study y equals x squared, or regular parabolas, that was the most common thing we saw.
+You know, when we used to study y = x squared, or regular parabolas, that was the most common thing we saw.
 And then of course, if we have a negative of a parabola, it becomes like that.
 But anyway, let's study a minimum point where the graph is concave upward.
 Let's say we have a point like this.
@@ -74,8 +74,8 @@ And so I'm assuming this is a second degree polynomial.
 If this was third degree, then this would actually be a curve.
 So the slope will actually look something like this.
 And does that make sense? Well, sure.
-The graph of this could be y is equal to, I don't know, ax squared plus b.
-And then the derivative, or, you know, f of x is equal to ax squared plus b.
+The graph of this could be y =, I don't know, ax squared plus b.
+And then the derivative, or, you know, f of x = ax squared plus b.
 And so the derivative of that, of course, would be what is that? 2ax plus 0.
 So this would just be a line.
 And it actually goes through 0, 0.

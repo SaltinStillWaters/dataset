@@ -6,31 +6,11 @@ import re
 import matplotlib.pyplot as plt
 import spacy
 
-# nlp = spacy.load('en_core_web_lg')
+nlp = spacy.load('en_core_web_lg')
 
-# text = get_verbs_from_text(nlp, 'raws/.txt', 199)
-# write_file(text, 'out.txt')
-
-def clean_text(in_file, file_count):
-    file_prefix = in_file.split('.')[0]
-    file_ext = in_file.split('.')[1]
-    for i in range (0, file_count):
-        try:
-            file_name = f'{file_prefix}{i}.{file_ext}'
-            text = read_file(file_name)
-        except:
-            print(f'{file_name} does not exist. Skipping...')
-            continue
+text = get_verbs_from_text(nlp, 'cleaned_raws/.txt', 199)
+write_file(text, 'out.txt')
         
-        text = re.sub(r'\n', ' ', text)
-        text = re.sub(r'\s*\.', '.', text)
-        text = re.sub(r'\. *', '.\n', text)
-        text = re.sub(r', *', ', ', text)
-        text = re.sub(r'  +', ' ', text)
-
-        write_file(text, file_name)
-        
-clean_text('raws/.txt', 2)
         
 # # Split transcript into videos
 # root = Path('raw_transcripts')

@@ -1,0 +1,71 @@
+Transcript for: Limit examples (part 1) | Limits | Differential Calculus | 
+
+Welcome back.
+Now that we hopefully have a little bit of an intuition of what a limit is, or finding the limit of a function is, let's do some problems.
+Some of these you might actually see on your exams or when you're actually trying to solve a general limit problem.
+So let's say what is the limit once again, my pen is not working.
+What is the limit as <EXPRESSION> approaches let's say <EXPRESSION>.
+And let me see, what's a good let's say my expression is I'll put it in parentheses so it's cleaner.
+It's 2x plus 2 over x plus 1.
+So the first thing I would always try to do is just say what happens if I just stick x straight into this expression? What happens? Well, what's <EXPRESSION> when <EXPRESSION> = <EXPRESSION>?
+<EXPRESSION>.
+Well, the numerator is <EXPRESSION>.
+What's the denominator? <EXPRESSION>
+And do we know what <EXPRESSION> is? Well, no.
+It's undefined, right? So here's a case, just like what we saw in that first video, where the limit actually can't = what the expression = when you substitute <EXPRESSION> for the number you're trying to find the limit of because you get an undefined answer.
+So let's see if, using the limit, we can come up with a better answer for what it's approaching.
+Well, since we're just starting with these limit problems, let me draw a graph.
+And I think this is going to give you the intuition for what we're doing.
+It'll probably give you the answer.
+But then I'll show you how to solve this analytical.
+So if I draw a graph, these are the axes.
+Actually, I'll do the graphical and the analytical at the same time.
+So I want to rewrite this <EXPRESSION> in a way that maybe I can simplify it.
+So <EXPRESSION>.
+Isn't that the same thing as <EXPRESSION>?
+<EXPRESSION> is the same thing as <EXPRESSION>, and then all of that is over <EXPRESSION>.
+So as long as this <EXPRESSION> and this <EXPRESSION> don't = <EXPRESSION>, it actually turns out that this function let's say this is <EXPRESSION>, right?
+Well, for every value other than <EXPRESSION> = <EXPRESSION>, you could actually cancel this and this out.
+And so really, we see that <EXPRESSION> = <EXPRESSION> when <EXPRESSION> does not = <EXPRESSION>.
+And we saw when <EXPRESSION> = <EXPRESSION>, it's undefined.
+So how would we graph <EQUATION>? We showed that <EXPRESSION> = <EXPRESSION> when <EXPRESSION> does not = <EXPRESSION> and <EXPRESSION> is <EXPRESSION> when <EXPRESSION> = <EXPRESSION>.
+And once again, all I did is kind of rewrite this exact same <EQUATION>, right? I showed that I could simplify and I could divide the numerator and denominator by <EQUATION> as long as <EQUATION> does not = <EQUATION>, and that otherwise, it's <EQUATION>.
+So let me graph <EQUATION>.
+I'm going to get a different color.
+Maybe I'll go with red.
+So this is <EXPRESSION>.
+So we see that <EXPRESSION> is and let me say this is <EXPRESSION>.
+So for every other value other than <EXPRESSION>, the value of this, of <EXPRESSION>, = <EXPRESSION>.
+This is <EXPRESSION>, this is <EXPRESSION>, this is <EXPRESSION>, and so on.
+At <EXPRESSION>, the graph is <EXPRESSION>.
+So there's a hole there.
+And then we keep going to the left-hand side.
+So if we're going to do the limit, we can just visually say, well, as x let me do another color now.
+As <EXPRESSION> comes from the left-hand side, what does <EXPRESSION> =? Well, <EXPRESSION> is <EXPRESSION>
+<EXPRESSION> = <EXPRESSION> until we get to exactly <EXPRESSION>, right? And similarly, when we go from the other hand, it's the exact same thing.
+<EXPRESSION> is <EXPRESSION>, until we get to <EXPRESSION>.
+So you'll see, and I'll make sure you see it visually here, that the limit as approaches <EXPRESSION>, it = <EXPRESSION>.
+Let me draw a line here so you don't get messed up with all of it.
+And I'm not formally, I guess, proving here that the limit is <EXPRESSION>, but I'm showing you kind of an analytical way, and this is actually how it tends to be done in algebra class, is that you tend to simplify the expression so that you say, oh, if there wasn't a hole here, what would the <EXPRESSION>, right? And then you'd just evaluate it at that point.
+I think this might give you a little intuition, but this isn't a formal solution.
+But unless you're asked to, you tend not to be asked for a formal solution.
+You actually just tend to ask what the limit is, and this is the way you could solve it.
+And actually another way that you could I mean, I often used to check my answers when I used to do it is you could take a calculator and try in what happens when: what is <EXPRESSION>.
+<EXPRESSION>, right? And you can also try what is <EXPRESSION>.
+<EXPRESSION>, right? Because what you want to do is you want to say, well, what does the <EXPRESSION> = when I get really close to <EXPRESSION>? And then you could keep going closer and closer to <EXPRESSION> and see what the <EXPRESSION> approaches, and in this case, you'll see that it approaches <EXPRESSION>.
+So let's do another problem.
+Well, let's say, what is the limit as <EXPRESSION> approaches <EXPRESSION>? I think here it might be useful to draw this graph of <EQUATION> because it'll give you a visual reason, a visual represent actually, let's do it both ways.
+Let's say let's do it the picking-numbers method because I think that'll give you an intuition and maybe it'll help us draw the graph of <EQUATION>.
+So let's say that this is <EXPRESSION>.
+So clearly when <EXPRESSION> = <EXPRESSION>, we don't know.
+It's <EXPRESSION>.
+<EXPRESSION> is <EXPRESSION>.
+But what happens when <EXPRESSION> = <EXPRESSION>.
+<EXPRESSION>? Well, with <EXPRESSION>.
+Something's wrong with my tool.
+Now my computer's breaking down.
+Let's see what's going on.
+I think my computer just froze.
+Well, I'm going to try to solve this, and in the very next video, I'm going to continue on with this problem.
+So I'll actually see you in the next presentation while I figure out why my pen isn't working, and then we'll continue with this problem.
+See you very soon.

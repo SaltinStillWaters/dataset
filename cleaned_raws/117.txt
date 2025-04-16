@@ -68,7 +68,7 @@ But that makes sense, also, because as you go in the x-direction, the magnitudes
 Anyway, I don't want to confuse you too much.
 So now, the intuition, because now we don't care about the rate of change along with the direction of the vector.
 We care about the rate of change of the magnitudes of the vectors perpendicular the direction of the vector.
-So the curl, you might guess, is equal to the cross product of our Dell operator and the vector field.
+So the curl, you might guess, = the cross product of our Dell operator and the vector field.
 And if that was where your intuition led you, and that is what your guess is, you would be correct.
 That is the curl of the vector field.
 And it is a measure of how much is that field rotating, or maybe if you imagine an object in the field, how much is the field causing something to rotate because it's exerting a net torque? Because at different points in the object, you have a different magnitude of a field in the same direction.

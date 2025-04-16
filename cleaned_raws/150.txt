@@ -5,15 +5,15 @@ And we're going to traverse it just like that.
 We're going to traverse it clockwise.
 I think you get the idea.
 And so its equation is the units circle.
-So the equation of this is x squared plus y squared is equal to 1; has a radius of 1 unit circle.
+So the equation of this is x squared plus y squared = 1; has a radius of 1 unit circle.
 And what we're concerned with is the line integral over this curve c.
 It's a closed curve c.
 It's actually going in that direction of 2y dx minus 3x dy.
 So, we are probably tempted to use Green's theorem and why not? So let's try.
 So this is our path.
-So Green's theorem tells us that the integral of some curve f dot dr over some path where f is equal to let me write it a little nit neater.
-Where f of x, y is equal to P of x, y i plus Q of x, y j.
-That this integral is equal to the double integral over the region this would be the region under question in this example.
+So Green's theorem tells us that the integral of some curve f dot dr over some path where f = let me write it a little nit neater.
+Where f of x, y = P of x, y i plus Q of x, y j.
+That this integral = the double integral over the region this would be the region under question in this example.
 Over the region of the partial of Q with respect to x minus the partial of P with respect to y.
 All of that dA, the differential of area.
 And of course, the region is what I just showed you.
@@ -27,10 +27,10 @@ So in this situation when the region is to our right and we're going so this is 
 So in our example, where we're going clockwise, the region is to our right, Green's theorem is going to be the negative of this.
 So in our example, we're going to have the integral of c and we're going to go in the clockwise direction.
 So maybe I'll draw it like that of f dot dr.
-This is going to be equal to the double integral over the region.
+This is going to be = the double integral over the region.
 You could just swap these two the partial of P with respect to y minus the partial of Q with respect to x da.
 So let's do that.
-So this is going to be equal to, in this example, the integral over the region let's just keep it abstract for now.
+So this is going to be =, in this example, the integral over the region let's just keep it abstract for now.
 We could start setting the boundaries, but let's just keep the region abstract.
 And what is the partial of P with respect let's remember, this right here is our I think we could recognize right now that if we take f dot dr we're going to get this.
 The dr contributes those components.
@@ -48,12 +48,12 @@ Derivative of 2y is just 2.
 So you get 2, and then, minus the derivative of Q with respect to x.
 Derivative of this with respect to x is minus 3.
 So we're going to get minus 3, and then all of that da.
-And this is equal to the integral over the region.
+And this = the integral over the region.
 What's this, it's 2 minus minus 3? That's the same thing as 2 plus 3.
 So it's the integral over the region of 5 dA.
 5 is just a constant, so we can take it out of the integral.
 So this is going to turn out to be quite a simple problem.
-So this is going to be equal to 5 times the double integral over the region R dA.
+So this is going to be = 5 times the double integral over the region R dA.
 Now what is this thing? What is this thing right here? It looks very abstract, but we can solve this.
 This is just the area of the region.
 That's what that double integral represents.
@@ -61,13 +61,13 @@ You just sum up all the little dA's.
 That's a dA, that's a dA.
 You sum up the infinite sums of those little dA's over the region.
 Well, what's the area of this unit circle? Here we just break out a little bit of ninth grade actually, even earlier than that pre-algebra or middle school geometry.
-Area is equal to pi r squared.
+Area = pi r squared.
 What's our radius? So unit circle, our radius is 1.
 Length is 1.
 So the area here is pi.
-So this thing over here, that whole thing is just equal to pi.
+So this thing over here, that whole thing is just = pi.
 So the answer to our line integral is just 5 pi, which is pretty straightforward.
-I mean, we could have taken the trouble of setting up a double integral where we take the antiderivative with respect to y first and write y is equal to the negative square root of 1 minus x squared y is equal to the positive square root.
+I mean, we could have taken the trouble of setting up a double integral where we take the antiderivative with respect to y first and write y = the negative square root of 1 minus x squared y = the positive square root.
 x goes from minus 1 to 1.
 But that would have been super hairy and a huge pain.
 And we just have to realize, no, this is just the area.

@@ -51,13 +51,13 @@ If we're summing with respect to x, but we have the dy written here first.
 It's really not incorrect, but it just becomes a little ambiguous, are we summing with respect to x or y.
 But here, we could say, OK.
 If we want to sum up all the dx's first, let's do that.
-We're taking the sum with respect to x, and let me, I'm going to write down the actual, normally I just write numbers here, but I'm going to say, well, the lower bound here is x is equal to a, and the upper bound here is x is equal to b.
+We're taking the sum with respect to x, and let me, I'm going to write down the actual, normally I just write numbers here, but I'm going to say, well, the lower bound here is x = a, and the upper bound here is x = b.
 And that'll give us the volume of, you could imagine a sheet with depth, right? The sheet is going to be parallel to the x-axis, right? And then once we have that sheet, in my video, I think that's the newspaper people trying to sell me something.
 Anyway.
 So once we have the sheet, I'll try to draw it here, too, I don't want to get this picture too muddied up, but once we have that sheet, then we can integrate those, we can add up the dy's, right? Because this width right here is still dy.
 We could add up of all the different dy's, and we would have the volume of the whole figure.
 So once we take this sum, then we could take this sum.
-Where y is going from it's bottom, which we said with c, from y is equal to c to y's upper bound, to y is equal to d.
+Where y is going from it's bottom, which we said with c, from y = c to y's upper bound, to y = d.
 Fair enough.
 And then, once we evaluate this whole thing, we have the volume of this solid, or the volume under the surface.
 Now we could have gone the other way.
@@ -66,10 +66,10 @@ Let's start with that little da we had originally.
 Instead of going this way, instead of summing up the dx's and getting this sheet, let's sum up the dy's first, right? So we could take, we're summing in the y-direction first.
 We would get a sheet that's parallel to the y-axis, now.
 So the top of the sheet would look something like that.
-So if we're coming the dy's first, we would take the sum, we would take the integral with respect to y, and it would be, the lower bound would be y is equal to c, and the upper bound is y is equal to d.
+So if we're coming the dy's first, we would take the sum, we would take the integral with respect to y, and it would be, the lower bound would be y = c, and the upper bound is y = d.
 And then we would have that sheet with a little depth, the depth is dx, and then we could take the sum of all of those, sorry, my throat is dry.
 I just had a bunch of almonds to get power to be able to record these videos.
-But once I have one of these sheets, and if I want to sum up all of the x's, then I could take the infinite sum of infinitely small columns, or in this view, sheets, infinitely small depths, and the lower bound is x is equal to a, and the upper bound is x is equal to b.
+But once I have one of these sheets, and if I want to sum up all of the x's, then I could take the infinite sum of infinitely small columns, or in this view, sheets, infinitely small depths, and the lower bound is x = a, and the upper bound is x = b.
 And once again, I would have the volume of the figure.
 And all I showed you here is that there's two ways of doing the order of integration.
 Now, another way of saying this, if this little original square was da, and this is a shorthand that you'll see all the time, especially in physics textbooks, is that we are integrating along the domain, right? Because the x-y plane here is our domain.

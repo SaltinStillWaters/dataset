@@ -3,17 +3,17 @@ Welcome back.
 I'm now going to introduce you to a new tool for solving derivatives.
 Really between this rule, which is the product rule, and the chain rule and just knowing a lot of function derivatives, you'll be ready to tackle almost any derivative problem.
 Let's start with the chain rule.
-Let's say that f of x is equal to h of x times g of x.
+Let's say that f of x = h of x times g of x.
 This is the product rule.
-In the chain rule it was f of x is equal to h of g of x.
+In the chain rule it was f of x = h of g of x.
 Right? I don't know if you remember that.
-In this case, f of x is equal to h of x times g of x.
-If that's the case, then f prime of x is equal to the derivative of the first function times a second function plus the first function times the derivative of the second function.
+In this case, f of x = h of x times g of x.
+If that's the case, then f prime of x = the derivative of the first function times a second function plus the first function times the derivative of the second function.
 Pretty straightforward.
 Let's apply it.
 Let's say that I don't like this brown color, let me pick something more pleasant.
 Maybe mauve.
-Let's say that f of x is equal to 5x to the fifth minus x to the seventh times 20x squared plus 3x to them mine 7.
+Let's say that f of x = 5x to the fifth minus x to the seventh times 20x squared plus 3x to them mine 7.
 So one way we could have done it, we could just multiply this out.
 This wouldn't be too bad, and then take the derivative like any polynomial.
 But let's use this product rule that I've just shown you.
@@ -37,7 +37,7 @@ Clear image.
 Change the colors and I'm back in business.
 Let me think of a good problem.
 Let me do another one like this, and then I'll actually introduce ones and the product rule and the chain rule.
-So let's say that f of x is equal to 10x to the third plus 5x squared minus 7 times 20x to the eighth minus 7.
+So let's say that f of x = 10x to the third plus 5x squared minus 7 times 20x to the eighth minus 7.
 Then we say f prime of x, what's the derivative of this first expression.
 It's 30x squared plus 10x.
 And I just multiply it times this expression, right? 20x to the eighth minus 7.
@@ -53,7 +53,7 @@ So this is using the product rule.
 I'm going to do one more example where I'll show you, I'm going to use the product and the chain rule and I think this will optimally confuse you.
 I want to make sure I have some space.
 Here I'm going to use a slightly different notation.
-Instead of saying f of x and then what's f prime of x, I'm going to say y is equal to x squared plus 2x to the fifth times 3x to the minus three plus x squared to the minus 7.
+Instead of saying f of x and then what's f prime of x, I'm going to say y = x squared plus 2x to the fifth times 3x to the minus three plus x squared to the minus 7.
 And I want to find the rate at which y changes relative to x.
 So I want to find dy over dx.
 This is just like, if this was f of x, it's just like saying f prime of x.

@@ -1,35 +1,35 @@
 Transcript for: 2011 Calculus BC free response #1 (b & c) | AP Calculus BC | 
-Part b find the slope of the tangent line to the path of the particle at time t is equal to 3.
-So the slope of the tangent line is just going to be equal to the rate of change of y with respect to x at that point.
+Part b find the slope of the tangent line to the path of the particle at time t = 3.
+So the slope of the tangent line is just going to be = the rate of change of y with respect to x at that point.
 And this is the same thing as dy/dt over dx/dt.
 And dealing with differentials is a little bit strange, especially when you want to deal with rigorously, but you can view them as very little, small changes in y, small changes in, t small changes in x, small changes in t.
 When you view it this way, you could say, hey, look.
 If I just multiply both sides, both the numerator and the denominator, by dt over dt which, if you do view them as the same small change then they would cancel out, and you would get back to the dy over dx.
 And the reason why I wrote it this way is that they actually give us these values.
 They give us dy/dt and they give us dx/dt.
-So if you want to find the slope at time equals 3, we just have to find dy/dt at time equals 3 and dx/dt at time equals 3.
-So dy/dt at time equals 3 well, this is dy/dt right over here.
+So if you want to find the slope at time = 3, we just have to find dy/dt at time = 3 and dx/dt at time = 3.
+So dy/dt at time = 3 well, this is dy/dt right over here.
 It's just going to be sine of 3 squared, or sine of 9.
 And dx/dt at time 3, that's just going to be they tell us what dx/dt is as a function of time.
 4 times 3 plus 1.
-Well, that is equal to 13.
+Well, that = 13.
 And then we can just get our calculator out and evaluate this.
 We did a lot of this work in the first problem.
 But let's just actually take the value.
 So we have sine of 9 divided by 13 gets as 0.
 0317.
 And we're done.
-That's the slope of the tangent line to the path of the particle at time t is equal to 3.
+That's the slope of the tangent line to the path of the particle at time t = 3.
 I think we have time.
 We could crank out part c as well.
-Part c find the position of the particle at time t is equal to 3.
+Part c find the position of the particle at time t = 3.
 So they give us x prime of t, and they give us y prime of t.
 This is x prime of t.
 This is y prime of t.
 We need to figure out x of x of 3 and y of 3.
 So if we can, let's write x of t and y of t and then try to evaluate them at 3.
 So let's see.
-x of t is going to be equal to the antiderivative of this right over here.
+x of t is going to be = the antiderivative of this right over here.
 So the antiderivative of 4t is going to be 2t squared.
 Take the derivative here.
 You'll just get 4t.
@@ -41,12 +41,12 @@ You'll lose that information.
 Lucky for us, they also gave us this initial condition.
 x of 0 is 0, when t is 0, this term is going to be 0.
 This term is going to be 0.
-And they're saying the whole thing is going to be equal to 0.
+And they're saying the whole thing is going to be = 0.
 So c is going to be 0, as well.
 Let me do that explicitly just so we don't get confused.
-So x of 0 is going to be equal to 0 plus 0 plus c, which they're telling us is equal to 0.
-So c is equal to 0.
-So that tells us that x of t is going to be equal to 2t squared plus t.
+So x of 0 is going to be = 0 plus 0 plus c, which they're telling us = 0.
+So c = 0.
+So that tells us that x of t is going to be = 2t squared plus t.
 So if you want to find x of 3, you just evaluate it right over here.
 So if you want to find x of 3, it's going to be 2 times 9 plus 3.
 2 times 9 is 18, plus 3 is 21.
@@ -54,11 +54,11 @@ So x of 3 is 21.
 Now let's try to do y of t.
 I'll do it in a different color.
 So let me scroll over to the right a little bit.
-So let's say y of t is equal to so if you try to take the antiderivative of this, this is not simple to take the antiderivative of this right over here.
+So let's say y of t = so if you try to take the antiderivative of this, this is not simple to take the antiderivative of this right over here.
 It's actually very hard to do it analytically.
 Not even clear if you can do it analytically.
 Lucky for us, this part of the AP exam, we are allowed to use calculators.
-So we could just say this is equal to and this is straight from the fundamental theorem of calculus y of t is equal to the integral from 0 to t.
+So we could just say this = and this is straight from the fundamental theorem of calculus y of t = the integral from 0 to t.
 And I'll just write it as sine of x squared dx.
 I didn't want to use a t here and then use a t, as well.
 That would make it confusing.
@@ -66,14 +66,14 @@ So you integrate with respect to x, and then one of the upper bound is going to 
 And this is y of t.
 And of course, you're going to have to put a constant over here, because if you took the derivative of this, you would get y of t, and you'll lose information from this constant.
 Now, we can figure out what that constant is, because they tell us what y of 0 is.
-So y of 0 is going to be equal to the integral from 0 to 0.
+So y of 0 is going to be = the integral from 0 to 0.
 So this part right over here is going to be 0.
-So it's going to be equal to c, which they tell us y of 0 is also equal to negative 4.
-So we get y of t is equal to the integral from 0 to t of sine of x squared dx minus 4.
+So it's going to be = c, which they tell us y of 0 is also = negative 4.
+So we get y of t = the integral from 0 to t of sine of x squared dx minus 4.
 So that's y as a function of t.
 And we already figured out what x of 3 is.
 Now we have to figure out what y of 3 is.
-y of 3 is going to be equal to the integral from 0 to 3 of sine of x squared dx and then minus 4.
+y of 3 is going to be = the integral from 0 to 3 of sine of x squared dx and then minus 4.
 And, once again, lucky for us, we can use calculators here.
 So let's get the calculator out, and we want to go to the catalog of functions.
 So I press 2nd Custom here, which gives us this little catalog thing.
@@ -93,12 +93,12 @@ And this gives me let the calculator think a little bit 0.
 And then I need to subtract 4.
 So minus 4 gives negative 3.
 226, I'll go with.
-So this is equal to negative 3.
+So this = negative 3.
 226.
 Did I write that down right? I have a bad memory.
 Negative 3.
 226, and we're done.
-So y of 3 is equal to negative 3.
+So y of 3 = negative 3.
 226.
-So the position of the particle at time t equals 3, if you wanted a coordinate, it would be 21, negative 3.
+So the position of the particle at time t = 3, if you wanted a coordinate, it would be 21, negative 3.
 226.

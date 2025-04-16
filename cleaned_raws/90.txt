@@ -3,7 +3,7 @@ Voiceover: In the last video, we took the Maclaurin expansion of E to the X and 
 But it's not quite, because there's a couple of negatives in there.
 If we were to add these two together that we did not have when we took the representation of E to the X.
 But to reconcile these, I'll do a little bit of a I don't know if you can even call it a trick.
-Let's see if we take this polynomial expansion of E to the X, this approximation, what happens if we say E to the X is equal to this, especially as this becomes an infinite number of terms and becomes less of an approximation and more of an equality.
+Let's see if we take this polynomial expansion of E to the X, this approximation, what happens if we say E to the X = this, especially as this becomes an infinite number of terms and becomes less of an approximation and more of an equality.
 What happens if I take E to the IX and before that might have been kind of a weird thing to do.
 Let me write it down, E to the IX.
 Because before, I said how do you define E to the Ith power? That's a very bizarre thing to do, take something to the XI power.
@@ -13,8 +13,8 @@ Because we can take I to different amounts to different powers and we know what 
 So what happens if we take E to the IX.
 So once again, just like taking the X up here and replacing it with an IX, so every where we see the X in it's polynomial approximation, we would write an IX.
 So let's do that.
-So E to the IX should be approximately equal to, and it will become more and more equal, and this is more to give you an intuition I'm not doing a rigorous proof here, but it's still profound.
-Not to oversell it, but I don't think I can oversell what is about to be discovered or seen in this video, it would be equal to one plus instead of an X will have an IX, plus IX, plus, so what's IX squared? So let me write this down.
+So E to the IX should be approximately =, and it will become more and more =, and this is more to give you an intuition I'm not doing a rigorous proof here, but it's still profound.
+Not to oversell it, but I don't think I can oversell what is about to be discovered or seen in this video, it would be = one plus instead of an X will have an IX, plus IX, plus, so what's IX squared? So let me write this down.
 What is IX squared over two factorial? Well I squared is going to be negative one, and then you'd have X squared over two factorials.
 It's going to be minus X squared over two factorial, I think you might see where this is going to go.
 And then what is IX? Remember everywhere we saw an X, we're going to replace it with an IX.
@@ -22,7 +22,7 @@ So what is IX to the third power? Actually let me write this out, let me not ski
 So this is going to be IX squared over two factorial, actually let me, I want to do it just the way.
 So plus IX squared over two factorial, plus IX to the third over three factorial, plus IX to the fourth over four factorial, and we can keep going, plus IX to the fifth over five factorial, and we can just keep going so on and so forth.
 Let's evaluate if these IXs raised to these different powers.
-So this will be equal to one plus IX, IX squared, that's the same thing as I squared times X squared, I squared is negative one.
+So this will be = one plus IX, IX squared, that's the same thing as I squared times X squared, I squared is negative one.
 So this is negative X squared over two factorial, and this is going to be the same thing as I to the third times X to the third.
 I to the third is the same thing as I squared times I, so it's going to be negative I.
 So this is going to be minus I times X to the third over three factorial.
@@ -36,7 +36,7 @@ I think you might see a pattern here.
 Coefficient is one, then I, then negative one, then negative I, then one, then I, then negative one, X to the sixth over six factorial, and then negative IX to the seventh over seven factorial.
 So we have some terms, some of them are imaginary, they're being multiplied by I.
 Some of them are real.
-Why don't we separate them out? So once again, E to the IX, is going to be equal to this thing, especially as we add an infinite number of terms.
+Why don't we separate them out? So once again, E to the IX, is going to be = this thing, especially as we add an infinite number of terms.
 Let's separate out the real and the non-real terms.
 Or the real and the imaginary terms I should say.
 So this is real, this is real, this is real, and this right over here is real.
@@ -53,7 +53,7 @@ We factor out the I, plus X to the fifth over five factorial and then the next i
 So it's minus X to the seventh over seven factorial.
 And then we would obviously keep going.
 So plus minus keep going, so on and so forth, preferably to infinite so that we get as good of a approximation as possible.
-So we have a situation where E to the IX is equal to all of this business here.
+So we have a situation where E to the IX = all of this business here.
 But you probably remember from the last two videos the real part, this was the polynomial, this was the Maclaurin approximation of cosine of X around I should say the Taylor approximation around zero or you could also call it the Maclaurin approximation.
 So this and this are the same thing.
 So this is cosine of X, especially when you added an infinite power of terms, cosine of X.
@@ -63,7 +63,7 @@ This right here is sine of X.
 And so if we take it for granted, I'm not rigorously proving it to you, and if you were to take an infinite number of terms here that this will essentially become cosine of X and if you take an infinite number of terms here this will become sine of X.
 It leads to a fascinating formula.
 We could say that E to the IX, is the same thing as cosine of X, and you should be getting goose pimples right around now.
-is equal to cosine of X, plus I times sine of X, This is Euler's Formula.
+= cosine of X, plus I times sine of X, This is Euler's Formula.
 And this right here is Euler's Formula.
 And if that by itself isn't exciting and crazy enough for you, because is really should be.
 Because we've already done some pretty cool things.
@@ -72,15 +72,15 @@ We have cosine and sine of X, which are ratios of right triangles, it comes out 
 And some how we've thrown in the square root of negative one.
 There seems to be this cool relationship here.
 But it becomes extra cool, and we're going to assume we're operating in radians here.
-If we assume Euler's Formula, what happens when X is equal to pi? Just to throw in another wacky number in there.
+If we assume Euler's Formula, what happens when X = pi? Just to throw in another wacky number in there.
 The ratio between the circumference and the diameter of a cirle.
-What happens when we throw in pi? We get E to the Ipi is equal to cosine of pi.
+What happens when we throw in pi? We get E to the Ipi = cosine of pi.
 Cosine of pi is what? Pi is half way around the unit circle, so cosine of pi is negative one and then sine of pi is zero, so this term goes away.
 So if you evaluated at pi you get something amazing, it's called Euler's Identity.
 I always have trouble pronouncing Euler's.
 Euler's Identity, which we could write like this, or we could add one to both sides and we could write it like this.
 And I'll write it in different colors for emphasis.
-E to the I times pi plus one is equal to , I'll do that in a neutral color, is equal to, I'm just adding one to both sides of this thing right over here, is equal to zero.
+E to the I times pi plus one = , I'll do that in a neutral color, =, I'm just adding one to both sides of this thing right over here, = zero.
 And this is thought provoking.
 I mean here we have, this tells you that there's some connectedness to the universe that we don't fully understand or at least I don't fully understand.
 I is defined by engineers for simplicity so that they can find the roots of all sorts of polynomials.

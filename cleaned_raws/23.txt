@@ -39,10 +39,10 @@ That's amazing.
 At any point along the curve e to the x, the slope of that point is e to the x.
 Just to hit the point home.
 I'm diverging, a little bit.
-But if I said f of x is equal to e to the x, right? And let's say f of 2 is equal to e squared.
+But if I said f of x = e to the x, right? And let's say f of 2 = e squared.
 And I asked you, friend I don't know your name what is the slope of e to the x at the point 2, e squared.
 And you could say Sal, the slope at that point is e squared.
-That blows my mind that it's a function where the slope at any point on that line is equal to the function.
+That blows my mind that it's a function where the slope at any point on that line = the function.
 And it's e.
 e shows up all sorts of places.
 I might do a whole series of presentations called the magic of e, because e shows up all over the place.
@@ -80,7 +80,7 @@ That's also interesting.
 One day I'm going to do this holographically because I think that might not be sinking in properly.
 The derivative of cosine of x is minus sin of x.
 There are good to memorize though, because you'll be able to recall is quickly on a test and then use it.
-And then finally the derivative of tan of x is equal to 1 over cosine square of x which you could also write as the secant squared of x.
+And then finally the derivative of tan of x = 1 over cosine square of x which you could also write as the secant squared of x.
 You might want to memorize these now, and actually I encourage you to explore these things, I encourage you to graph each of these functions.
 Graph a function, graph its derivative and look at them, and really intuitively understand why the derivative function actually does describe the slope of the original function.
 And actually I'll probably do a presentation on that.

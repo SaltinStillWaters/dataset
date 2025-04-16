@@ -20,22 +20,22 @@ Well you have a little bit of a small change in x over that arc length that I've
 And so this is going to be, especially if you get these small enough, a line is going to be a pretty - you could really approximate this arc by the hypotenuse right over here.
 We know what this is from the Pythagorean theorem.
 This is going to be the square root of dx squared plus dy squared, straight up from the Pythagorean theorem.
-Now, how do we write these as functions of t? Well we know that dx/dt is equal to x'(t) or if we treat differentials kind of like numbers, and you can most of the time, this is not very rigorous, but you that that dx is equal to x'(t) dt and we know that dy of t or dy/dt, we know this is the same thing at the derivative of y with respect to t; y'(t) multiply both sides by dt you get dy = y'(t) dt.
+Now, how do we write these as functions of t? Well we know that dx/dt = x'(t) or if we treat differentials kind of like numbers, and you can most of the time, this is not very rigorous, but you that that dx = x'(t) dt and we know that dy of t or dy/dt, we know this is the same thing at the derivative of y with respect to t; y'(t) multiply both sides by dt you get dy = y'(t) dt.
 And all I'm doing here is essentially reproving or re-deriving the arc length formula.
 So we know that this right over here is just a small little arc length so we could call that dL or da for small arc length.
 Or actually we don't have to worry about what we call that right now.
-But this expression for that very little small arc length right over there; if I rewrite it in terms of this and this, what I have on the right-hand side, and I want to do that so that I can get everything in terms of t, I get it is equal to the square root of dx squared.
+But this expression for that very little small arc length right over there; if I rewrite it in terms of this and this, what I have on the right-hand side, and I want to do that so that I can get everything in terms of t, I get it = the square root of dx squared.
 .
 .
 Well dx squared is the same thing as (I'll do it in that magenta color) x'(t) dt squared and then you have plus dy squared, and dy squared is just this stuff: y'(t) dt squared.
-And so this little arc length is this right over here, and then you can actually factor out a dt squared, so this is going to be equal to dt squared times x'(t) squared plus (I'll do this in green) y'(t) squared.
+And so this little arc length is this right over here, and then you can actually factor out a dt squared, so this is going to be = dt squared times x'(t) squared plus (I'll do this in green) y'(t) squared.
 And then of course you can factor out the dt out of the radical sign now.
 The square root of dt squared is just dt so all of this simplifies to (I'll write it in yellow) this part right over here is x'(t) squared and this part right over here is y'(t) squared, and then we factor out the dt.
 Now this is all just a way to derive what this little small d-arc or this little small arc length is but we don't want to find just a small arc length, we want to sum over all of them, so what we want to do is integrate the dt's, take the infinite sum of these infinitely small pieces right over here, these infinitely small arc lengths from t = 0 to t = 3.
 And so now we just do it.
 And so they tell us what x'(t) is and y'(t) is.
 Let me just rewrite the expression.
-This is going to be equal to the integral from 0 to 3 of the square root of x'(t) squared; the problem they give us what x'(t) is, its 4t + 1.
+This is going to be = the integral from 0 to 3 of the square root of x'(t) squared; the problem they give us what x'(t) is, its 4t + 1.
 So its 4t + 1 squared plus y'(t) squared.
 .
 .
@@ -51,6 +51,6 @@ And so, let's let the calculator do all the work here and we get.
 its taking a little time.
 We get 21.
 091.
-So this is equal to 21.
+So this = 21.
 091 and that's the entire arc length.
 That's the distance that this particle traveled.

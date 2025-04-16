@@ -1,9 +1,9 @@
 Transcript for: Vector valued function derivative example | Multivariable Calculus | 
 What I want to do in this videos is to make to parametrizations of essentially the same curve, but we're going to go along the curve a different rates.
 And hopefully we'll be able to use that to understand, or get a better intuition, behind what exactly it means to take a derivative of a position vector valued function.
-So let's say my first parametrization, I have x of t is equal to t.
-And let's say that y of t is equal to t squared.
-And this is true for t is greater than or equal to 0, and less than or equal to 2.
+So let's say my first parametrization, I have x of t = t.
+And let's say that y of t = t squared.
+And this is true for t is greater than or = 0, and less than or = 2.
 And if I want to write this as a position vector valued function, let me write this.
 x1, call that y1, and let me write my position vector valued function; I could say r1 I'm numbering them because I'm going to do a different version of this exact same curve with a slightly different parametrization so r1 one of t, we could say is x1 of t times i the unit vector i so we'll just say t times i plus this is just x of t right here, or x1 of t; I'm numbering them because I'll later have an x2 t plus t squared times j.
 And if I wanted to graph this, I'm going to be very careful graphing it because I really want to understand what the derivative means here.
@@ -12,9 +12,9 @@ So let's say that this is one, two, three, four.
 Then let me draw my x-axis.
 That's good enough.
 And my x-axis, I want it to be roughly to scale, one and two.
-And so at t equals 0, both my x and y coordinates are at 0 or this is just going to be the 0 vector, so this is where we are a t equals 0 at t equals 1 this is going to be one times i we're going to be just like that plus 1 times j.
+And so at t = 0, both my x and y coordinates are at 0 or this is just going to be the 0 vector, so this is where we are a t = 0 at t = 1 this is going to be one times i we're going to be just like that plus 1 times j.
 1 squared is j, so we're going to be right there.
-And then at t is equal to 2, we're going to be at 2i.
+And then at t = 2, we're going to be at 2i.
 So 2i you could imagine 2 times i would be this vector right there 2 times i plus 4 2 squared is 4 4 times j, so plus 4 times j.
 If you add these two vectors heads to tails, you're going to get a vector that's end point is right there.
 The vector is going to look something like this.
@@ -34,19 +34,19 @@ Good enough.
 So this is the first parametrization.
 Now I'm going to do this exact same curve, but I'm going to do it slightly differently.
 So let's say I'll do it in different colors.
-So x2 of t, let's it equals 2t.
-And y2 of t, let's say it's equal to 2t squared.
+So x2 of t, let's it = 2t.
+And y2 of t, let's say it's = 2t squared.
 Or we could alternatively write that, that's the same thing as 4t squared, just phrasing both of these guys to the second power.
-And then let's say instead of going from t equals 0 to 2, we're going to go from t goes from 0 to 1.
+And then let's say instead of going from t = 0 to 2, we're going to go from t goes from 0 to 1.
 But we're going to see, we're going to cover the exact same path.
-And our second position vector valued function, r2 of t, is going to be equal to 2t times i plus I could say 2t squared 4t squared times j.
+And our second position vector valued function, r2 of t, is going to be = 2t times i plus I could say 2t squared 4t squared times j.
 And if I were to graph this guy right here, it would look like let me draw my axes again; it's going to look the same, but it's I think useful to draw it because I'm going to draw the derivatives and all that on it later.
 One, two, three, four.
 One, two.
-And then let's see what happens when t is equal to 0 or r of 0; all these are going to be 0, we're just going to have the zero vector; x and y are both equal to 0 when t is equal to 1/2 what are we going to get here? 1/2 times 2 is 1.
+And then let's see what happens when t = 0 or r of 0; all these are going to be 0, we're just going to have the zero vector; x and y are both = 0 when t = 1/2 what are we going to get here? 1/2 times 2 is 1.
 And then we're going to get the point 1/2 squared is 1/4 times 4 is 1.
-So when t is equal 1/2 we're going to be at the point 1, 1.
-And when the t is equal to 1 we're going to be at the point 2, 4.
+So when t is = 1/2 we're going to be at the point 1, 1.
+And when the t = 1 we're going to be at the point 2, 4.
 So notice the curve is exactly, the path we go is exactly the same.
 But before we even do the derivatives, these two paths are identical.
 I want to think about something.
@@ -74,14 +74,14 @@ r2 prime of t.
 The derivative of 2t with respect to t is 2, so 2i, plus the derivative of 4t squared is 8t.
 2 times 4, it is rt.
 Just like that.
-Now the question is, what do their respective derivative vectors look like at different points? So let's look at, I don't know, let's see how fast they're moving when time is equal to 1.
+Now the question is, what do their respective derivative vectors look like at different points? So let's look at, I don't know, let's see how fast they're moving when time = 1.
 So let's take it at a specific point.
 This is just the general formula, but let's figure out what the derivative is at a specific point.
-So let's take r1 when time is equal to 1.
+So let's take r1 when time = 1.
 And I want to take this specific point on the curve, not the specific point in time.
-So this point on the curve here is when time is equal to 1, you could say second.
-This point over here, which is the exact corresponding point, is when time is equal 1/2 second.
-So r1 of 1 is equal to we're taking the derivative there is equal to 1i.
+So this point on the curve here is when time = 1, you could say second.
+This point over here, which is the exact corresponding point, is when time is = 1/2 second.
+So r1 of 1 = we're taking the derivative there = 1i.
 It's not dependent on t at all.
 So it's 1i plus 2 times 1j, so plus 2j.
 So at this point the derivative of our position vector function is going to be 1i plus 2j.
@@ -95,14 +95,14 @@ And notice it looks like, at least its direction is let me do it a little bit st
 Remember my particle is moving from here to there, so it's going in the direction.
 And I'm going to think about, in a second, what this length of this to derivative vector is.
 This right here, just to be clear is, r1 prime.
-It's a vector, so it's telling us the instantaneous change in our position vector with respect to t, or time, when time is equal to 1 second.
+It's a vector, so it's telling us the instantaneous change in our position vector with respect to t, or time, when time = 1 second.
 That's this thing right here.
 Now let's take the exact same position here on our curve.
 But that's going to occur at a different time for this guy.
-We already said it only takes him, he's here at time is equal to 1/2 second.
+We already said it only takes him, he's here at time = 1/2 second.
 So let's take I'll do it in the same color so here we have r2.
-We're going to evaluate it at 1/2 half because this is at time is equal 1/2 second.
-And this is going to be equal to 2i this isn't dependent at all on time so 2i plus 8 times the time.
+We're going to evaluate it at 1/2 half because this is at time is = 1/2 second.
+And this is going to be = 2i this isn't dependent at all on time so 2i plus 8 times the time.
 So time right here is 1/2.
 So 8 times 1/2 is 4.
 So plus 4j.
@@ -117,7 +117,7 @@ But let's notice something: both of these vectors are going in the exact same di
 They're both tangential to the path, to our curve.
 But this vector is going, its length, its magnitude, is much larger than this vector's magnitude.
 And that makes sense because I hinted at it when we first talked about these vector valued position functions and their derivatives; is that the length, you can kind of view it as the speed.
-The length is equal to the speed if you imagine t being time and these parametrizations are representing a dot moving along these curves.
+The length = the speed if you imagine t being time and these parametrizations are representing a dot moving along these curves.
 So in this case, the particle only takes a second to go there, so at this point in its path, it's moving much faster than this particle is.
 So if you think about it, this vector right here, if you imagine this is a position factor, this is velocity.
 Velocity is speed plus the direction.

@@ -14,51 +14,51 @@ So you can see it's quite symmetric.
 The partial of z with respect to x is 2x plus y, the partial of z with respect to y is x plus 2y.
 That's because this equation is pretty symmetric.
 The x's and the y's kind of do the same thing.
-Now, we picked the point x is equal to 0.
-2 y is equal to 0.
+Now, we picked the point x = 0.
+2 y = 0.
 3.
 Actually let me erase this, because I picked a different point where I graph, and I graphed it ahead of time just to save time.
 So I don't think I have to include this anymore.
-So what I did, I picked the point x is equal to 0.
-3, y is equal to 0.
+So what I did, I picked the point x = 0.
+3, y = 0.
 3.
-And when x is equal to 0.
-3, y is equal to 0.
-3, what is z equal to? Let's see, 0.
+And when x = 0.
+3, y = 0.
+3, what is z =? Let's see, 0.
 3 squared is 0.
 09, 0.
 3 times 0.
 3 0.
 09.
-So it's z is equal to 0.
+So it's z = 0.
 27, right? Just substitute 0.
 3 in for x and y.
-z is equal to 0.
+z = 0.
 27.
 So what is the partial of z with respect to x at that point? Or we could write, f sub x at the point y.
-x is equal to 0.
-3, y is equal to 0.
+x = 0.
+3, y = 0.
 3.
-It equals, we figured that, let's see 2 times 0.
+It =, we figured that, let's see 2 times 0.
 3 is 0.
 6, plus 0.
-3, that's equal to 0.
+3, that's = 0.
 9.
 So the slope in the x direction at that point is 0.
 9.
 And if we take the partial with respect to y at that same point, 0.
 3 plus 0.
-6, that's also equal to 0.
+6, that's also = 0.
 9.
 Let's see if we can visualize this.
 Let me bring in my graph.
 There we go.
-So this is, this surface once again is the surface of z is equal to x squared plus xy plus y squared.
+So this is, this surface once again is the surface of z = x squared plus xy plus y squared.
 And this box is kind of the domain, and the x and y dimensions that I define.
 Kind of, I bounded it because it starts to increase really fast, and you wouldn't be able to see all this interesting stuff that happens closer in.
-But this, what I did, so this vertical line, I just wanted to show you that when x is equal to 0.
-3, y is equal to 0.
-3, z is equal to 0.
+But this, what I did, so this vertical line, I just wanted to show you that when x = 0.
+3, y = 0.
+3, z = 0.
 7.
 So that just kind of helps show you that, ok, that shows what point we're working with.
 And then these two lines, this is, if you think about it, this is the line where y is constant, right? So this is the slope in the z, or as the surface changes with respect to x at this point, right? This is the tangent line relative to x.
@@ -83,7 +83,7 @@ At the point x is 0.
 3, y is 0.
 3, right? x is 0.
 3, y is 0.
-3, z is equal to 0.
+3, z = 0.
 27.
 And we can rotate it just to get more intuition.
 I think it's, the graphing thing looks a little bit funny sometimes.
@@ -115,7 +115,7 @@ So sine of x, I'm just doing the product rule here.
 Plus the derivative of the second expression, that's cosine of x.
 Cosine of x is the derivative of the second expression, times the first expression, times x.
 So If we wanted to expand it all out, the partial of f with respect to x, this is the function of x and y.
-It equals sine of x, cosine of y, plus, let's put this x out front, just so we change the order.
+It = sine of x, cosine of y, plus, let's put this x out front, just so we change the order.
 x, cosine of x, cosine of y.
 Not too difficult.
 You just have to realize that anything with the y is a constant.
@@ -144,7 +144,7 @@ There you have it.
 Let's do another one.
 And actually I'm going to add more variables.
 Let's say that, I don't know, just so you get used to the different notation.
-x is equal to a squared times, I don't know, a squared times b to the third, times c to the 1/2 power.
+x = a squared times, I don't know, a squared times b to the third, times c to the 1/2 power.
 Now what is the partial derivative of x with respect to a? Well everything else is just a constant.
 What's the partial of a squared with respect to a? Well it's 2a.
 So it'll just be 2a times the constants.

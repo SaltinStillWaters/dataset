@@ -1,46 +1,46 @@
 Transcript for: Even More Chain Rule Now that you've seen some examples of the chain rule in use, I think the actual definition of the chain rule might be more digestible now.
 So let me give you the actual definition of the chain rule.
-Let's say I have a function f of x and it equals h of g of x.
+Let's say I have a function f of x and it = h of g of x.
 And you remember all this from composite functions.
-So the chain rule just says that the derivative of f of x or f prime of x is equal to the derivative of this inner function, g prime of x times the derivative of this h function, h prime of x.
+So the chain rule just says that the derivative of f of x or f prime of x = the derivative of this inner function, g prime of x times the derivative of this h function, h prime of x.
 But it's not going to be just h prime of x.
 It's going to be h prime of g of x.
 So let's apply that to some examples like we were doing before, and I think it'll make some sense.
-So let's say we had f of x is equal to x squared plus 5x plus 3, all of this to the fifth power.
+So let's say we had f of x = x squared plus 5x plus 3, all of this to the fifth power.
 So in this example, what's h of x, what's g of x, and you know what f of x is.
 Well let's say g of x would be this inner function.
 So we would say let me pick a different color g of x here is x squared plus 5x plus 3.
 It's the stuff, f g of x.
 Well h of g of x is this whole thing, so what would h of x be? This is h of g of x, but h of x would just be x to the fifth, right? Because this expression as you took this entire g of x and you put it in for x right here.
 I think that make sense if you take this entire expression and you substitute x here for this entire expression you get this expression.
-And this shows that this is equal to h of g of x.
+And this shows that this = h of g of x.
 If you just take this blue part and substitute it for x, you get this entire expression.
 So the chain rule just tells us that the derivative of this, that f prime of x and I have a feeling I'm going to run out of space f prime of x well actually before I do anything, let's figure out the derivatives of g of x and h of x.
 g of x of g prime of x let me draw a little line here to divide it out, I know I'm running out of space.
-So g prime of x is equal to 2x plus 5.
-2x plus 5, and then derivative 3 is just 0, right? And the derivative of h of x? h prime of x is equal to 5 x to the fourth.
+So g prime of x = 2x plus 5.
+2x plus 5, and then derivative 3 is just 0, right? And the derivative of h of x? h prime of x = 5 x to the fourth.
 So the chain rule just says that the derivative of this entire composite function is just let me just write it down here.
 I'm doing this to optimally confuse you.
 The derivative of this entire function is just g prime of x.
 Well we figured out with g prime of x is here, it's 2x plus 5 times h times h prime of g of x.
 So what's h prime of g of x? Well h prime of x is 5x to the fourth, but we want h prime of g of x.
-So h prime of g of x would equal 5 times g of x to the fourth.
+So h prime of g of x would = 5 times g of x to the fourth.
 And we know what g of x is, it's this whole thing.
 So it would be times 5, and this whole thing x squared plus 5x plus 3, all that to the fourth power.
 I think I have truly, truly confused you, so I'm going to try to do a couple of more examples.
 Clear this.
 OK.
 Let me write it up here again.
-So if we say that f of x is equal to h of g of x, then f prime of x is equal to g prime of x times h prime of g of x.
+So if we say that f of x = h of g of x, then f prime of x = g prime of x times h prime of g of x.
 So I'll do another example.
-Let's say that g of x is equal to x to the seventh minus 3x to the ninth is 3.
-And let's say that h of x is equal to let's do something reasonably straightforward.
+Let's say that g of x = x to the seventh minus 3x to the ninth is 3.
+And let's say that h of x = let's do something reasonably straightforward.
 Let's say h of x is x to the minus 10.
 So what is f of x? f of x is just h of g of x, and this should be a bit of a reminder from composite functions.
 So let's see.
 h of g of x would just be you take g of x and you substitute it for x here, so it would just be this expression, x to the seventh minus 3x to the minus third, and then all of that to the minus 10th power.
 So this is our f of x.
-And this is of course equal to f of x, right, because f of x is equal to h of g of x.
+And this is of course = f of x, right, because f of x = h of g of x.
 I know this very confusing, but bear with me.
 Maybe you have to watch the video twice and it'll start making more sense.
 Well we want to now figure out what f prime of x is.
@@ -59,7 +59,7 @@ And there's our answer.
 f prime of x is the derivative of kind of the inner function, g of x, times the derivative of the outer function, but instead of it just being applied to x it'd be applied to the entire g of x instead of an x being here.
 Maybe I've confused you more.
 Let me do one quick example just to show you that you don't have to kind of do this whole h of g of every time.
-So if I have f of x is equal to 5 times minus x to the eighth, plus x to the minus eighth, all of that over to the fifth power.
+So if I have f of x = 5 times minus x to the eighth, plus x to the minus eighth, all of that over to the fifth power.
 If I want to figure out f prime of x I just take the derivative of this inner function I guess I could call it, so that's minus 8x to the seventh minus 8x because it's just take the negative 8 to the minus ninth, times the derivative of this larger function.
 So 5 times 5 is 25 times something to the fourth.
 And that something is just going to be this expression minus x to the eighth plus x to the minus eighth.

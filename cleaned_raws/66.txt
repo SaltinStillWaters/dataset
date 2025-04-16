@@ -1,10 +1,10 @@
 Transcript for: Definite integrals (part II) Welcome back.
-So where I left off, we said that we had this, I guess you could call it, equation or this function, although I didn't write it with the function notation, where I said, the distance is equal to 16 t squared, and I graphed it, it's like a parabola, right, for positive time.
+So where I left off, we said that we had this, I guess you could call it, equation or this function, although I didn't write it with the function notation, where I said, the distance = 16 t squared, and I graphed it, it's like a parabola, right, for positive time.
 And then we said, well, the velocity, if we know the distance, the velocity is just the change of the distance with respect to time.
 It's just, the velocity is always changing, you can't just take the slope, you actually have to take the derivative, right? So we took the derivative with respect to time of this function, or this equation, and we got 32t, and this is the velocity.
 And then we graphed it.
 And then I asked a question.
-I was like, well, we want to figure out, if we were given this, if we were given just this, and I asked you, what is the distance that this object travels after time, you know, after 10 seconds? Let's, you know, let's say this t0 is equal to 10 seconds.
+I was like, well, we want to figure out, if we were given this, if we were given just this, and I asked you, what is the distance that this object travels after time, you know, after 10 seconds? Let's, you know, let's say this t0 = 10 seconds.
 I want to know how far is this thing gone after 10 seconds.
 And let's say you didn't know that you could just take the antiderivative, let's say we didn't know this at all, and let's say you didn't know that you could just take the antiderivative, because we just showed that, you know, the derivative of distance is velocity, so the antiderivative of velocity is distance.
 So let's say you couldn't just take the antiderivative.
@@ -19,8 +19,8 @@ And this is where I'm going to teach you the indefinite integral.
 So the indefinite integral, I don't know how comfortable you are with summation, I remember the first time l learned calculus, I wasn't that comfortable with summation, but it's really, all the indefinite integral, is is you can kind of view it as a sum, right? So now, you'll maybe understand a little bit more why this symbol looks kind of like a sigma.
 That's actually how I view it.
 And please look it up so you can see properly drawn integrals.
-But in this case, the indefinite integral is just saying, well, I'm going to take the sum from t equals 0, right, so from t equals 0, to let's say in this example, t equals 10, right, because I said 10.
-From t equals 0 to t equals 10.
+But in this case, the indefinite integral is just saying, well, I'm going to take the sum from t = 0, right, so from t = 0, to let's say in this example, t = 10, right, because I said 10.
+From t = 0 to t = 10.
 and I'm going to take the sum of each of the heights, the height at any given point, which is the velocity.
 And then, what's the formula for the velocity? It's 32t and then I'm at times the base at each of these rectangles, dt.
 And so this is the definite integral.
@@ -32,9 +32,9 @@ So as these dt's approach 0, the number of rectangles actually approach infinity
 So I'm actually going to, I'll do that more rigorously later, but I think it's very important to get this intuitive feel of just what an integral is.
 It isn't just this voodoo that happens to be there.
 But anyway, so going back to the problem.
-So the integral from this is now a definite integral, extending from t equals 0 to t equals 10.
+So the integral from this is now a definite integral, extending from t = 0 to t = 10.
 This tells us 2 things.
-This tells us the area of the curve from t equals zero to t equals 10, right, it tells us this whole area, and it also tells us how far the object has gone after 10 seconds.
+This tells us the area of the curve from t = zero to t = 10, right, it tells us this whole area, and it also tells us how far the object has gone after 10 seconds.
 Right? So it's very interesting.
 The indefinite integral tells us 2 things.
 It tells us area, and it also tells us the antiderivative.
@@ -51,7 +51,7 @@ I mean, well, after t seconds, [UNINTELLIGIBLE].
 So and the way you evaluate an indefinite integral, and let me show you that first, is that you figure out the integral.
 So let me just say, let me continue with the problem, actually.
 As you can tell, I don't plan much for these presentations.
-So the way you figure out the indefinite integral, is you say, and sometimes they won't write t equals 0 to t equals t.
+So the way you figure out the indefinite integral, is you say, and sometimes they won't write t = 0 to t = t.
 They'll just say from 0 to 10 of 32t dt.
 Right? And the way you evaluate this, is you figure out the antiderivative, and you really don't have to do the plus c here, so the antiderivative, we know, is 16t squared, right? It's one half t squared times 32.
 So that's 16t squared.

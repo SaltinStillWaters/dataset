@@ -18,7 +18,7 @@ So if we multiply dx times the area of this square, that is the volume of this k
 And if we were to sum up all of these infinitely thin solids, we would get the volume for the whole thing.
 So how do we do that? Well let's write our integral expression.
 So what is the area of each of these squares? Each of these cross-sections, what is the area? Well the base is going to be the difference between our two functions, right? This top function right here, that was sin of pi x.
-And this bottom function, right here, that is y is equal to x to the third minus 4x.
+And this bottom function, right here, that is y = x to the third minus 4x.
 So the base of the functions, the base of this distance right here is going to be the difference between the top function and the bottom function.
 So each base is going to be sin of pi x, minus this function, so minus x to the third, plus 4x, right switch the sign.
 Minus x to the third, plus 4x.
@@ -47,12 +47,12 @@ Second pi x sin of pi x minus x to the third power, plus 4x.
 All of that squared.
 And then this definite integral function, you have to tell it which is the independent variable, or kind of, you know, what variable are we integrating across, and that's the variable x.
 And then you just tell it the boundaries of integration, and we're done.
-So integrate from 0, from x is equal to 0, to x is equal to 2.
+So integrate from 0, from x = 0, to x = 2.
 If I haven't made a mistake, I can hit enter, and let the calculator do the rest of the work.
 Let's see what it ends up with.
 OK, 9.
 that's the answer, that is the volume of this solid it's 9.
-9783 So you could write that this is equal to 9.
+9783 So you could write that this = 9.
 9783.
 And I'm pretty sure they want you to use a calculator, because frankly, computing the integral, that's kind of just chug math, you know, very mechanical math, although it's pretty sophisticated, but it would take you forever.
 But this is kind of, I think, what they wanted you to do, set up the integral, recognize that each of the squares, the area of each of the squares is just going to be this distance, the distance between the functions squared.
@@ -63,7 +63,7 @@ So let's do part d.
 The region r models, let me, paste, oh, I didn't want to do that, edit, undo, edit, paste, there you go.
 OK, so I wanted to make this a little smaller.
 So what does part d say? The region r models the surface of a small pond, so that's the surface now.
-At all points r at a distance x from the y-axis, the depth of the water is given by h of x is equal to 3-x.
+At all points r at a distance x from the y-axis, the depth of the water is given by h of x = 3-x.
 So essentially 3-x is the depth, right? So at this point of this pond, the depth is just 3, right 3-0.
 And at this point, the depth is 3-2 which is 1.
 So essentially the pond is going to get shallower and shallower or as we go further to the right.
@@ -72,11 +72,11 @@ So this is the sin function with some perspective.
 This is the polynomial function below it.
 This is, it's probably drawn in, that's the x-axis.
 This is the y-axis.
-And so here, the depth of the pond is given by the function h of x is equal to 3-x.
+And so here, the depth of the pond is given by the function h of x = 3-x.
 So over here, the depth is 3, so if I were to draw, so if I were to go straight down the depth is, you know maybe it's 3.
 And the pond essentially gets shallower and shallower as we go to the right.
 So how do we figure out the volume of this? Over here, what is the depth? It's going to be 1, right, 3-2.
-This is x is equal to 2.
+This is x = 2.
 So here the depth is going to be 1.
 So if we take the cross-section just along the x-axis, the depth is going to look something like this, but then this is the top of it.
 I know that's kind of hard to visualize.

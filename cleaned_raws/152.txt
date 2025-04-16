@@ -39,7 +39,7 @@ So for any s and t we're mapping it to a point in x-y-z space.
 So our z's, our x's, and our y's should all be a function of s and t.
 So the first one to think about is just the z.
 I think this will be pretty straightforward.
-So z as a function of s and t is going to equal what? Well, if you take any circle, remember s is how the angle between our radius and the x-y plane.
+So z as a function of s and t is going to = what? Well, if you take any circle, remember s is how the angle between our radius and the x-y plane.
 So I can even draw it over here.
 Let me do it in another color.
 I'm running out of colors.
@@ -53,8 +53,8 @@ It's going to be this distance, right there.
 And that's straightforward trigonometry.
 That's going to be a, I mean, we can do SOCATOA and all of that, you might want to review the videos.
 But the sine, you can view it this way.
-So if this is z right there, you could say that the sine of s, SOCATOA is the opposite over the hypotenuse, is equal to a z over a.
-Multiply both sides by a, you have a sine s is equal to z.
+So if this is z right there, you could say that the sine of s, SOCATOA is the opposite over the hypotenuse, = a z over a.
+Multiply both sides by a, you have a sine s = z.
 That tells us how much above the x-y plane we are.
 Just some simple trigonometry.
 So z of s and t, it's only going to be a function of s.
@@ -66,7 +66,7 @@ Doesn't matter how much we've rotated around the z-axis.
 What matters is, how much we've rotated around the circle.
 If s is 0, we're just going to be in the x-y plane, z is going to be zero.
 If s is pi over 2, up here, then we're going to be traveling around the top of the doughnut.
-And we're going to be exactly a above the x-y plane, or z is going to be equal to a.
+And we're going to be exactly a above the x-y plane, or z is going to be = a.
 Hopefully that makes reasonable sense to you.
 Now let's think about what happens as we rotate around.
 Remember, these two are top views.
@@ -103,7 +103,7 @@ So what are our x's and y's going to be? Well, you draw another right triangle r
 You have another right triangle.
 This angle right here is t.
 This distance right here is going to be this times the sine of our angle.
-So this right here, which is essentially our x, this is going to be our x-coordinate, x as a function of s and t, os going to be equal to the sine of t, t is our angle right there, times this radius.
+So this right here, which is essentially our x, this is going to be our x-coordinate, x as a function of s and t, os going to be = the sine of t, t is our angle right there, times this radius.
 Times, we could write it either way, times b plus a cosine of s.
 Because remember, how far we are depends on how much around the circle we are, right? When we're over here, we're much further away.
 Here we're exactly b away, if you're looking only on the x-y plane.
@@ -116,18 +116,18 @@ Depends on whether using a right-handed or left-handed coordinate system, but ho
 We're just saying, OK, what is this distance right here that is b plus a cosine of s? We got that from this right here, when we're taking a view, just a cut of the torus.
 That's how far we are, in kind of the x-y direction at any point, or kind of radially out, without thinking about the height.
 And then if you want the x-coordinate, you multiply it times the sine of t, the way I've had it up here, and the y-coordinate is going to be this, right here, the way we've set up this triangle.
-So y as a function of s and t is going to be equal to the cosine of t times this radius.
+So y as a function of s and t is going to be = the cosine of t times this radius.
 b plus a cosine of s.
 And so our parameterization, and you know, just play with this triangle, and hopefully it'll make sense.
-I mean, if you say that this is our y-coordinate right here, you just do SOCATOA, cosine of t, CA is equal to adjacent, which is y, right, this is the angle right here, over the hypotenuse.
+I mean, if you say that this is our y-coordinate right here, you just do SOCATOA, cosine of t, CA = adjacent, which is y, right, this is the angle right here, over the hypotenuse.
 Over b plus a cosine of s.
-Multiply both sides of the equation times this, and you get y of s of t is equal to cosine of t times this thing, right there.
+Multiply both sides of the equation times this, and you get y of s of t = cosine of t times this thing, right there.
 Let me copy and paste all of our takeaways.
 And we're done with our parameterization.
 We could leave it just like this, but if we want to represent it as a position vector-valued function, we can define it like this.
 Find a nice color, maybe pink.
 So let's say our position vector-valued function is r.
-It's going to be a function of two parameters, s and t, and it's going to be equal to its x-value.
+It's going to be a function of two parameters, s and t, and it's going to be = its x-value.
 Let me do that in the same color.
 So it's going to be, I'll do this part first.
 b plus a cosine of s times sine of t, and that's going to go in the x-direction, so we'll say that's times i.
@@ -142,7 +142,7 @@ plus a sine of s times the k-unit vector, which is the unit vector in the z-dire
 So times the k-unit vector.
 And so you give me, now, any s and t within this domain right here, and you put it into this position vector-valued function, it'll give you the exact position vector that specifies the appropriate point on the torus.
 So if you pick, let's just make sure we understand what we're doing.
-If you pick that point right there, where s and t are both equal to pi over 2, and you might even want to go through the exercise.
+If you pick that point right there, where s and t are both = pi over 2, and you might even want to go through the exercise.
 Take pi over 2 in all of these.
 Actually, let's do it.
 So in that case, so when r of pi over 2, what do we get? It's going to be b plus a times cosine of pi over 2.
@@ -154,7 +154,7 @@ So it's going to be plus 0 j.
 And then finally, pi over 2, well, there's no t here, sine of pi over 2 is 1.
 So plus a times k.
 So there's actually no j-direction.
-So this is going to be equal to b times i plus a times k.
+So this is going to be = b times i plus a times k.
 So the point that it specifies, according to this parameterization, or the vector [UNINTELLIGIBLE], is b times i plus a times k.
 So b times i will get us right out there, and then a times k ill get us right over there.
 So the position of the vector being specified is right over there.
@@ -164,6 +164,6 @@ Of course, I picked points it was easy to calculate, but this whole, when you ta
 And this is the transformation, right here.
 And of course, we have to specify that s is between, we could write it multiple ways.
 s is between 2 pi and 0, and we could also say t is between 2 pi and 0.
-And you could, you know, we're kind of overlapping one extra time at 2 pi, so maybe we can get rid of one of these equal signs if you like, although that won't necessarily change the area any, if you're taking the surface area.
+And you could, you know, we're kind of overlapping one extra time at 2 pi, so maybe we can get rid of one of these = signs if you like, although that won't necessarily change the area any, if you're taking the surface area.
 But hopefully this gives you at least a gut sense, or more than a gut sense, of how to parameterize these things, and what we're even doing, because it's going to be really important when we start talking about surface integrals.
 And the hardest thing about doing all of this is just the visualization.

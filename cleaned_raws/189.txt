@@ -1,6 +1,6 @@
 Transcript for: Surface integral example part 1: Parameterizing the unit sphere | 
 What we will attempt to start to do in this video is take the surface integral of the function x squared over our surface, where the surface in question, the surface we're going to care about is going to be the unit sphere.
-So it could be defined by x squared plus y squared plus z squared is equal to 1.
+So it could be defined by x squared plus y squared plus z squared = 1.
 And what I'm going to focus on in this first video, because it will take us several videos to do it, is just the parameterization of this surface right over here.
 And as you'll see, this is often the hardest part because it takes a little bit of visualization.
 And then after that, it's kind of mechanical, but it can be kind of hairy at the same time.
@@ -68,7 +68,7 @@ It would be the radius, which is 1, times the cosine of s.
 And the y-coordinate would be 1 times the sine of s.
 That's actually where we get our definitions for cosine and sine from.
 So that's pretty straightforward.
-And in this case, z is obviously equal to 0.
+And in this case, z is obviously = 0.
 So if we wanted to add our z-coordinate here, z is 0.
 We are sitting in the xy-plane.
 But now, let's think about what happens if we go above and below the xy-plane.
@@ -88,7 +88,7 @@ So the radius is going to be cosine of t.
 And it still works over here because if t goes all the way to 0, cosine of 0 is 1.
 And then that works right over there when we're in the xy-plane.
 So the radius over here is going to be so that right over there is cosine of 0.
-So this is when t is equal to 0.
+So this is when t = 0.
 And we haven't rotated above or below the xy-plane.
 But if we have rotated above the xy-plane, the radius has changed.
 It is now cosine of t.
@@ -127,9 +127,9 @@ It's not dependent on how much we've rotated around here at any given altitude.
 It is what our altitude actually is.
 Now, we can go straight to this diagram right over here.
 Our z-coordinate is just going to be the sine of t.
-So our z is equal to sine of t.
+So our z = sine of t.
 So let me write that down.
-So the z is going to be equal to sine of t.
+So the z is going to be = sine of t.
 So now, every point on this sphere can be described as a function of t and s.
 Now, we have to think about over what range will they be defined.
 Well, s is going to go at any given level, you could think.
@@ -146,7 +146,7 @@ And so it goes all the way back it goes only up to pi over 2.
 And then we have our parameterization.
 Let me write this down in a form that you might recognize even more.
 If we wanted to write our surface as a position vector function, we could write it like this.
-We could write it r is a function of s and t, and it is equal to our x-component.
+We could write it r is a function of s and t, and it = our x-component.
 Our i-component is going to be cosine of t cosine of s i.
 And then plus our y-component is cosine of t sine of s plus our z-component, which is the sine which is just oh, I forgot our j vector.
 j plus the z-component, which is just sine of t sine k.

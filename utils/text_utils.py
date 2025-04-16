@@ -1,3 +1,4 @@
+import re
 import yt_dlp
 from pytube import Playlist
 from youtube_transcript_api import YouTubeTranscriptApi
@@ -22,6 +23,26 @@ def write_file(data, out_file, open_mode='w', delim=' '):
     
     with open(out_file, open_mode, encoding='utf-8') as f:
         f.write(data)
+
+def clean_text(in_file, file_count):
+    file_prefix = in_file.split('.')[0]
+    file_ext = in_file.split('.')[1]
+    for i in range (0, file_count):
+        try:
+            file_name = f'{file_prefix}{i}.{file_ext}'
+            text = read_file(file_name)
+        except:
+            print(f'{file_name} does not exist. Skipping...')
+            continue
+        
+        text = re.sub(r'\n', ' ', text)
+        text = re.sub(r' *\.', '.', text)
+        text = re.sub(r'\. *', '.\n', text)
+        text = re.sub(r'\? *', '?\n', text)
+        text = re.sub(r', *', ', ', text)
+        text = re.sub(r'  +', ' ', text)
+
+        write_file(text, file_name)
         
 def concatenate_transcripts(out_name, transcript_name='raw_transcripts'):
     transcript_path = Path(transcript_name)

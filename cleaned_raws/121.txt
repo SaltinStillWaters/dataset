@@ -2,14 +2,14 @@ Transcript for: Double integrals 2 | Double and triple integrals | Multivariable
 You hopefully have a little intuition now on what a double integral is or how we go about figuring out the volume under a surface.
 So let's actually compute it and I think it'll all become a lot more concrete.
 So let's say I have the surface, z, and it's a function of x and y.
-And it equals xy squared.
+And it = xy squared.
 It's a surface in three-dimensional space.
 And I want to know the volume between this surface and the xy-plane.
-And the domain in the xy-plane that I care about is x is greater than or equal to 0, and less than or equal to 2.
-And y is greater than or equal to 0, and less than or equal to 1.
+And the domain in the xy-plane that I care about is x is greater than or = 0, and less than or = 2.
+And y is greater than or = 0, and less than or = 1.
 Let's see what that looks like just so we have a good visualization of it.
 So I graphed it here and we can rotate it around.
-This is z equals xy squared.
+This is z = xy squared.
 This is the bounding box, right? x goes from 0 to 2; y goes from 0 to 1.
 We literally want this you could almost view it the volume well, not almost.
 Exactly view it as the volume under this surface.
@@ -57,7 +57,7 @@ So if we pick just an arbitrary y here.
 So on that y, we could think of it if we have a fixed y, then the function of x and y you can almost view it as a function of just x for that given y.
 And so, we're kind of figuring out the value of this, of the area under this curve.
 You should view this as kind of an up down curve for a given y.
-So if we know a y we can figure out then for example, if y was 5, this function would become z equals 25x.
+So if we know a y we can figure out then for example, if y was 5, this function would become z = 25x.
 And then that's easy to figure out the value of the curve under.
 So we'll make the value under the curve as a function of y.
 We'll pretend like it's just a constant.
@@ -69,8 +69,8 @@ So we can take the integral.
 So the area of each of these is going to be our function, xy squared I'll do it here because I'll run out of space.
 xy squared times the width, which is dx.
 And if we want the area of this slice for a given y, we just integrate along the x-axis.
-We're going to integrate from x is equal to 0 to x is equal to 2.
-From x is equal to 0 to 2.
+We're going to integrate from x = 0 to x = 2.
+From x = 0 to 2.
 Fair enough.
 Now, but we just don't want to figure out the area under the curve at one slice, for one particular y, we want to figure out the entire area of the curve.
 So what we do is we say, OK, fine.
@@ -80,7 +80,7 @@ I know it's hard to imagine.
 Let me bring that here.
 So if I had a slice here, we just figured out the area of a slice and then I'm multiplying it by dy to give it a little bit of depth.
 So you multiply it by dy to give it a little bit of depth, and then if we want the entire volume under the curve we add all the dy's together, take the infinite sum of these infinitely small volumes really now.
-And so we will integrate from y is equal to 0 to y is equal to 1.
+And so we will integrate from y = 0 to y = 1.
 I know this graph is a little hard to understand, but you might want to re-watch the first video.
 I had a slightly easier to understand surface.
 So now, how do we evaluate this? Well, like we said, you evaluate from the inside and go outward.
@@ -115,13 +115,13 @@ This ended up being a function of y.
 And that makes sense because depending on which y we pick we're going to get a different area here.
 Obviously, depending on which y we pick, the area kind of a wall dropped straight down that area's going to change.
 So we got a function of y when we evaluated this and now we just integrate with respect to y and this is just plain old vanilla definite integration.
-What's the antiderivative of 2y squared? Well, that equals 2 times y to the third over 3, or 2/3 y to the third.
-We're going to evaluate that at 1 and 0, which is equal to let's see.
+What's the antiderivative of 2y squared? Well, that = 2 times y to the third over 3, or 2/3 y to the third.
+We're going to evaluate that at 1 and 0, which = let's see.
 1 to the third times 2/3.
 That's 2/3.
 Minus 0 to the third times 2/3.
 Well, that's just 0.
-So it equals 2/3.
+So it = 2/3.
 If our units were meters these would be 2/3 meters cubed or cubic meters.
 But there you go.
 That's how you evaluate a double integral.
