@@ -1,5 +1,6 @@
 Transcript for: Squeeze theorem (sandwich theorem) | Limits | Differential Calculus | 
-In this video I will prove to you that the limit as x approaches 0 of sine of x over x = 1.
+
+In this video I will prove to you that the limit as <EXPRESSION> approaches <EXPRESSION> of <EXPRESSION> = <EXPRESSION>.
 But before I do that, before I break into trigonometry, I'm going to go over another aspect of limits.
 And that's the squeeze theorem.
 Because once you understand what the squeeze theorem is, we can use the squeeze theorem to prove this.
@@ -27,46 +28,47 @@ I've kind of been squeezed in between them.
 I'm always in between Umama and Bill, and if they're at the exact same point on Tuesday, then I must be at that point as well.
 Or at least I must approach it.
 So let me write it in math terms.
-So all it says is that, over some domain, if I say that, let's say that g of x is less than or = f of x, which is less than or = h of x over some domain.
-And we also know that the limit of g of x as x approaches a = some limit, capital L, and we also know that the limit as x approaches a of h of x also = L, then the squeeze theorem tells us and I'm not going to prove that right here, but it's good to just understand what the squeeze theorem is the squeeze theorem tells us then the limit as x approaches a of f of x must also be = L.
+So all it says is that, over some domain, if I say that, let's say that <EXPRESSION> is less than or = <EXPRESSION>, which is less than or = <EXPRESSION> over <EXPRESSION>.
+And we also know that the limit of <EXPRESSION> as <EXPRESSION> approaches <EXPRESSION> = <EXPRESSION>, and we also know that the limit as <EXPRESSION> approaches <EXPRESSION> also = <EXPRESSION>, then the squeeze theorem tells us and I'm not going to prove that right here, but it's good to just understand what the squeeze theorem is the squeeze theorem tells us then the limit as <EXPRESSION> approaches <EXPRESSION> of <EXPRESSION> must also be = <EXPRESSION>.
 And this is the same thing.
-This is example where f of x, this could be how much Sal eats in a day, this could be how much Umama eats in a day, this is Bill.
+This is example where <EXPRESSION>, this could be how much Sal eats in a day, this could be how much Umama eats in a day, this is Bill.
 So I always eat more than Umama or less than Bill.
 And then on Tuesday, you could say a is Tuesday, if Umama had 300 calories and Bill had 300 calories, then I also had to eat 300 calories.
-Let me let me graph that for you.
-Let me graph that, and I'll do it in a different color.
+Let me let me graph <EQUATION> for you.
+Let me graph <EQUATION>, and I'll do it in a different color.
 Squeeze theorem.
 Squeeze theorem.
-OK, so let's draw the point a comma L.
-The point a comma L.
-Let's say this is a, that's the point that we care about.
-a, and this is L.
-And we know, g of x, that's the lower function, right? So let's say that this green thing right here, this is g of x.
-So this is my g of x.
-And we know that as g of x approaches so the g of x could look something like that, right? And we know that the limit as x approaches a of g of x = L.
+OK, so let's draw <EXPRESSION>.
+The point <EXPRESSION>.
+Let's say this is <EXPRESSION>, that's the point that we care about.
+<EXPRESSION>, and this is <EXPRESSION>.
+And we know, <EXPRESSION>, that's the lower function, right? So let's say that this green thing right here, this is <EXPRESSION>.
+So this is my <EXPRESSION>.
+And we know that as <EXPRESSION> approaches so the <EXPRESSION> could look something like that, right? And we know that the limit as <EXPRESSION> approaches <EXPRESSION> = <EXPRESSION>.
 So that's right there.
-So this is g of x.
-That's g of x.
-Let me do h of x in a different color.
-So now h of x could look something like this.
+So this is <EXPRESSION>.
+That's <EXPRESSION>.
+Let me do <EXPRESSION> in a different color.
+So now <EXPRESSION> could look something like this.
 Like that.
-So that's h of x.
-And we also know that the limit as x approaches a of h of x let's see, this is the function of x axis.
-So you can call it h of x, g of x, or f of x.
+So that's <EXPRESSION>.
+And we also know that the limit as <EXPRESSION> approaches <EXPRESSION> let's see, this is the function of x axis.
+So you can call it <EXPRESSION>, <EXPRESSION>, or <EXPRESSION>.
 That's just the dependent access, and this is the x-axis.
-So once again, the limit as x approaches a of h of x, well at that point right there, h of a = L.
-Or at least the limit = that.
-And none of these functions actually have to even be defined at a, as long as these limits, this limit exists and this limit exists.
+So once again, the limit as <EXPRESSION> approaches <EXPRESSION> of <EXPRESSION>, well at that point right there, <EXPRESSION> = <EXPRESSION>.
+Or at least the limit = <EXPRESSION>.
+And none of these <EQUATION> actually have to even be defined at <EXPRESSION>, as long as these limits, this limit exists and this limit exists.
 And that's also an important thing to keep in mind.
-So what does this tell us? f of x is always greater than this green function.
-It's always less than h of x, right? So any f of x I draw, it would have to be in between those two, right? So no matter how I draw it, if I were to draw a function, it's bounded by those two functions just by definition.
+So what does this tell us? <EXPRESSION> is always greater than <EXPRESSION>.
+<EXPRESSION> is always less than <EXPRESSION>, right? So any <EXPRESSION>.
+I draw <EQUATION>, it would have to be in between those two, right? So no matter how I draw <EQUATION>, if I were to draw <EQUATION>, it's bounded by those two functions just by definition.
 So it has to go through that point.
 Or at least it has to approach that point.
-Maybe it's not defined at that point, but the limit as we approach a of f of x also has to be at point L.
-And maybe f of x doesn't have to be defined right there, but the limit as we approach it is going to be L.
+Maybe it's not defined at that point, but the limit as we approach <EXPRESSION> also has to be at <EXPRESSION>.
+And maybe <EXPRESSION> doesn't have to be defined right there, but the limit as we approach it is going to be <EXPRESSION>.
 And hopefully that makes a little bit of sense, and hopefully my calories example made a little bit of sense to you.
 So let's keep that in the back of our mind, the squeeze theorem.
-And now we will use that to prove that the limit as x approaches 0 of sine of x over x = 1.
+And now we will use that to prove that the limit as <EXPRESSION> approaches <EXPRESSION> of <EXPRESSION>.
 And I want to do that, one, because this is a super useful limit.
 And then the other thing is, sometimes you learn the squeeze theorem, you're like, oh, well that's obvious but when is it useful? And we'll see.
 Actually I'm going to do it in the next video, since we're already pushing 8 minutes.
