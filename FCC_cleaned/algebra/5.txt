@@ -1,0 +1,74 @@
+Rational Expressions.
+This video is about working with rational expressions.
+A rational expression is a fraction usually with variables in it, something like x plus two over x squared minus three is a rational expression.
+In this video, we'll practice adding, subtracting, multiplying and dividing rational expressions and simplifying them to lowest terms.
+We'll start with simplifying to lowest terms.
+Recall that if you have a fraction with just numbers in it, something like 21 over 45, we can reduce it to lowest terms by factoring the numerator and factoring the denominator and then canceling common factors.
+So in this example, the three is cancel, and our fraction reduces to seven over 15.
+If we want to reduce a rational expression with the variables and add to lowest terms, we proceed the same way.
+First, we'll factor the numerator, that's three times x plus two, and then factor the denominator.
+In this case of factors 2x plus two times x plus two, we could also write that as x plus two squared.
+Now we cancel the common factors.
+And we're left with three over x plus two.
+Definitely a simpler way of writing that rational expression.
+Next, let's practice multiplying and dividing.
+Recall that if we multiply two fractions with just numbers in them, we simply multiply the numerators and multiply the denominators.
+So in this case, we would get four times two over three times five or 8/15.
+If we want to divide two fractions, like in the second example, then we can rewrite it as multiplying by the reciprocal of the fraction on the denominator.
+So here, we get four fifths times three halves, and that gives us 12 tenths.
+But actually, we could reduce that fraction to six fifths, we use the same rules when we compute the product or quotient of two rational expressions with the variables.
+And then here, we're trying to divide two rational expressions.
+So instead, we can multiply by the reciprocal.
+I call this flipping and multiplying.
+And now we just multiply the numerators.
+And multiply the denominators.
+It might be tempting at this point to multiply out to distribute out the numerator and the denominator.
+But actually, it's better to leave it in this factored form and factored even more completely.
+That way, we'll be able to reduce the rational expression to cancel the common factors.
+So let's factor even more the x squared plus x factors as x times x plus one, and x squared minus 16.
+And that's a difference of two squares, that's x plus four times x minus four, the denominator is already fully factored, so we'll just copy it over.
+And now we can cancel common factors here and here, and we're left with x times x minus four.
+This is our final answer.
+Adding and subtracting fractions is a little more complicated because we first have to find a common denominator.
+A common denominator is an expression that both denominators divided into, it's usually best of the long run to use the least common denominator, which is the smallest expression that both denominators divided into.
+In this example, if we just want a common denominator, we could use six times 15, which is 90 because both six and 15 divided evenly into 90.
+But if we want the least common denominator, the best way to do that is to factor the two denominators.
+So six is two times 315 is three times five, and then put together only the factors we need for Both six and 50 into divider numbers.
+So if we just use two times three times five, which is 30, we know that two times three will divide it, and three times five will also divide it.
+And we won't be able to get a denominator any smaller, because we need the factors two, three, and five, in order to ensure both these numbers divided.
+Once we have our least common denominator, we can rewrite each of our fractions in terms of that denominator.
+So seven, six, I need to get a 30 in the denominator, so I'm going to multiply that by five over five, and multiply by the factors that are missing from the current denominator in order to get my least common denominator of 30.
+For the second fraction, for 15th 15 times two is 30.
+So I'm going to multiply by two over two, I can rewrite this as 3530 s minus 8/30.
+And now that I have a common denominator, I can just subtract my two numerators.
+And I get 27/30.
+If I factor, I can reduce this to three squared over two times five, which is nine tenths.
+The process for finding the sum of two rational expressions with variables in them follows the exact same process.
+First, we have to find the least common denominator, I'll do that by factoring the two denominators.
+So 2x plus two factors as two times x plus 1x squared minus one, that's a difference of two squares.
+So that's x plus one times x minus one.
+Now for the least common denominator, I'm going to take all the factors, I need to get an expression that each of these divides into, so I need the factor two, I need the factor x plus one, and I need the factor x minus one, I don't have to repeat the factor x plus one I just need to have at one time.
+And so I will get my least common denominator two times x plus one times x minus one, I'm not going to bother multiplying this out, it's actually better to leave it in factored form to help me simplify later.
+Now I can rewrite each of my two rational expressions by multiplying by whatever's missing from the denominator in terms of the least common denominator.
+So what I mean is, I can rewrite three over 2x plus two, I'll write the 2x plus two is two times x plus one, I'll write it in factored form.
+And then I noticed that compared to the least common denominator, I'm missing the factor of x minus one.
+So I multiply the numerator and the denominator by x minus one, I just need it in the denominator.
+But I can't get away with just multiplying by the denominator without changing my expression, I have to multiply by it on the numerator and the denominator.
+So I'm just multiplying by one and a fancy form and not changing the value here.
+So now I do the same thing for the second rational expression, I'll I'll write the denominator in factored form to make it easier to see what's missing from the denominator.
+What's missing in this denominator, compared to my least common denominator is just the factor two, so multiply the numerator and the denominator by two.
+Now I can rewrite everything.
+So the first rational expression becomes three times x minus one over two times x plus 1x minus one, and the second one becomes five times two over two times x plus 1x minus one, notice that I now have a common denominator.
+So I can just add together my numerators.
+So I get three times x minus one plus 10 over two times x plus 1x minus one.
+I'd like to simplify this.
+And the best way to do that is to leave the denominator in factored form.
+But I do have to multiply out the numerator so that I can add things together.
+So I get 3x minus three plus 10 over two times x plus 1x minus one, or 3x plus seven over two times x plus 1x minus one.
+Now 3x plus seven doesn't factor.
+And there's therefore no factors that I can cancel out.
+So this is already reduced.
+As much as it can be.
+This is my final answer.
+In this video, we saw how to simplify rational expressions to lowest terms by factoring and canceling common factors.
+We also saw how to multiply rational expressions by multiplying the numerator and multiplying the denominator, how to divide rational expressions by flipping and multiplying and how to add and subtract rational expressions by writing them in terms of the least common denominator

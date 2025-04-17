@@ -1,0 +1,104 @@
+The Integral Test.
+been able to find a solution.
+Even if our numerator had just been a number, like six, we still couldn't use the same method, we could have thought of this as 0x plus six.
+And we could have used the same equations down here, where A plus B would have to equals zero, and three, A minus B would have to equal six.
+So we still have two equations and two unknowns to solve for.
+In fact, if you think about it for a while, you may be able to convince yourself that this method will always work if you have two conditions.
+First, the denominator factors into distinct linear factors.
+By a linear factor, I just mean that the factor can be written like a number times x plus another number, with no x squared or anything in it.
+And by distinct, I just mean that these two factors are different from each other.
+The second condition is that the degree of the numerator is lower than the degree of the denominator.
+The second condition guarantee is that we'll have the same number of unknowns here, A and B, as we do coefficients here, three, and two, so that we'll have equations that we'll be able to solve for our unknowns.
+As a technical note, that distinctness of the linear factors guarantees that we won't have contradictory equations.
+If we have these two conditions, then we can proceed to integrate, like we did in this example.
+In fact, this method even works if we have more than two linear factors, in our denominator, we can have three or four, any number of distinct linear factors, it'll just get a little bit more complicated, because we'll have more constants and more equations to solve for those constants.
+There are also several related methods that allow us to integrate rational functions, even if the denominator factors into linear factors that aren't necessarily distinct.
+Or even if we can't get all the way down to linear factors, and some of our factors have squares in them, or even if the degree of the numerator is too big.
+But I won't get into the details of those related methods.
+In this video, you'll have to read about them in the book or wait for class or wait for a future video to find out more.
+In this video, we integrated a rational function by splitting up the fraction into two partial fractions.
+So I need a plus b to equal three.
+Similarly, I need the constant term to be the same on the left and the right.
+So I need three A minus B to equal two.
+I now have two linear equations in the two unknowns, a and b.
+So I can use standard algebra to solve these equations for A and B.
+For example, if I add the two equations together, the B and negative b cancel out to give me four A equals five, and so a equals five fourths.
+And then I can substitute in this five fourths into either one of my equations and solve for b.
+So I was able to find an a value of a and b that let me rewrite the original fraction as to partial fractions.
+Let me fill those values of a and b in here.
+Now to calculate the integral of my original expression, I can calculate the integral of my partial fractions.
+Instead, I split up my integrals here.
+Now the integral of one over x minus one is natural log of absolute value of x minus one, you can check this by taking the derivative.
+Or you can do a simple use of the tuition where you as x minus one to compute this integral.
+Similarly, the integral of one over x plus three is natural log of absolute value of x plus three.
+This completes the computation of the integral using the method of partial fractions.
+Recall that after factoring our denominator, the key step in this process was finding numbers a and b that made this equation hold.
+And you might wonder, Well, yeah, it work this time.
+But can we always find numbers a and b that will work like that?
+What if our numerator had been something different?
+What if our numerator had been instead something like, say 7x minus 15?
+Could we have still found an A and B that worked?
+Well, yes, because we still would have gotten two linear equations in two unknowns down here, and we would have been able to solve them, we'd get different values of a and b, but we still would have been able to find a solution.
+Even if our numerator had just been a number, like six, we still couldn't use the same method, we could have thought of this as 0x plus six.
+And we could have used the same equations down here, where A plus B would have to equals zero, and three, A minus B would have to equal six.
+So we still have two equations and two unknowns to solve for.
+In fact, if you think about it for a while, you may be able to convince yourself that this method will always work if you have two conditions.
+First, the denominator factors into distinct linear factors.
+By a linear factor, I just mean that the factor can be written like a number times x plus another number, with no x squared or anything in it.
+And by distinct, I just mean that these two factors are different from each other.
+The second condition is that the degree of the numerator is lower than the degree of the denominator.
+The second condition guarantee is that we'll have the same number of unknowns here, A and B, as we do coefficients here, three, and two, so that we'll have equations that we'll be able to solve for our unknowns.
+As a technical note, that distinctness of the linear factors guarantees that we won't have contradictory equations.
+If we have these two conditions, then we can proceed to integrate, like we did in this example.
+In fact, this method even works if we have more than two linear factors, in our denominator, we can have three or four, any number of distinct linear factors, it'll just get a little bit more complicated, because we'll have more constants and more equations to solve for those constants.
+There are also several related methods that allow us to integrate rational functions, even if the denominator factors into linear factors that aren't necessarily distinct.
+Or even if we can't get all the way down to linear factors, and some of our factors have squares in them, or even if the degree of the numerator is too big.
+But I won't get into the details of those related methods.
+In this video, you'll have to read about them in the book or wait for class or wait for a future video to find out more.
+In this video, we integrated a rational function by splitting up the fraction into two partial fractions.
+This video is about improper integrals, especially the first type, which I'll define in a moment.
+Two examples of improper integrals are the integral from one to infinity of one over x squared dx, and the integral from zero to pi over two of tan x dx.
+What makes these integrals improper?
+Well, in the first example, it's this infinity in the bound of integration.
+And then the second example, is the fact that the function, tan of x itself goes to infinity on the interval from zero to pi over two where we're integrating.
+So an integral is called improper.
+If either of these two situations occur.
+It's called a type one improper integral if we're integrating over an infinite interval.
+In other words, there's an infinity or negative infinity somewhere in the bounds of integration.
+So the first example, is a type one improper integral.
+A type two improper integral occurs when the function that we're integrating itself has an infinite discontinuity on the interval.
+by an infinite discontinuity, I mean the function is going to infinity or negative infinity, this is also called a vertical asymptote.
+This vertical asymptote could occur in the interior of the interval we're integrating over.
+Or, as in this example, it could occur on the endpoint of that interval of integration.
+Now, it's possible that both of these situations could occur for the same integral.
+And that's also an improper integral.
+This video will focus on type one improper integrals.
+A type one improper integral, asks us to integrate over an infinite interval.
+To do this, we take the integral over larger and larger finite intervals and take the limit.
+So for example, to find the integral from one to infinity of one over x squared dx, we'll evaluate the integral from one to some finite number T, and then take the limit as t goes off to infinity.
+In symbols, we can write the limit as t goes to infinity of the integral from one to T of one over x squared dx.
+Since one over x squared is the same thing as x to the minus two, we can integrate it to get negative x to the minus one evaluated between one and T, and then take that limit or rewrite this as negative one over x and evaluate on the bounds of integration.
+as t goes to infinity, one over t goes to zero.
+So the limit just comes from this expression, which evaluates to one.
+If we think of it, the integral is representing area, this is a little surprising.
+Even though we're taking the area of an infinitely long region, the area still evaluates to a finite number of one.
+In this situation, we say that the improper integral converges.
+So in general, the improper integral from some finite number a to infinity of f of x dx is defined as the limit as t goes to infinity of the integral from a to T of f of x dx.
+We say that the integral converges if this limit exists as a finite number.
+And we say that the integral diverges if the limit is infinity, or negative infinity, or if it doesn't exist.
+Similarly, we evaluate the integral from negative infinity to some finite number by taking bigger and bigger intervals that extend off to negative infinity.
+That is, this integral is defined as the limit as the left endpoint t goes to negative infinity of the integral from t to b of f of x dx.
+We say that this integral converges if the limit exists as a finite number, and diverges otherwise.
+So to evaluate the integral from negative infinity to negative one of one over x dx, we take the limit as t goes to negative infinity This video is about improper integrals, especially the first type, which I'll define in a moment.
+Two examples of improper integrals are the integral from one to infinity of one over x squared dx, and the integral from zero to pi over two of tan x dx.
+What makes these integrals improper?
+Well, in the first example, it's this infinity in the bound of integration.
+And then the second example, is the fact that the function, tan of x itself goes to infinity on the interval from zero to pi over two where we're integrating.
+So an integral is called improper.
+If either of these two situations occur.
+It's called a type one improper integral if we're integrating over an infinite interval.
+In other words, there's an infinity or negative infinity somewhere in the bounds of integration.
+So the first example, is a type one improper integral.
+A type two improper integral occurs when the function that we're integrating itself has an infinite discontinuity on the interval.
+by an infinite discontinuity, I mean the function is going to infinity or negative infinity, this is also called a vertical asymptote.
+This vertical asymptote could occur in the interior of the interval we're integrating

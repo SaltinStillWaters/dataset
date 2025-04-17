@@ -1,0 +1,70 @@
+Even and Odd Functions.
+is symmetric with respect to the x axis, if the graph has mirror symmetry, with the x axis as the mirror line.
+This graph here is an example.
+Here is the mirror line.
+Notice that the point five three is on this graph.
+And so it's mirror image, five, negative three is also on the graph.
+Similarly, the point two, two is on the graph and its mirror image, two, negative two is on the graph.
+For any point x, y on a graph, its mirror image when you flip over the x axis will have coordinates the same x coordinate and the opposite of the y coordinates.
+Therefore, we can say that a graph is symmetric with respect to the x axis.
+If whenever a point x, y is on the graph, the point x negative y is also on the graph.
+We say that a graph is symmetric with respect to the y axis, if it has mirror symmetry, with the y axis as the mirror line.
+This graph is symmetric with respect to the y axis, here is the mirror line.
+Notice that the point with coordinates two three is on this graph.
+Its mirror image, which is also on the graph has coordinates negative two, three, so the same y coordinate, but the opposite x coordinate.
+And in fact, if I take any point with coordinates x, y, and I want its mirror image with the y axis as a mirror line, I'm going to get the point with the same height the same y coordinate, but the opposite x coordinate.
+So I can say that a graph is symmetric with respect to the y axis.
+If whenever a point x, y is on the graph, the point negative x, y is also on the graph.
+Finally, a graph is symmetric with respect to the origin if it has 180 degree rotational symmetry around the origin.
+This means that if I spin it by 180 degrees, the graph should line up exactly with itself.
+Rotating a graph by 180 degrees is the same thing as turning it upside down.
+So one way to see if a graph has symmetry respect to the origin, is to turn it upside down and see if it looks exactly the same.
+This one does.
+playing around with points, I noticed that the point one, negative two is on this graph.
+If I rotate that point around the origin by 180 degrees, I get to the point with coordinates negative one, two.
+If I start with a point on the graph with coordinates, two, three, And I rotate by 180 degrees, I get the point with coordinates negative two, negative three.
+And in general, if I start with a point x, y, and I rotate that 180 degrees around the origin, I get the point with coordinates negative x, negative y.
+so we can say that a graph is symmetric with respect to the origin.
+If whenever a point x, y is on the graph, the point negative x negative y is also on the graph.
+Please pause the video for a moment and decide which of these graphs are symmetric with respect to the x axis, the y axis and the origin.
+Some graphs may have more than one type of symmetry.
+Graph a is symmetric with respect to the origin.
+Because if you rotate it by 180 degrees, that is you turn it upside down, it looks exactly the same.
+It does not have any mirror symmetry, so it's not symmetric with respect to the x axis or the y axis.
+Graph B does have mirror symmetry, I'll draw on the two mirror lines.
+So it's both symmetric with respect to the x axis and symmetric with respect to the y axis.
+It also looks exactly the same upside down.
+So it's also symmetric with respect to the origin.
+Graph C is symmetric with respect to the y axis, but has no other symmetry.
+And graph D is symmetric with respect to the x axis with no other symmetry.
+We use the words even and odd to describe functions whose graphs have certain kinds of symmetry.
+A function is even if its graph is symmetric, with respect to the y axis.
+Remember that being symmetric with respect to the y axis means that whenever a point x, y is on the graph, its mirror image, negative x, y is also on the graph.
+That is, the y values corresponding to x and negative x are the same.
+Using function notation, I can write these points as the points with coordinates x, f of x and negative x, f of negative X, since the y value for a function is given by f of its x value.
+So we can say that a function f of x is even if F of negative X equals f of x, for all x values in its domain, the function has the same height at x and negative x.
+For example, we can see the function f of x equals x squared plus three is even.
+And one way to see this is by looking at its graph, which looks pretty much like the graph I've drawn.
+And that is saying that this graph is symmetric across the y axis.
+But we can also check that this function is even algebraically.
+without knowing anything about this graph, all we have to do is check that F of negative X is equal to f of x.
+So if we plug in at negative x for x into this formula, that's negative x squared plus three, but negative x squared is the same thing as x squared.
+And so this is exactly the same thing as f of x.
+And the property of being even is satisfied.
+We say that a function f of x is odd, if its graph is symmetric with respect to the origin.
+Recall that a graph is symmetric with respect to the origin means that whenever a point x, y is on the graph, it's 180 80 degree rotated point, negative x, negative y is also on the graph.
+That is the graph y value at x.
+And the graphs y value at negative x are the opposites of each other, same magnitude but opposite sign.
+If we use function notation, for the coordinates of these points, this one is x, f of x, and this one is negative x, f of negative x, right because the y value for a function at the x value of negative x is just F of negative X.
+So for a function to be odd, we see that F of negative X, that y value has to be the opposite of f of x, the other guys y value.
+A function f of x is odd if F of negative X is the negative of f of x for all x in its domain.
+Let's look at this example.
+We could draw its graph and verify the functions odd by seeing that rotational symmetry around the order On this graph, but we can also figure it out algebraically by checking to see if F of negative X is equal to negative of f of x.
+So let's plug in negative x for x in the formula for F, that gives us five times negative x minus one over negative x, that simplifies to negative 5x plus one over x.
+And we can see that that is actually the negative 5x minus one over x by factoring out a negative sign, which is negative f of x.
+So the property for being odd holds.
+In this video, we talked about symmetry with respect to the x axis symmetry with respect to the y axis, and symmetry with respect to the origin.
+functions that are symmetric with respect to the y axis are even functions and functions that are symmetric with respect to the origin, or odd functions.
+There's no word for functions that are symmetric with respect to the x axis.
+And that's because if your graph is symmetric with respect to the x axis, it's not going to be a function.
+This video gives the graphs of some commonly used functions that I call the toolkit functions.

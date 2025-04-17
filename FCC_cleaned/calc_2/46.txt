@@ -1,0 +1,45 @@
+Arclength of Parametric Curves.
+intensive, and makes use of exponent rules.
+If we look at the basic term, and rewrite it using exponent rules, this is three to the two i times three to the minus three, I can rewrite the three to the two is three squared to the I and the three to the minus three and the denominator becomes a three cubed and the numerator.
+Now I can group together all the pieces that are raised to the nth power.
+And write this as negative 1/9 to the i times three cubed, or 27 times negative one night to the I reading like this, I can see that every time I increases by one, I get another factor of negative one nine multiplied in my expression.
+And therefore, the this is a geometric series with ratio negative one nine, as I saw before, now, you might think that the first term should be 27.
+But remember that it doesn't start at zero, it starts at two.
+So the first term is going to be what I get I get when I plug in the first value of i.
+So that's 27 times negative one nine squared, which works out to 1/3.
+as before.
+So we do have a geometric series with first term of 1/3, a common ratio of negative 1/9.
+In fact, we could rewrite it in a more standard form as the sum of 1/3 times negative 1/9 to the k, where k ranges from zero to infinity.
+Since k equals zero, and this expression corresponds to i equals two in this expression, k is equal to, can be thought of as equal to i minus two.
+And this is really a reindexing tugann simplification to get from this version to this version.
+A geometric sequence is a sequence of the form a a times r, a times r squared, a times r cubed, and so on.
+For some numbers a and r.
+this can be written in the wrapped up notation, a times r to the k, where k goes from zero to infinity.
+For example, if a is three, and r is one half, the sequence would be three, three halves, three fourths, three eighths, and so on, which could be written as three times one half to the k, where k ranges from zero to infinity.
+A geometric series is the series you get by adding all these numbers up.
+So that would be a plus a times r plus a times r squared, and so on, which can be written in summation notation is the sum from K equals zero to infinity of A times r to the K.
+For our example, our series would be the following, which could be written as the sum from K equals zero to infinity of three times one half to the K.
+Sometimes you might get a geometric series that's in disguise, like this one.
+If I write out the first few terms, notice that we're told to start with i equals two.
+So plugging in i equals two here, I get negative one, squared over three to the two times two minus three, that's one over three.
+If I plug in i equals three, I get negative one cubed, that's over three to the two times three minus three, or negative one over three cubed, negative 127.
+When I go four, I get one over 243.
+If I look at the ratio of consecutive terms, negative 127 divided by 1/3, is negative one night.
+Similarly, the ratio here is also negative one nights, suggesting that we might have a geometric series with ratio R of negative 1/9.
+And first term coming from here, of 1/3.
+But there's another way to see this that's less arithmetic intensive, and makes use of exponent rules.
+If we look at the basic term, and rewrite it using exponent rules, this is three to the two i times three to the minus three, I can rewrite the three to the two is three squared to the I and the three to the minus three and the denominator becomes a three cubed and the numerator.
+Now I can group together all the pieces that are raised to the nth power.
+And write this as negative 1/9 to the i times three cubed, or 27 times negative one night to the I reading like this, I can see that every time I increases by one, I get another factor of negative one nine multiplied in my expression.
+And therefore, the this is a geometric series with ratio negative one nine, as I saw before, now, you might think that the first term should be 27.
+But remember that it doesn't start at zero, it starts at two.
+So the first term is going to be what I get I get when I plug in the first value of i.
+So that's 27 times negative one nine squared, which works out to 1/3.
+as before.
+So we do have a geometric series with first term of 1/3, a common ratio of negative 1/9.
+In fact, we could rewrite it in a more standard form as the sum of 1/3 times negative 1/9 to the k, where k ranges from zero to infinity.
+Since k equals zero, and this expression corresponds to i equals two in this expression, k is equal to, can be thought of as equal to i minus two.
+And this is really a reindexing tugann simplification to get from this version to this version.
+As you may know, a geometric sequence converges to zero, when the common ratio R is between negative one and one, it converges to a, when r is equal to one, and it diverges.
+Otherwise, when r is less than or equal to negative one, or when r is greater than one.
+We're assuming

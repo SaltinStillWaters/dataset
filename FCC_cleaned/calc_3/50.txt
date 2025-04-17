@@ -1,0 +1,71 @@
+More Chain Rule Examples and Justification.
+it and working from the inside out.
+We also learn to break apart a complicated function into a composition of two functions by boxing one piece of the function and letting the first function applied in the composition.
+Let that be the inside of the box and the second function applied in the composition be whatever happens to the box.
+This video is about solving rational equations.
+A rational equation like this one equation that has rational expressions and that, in other words, an equation that has some variables in the denominator.
+There are several different approaches for solving a rational equation, but they all start by finding the least common denominator.
+In this example, the denominators are x plus three and x, we can think of one as just having a denominator of one.
+Since the denominators don't have any factors in common, I can find the least common denominator just by multiplying them together.
+My next step is going to be clearing the denominator.
+By this, I mean that I multiply both sides of my equation by this least common denominator, x plus three times x, I multiply on the left side of the equation, and I multiply by the same thing on the right side of the equation.
+Since I'm doing the same thing to both sides of the equation, I don't change the the value of the equation.
+Multiplying the least common denominator on both sides of the equation is equivalent to multiplying it by all three terms in the equation, I can see this when I multiply out, I'll rewrite the left side the same as before, pretty much.
+And then I'll distribute the right side to get x plus three times x times one plus x plus three times x times one over x.
+So I've actually multiplied the least common denominator by all three terms of my equation.
+Now I can have a blast canceling things.
+The x plus three cancels with the x plus three on the denominator.
+The here are nothing cancels out because there's no denominator, and here are the x in the numerator cancels with the x in the denominator.
+So I can rewrite my expression as x squared equals x plus three times x times one plus x plus three.
+Now I'm going to simplify.
+So I'll leave the x squared alone on this side, I'll distribute out x squared plus 3x plus x plus three, hey, look, the x squared is cancel on both sides.
+And so I get zero equals 4x plus three, so 4x is negative three, and x is negative three fourths.
+Finally, I'm going to plug in my answer to check.
+This is a good idea for any kind of equation.
+But it's especially important for a rational equation because occasionally for rational equations, you'll get what's called extraneous solution solutions that don't actually work in your original equation because they make the denominator zero.
+Now, in this example, I don't think we're going to get the extraneous equations, because negative three fourths is not going to make any of these denominators zero, so it should work out fine when I plug in.
+If I plug in, I get this, I can simplify the denominator here, negative three fourths plus three, three is 12, for sets becomes nine fourths, and this is one or flip and multiply to get minus four thirds.
+So here, I can simplify my complex fraction, it ends up being negative three nights, and one minus four thirds is negative 1/3.
+So that all seems to check out.
+And so my final answer is x equals negative three fourths.
+This next example looks a little trickier.
+And it is, but the same approach will work.
+First off, find the least common denominator.
+So here, my denominators are c minus five, c plus one, and C squared minus four c minus five, I'm going to factor that as C minus five times c plus one.
+Now, my least common denominator needs to have just enough factors to that each of these denominators divided into it.
+So I need the factor c minus five, I need the factor c plus one.
+And now I've already got all the factors I need for this denominator.
+So here is my least common denominator.
+Next step is to clear the denominators.
+So I do this by multiplying both sides of the equation by my least common denominator.
+In fact, I can just multiply each of the three terms by this least common denominator.
+I went ahead and wrote my third denominator in factored form to make it easier to see what cancels.
+Now canceling time dies, this dies, and both of those factors die.
+This video is about solving rational equations.
+A rational equation like this one equation that has rational expressions and that, in other words, an equation that has some variables in the denominator.
+There are several different approaches for solving a rational equation, but they all start by finding the least common denominator.
+In this example, the denominators are x plus three and x, we can think of one as just having a denominator of one.
+Since the denominators don't have any factors in common, I can find the least common denominator just by multiplying them together.
+My next step is going to be clearing the denominator.
+By this, I mean that I multiply both sides of my equation by this least common denominator, x plus three times x, I multiply on the left side of the equation, and I multiply by the same thing on the right side of the equation.
+Since I'm doing the same thing to both sides of the equation, I don't change the the value of the equation.
+Multiplying the least common denominator on both sides of the equation is equivalent to multiplying it by all three terms in the equation, I can see this when I multiply out, I'll rewrite the left side the same as before, pretty much.
+And then I'll distribute the right side to get x plus three times x times one plus x plus three times x times one over x.
+So I've actually multiplied the least common denominator by all three terms of my equation.
+Now I can have a blast canceling things.
+The x plus three cancels with the x plus three on the denominator.
+The here are nothing cancels out because there's no denominator, and here are the x in the numerator cancels with the x in the denominator.
+So I can rewrite my expression as x squared equals x plus three times x times one plus x plus three.
+Now I'm going to simplify.
+So I'll leave the x squared alone on this side, I'll distribute out x squared plus 3x plus x plus three, hey, look, the x squared is cancel on both sides.
+And so I get zero equals 4x plus three, so 4x is negative three, and x is negative three fourths.
+Finally, I'm going to plug in my answer to check.
+This is a good idea for any kind of equation.
+But it's especially important for a rational equation because occasionally for rational equations, you'll get what's called extraneous solution solutions that don't actually work in your original equation because they make the denominator zero.
+Now, in this example, I don't think we're going to get the extraneous equations, because negative three fourths is not going to make any of these denominators zero, so it should work out fine when I plug in.
+If I plug in, I get this, I can simplify the denominator here, negative three fourths plus three, three is 12, for sets becomes nine fourths, and this is one or flip and multiply to get minus four thirds.
+So here, I can simplify my complex fraction, it ends up being negative three nights, and one minus four thirds is negative 1/3.
+So that all seems to check out.
+And so my final answer is x equals negative three fourths.
+This next example looks a little trickier.
+And it is, but the same approach

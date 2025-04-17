@@ -1,0 +1,14 @@
+Midpoint Formula.
+The midpoint formula helps us find the coordinates of the midpoint of a line segment, as long as we know the coordinates of the endpoints.
+So let's call the coordinates of this endpoint x one, y one, and the coordinates of this other endpoint x two, y two, the x coordinate of the midpoint is going to be exactly halfway in between the x coordinates of the endpoints.
+To get a number halfway in between two other numbers, we just take the average.
+Similarly, the y coordinate of this midpoint is going to be exactly halfway in between the y coordinates of the endpoints.
+So the y coordinate of the midpoint is going to be the average of those y coordinates.
+So we see that the coordinates of the midpoint are x one plus x two over two, y one plus y two over two.
+Let's use this midpoint formula in an example, we want to find the midpoint of the segment between the points, negative one, five, and four to me draw the line segment between them.
+So visually, the midpoint is going to be somewhere around here.
+But to find its exact coordinates, we're going to use x one plus x two over two, and y one plus y two over two, where this first point is coordinates, x one, y one, and the second point has coordinates x two y two, it doesn't actually matter which point you decide is x one y one, which one is x two, y two, the formula will still give you the same answer for the midpoint.
+So let's see, I take my average of my x coordinates.
+So that's negative one, plus four over two, and the average of my Y coordinates, so that's five plus two over two, and I get three halves, seven halves, as the coordinates of my midpoint.
+In this video, we use the midpoint formula to find the midpoint of a line segment, just by taking the average of the x coordinates and the average of the y coordinates.
+This

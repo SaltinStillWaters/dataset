@@ -1,0 +1,59 @@
+Absolute Value Inequalities.
+This video is about solving inequalities that have absolute value signs in them.
+Let's look at the inequality absolute value of x is less than five on the number line.
+Thinking of absolute value as distance.
+This means that the distance between x and zero is less than five units.
+So x has to live somewhere in between negative five and five We can express this as an inequality without absolute value signs by saying negative five is less than x, which is less than five.
+Or we can use interval notation, soft bracket negative five, five, soft bracket.
+Both of these formulations are equivalent to the original one, but don't involve the absolute value signs.
+In the second example, we're looking for the values of x for which the absolute value of x is greater than or equal to five.
+on the number line, this means that the distance of x from the zero, it's got to be bigger than or equal to five units.
+A distance bigger than five units means that x has to live somewhere over here, or somewhere over here, where it's farther than five units away from zero.
+Course x could also have a distance equal to five units.
+So I'll fill in that dot and shade in the other parts of the number line that satisfy my inequality.
+Now I can rewrite the inequality without the absolute value symbols by saying that x is less than or equal to negative five, or x is greater than or equal to five.
+I could also write this in interval notation, soft bracket, negative infinity, negative five, hard bracket.
+And the second part is hard bracket five infinity soft bracket, I combine these with a u for union.
+Because I'm trying to describe all these points on the number line together with all these other points.
+Let's take this analysis a step further with a slightly more complicated problem.
+Now I want the absolute value of three minus two t to be less than four.
+And an absolute value less than four means a distance less than four on the number line.
+But it's not the variable t that lives in here at a distance of less than four from zero, it's the whole expression, three minus two t.
+So three minus two t, live somewhere in here.
+And I can rewrite this as an inequality without absolute value signs by saying negative four is less than three minus two t is less than four.
+Now I have a compound inequality that I can solve the usual way.
+First, I subtract three from all three sides to get negative seven is less than negative two t is less than one.
+And now I'll divide all three sides by negative two.
+Since negative two is a negative number, this reverses the directions of the inequalities.
+Simplifying, I get seven halves is greater than t is greater than negative one half.
+So my final answer on the number line looks like all the stuff between negative a half and seven halves.
+But not including the endpoints, and an interval notation, I can write this soft bracket negative a half, seven, half soft bracket, please pause the video and try the next problem on your own.
+thinking in terms of distance, this inequality says that the distance between the expression three minus two t and zero is always bigger than four.
+Let me draw this on the number line.
+If three minus two t has a distance bigger than four from zero, then it can't be in this region that's near zero, it has to be on the outside in one of these two regions.
+That is three minus two t is either less than negative four, or three minus two t is bigger than four.
+I solve these two inequalities separately, the first one, subtracting three from both sides, I get negative two t is less than negative seven divided by negative two, I get T is bigger than seven halves.
+And then on the other side, I get negative two t is greater than one.
+So t is less than negative one half, I had to flip inequalities in the last step due to dividing by a negative number.
+So let's check this out on the number line again, the first piece says that t is greater than seven halves.
+I'll draw that over here.
+And the second piece says that t is less than negative one half.
+I'll draw that down here.
+Because these two statements are joined with an or I'm looking for the t values that are in this one, or in this one.
+That is I want both of these regions put together.
+So an interval notation, this reads negative infinity to negative one half soft bracket union soft bracket Seven halves to infinity.
+This last example looks more complicated.
+But if I simplify first and isolate the absolute value part, it looks pretty much like the previous ones.
+So I'll start by subtracting seven from both sides.
+And then I'll divide both sides by two.
+Now I'll draw my number line.
+And I'm looking for this expression for x plus five, to always have distance greater than or equal to negative three from zero, wait a second, distance greater than equal to negative three, well, distance is always greater than or equal to negative three is always greater than equal to zero.
+So this, in fact, is always true.
+And so the answer to my inequality is all numbers between negative infinity and infinity.
+In other words, all real numbers.
+Once solving absolute value inequalities, it's good to think about distance.
+And absolute value of something that's less than a number means that whatever's inside the absolute value signs is close to zero.
+On the other hand, an absolute value is something and being greater than a number means that whatever's inside the absolute value sign is far away from zero, because its distance from zero is bigger than that certain number.
+drawing these pictures on the number line is a helpful way to rewrite the absolute value and equality as an inequality that doesn't contain an absolute value sign.
+In this case, it would be negative three is less than x plus two is less than three.
+And in the other case, it would be either x plus two is less than negative three, or x plus two is greater than three.

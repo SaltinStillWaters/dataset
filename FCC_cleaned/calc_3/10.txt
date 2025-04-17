@@ -1,0 +1,55 @@
+Limits at Infinity and Graphs.
+x goes through arbitrarily large positive and negative values.
+You may have touched on these ideas before in the past when you studied horizontal asymptotes.
+But in this video, we'll talk about the same ideas in the language of limits.
+In this first example, what happens to the function f of x drawn below as x go through larger and larger positive numbers?
+Well, the arrow here on the end is supposed to mean the trend continues.
+So as x gets bigger and bigger, the values of y, that is f of x, get closer and closer to one, we can write this in the language of limits by saying the limit as x goes to infinity of f of x is equal to one.
+Now what happens to this function as x goes through larger and larger negative numbers, by larger and larger negative numbers, I mean numbers that are negative but are larger and larger in magnitude.
+So for example, negative five, negative 10, negative 100, and negative a million and so on.
+Well, assuming this trend continues, it looks like f of x, even though it's oscillating, it's settling down at a value of two.
+So we say that the limit as x goes to negative infinity, of f of x equals to limits in which x goes to infinity, or negative infinity are called limits at infinity.
+The phrase limits at infinity should be contrasted with the phrase infinite limits.
+An infinite limit means that the y values, or the F of X values go to infinity, or negative infinity.
+limits and infinity correspond to horizontal asymptotes, as drawn above, while infinite limits correspond to vertical asymptotes.
+The only exception to this when we don't have a horizontal or vertical asymptote is when x and f of x are both going infinite at the same time, we'll see an example of this on the next page.
+Let's figure out the limits of infinity for these two functions, g of x and h of x.
+The function g of x is actually the function e to the minus x, and it has a horizontal asymptote, heading right here at y equals zero.
+So the limit as x goes to infinity of g of x equals zero.
+But as we head to the left, and x goes through larger and larger negative values, our Y values don't settle down to a particular finite value, they get arbitrarily large.
+And so we say that the limit as x goes to minus infinity of g of x is equal to infinity.
+Now let's look at the graph of y equals h of x.
+Please pause the video for a moment and try to figure out the limits of infinity for this function.
+The limit as x goes to infinity of h of x is negative infinity.
+Because as x goes to infinity, the y values get below or more negative than any finite number.
+Now as X goes to negative infinity, the y values oscillate, and never settle down at a particular number.
+So we say that the limit as x goes to minus infinity of h of x does not exist.
+Finally, let's look at some limits of infinity of functions without looking at their graphs first, to find the limit as x goes to infinity of one over x.
+Let's think about what happens to one over x.
+As x gets bigger and bigger through positive numbers.
+As x gets bigger and bigger, one over x gets smaller and smaller.
+So the limit as x goes to infinity of one over x equals zero.
+To find the limit of one over x as x goes to negative infinity, let's look at what happens as X goes to negative numbers that are larger and larger in magnitude.
+Now one of our x goes through numbers that are negative, but they're still getting smaller and smaller.
+magnitude.
+So the limit as x goes to negative infinity of one over x is also zero.
+We can use similar reasoning to find the limit as x goes to infinity of one over x cubed.
+As x goes to infinity, x cubed also goes to infinity.
+So one of our x cubed has to go to zero.
+To find the limit as x goes to infinity of one over the square root of x, notice that as x goes to infinity, the square root of x still goes to infinity.
+So one over the square root of x also goes to zero.
+In other words, both of these limits are equal to zero.
+Both of these examples are actually closely related, because both have the form of the limit as x goes to infinity of one over x to the R, where R is a number greater than zero.
+In the second example, the square root of x is really x to the R, where R is one half.
+In fact, the limit as x goes to infinity of one over x to the R is always equal to zero.
+Whenever R is bigger than zero, we can even say the same thing about the limit as x goes to negative infinity of one over x to the R.
+As long as we avoid exponents, like one half that don't make sense for negative numbers.
+But for other values of r, as x goes to negative infinity, x to the R is getting bigger and bigger and magnitude.
+And so one over x to the R is getting smaller and smaller and magnitude and heading towards zero.
+Notice that this is no longer true.
+if r is less than zero, for example, something like r equals negative two, because one over x to the minus two is really x squared.
+And the limit as x goes to infinity of x squared is going to be infinity, not zero.
+In this video, we looked at examples of limits as x goes to infinity, and x goes to minus infinity.
+And we saw that those limits could be zero.
+Any other number, infinity, negative infinity, or not exist.
+This video gives some algebraic techniques for computing the limits

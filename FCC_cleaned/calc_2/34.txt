@@ -1,0 +1,78 @@
+Taylor Series Introduction.
+that's the same as a sub one is just one half Although I can't physically add up infinitely many numbers, I can observe that as I add up more and more numbers, my partial sums are approaching the number one.
+That is the limit, as the number of terms I add up and goes to infinity of the nth partial sum is equal to one.
+So it makes sense that if I could add up all infinitely many numbers, I should get an exact sum of one, the sum of this infinite series is one.
+In fact, for this particular series, there's a nice way to see that the sum is one using geometry.
+If I draw a square with side length one and fill in half of the square, that gives me an area of one half.
+Now if I draw a line here, that gives me an additional area of 1/4.
+Here's an area of 1/8 1/16 and I keep spiraling in here.
+I keep adding areas that exactly match the terms of this series.
+In the limit, I'll have filled in the entire R square, which has an area of one.
+In this example, which found the sum of the series by evaluating the limit of the partial sums.
+And in general, this is how we find the sum of any series.
+For any series, the partial sums of the series are defined as the sequence s sub n, where S sub one is equal to just the first term, a sub one, a sub two is equal to the sum of the first two terms is a one plus a sub two, a sub three is a sum of the first three terms.
+And in general, s sub n is the sum of the first n terms.
+I can also write this in sigma notation, as the sum of say, k equals one to n of a sub k.
+I'm using a different letter K here as the index, just because I'm already using n to represent the number of terms that I'm adding up.
+That sum of a sub n is said to converge if this sequence of partial sums converges as a sequence.
+That is, if the limit as n goes to infinity of the sub ends, exists as a finite number.
+Otherwise, if the limit does not exist, or the limit is infinity or negative infinity, then the series is said to diverged.
+I want to emphasize that we're talking about the limit of the partial sums here, not the limit of the original terms as a bad, it's important to keep in mind when you're working with series that for any series, they're actually two sequences of interest.
+There's the sequence of terms, the ace of ends.
+And then there's the sequence of partial sums, the S events, it's the sequence of partial sums is telling us what the sum of our series is.
+So if the sequence of partial sums converges to a number L, then we say the cert series converges to L.
+Or in other words, the sum of the series is out.
+Let's look at the series The sum of one over n squared plus n, please pause the video and take a moment to write out the first four terms and the first four partial sums.
+The first four terms are a sub one, a sub two, a sub three and a sub four.
+So plugging in one for n, one over one squared plus one, so that's one half, a sub two is one over two squared plus two, that's one six, Ace of three ends up being 1/12.
+And a sub four is 1/20.
+Now S sub one is the sum of the first one terms, that's the same as a sub one is just one half S sub two, is what I get when I add one half plus one six, that's four, six, or two thirds.
+To get a sub three, I need to add on the next term, two thirds plus 112, is 912, or three fourths.
+And finally, as sub four, I need to add on the next term, which gives me four fifths.
+There's a nice pattern going on with the S events here.
+For the nth partial song, the numerator is just n, and the denominator is just n plus one.
+So the limit as n goes to infinity of the partial sums, is the limit as n goes to infinity of n over n plus one, which is just one.
+That means that the sum of the infinite series is equal to one, by coincidence the same sound as in the previous example.
+In this video, we saw that to find the sum of an infinite series, we have to calculate the partial sums.
+If we add together more and more finitely many terms, our partial sum will get close to our infinite sum.
+And in fact, the sum of our infinite sum is defined as the limit as n goes to infinity of the partial sum.
+This video gives some more definitions about sequences, including the definition of bounded and the definition of monotonic sequence is bounded above if all of its terms are less than or equal to some number in other Words, there's a number capital M, such that the term a sub n is less than or equal to capital M, for all values of the index n.
+A sequence is bounded below if all of its terms are greater than or equal to some number.
+In other words, there's a number lowercase m, such that a sub n is greater than or equal to lowercase m, for all and we say that a sequence is bounded if it's bounded both above and below.
+In other words, all of its terms are trapped between two numbers.
+Please pause the video and decide which of these three sequences are bounded.
+This first sequence is bounded above by three.
+Since all of its terms are less than or equal to three, of course, we could have also used four as an upper bound, or 100 is an upper bound, but three is the tightest upper bound that we can use.
+It's also bounded below by zero, since all of the terms are positive.
+So we say that this sequence is bounded.
+The second sequence is bounded below by one, but it's not bounded above, since its terms will eventually grow past any potential bound.
+The third sequence is bounded below and above.
+In fact, if we graph n on the x axis and a sub n on the y axis, then our terms bounce around between positive and negative values.
+But since we're always multiplying by negative two thirds to get from one term to the next, the oscillations are dying down in magnitude.
+And in fact, the terms can never get above three or below negative two.
+We say that a sequence is increasing if each term is less than the next term, that is, a sub n is less than a sub n plus one for all n.
+sequences called non decreasing if each term is less than or equal to the next term.
+So a sub n is less than or equal to a sub n plus one for all n.
+Non decreasing is like increasing, it's just we allow equality between 2/6 consecutive terms S sub two, is what I get when I add one half plus one six, that's four, six, or two thirds.
+To get a sub three, I need to add on the next term, two thirds plus 112, is 912, or three fourths.
+And finally, as sub four, I need to add on the next term, which gives me four fifths.
+There's a nice pattern going on with the S events here.
+For the nth partial song, the numerator is just n, and the denominator is just n plus one.
+So the limit as n goes to infinity of the partial sums, is the limit as n goes to infinity of n over n plus one, which is just one.
+That means that the sum of the infinite series is equal to one, by coincidence the same sound as in the previous example.
+In this video, we saw that to find the sum of an infinite series, we have to calculate the partial sums.
+If we add together more and more finitely many terms, our partial sum will get close to our infinite sum.
+And in fact, the sum of our infinite sum is defined as the limit as n goes to infinity of the partial sum.
+This video gives some more definitions about sequences, including the definition of bounded and the definition of monotonic sequence is bounded above if all of its terms are less than or equal to some number in other Words, there's a number capital M, such that the term a sub n is less than or equal to capital M, for all values of the index n.
+A sequence is bounded below if all of its terms are greater than or equal to some number.
+In other words, there's a number lowercase m, such that a sub n is greater than or equal to lowercase m, for all and we say that a sequence is bounded if it's bounded both above and below.
+In other words, all of its terms are trapped between two numbers.
+Please pause the video and decide which of these three sequences are bounded.
+This first sequence is bounded above by three.
+Since all of its terms are less than or equal to three, of course, we could have also used four as an upper bound, or 100 is an upper bound, but three is the tightest upper bound that we can use.
+It's also bounded below by zero, since all of the terms are positive.
+So we say that this sequence is bounded.
+The second sequence is bounded below by one, but it's not bounded above, since its terms will eventually grow past any potential bound.
+The third sequence is bounded below and above.
+In fact, if we graph n on the x axis and a sub n on the y axis, then our terms bounce around between positive and negative values.
+But since we're always multiplying by negative two thirds

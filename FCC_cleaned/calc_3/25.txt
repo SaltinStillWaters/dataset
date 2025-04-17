@@ -1,0 +1,62 @@
+Interpreting Derivatives.
+f of x at a point, x equals A represents the slope of a tangent line through the point A f of a.
+But if the function f of x represents some practical quantity, like distance as a function of time, or fuel efficiency as a function of speed, then the derivative will also have a practical interpretation.
+This video is about interpreting the derivative in different contexts.
+One of the most famous contexts for interpreting derivatives is problems involving motion.
+So let's say I'm on a bike ride, heading straight north from campus.
+And let's suppose that y equals f of x represents my distance from campus.
+So x is the time and hours and y or f of x is my distance and miles, the distance away from campus.
+Distance north of campus.
+It's kind of fun to see what this graph here means in terms of my bike ride.
+In particular, what's going on up here, where my y values reach their maximum.
+And what about here, where my function is constant.
+Please pause the video for a moment and see if you can make up a story that fits the graph.
+So here at the top, my distance is no longer increasing, it's actually starting to decrease.
+So I must have turned around and be heading back towards campus again, over here, where my f of x is constant, I probably stopped at a coffee shop to take a rest or maybe I'm fixing a flat tire.
+Now let's get to the questions at hand.
+Consider these two points, three, f of three, and four F of four, we want to interpret the slope of the secant line through those two points.
+Slope is change in y over change in x.
+And y here is distance and x here is time.
+So change in distance over change in time.
+Sounds a lot like speed, or more accurately, velocity.
+Velocity just means speed in a certain direction, and is positive.
+If distance is increasing, and negative if it's decreasing.
+Speed is the absolute value of velocity, and there's always positive or zero.
+So in our case, the velocity here must be negative, because our distance is decreasing.
+And we could estimate it very roughly as about, say four minus 12 over four minus three, so about negative eight miles per hour.
+But what is this negative eight miles per hour refer to.
+Since we're looking at the change in distance, over this entire hour long interval, the slope of my secant line gives my average velocity over this interval.
+It doesn't give my exact velocity, and exactly three hours or exactly four hours, only my average velocity.
+If I want to know my exact velocity at exactly three hours, I need to look instead at the slope of the tangent line at x equals three.
+The velocity at an exact instant of time is sometimes called the instantaneous velocity to distinguish it from the average velocity over a time interval.
+Let's think for a minute about why the velocity at exactly three hours is given by the slope of the tangent line.
+We saw in a previous video that the slope of the tangent line is the limit of the slope of the secant lines More precisely, the limit as x goes to three of f of x minus f of three over x minus three.
+Wow, well, each of these ratios represents an average velocity on the interval from three to x.
+And so the limit is the limit of average velocities on tinier and tinier intervals of time, one minute, one second 100th of a second, in the limit, as the length of the time interval goes to zero, we're going to get the exact velocity at exactly three hours.
+So to repeat, in this example, the slope of the secant line represents the average velocity over time interval, and the derivative at x equals three, written f prime of three, which is also the slope of the tangent line, that derivative represents the instantaneous velocity at x equals three.
+More generally, if f of x represents any quantity that's changing, then the slope of the secant line represents an average rate of change.
+While the slope of the tangent line, f prime of a represents an instantaneous rate of change.
+Let's see how that works in a couple of other examples.
+Let's suppose that f of x represents the temperature of a cup of coffee and degrees Fahrenheit as a function of time and minutes since he said it on the counter.
+So let's interpret the first equation.
+f of zero is 140.
+Well, that just means that at time zero, the temperature is 140 degrees.
+What about the equation f of 10 minus f of zero is negative 20.
+That's saying that the temperature goes down by 20 degrees as x the time goes from zero to 10 minutes.
+Now, what about this quotient here being equal to negative two?
+Well, this quotient looks a lot like the slope of a secant Why, right, so it must be an average rate of change.
+And in this context, we have the temperature is decreasing by an average of two degrees per minute, as x changes from zero to 10 minutes.
+Finally, the derivative of f at 15 is negative point five means that at exactly 15 minutes, the temperature is decreasing at a rate of point five degrees per minute.
+negative numbers here always mean decreasing, and f prime is an instantaneous rate of change.
+Let's look at another example.
+Please pause the video and try this one for yourself.
+Here g of x represents the fuel efficiency of a Toyota Prius and mpg as a function of x, the speed in miles per hour that is traveling g of 45 is 52 means that at 45 miles per hour, the fuel efficiency is 52 miles per gallon.
+The second statement is saying that as speed increases from 35 to 45 miles per hour, fuel efficiency goes up by 10.
+That's 10 miles per gallon.
+The third statement says that the average rate of change of fuel efficiency is two miles per gallon per mile per hour, as speed increases from 35 to 40 miles per hour.
+So going up from 35 to 40, gives you better fuel efficiency here.
+On the other hand, when you're going 60 miles per hour, your fuel efficiency is decreasing at a rate of two miles per gallon per mile per hour.
+So I bet the optimal fuel efficiency here occurs somewhere between 40 and 60 miles per hour.
+In this video, we've interpreted the slope of the secant line as the average rate of change, and the slope of the tangent line with the derivative as an instantaneous rate of change.
+I hope that these general principles will help you interpret the derivative in a variety of contexts that you might encounter throughout your life.
+In this video, we'll think of the derivative

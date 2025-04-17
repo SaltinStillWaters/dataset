@@ -1,0 +1,76 @@
+Derivatives of Inverse Trigonometric Functions.
+for S prime of t, we can factor out a four T, and factor some more.
+To conclude the T has to be 01, or three.
+The first question asks, When is the particle at rest, the particle is temporarily at rest when the velocity is zero.
+In other words, S prime of t is zero.
+So plugging in the equation for S prime of t, we can factor out a four T, and factor some more.
+To conclude the T has to be 01, or three.
+This conclusion agrees with our graph of V of t, which has x intercepts at 01 and three, and also agrees with our graph of position s of t.
+Since the particle stops for a moment, it changed direction, when t equals 01.
+And three, the particle is moving up when velocity is positive, and moving down when velocity is negative.
+Since we know from the previous question, the velocity equals zero, when t equals 01.
+And three, we can look in between those values to figure out whether the velocity is positive or negative, just by plugging in values.
+So for example, when t is negative one, if I plug into the negative one to the equation for velocity, I get a negative number.
+So velocity must be negative when t is less than zero, between zero and one.
+If I plug in, for example, t equals one half, I get a value of S prime of t or V of t of 2.
+5, which is a positive number.
+If I plug in a value of t in between one and three, say t equals two, I get a value of v of t of negative eight, which is a negative number.
+And finally, if I plug in a value of t greater than three, so For, I get a positive answer for V of t.
+So from the sign chart, I see that V of t is negative when t is between negative infinity and zero, and in between one and three, and V of t is positive when t is between This conclusion agrees with our graph of V of t, which has x intercepts at 01 and three, and also agrees with our graph of position s of t.
+Since the particle stops for a moment, it changed direction, when t equals 01.
+And three, the particle is moving up when velocity is positive, and moving down when velocity is negative.
+Since we know from the previous question, the velocity equals zero, when t equals 01.
+And three, we can look in between those values to figure out whether the velocity is positive or negative, just by plugging in values.
+So for example, when t is negative one, if I plug into the negative one to the equation for velocity, I get a negative number.
+So velocity must be negative when t is less than zero, between zero and one.
+If I plug in, for example, t equals one half, I get a value of S prime of t or V of t of 2.
+5, which is a positive number.
+If I plug in a value of t in between one and three, say t equals two, I get a value of v of t of negative eight, which is a negative number.
+And finally, if I plug in a value of t greater than three, so For, I get a positive answer for V of t.
+So from the sign chart, I see that V of t is negative when t is between negative infinity and zero, and in between one and three, and V of t is positive when t is between zero and zero and one, and between three and infinity.
+Of course, I could have reached the same conclusion just by looking at the graph of velocity and where it's above and below the x axis, or even by looking at the graph of position and seeing where it's increasing and where it's decreasing.
+To answer the next question, the particle will be speeding up when V of t and a of t are both positive or both negative.
+And the particle will be slowing down when V of t and a of t have opposite signs.
+So let's make a similar sign chart to figure out where a of t is positive and negative.
+First, it'll be helpful to find out where a if t is zero.
+So if I set zero equal to my S double prime, that's 12 t squared minus 32 t plus 12, I could factor out one, and between three and infinity.
+Of course, I could have reached the same conclusion just by looking at the graph of velocity and where it's above and below the x axis, or even by looking at the graph of position and seeing where it's increasing and where it's decreasing.
+To answer the next question, the particle will be speeding up when V of t and a of t are both positive or both negative.
+And the particle will be slowing down when V of t and a of t have opposite signs.
+So let's make a similar sign chart to figure out where a of t is positive and negative.
+First, it'll be helpful to find out where a if t is zero.
+So if I set zero equal to my S double prime, that's 12 t squared minus 32 t plus 12, I could factor out a four a four and then use the quadratic equation to find the solution.
+Since this equation doesn't factor easily, this simplifies to four thirds plus or minus the square root of seven over three, which is approximately 0.
+45, and 2.
+22.
+Now I can build a similar sign chart for acceleration, mark the places where acceleration is zero.
+and plug in values of t, say t equals zero is the equation for acceleration, I get a positive answer here.
+When I plug in, say t equals one, I get a negative answer here.
+And when I plug in, say, t equals three, I get another positive answer here.
+Now, if I put this together with my velocity chart, which changed sign at 01, and three, and went from negative to positive, to negative to positive, I can try to figure out where velocity acceleration both have the same sign.
+It might be helpful actually to shade in where acceleration is positive.
+And separately shade in where velocity is positive.
+And then look for the places where both are shaded.
+So between zero and 4.
+5, and greater than three.
+And then I can also look where both are unshaded that looks like in between one and 2.
+22.
+So that's where they're both negative.
+And then I'll know that V of t and a of t have opposite signs everywhere else.
+A slightly better answer, we'll use exact values of four thirds plus or minus squared of seven thirds instead of these decimal approximations.
+So let me write that down.
+So here is where the particle speeding up.
+And here, it's where it's slowing down, we can check our work by looking at the graph of position, the particle speeding up with the position graph is getting steeper and steeper, that's the red graph is getting steeper and steeper here, here.
+And here, just like we found algebraically.
+As our final example, let's look at net change in position and distance traveled between one and four seconds for the same particle.
+At time, one second position is five thirds, or about 1.
+67 millimeters at time for its position is given by 32 thirds, or about 10.
+67 millimeters, all I'm doing is plugging one and four into this equation.
+So the net change in position is just the difference of these two numbers.
+As a four minus as of one, which is nine millimeters.
+At first glance, it might seem like the total distance traveled between one and four seconds should also be nine millimeters, but actually, it's a little more complicated.
+Because the particle switches direction during that time period, it doesn't go straight from its position at one second to its position at four seconds.
+Remember what the graph Position looked like the particle switches direction at one second and at three seconds.
+So to find the total distance, we need the distance of travels from one second to three seconds, plus the distance that travels from three seconds to four seconds.
+Another way of thinking about this is that we need the absolute value of s three minus s one, plus the absolute value of s four minus s three, we need these absolute value signs because this difference in position will be negative instead of positive when the particles moving down.
+Plugging in the t values into our equation, we get negative 27 minus five thirds, plus the absolute value of 32 thirds minus negative 27, which is a

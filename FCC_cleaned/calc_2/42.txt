@@ -1,0 +1,109 @@
+Taylor Series Theory and Remainder.
+there's a number.
+And such that a sub n is less than omega for a little n bigger than or equal to capital N.
+Please take a moment and try to come up with an example of a sequence that converges, a sequence that diverges to infinity or negative infinity, and a sequence that's bounded but still diverges.
+One example of a convergent sequence is a sequence whenever n, this sequence converges to zero, since the limit as n goes to infinity of one over N is zero.
+A divergent sequence is two to the N.
+Since the limit as n goes to infinity of two to the n is infinity.
+One example of a sequence that's bounded, but still diverges is negative one to the n.
+The sequence alternates between negative one and one, depending on whether n is odd, or even.
+So it's bounded in between negative one and one.
+But it still diverges because the limit does not exist.
+Since the sequence doesn't settle at a single value.
+The rest of this video will give some techniques for proving that sequences converge.
+The first technique is to use standard calculus tricks for finding limits of functions.
+Even though a sequence is only defined on positive integers.
+Sometimes it's possible to find a function defined on all positive real numbers that agrees with our sequence on the integers.
+In other words, the terms as of n are equal to f of n for this function F.
+When this happens, then if the limit as x goes to infinity of f of x equals L, then the limit as n goes to infinity of a sub n also equals out, the red dots are converging to the same limit as the blue function.
+So a lot of times, we can figure out if a sequence converges by replacing the terms a sub n with F of X for some appropriate function, and then using lobaton ruler, other tricks from calculus one to show that the function limit exists.
+Let's try that for the following example.
+When the indices are missing, as in this example, we'll assume that n starts at one and goes to infinity.
+In order to prove that this sequence converges, let's instead look at the function f of x equals ln one plus two e to the x over x, where x is a real number.
+Now let's look at the limit as x goes to infinity of f of x.
+That's the limit as x goes to infinity of ln one plus two e to the x over x.
+And as x goes to infinity in the x goes to infinity, so one plus two times e to the x goes to infinity, which means ln of that goes to infinity.
+So the numerator is going to infinity as x goes to infinity.
+And so as the denominator, we have an infinity over an infinity indeterminate form.
+So we can apply lobby towels rule and take the derivative of the numerator over the derivative of the denominator, the derivative of the numerator one over one plus two times e to the x times two times e to the x using the chain rule, and the derivative of the denominator is just one.
+We can take derivatives here, because we're thinking of x as a real number, not just an integer.
+Simplifying, we still have an infinity over infinity indeterminate form.
+So let's take the derivatives again, the derivative of the numerator is now two times e to the x, and the derivative of the denominator is also two times e to the x.
+So their limit here is one.
+Since our function converges to one, our sequence also converges to one.
+So this original sequence converges to one.
+the derivative of the numerator is now two times e to the x, and the derivative of the denominator is also two times e to the x.
+So their limit here is one.
+Since our function converges to one, our sequence also converges to one.
+So this original sequence converges to one.
+Another technique for proving that sequences converge is to use the squeeze theorem and trap the sequence between two simpler sequences that converge to the same limit.
+In this example, since sine and cosine are both bounded in between one and negative one, we know that cosine of n plus sine of n can't be any bigger than two, certainly, or on a smaller than negative two.
+If I divide all sides of this inequality by n to the two thirds, we can see that the original sequence is bounded in between negative two over n to the two thirds and two over n to the two thirds.
+Notice that n to the two thirds has to be positive, since as usual, we're assuming that n starts as one and goes to infinity.
+And so dividing by n to the two thirds does not switch the inequality signs.
+Now it's easy to check that the limit as n goes to infinity of negative two over n to the two thirds is zero, since as n goes to infinity, and to the two thirds also goes to infinity.
+Similarly, the limit as n goes to infinity of two over n to the two thirds is zero.
+Since these two limits are the same, we know by the squeeze theorem, that the limit of our sequence in the middle has to exist at equals zero.
+Also, it's a remarkable fact that I won't prove here that if a sub n is bounded, and monotonic, then it has to converge.
+You might get some intuition for this fact, by looking at a graph.
+If the ace of ends are monotonically, increasing, for example, but are bounded, then there's no place for these events to go.
+And they can't oscillate up and down.
+Because they're monotonically increasing.
+So it makes intuitive sense that they have to settle on some limit.
+A fun example of this fact is a sequence that starts point 1.
+1 2.
+12 3.
+1234, and so on.
+Where we just keep stringing together the counting numbers as our decimal, the sequence is certainly monotonically increasing, and is bounded.
+Since every term of the sequence is greater than zero and less than, say, point five.
+So we have a bounded monotonic sequence.
+And so the sequence has to converge.
+Now, what it actually converges to is a little mysterious, since it doesn't converge to some number we're already familiar with like, like, point six, or pi over three or something like that.
+But it does converge to some real number.
+And that real number is called champion nouns constant.
+And it has some interesting properties.
+And of course, it has a decimal expansion that's easy to to come up with, since you get it just by stringing together the counting numbers.
+If you can recognize a sequence to be a geometric sequence, then it's pretty easy to decide whether it converges or diverges.
+Recall that a geometric sequence is a sequence of the form a times r to the n minus one where n runs from one to infinity.
+Or sometimes it's written as a times r to the n, where n runs from zero to infinity.
+Let's try to figure out for what values of our the sequence r to the n converges.
+It's not really important here whether and starts at zero or starts So one, since when we talk about convergence, we're talking about the behavior of the terms as n goes to infinity.
+So the first few terms really don't matter.
+if r is greater than one, then the sequence r to the n is an increasing sequence.
+In fact, for the sequence r to the n, if we replace n with x, and look at the function f of x equals r to the x, that's an exponential function.
+And if we're assuming r is greater than one, the base for our exponential functions is greater than one.
+So we know that the limit as x goes to infinity of our to the X is infinity, which means that our sequence r to the n also has to diverge to infinity.
+Another technique for proving that sequences converge is to use the squeeze theorem and trap the sequence between two simpler sequences that converge to the same limit.
+In this example, since sine and cosine are both bounded in between one and negative one, we know that cosine of n plus sine of n can't be any bigger than two, certainly, or on a smaller than negative two.
+If I divide all sides of this inequality by n to the two thirds, we can see that the original sequence is bounded in between negative two over n to the two thirds and two over n to the two thirds.
+Notice that n to the two thirds has to be positive, since as usual, we're assuming that n starts as one and goes to infinity.
+And so dividing by n to the two thirds does not switch the inequality signs.
+Now it's easy to check that the limit as n goes to infinity of negative two over n to the two thirds is zero, since as n goes to infinity, and to the two thirds also goes to infinity.
+Similarly, the limit as n goes to infinity of two over n to the two thirds is zero.
+Since these two limits are the same, we know by the squeeze theorem, that the limit of our sequence in the middle has to exist at equals zero.
+Also, it's a remarkable fact that I won't prove here that if a sub n is bounded, and monotonic, then it has to converge.
+You might get some intuition for this fact, by looking at a graph.
+If the ace of ends are monotonically, increasing, for example, but are bounded, then there's no place for these events to go.
+And they can't oscillate up and down.
+Because they're monotonically increasing.
+So it makes intuitive sense that they have to settle on some limit.
+A fun example of this fact is a sequence that starts point 1.
+1 2.
+12 3.
+1234, and so on.
+Where we just keep stringing together the counting numbers as our decimal, the sequence is certainly monotonically increasing, and is bounded.
+Since every term of the sequence is greater than zero and less than, say, point five.
+So we have a bounded monotonic sequence.
+And so the sequence has to converge.
+Now, what it actually converges to is a little mysterious, since it doesn't converge to some number we're already familiar with like, like, point six, or pi over three or something like that.
+But it does converge to some real number.
+And that real number is called champion nouns constant.
+And it has some interesting properties.
+And of course, it has a decimal expansion that's easy to to come up with, since you get it just by stringing together the counting numbers.
+If you can recognize a sequence to be a geometric sequence, then it's pretty easy to decide whether it converges or diverges.
+Recall that a geometric sequence is a sequence of the form a times r to the n minus one where n runs from one to infinity.
+Or sometimes it's written as a times r to the n, where n runs from zero to infinity.
+Let's try to figure out for what values of our the sequence r to the n converges.
+It's not really important here whether and starts at zero or starts So one, since when we talk about convergence, we're talking about the behavior of the terms as n goes to infinity.
+So the first few terms really don't matter.
+if r is greater than one, then the sequence r to the n is an increasing

@@ -1,0 +1,379 @@
+Mean Value Theorem.
+As you can see, when you have implicitly defined curves, they are not necessarily functions.
+And in fact, they can not only violate the vertical line test, but they can cross themselves, or be broken up into several pieces or look like really cool pictures like this flower.
+But small pieces of these curves do satisfy the vertical line test for small pieces, y is a function of x.
+And that allows us to use our calculus techniques, especially the chain rule, to compute derivatives for these implicitly defined curves.
+As usual, the derivative dy dx represents the slope of a tangent line.
+For our first example, let's find the equation of the tangent line for the lips 9x squared plus four y squared equals 25.
+drawn below at the point, one, two.
+From the picture, it looks like the slope of this tangent line should be about negative one, but let's use calculus to find it exactly.
+So there are at least two ways we could proceed.
+First, we could solve for y, and then use the same techniques that we've been using.
+So if we solve for y, we get for y squared equals 25 minus 9x squared.
+So y squared is 25 minus 9x squared over four, which means that y is plus or minus the square root of 25 minus 9x squared over four, or in other words, plus or minus the square root of 25 minus 9x squared over two, the plus answer is giving us the top half of the ellipse.
+And the minus answer is giving us this bottom.
+Since the point one, two is on the top part of the ellipse, let's focus on the positive version.
+And let's take the derivative.
+But first, let me rewrite one more time to put it in a slightly easier form, instead of dividing by two, I'm going to think of multiplying by the constant one half.
+And instead of taking the square root, I'm going to write that as an exponent of one half here.
+So now if I want to take the y dx, I can pull out the constant of one half.
+And now I'll start using the chain rule where my outer function As usual, the derivative dy dx represents the slope of a tangent line.
+For our first example, let's find the equation of the tangent line for the lips 9x squared plus four y squared equals 25.
+drawn below at the point, one, two.
+From the picture, it looks like the slope of this tangent line should be about negative one, but let's use calculus to find it exactly.
+So there are at least two ways we could proceed.
+First, we could solve for y, and then use the same techniques that we've been using.
+So if we solve for y, we get for y squared equals 25 minus 9x squared.
+So y squared is 25 minus 9x squared over four, which means that y is plus or minus the square root of 25 minus 9x squared over four, or in other words, plus or minus the square root of 25 minus 9x squared over two, the plus answer is giving us the top half of the ellipse.
+And the minus answer is giving us this bottom.
+Since the point one, two is on the top part of the ellipse, let's focus on the positive version.
+And let's take the derivative.
+But first, let me rewrite one more time to put it in a slightly easier form, instead of dividing by two, I'm going to think of multiplying by the constant one half.
+And instead of taking the square root, I'm going to write that as an exponent of one half here.
+So now if I want to take the y dx, I can pull out the constant of one half.
+And now I'll start using the chain rule where my outer function is is taking things to the one half power, and my inner function is 25 minus 9x squared.
+So I'll take the derivative of my outer function by bringing the one half down, taking the inner function to the negative one half.
+Now I multiply by the derivative of the inner function, which is negative 18x.
+If I simplify a little bit, I get D y dX is negative 18x over four times 25 minus 9x squared to the one half power, or in other words, dy dx is negative 9x over two times the square root of 25 minus 9x squared.
+This formula only holds for the top half of the ellipse for the bottom half, we would need to use the negative.
+Now I want to evaluate the derivative at the point one, two, so I'm going to take dydx.
+When x equals one, I get negative nine over two times the square root of 25 minus nine, which is negative nine eighths.
+Since I've found the slope of the tangent line, and I know that point one, two is a point on the tangent line, I can now use the point slope form to write down the equation of the tangent line.
+simplified this becomes y equals negative nine is x plus nine eights plus two, or y equals negative nine, it's x plus 25.
+It's now that we've solved the problem once using a familiar method.
+Let's go back to the beginning and solve it again using a new method.
+method two is implicit differentiation.
+The idea is that I'm going to take the derivative with respect to x of both sides.
+If my equation without having to solve for y, I can rewrite the left side as nine times the derivative of x squared plus four times the derivative of y squared.
+And the right side, the derivative of a constant is zero.
+Going back to the left side, the derivative of x squared with respect to x is 2x.
+Now for the derivative of y squared with respect to x, I'm going to need to use the chain rule, I'm going to think of taking the squared power as my outside function, I'm going to think of y itself as my inside function, my inside function of x.
+Even though my entire curve is not a function, for small pieces of it, y is a function of x, so I can get away with doing this, the derivative of my outside function y squared is to y, and the derivative of my inside function, y as a function of x is just dydx.
+Now I can solve for dy dx, which is going to tell me the slope of my tangent line.
+And so I get negative 18x from here, divided by eight y from here, which simplifies to negative nine fourths times X over Y.
+Notice that the formula for my derivative dydx has both x's and y's in it.
+Of course, for this problem, if I wanted to, I could solve for y in terms of x using the original equation like I did in method one, and plug that in for y and get an expression entirely in terms of x, which should be the same as the expression I got previously.
+taking things to the one half power, and my inner function is 25 minus 9x squared.
+So I'll take the derivative of my outer function by bringing the one half down, taking the inner function to the negative one half.
+Now I multiply by the derivative of the inner function, which is negative 18x.
+If I simplify a little bit, I get D y dX is negative 18x over four times 25 minus 9x squared to the one half power, or in other words, dy dx is negative 9x over two times the square root of 25 minus 9x squared.
+This formula only holds for the top half of the ellipse for the bottom half, we would need to use the negative.
+Now I want to evaluate the derivative at the point one, two, so I'm going to take dydx.
+When x equals one, I get negative nine over two times the square root of 25 minus nine, which is negative nine eighths.
+Since I've found the slope of the tangent line, and I know that point one, two is a point on the tangent line, I can now use the point slope form to write down the equation of the tangent line.
+simplified this becomes y equals negative nine is x plus nine eights plus two, or y equals negative nine, it's x plus 25.
+It's now that we've solved the problem once using a familiar method.
+Let's go back to the beginning and solve it again using a new method.
+method two is implicit differentiation.
+The idea is that I'm going to take the derivative with respect to x of both sides.
+If my equation without having to solve for y, I can rewrite the left side as nine times the derivative of x squared plus four times the derivative of y squared.
+And the right side, the derivative of a constant is zero.
+Going back to the left side, the derivative of x squared with respect to x is 2x.
+Now for the derivative of y squared with respect to x, I'm going to need to use the chain rule, I'm going to think of taking the squared power as my outside function, I'm going to think of y itself as my inside function, my inside function of x.
+Even though my entire curve is not a function, for small pieces of it, y is a function of x, so I can get away with doing this, the derivative of my outside function y squared is to y, and the derivative of my inside function, y as a function of x is just dydx.
+Now I can solve for dy dx, which is going to tell me the slope of my tangent line.
+And so I get negative 18x from here, divided by eight y from here, which simplifies to negative nine fourths times X over Y.
+Notice that the formula for my derivative dydx has both x's and y's in it.
+Of course, for this problem, if I wanted to, I could solve for y in terms of x using the original equation like I did in method one, and plug that in for y and get an expression entirely in terms of x, which should be the same as the expression I got previously.
+But I don't really But I don't really need to do that in order to solve this problem.
+Instead, I can just plug in the x value of one and the y value of two to get dy dx at x equals one, equal to negative nine fourths, times one half or negative nine, eight, which we'll recognize as the same answer we got before.
+So as before, we can compute the equation for the tangent line.
+And we'll again get y equals negative nine 8x plus 25, eights.
+In this example, implicit differentiation was a convenient way to find the derivative.
+But it was possible to solve for y and use standard methods instead.
+But in many examples, like the next one, it's not possible to solve for y directly.
+And so implicit differentiation is the only way to go.
+implicit differentiation is definitely the key to finding y prime for this curve defined implicitly.
+So again, the idea is to take the derivative of both sides with respect to x, I can break this up into pieces.
+And now use the product rule for the first piece.
+So I get the first function x cubed times the derivative of the second function y squared, the derivative of y squared is to y, d y dx, don't forget the dydx there, because y is a function of x plus the derivative of the first part 3x squared times the second part need to do that in order to solve this problem.
+Instead, I can just plug in the x value of one and the y value of two to get dy dx at x equals one, equal to negative nine fourths, times one half or negative nine, eight, which we'll recognize as the same answer we got before.
+So as before, we can compute the equation for the tangent line.
+And we'll again get y equals negative nine 8x plus 25, eights.
+In this example, implicit differentiation was a convenient way to find the derivative.
+But it was possible to solve for y and use standard methods instead.
+But in many examples, like the next one, it's not possible to solve for y directly.
+And so implicit differentiation is the only way to go.
+implicit differentiation is definitely the key to finding y prime for this curve defined implicitly.
+So again, the idea is to take the derivative of both sides with respect to x, I can break this up into pieces.
+And now use the product rule for the first piece.
+So I get the first function x cubed times the derivative of the second function y squared, the derivative of y squared is to y, d y dx, don't forget the dydx there, because y is a function of x plus the derivative of the first part 3x squared times the second part y squared.
+y squared.
+Next, I need to take the derivative of sine x, y on the do use the chain rule here.
+So the derivative of the outside sine is cosine.
+And now I need to take the derivative of the inside x times y.
+And that's going to be a product rule application.
+So x times D y dX, plus the derivative of x, which is just one times y.
+That all was just my left hand side.
+But fortunately, my right hand side is easier.
+The derivative of x cubed with respect to x is 3x squared.
+And the derivative of y cubed with respect to x is three y squared, dy dx.
+Now I need to solve for the y dx.
+And since it's scattered all over the place in three different places, I'm first going to distribute out to free it from these parentheses, and then I'll try to move all the dydx is to the left side.
+So distributing out I get, I get this expression.
+And now moving alternatives with dydx and add them to the left side and all terms without dydx mm to the right side.
+I'm going to get this expression here.
+Now I'm going to factor out the dy dx.
+I'm just using standard algebra techniques here.
+And finally, I can just divide both sides by all this mess, too.
+isolate the dydx.
+And I found my derivative using implicit differentiation.
+This video talked about using implicit differentiation to find the slopes of tangent lines for curves defined implicitly, the main two steps, were first to take the derivative of both sides with respect to x.
+And then to solve for dy dx.
+This video is about finding the derivatives of exponential functions, we've already seen that the derivative of the exponential function, e to the x is just itself, e to the x.
+But what's the derivative of an exponential function with a different base, like five to the x, one way to find the derivative of an exponential function like five to the X is to write five as e to a power.
+So five, is the same thing as e to the ln five, where ln is the natural log or the log base.
+See, this makes sense because ln five, which is the same thing as log base e of five, means the power that we raise E to to get five.
+So now if we take e to the ln five, that means we raise e to the power that we raise E to to get five?
+Well, when you raise E to that power, you get five.
+All right, if five is the same thing as e to the ln five, then that means if we take five to the x, that's the same thing as e to the ln five raised to the x power BI properties of exponents, when I take a power to a power, I multiply the exponents.
+so this can be written as e to the ln five times x.
+Now I want to take the derivative with respect to x of five to the x.
+So by my rewriting trick, that's the same thing as taking the derivative with respect to x of e to the ln five times x.
+Now we know how to calculate this using the chain rule, we can think of e to the power as our outside function, and ln five times x as our inside function.
+So now by the chain rule, I take the derivative of the outside function e to the power, and that's just gives me e to the power evaluated on the inside function.
+So I stick ln five times x as my inside function, and by the chain rule, I multiply that by the derivative of the inside function, ln five times x.
+Five is a constant.
+So let me copy over first part, the derivative of a constant times x is just the constant.
+Let me rewrite this a little bit.
+So e to the ln five times x is the same thing as e to the ln five to the x power, just like before, because the exponent rules say, when I take a power to a power, I multiply the exponent, and remember, is the LL five, it's just a fancy way of writing five.
+So I've got five to the x times ln five as the derivative with respect to x of five to the x.
+The same argument works not just for a base five exponential function, but for any base exponential function.
+So if I take the respect to x of A to the X for any number A, I'm going to get Next, I need to take the derivative of sine x, y on the do use the chain rule here.
+So the derivative of the outside sine is cosine.
+And now I need to take the derivative of the inside x times y.
+And that's going to be a product rule application.
+So x times D y dX, plus the derivative of x, which is just one times y.
+That all was just my left hand side.
+But fortunately, my right hand side is easier.
+The derivative of x cubed with respect to x is 3x squared.
+And the derivative of y cubed with respect to x is three y squared, dy dx.
+Now I need to solve for the y dx.
+And since it's scattered all over the place in three different places, I'm first going to distribute out to free it from these parentheses, and then I'll try to move all the dydx is to the left side.
+So distributing out I get, I get this expression.
+And now moving alternatives with dydx and add them to the left side and all terms without dydx mm to the right side.
+I'm going to get this expression here.
+Now I'm going to factor out the dy dx.
+I'm just using standard algebra techniques here.
+And finally, I can just divide both sides by all this mess, too.
+isolate the dydx.
+And I found my derivative using implicit differentiation.
+This video talked about using implicit differentiation to find the slopes of tangent lines for curves defined implicitly, the main two steps, were first to take the derivative of both sides with respect to x.
+And then to solve for dy dx.
+This video is about finding the derivatives of exponential functions, we've already seen that the derivative of the exponential function, e to the x is just itself, e to the x.
+But what's the derivative of an exponential function with a different base, like five to the x, one way to find the derivative of an exponential function like five to the X is to write five as e to a power.
+So five, is the same thing as e to the ln five, where ln is the natural log or the log base.
+See, this makes sense because ln five, which is the same thing as log base e of five, means the power that we raise E to to get five.
+So now if we take e to the ln five, that means we raise e to the power that we raise E to to get five?
+Well, when you raise E to that power, you get five.
+All right, if five is the same thing as e to the ln five, then that means if we take five to the x, that's the same thing as e to the ln five raised to the x power BI properties of exponents, when I take a power to a power, I multiply the exponents.
+so this can be written as e to the ln five times x.
+Now I want to take the derivative with respect to x of five to the x.
+So by my rewriting trick, that's the same thing as taking the derivative with respect to x of e to the ln five times x.
+Now we know how to calculate this using the chain rule, we can think of e to the power as our outside function, and ln five times x as our inside function.
+So now by the chain rule, I take the derivative of the outside function e to the power, and that's just gives me e to the power evaluated on the inside function.
+So I stick ln five times x as my inside function, and by the chain rule, I multiply that by the derivative of the inside function, ln five times x.
+Five is a constant.
+So let me copy over first part, the derivative of a constant times x is just the constant.
+Let me rewrite this a little bit.
+So e to the ln five times x is the same thing as e to the ln five to the x power, just like before, because the exponent rules say, when I take a power to a power, I multiply the exponent, and remember, is the LL five, it's just a fancy way of writing five.
+So I've got five to the x times ln five as the derivative with respect to x of five to the x.
+The same argument works not just for a base five exponential function, but for any base exponential function.
+So if I take the respect to x of A to the X for any number A, I'm going to get a to the x times ln A.
+Now, you might be wondering, what if I use the same roll on our old favorite e to the x.
+So our base here is E.
+That means I should get e to the x times ln e?
+Wait a sec, ln E, that's log base e of E, that's asking what power?
+Do I raise II today get he?
+Well, the answer there is one.
+And so the derivative respect to x of e to the x by this new rule we have is e to the x, it agrees with our old rule.
+I want to draw your attention to the difference between two expressions.
+And the first expression, dy dx of a to the x, the variable that we're taking the derivative with respect to is in the exponent.
+So for this exponential function, or we use the derivative rule that we just found, dy dx of a dx is eight of the x times ln A.
+On the other hand, if we take respect to x of x to the A, where the variable x that we're taking the derivative with respect to is in the base, then we don't need this exponential rule.
+In fact, it doesn't even apply, although we have here is the power rule, right?
+dy dx of x cubed would be 3x squared dy dx of x to the seventh would be 7x to the sixth and enjoy Add x of x to the a is just a times x to the A minus one by the power role.
+So it's important to pay attention to where the variable is when you're taking a derivative.
+In this video, we found that the derivative with respect to x of five to the x is given by ln five times five to the x.
+And in general, the derivative of respect to x of A to the X is going to be ln a times a to the x.
+This gives us a general formula for the derivative of exponential functions.
+The main goal of this video is to figure out the derivatives of logarithmic functions, functions like y equals ln x, or y equals log base A x for any positive base a, I want to find the derivative of log base a of x.
+In other words, I want to find the derivative of y, where y is log base a of x.
+By the definition of logarithms, log base a of x equals y means that a to the Y power is equal to x.
+And that's useful because now I can take the derivative of both sides and use implicit differentiation.
+Recall of the derivative of a to the power is ln A times A to the power.
+But since why we're thinking of as a function of x, I have to multiply that by dou y dx by the chain rule.
+The right hand side here is just one.
+Solving for dydx, I get one over ln A times A to the Y.
+But since age the y is equal to x, I can rewrite that as the y dx equals one over ln A times x.
+So the derivative of log base a of x for any base a is one over ln of A times x.
+And in particular, the derivative of natural log of x is one over ln of E times x.
+But since ln of E is just one, that saying that the derivative of ln x is one over x, this is a very handy fact.
+And this more general derivative is also worth memorizing.
+While we're talking about the derivative of the natural log of x, let's look at the derivative of the natural log of the absolute value of x.
+The function y equals ln of absolute value of x is of course closely related to the function y equals ln of x, the difference being that the domain for ln x is just x values greater than zero, whereas the domain of ln of absolute value of x is all X's not equal to zero.
+The graphs are also related.
+When you look at the graph of y equals ln absolute value of x, it looks like you're seeing double since the absolute value of x is equal to x, when x is greater than or equal to zero and negative x when x is less than zero, ln of the absolute value of x is going to be equal to ln x when x is greater than or equal to zero, and ln of negative x when x is less than zero.
+If I consider the derivative of ln of absolute value of x, I can think of taking the derivative of each piece separately.
+We just saw that the derivative of ln x is one over x.
+So the derivative of ln of minus x is going to be one over minus x times the derivative of minus x, which is minus one by the chain rule.
+Notice that this second expression simplifies to one over x.
+So the derivative of ln of absolute value of x is equal to one over x, whether x is positive or negative.
+This formula will come in handy later when we start doing integrals.
+In this video, we found that the derivative of ln x is equal to one over x, kind of a nice derivative.
+And more generally, the derivative of log base a of x is one over ln A times x.
+We've seen previously that the derivative of x to a constant A is equal to a times x to the A minus one.
+This is the power rule.
+We've also seen that the derivative of a positive number a raised to the x power is equal to ln A times A to the X So we know how to take the derivative when the variable x is in the base, or when it's in the exponent.
+But what if the variables in both the base and the exponent, how do we take the derivative of x to the x.
+To differentiate functions like this, we'll need to use the technique of logarithmic differentiation.
+To find the derivative of x to the x, I'm going to set y equal to x to the x.
+Now we want to find dy dx.
+Since we don't know how to compute dydx directly, so let's take the natural log of both sides.
+taking the log is often a handy trick when you have a variable in the exponent that you don't know how to deal with, because the properties of logs allow us to bring that exponent down and multiply it.
+Now we have y implicitly defined in terms of x, so let's use implicit differentiation, we'll take the derivative of both sides with respect to x.
+And now we should have no trouble taking the derivatives because we've gotten rid of the awkward exponential expression.
+So the derivative on the left of ln y is one over y times dy dx.
+And the derivative on the right using the product rule is x times one over x plus one times ln x.
+a to the x times ln A.
+Now, you might be wondering, what if I use the same roll on our old favorite e to the x.
+So our base here is E.
+That means I should get e to the x times ln e?
+Wait a sec, ln E, that's log base e of E, that's asking what power?
+Do I raise II today get he?
+Well, the answer there is one.
+And so the derivative respect to x of e to the x by this new rule we have is e to the x, it agrees with our old rule.
+I want to draw your attention to the difference between two expressions.
+And the first expression, dy dx of a to the x, the variable that we're taking the derivative with respect to is in the exponent.
+So for this exponential function, or we use the derivative rule that we just found, dy dx of a dx is eight of the x times ln A.
+On the other hand, if we take respect to x of x to the A, where the variable x that we're taking the derivative with respect to is in the base, then we don't need this exponential rule.
+In fact, it doesn't even apply, although we have here is the power rule, right?
+dy dx of x cubed would be 3x squared dy dx of x to the seventh would be 7x to the sixth and enjoy Add x of x to the a is just a times x to the A minus one by the power role.
+So it's important to pay attention to where the variable is when you're taking a derivative.
+In this video, we found that the derivative with respect to x of five to the x is given by ln five times five to the x.
+And in general, the derivative of respect to x of A to the X is going to be ln a times a to the x.
+This gives us a general formula for the derivative of exponential functions.
+The main goal of this video is to figure out the derivatives of logarithmic functions, functions like y equals ln x, or y equals log base A x for any positive base a, I want to find the derivative of log base a of x.
+In other words, I want to find the derivative of y, where y is log base a of x.
+By the definition of logarithms, log base a of x equals y means that a to the Y power is equal to x.
+And that's useful because now I can take the derivative of both sides and use implicit differentiation.
+Recall of the derivative of a to the power is ln A times A to the power.
+But since why we're thinking of as a function of x, I have to multiply that by dou y dx by the chain rule.
+The right hand side here is just one.
+Solving for dydx, I get one over ln A times A to the Y.
+But since age the y is equal to x, I can rewrite that as the y dx equals one over ln A times x.
+So the derivative of log base a of x for any base a is one over ln of A times x.
+And in particular, the derivative of natural log of x is one over ln of E times x.
+But since ln of E is just one, that saying that the derivative of ln x is one over x, this is a very handy fact.
+And this more general derivative is also worth memorizing.
+While we're talking about the derivative of the natural log of x, let's look at the derivative of the natural log of the absolute value of x.
+The function y equals ln of absolute value of x is of course closely related to the function y equals ln of x, the difference being that the domain for ln x is just x values greater than zero, whereas the domain of ln of absolute value of x is all X's not equal to zero.
+The graphs are also related.
+When you look at the graph of y equals ln absolute value of x, it looks like you're seeing double since the absolute value of x is equal to x, when x is greater than or equal to zero and negative x when x is less than zero, ln of the absolute value of x is going to be equal to ln x when x is greater than or equal to zero, and ln of negative x when x is less than zero.
+If I consider the derivative of ln of absolute value of x, I can think of taking the derivative of each piece separately.
+We just saw that the derivative of ln x is one over x.
+So the derivative of ln of minus x is going to be one over minus x times the derivative of minus x, which is minus one by the chain rule.
+Notice that this second expression simplifies to one over x.
+So the derivative of ln of absolute value of x is equal to one over x, whether x is positive or negative.
+This formula will come in handy later when we start doing integrals.
+In this video, we found that the derivative of ln x is equal to one over x, kind of a nice derivative.
+And more generally, the derivative of log base a of x is one over ln A times x.
+We've seen previously that the derivative of x to a constant A is equal to a times x to the A minus one.
+This is the power rule.
+We've also seen that the derivative of a positive number a raised to the x power is equal to ln A times A to the X So we know how to take the derivative when the variable x is in the base, or when it's in the exponent.
+But what if the variables in both the base and the exponent, how do we take the derivative of x to the x.
+To differentiate functions like this, we'll need to use the technique of logarithmic differentiation.
+To find the derivative of x to the x, I'm going to set y equal to x to the x.
+Now we want to find dy dx.
+Since we don't know how to compute dydx directly, so let's take the natural log of both sides.
+taking the log is often a handy trick when you have a variable in the exponent that you don't know how to deal with, because the properties of logs allow us to bring that exponent down and multiply it.
+Now we have y implicitly defined in terms of x, so let's use implicit differentiation, we'll take the derivative of both sides with respect to x.
+And now we should have no trouble taking the derivatives because we've gotten rid of the awkward exponential expression.
+So the derivative on the left of ln y is one over y times dy dx.
+And the derivative on the right using the product rule is x times one over x plus one times ln x.
+This simplifies to one over y d y dx equals one plus ln x.
+So D y dX is going to equal y times one plus ln x.
+and replacing y with x to the x, I have dy dx is x to the x times one plus ln x.
+This technique of taking the log of both sides differentiating and solving for dydx is known as logarithmic differentiation.
+And it's enormously useful whenever you have variables in both the base and the exponent.
+Here's another example where our variable is in both the base and the exponent.
+So as before, I'm going to set y equal to the expression that I want to differentiate and compute dydx.
+First, I'll take the log of both sides.
+Use my log rules to bring my exponent down and multiply it and take the derivative of both sides with respect to x.
+On the left, I get one over y d y dx.
+And on the right, I get one of our x times the derivative of ln tangent x, which is one over tangent x times the derivative of tangent x, or secant squared x, continuing with the product rule, and didn't take the derivative of one of our x, that's going to be the derivative of x to the minus one, which is minus one times x to the minus This simplifies to one over y d y dx equals one plus ln x.
+So D y dX is going to equal y times one plus ln x.
+and replacing y with x to the x, I have dy dx is x to the x times one plus ln x.
+This technique of taking the log of both sides differentiating and solving for dydx is known as logarithmic differentiation.
+And it's enormously useful whenever you have variables in both the base and the exponent.
+Here's another example where our variable is in both the base and the exponent.
+So as before, I'm going to set y equal to the expression that I want to differentiate and compute dydx.
+First, I'll take the log of both sides.
+Use my log rules to bring my exponent down and multiply it and take the derivative of both sides with respect to x.
+On the left, I get one over y d y dx.
+And on the right, I get one of our x times the derivative of ln tangent x, which is one over tangent x times the derivative of tangent x, or secant squared x, continuing with the product rule, and didn't take the derivative of one of our x, that's going to be the derivative of x to the minus one, which is minus one times x to the minus two two times ln tangent of x.
+Simplifying the right hand side, I get one over x times one over sine x over cosine x times one over cosine squared x minus ln 10x over x squared.
+rewriting, I can flip and multiply to get one over x times cosine x over sine x times one over cosine squared x minus the second term, canceling one copy of cosine and rewriting in terms of cosecant and secant, I get this expression, I still have to solve for dy dx.
+times ln tangent of x.
+Simplifying the right hand side, I get one over x times one over sine x over cosine x times one over cosine squared x minus ln 10x over x squared.
+rewriting, I can flip and multiply to get one over x times cosine x over sine x times one over cosine squared x minus the second term, canceling one copy of cosine and rewriting in terms of cosecant and secant, I get this expression, I still have to solve for dy dx.
+So multiplying both sides by y, I get the following.
+And since y was equal to 10x to the one over x, I can rewrite everything in terms of x.
+The technique of logarithmic differentiation is most useful when taking the derivative of an expression that has a variable in both the base and the exponent, like in this example, but sometimes it's also handy just as a way to take the derivative of a complicated product and quotient like in this example.
+Now, we could take the derivative here just by using the quotient rule on the product rule, but it's a little easier to take the log of both sides.
+And the reason is that when we take the log of a product, we get a sum and the log of a quotient is a difference and sums and quotients are a lot easier to deal with.
+So in this example, the log of y is equal to ln of x plus ln of cosine of x minus ln of x squared plus x to the fifth power, I can even bring that fifth power down, because that's another one of my log roles.
+Now, it's much more straightforward to take the log of both sides.
+On the left, I have one over y dydx, as usual, and on the right, the derivative of ln x is one over x, the derivative of ln cosine x is one over cosine of x times negative sine of x.
+And the derivative of ln x squared plus x is one over x squared plus x times 2x plus one.
+I'll solve for dydx and get y times one over x minus sine x over cosine x, that's the same as tangent x minus five times 2x plus one over x squared plus x.
+Now I can just rewrite y in terms of x and I'll be done.
+Again, I didn't have to use logarithmic differentiation.
+To find this derivative, I could have just used the product rule in the quotient rule, but logarithmic differentiation made it computationally much easier.
+In this video, we learned how to take the derivative of expressions that have a variable both in the base and in the exponent.
+And the idea was first to set y equal to the expression we want to derive.
+Next, to take the natural log of both sides.
+Next, to derive both sides.
+And finally, to solve for dy dx.
+This process is called logarithmic differentiation.
+The inverse of a function undoes what the function does, so the inverse of tying your shoes would be to untie them.
+And the inverse of the function that adds two to a number would be the function that subtracts two from a number.
+This video introduces inverses and their properties.
+Suppose f of x is the function defined by this chart.
+In other words, f of two is three, f of three is five, f of four is six, and f of five is one, the inverse function for F written f superscript.
+Negative 1x undoes what f does.
+Since f takes two to three, F inverse takes three back to two.
+So we write this f superscript, negative one of three is two.
+Similarly, since f takes three to five, F inverse takes five to three.
+And since f takes four to six, f inverse of six is four.
+And since f takes five to one, f inverse of one is five.
+I'll use these numbers to fill in the chart.
+Notice that the chart of values when y equals f of x and the chart of values when y equals f inverse of x are closely related.
+They share the same numbers, but the x values for f of x correspond to the y values for f inverse of x, and the y values for f of x correspond to the x values for f inverse of x.
+That leads us to the first key fact inverse functions reverse the roles of y and x.
+I'm going to plot the points for y equals f of x in blue.
+So multiplying both sides by y, I get the following.
+And since y was equal to 10x to the one over x, I can rewrite everything in terms of x.
+The technique of logarithmic differentiation is most useful when taking the derivative of an expression that has a variable in both the base and the exponent, like in this example, but sometimes it's also handy just as a way to take the derivative of a complicated product and quotient like in this example.
+Now, we could take the derivative here just by using the quotient rule on the product rule, but it's a little easier to take the log of both sides.
+And the reason is that when we take the log of a product, we get a sum and the log of a quotient is a difference and sums and quotients are a lot easier to deal with.
+So in this example, the log of y is equal to ln of x plus ln of cosine of x minus ln of x squared plus x to the fifth power, I can even bring that fifth power down, because that's another one of my log roles.
+Now, it's much more straightforward to take the log of both sides.
+On the left, I have one over y dydx, as usual, and on the right, the derivative of ln x is one over x, the derivative of ln cosine x is one over cosine of x times negative sine of x.
+And the derivative of ln x squared plus x is one over x squared plus x times 2x plus one.
+I'll solve for dydx and get y times one over x minus sine x over cosine x, that's the same as tangent x minus five times 2x plus one over x squared plus x.
+Now I can just rewrite y in terms of x and I'll be done.
+Again, I didn't have to use logarithmic differentiation.
+To find this derivative, I could have just used the product rule in the quotient rule, but logarithmic differentiation made it computationally much easier.
+In this video, we learned how to take the derivative of expressions that have a variable both in the base and in the exponent.
+And the idea was first to set y equal to the expression we want to derive.
+Next, to take the natural log of both sides.
+Next, to derive both sides.
+And finally, to solve for dy dx.
+This process is called logarithmic differentiation.
+The inverse of a function undoes what the function does, so the inverse of tying your shoes would be to untie them.
+And the inverse of the function that adds two to a number would be the function that subtracts two from a number.
+This video introduces inverses and their properties.
+Suppose f of x is the function defined by this chart.
+In other words, f of two is three, f of three is five, f of four is six, and f of five is one, the inverse function for F written f superscript.
+Negative 1x undoes

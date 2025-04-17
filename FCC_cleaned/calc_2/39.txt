@@ -1,0 +1,52 @@
+Power Series as Functions.
+squared x over x times the limit of something that goes to one.
+So I once again have a zero over zero and determinant form.
+And I can apply lopatok rule yet again, taking the derivative of the top, I get negative two sine x, cosine of x, and the derivative, the bottom is just one.
+Now I'm in a good position just to evaluate the limit by plugging in zero for x in the numerator, I get negative two times zero times one, the denominator is just one, so my final limit is zero.
+In this limit, we have a battle of forces.
+As x is going to infinity, one over x is going to zero.
+So one plus one over x is going to one, but the exponent x is going to infinity, it's hard to tell what's going to happen here.
+If we had one, to any finite number, that would be one.
+But anything slightly bigger than one, as we raise it to have bigger and bigger powers, we would expect to get infinity.
+In this example, we want to evaluate the limit of a product.
+Notice that as x goes to zero from the positive side, sine x goes to zero, and ln x goes to negative infinity.
+Remember the graph of y equals ln x.
+So this is actually a zero times infinity indeterminate form.
+Even though the second factor is going to negative infinity, we still call it a zero times infinity and indeterminate form, you can think of the Infinity here as standing for either positive or negative infinity.
+It's indeterminate.
+Because as x goes to zero, the sine x factor is pulling the product towards zero, while the ln x factor is pulling the product towards large negative numbers.
+And it's hard to predict what the limit of the product will actually be.
+But the great thing is, I can actually rewrite this product to look like an infinity over infinity and determinant form, or a zero over zero and determinant form.
+Instead of sine x times ln x, I can rewrite the limit as ln x divided by one over sine x.
+Now as x goes to zero, my numerator is going to negative infinity.
+And since sine x is going to zero through positive numbers, my denominator one over sine x is going to positive infinity.
+So I have an infinity over infinity indeterminate form.
+Now, I could instead choose to leave the sine x in the numerator, and instead, put a one over ln x in the denominator.
+If I do this, then as x goes to zero through positive numbers, sine x goes to zero.
+And since ln x goes to negative infinity, one over ln x goes to zero, and so I have a zero over zero indeterminate form.
+Sometimes it can be difficult to decide which of these two ways to rewrite a product as a quotient.
+One rule of thumb is to take the version that makes it easier to take the derivative of the numerator and denominator.
+Another trick is just to try one of the ways and if you get stuck, go back and try the other.
+I'm going to use the first method of rewriting it because I recognize that one over sine x can be written as cosecant of x and I know how to take the derivative of cosecant x using lopi towels rule On this infinity over infinity indeterminate form, I can rewrite my limit as the limit of what I get when I take the derivative of the numerator, that's one over x divided by the derivative of the denominator, that's negative cosecant x cotangent x.
+As always, I want to simplify my expression before going any further, I can rewrite my trig functions in the denominator in terms of sine and cosine.
+cosecant x is one over sine x.
+and cotangent x is cosine of x over sine of x.
+Now flipping and multiplying, I get the limit as x goes to zero plus of one over x times the sine squared of x over negative cosine of x.
+In other words, the limit of negative sine squared x over x cosine x, we know that cosine of x goes to one as x goes to zero.
+So I can rewrite this as the limit of negative sine squared x over x times the limit of something that goes to one.
+So I once again have a zero over zero and determinant form.
+And I can apply lopatok rule yet again, taking the derivative of the top, I get negative two sine x, cosine of x, and the derivative, the bottom is just one.
+Now I'm in a good position just to evaluate the limit by plugging in zero for x in the numerator, I get negative two times zero times one, the denominator is just one, so my final limit is zero.
+In this limit, we have a battle of forces.
+As x is going to infinity, one over x is going to zero.
+So one plus one over x is going to one, but the exponent x is going to infinity, it's hard to tell what's going to happen here.
+If we had one, to any finite number, that would be one.
+But anything slightly bigger than one, as we raise it to have bigger and bigger powers, we would expect to get infinity.
+So our limit has an independent permanent form, it's hard to tell whether the answer is going to be one infinity, or maybe something in between.
+Whenever I see an expression with a variable in the base, and a variable in the exponent, I'm tempted to use logarithms.
+If we set y equal to one plus one over x to the x, then if I take the natural log of both sides, I can use my log roles to rewrite that by multiplying by x in the front.
+Now, if I wanted to take the limit as x goes to infinity of ln y, that would be the limit of this product, x times ln one plus one over x.
+As x goes to infinity, the first factor x goes to infinity.
+One plus one over x goes to just one and ln one is going to zero.
+So we have infinity times zero indeterminate form, which we can try to rewrite as an infinity over infinity, or a zero over zero indeterminate form.
+Let's rewrite this as the limit of ln one plus one

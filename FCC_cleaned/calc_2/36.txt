@@ -1,0 +1,112 @@
+Convergence of Power Series.
+when a sequence converges.
+In class, we talked briefly about the sequence n minus five over n squared, where n goes from one to infinity.
+We want to know if the sequence is monotonic.
+And if it's bounded.
+If we compute the first few terms, the sequence appears to be steadily increasing.
+But in this case, appearances are deceiving.
+And a better way to decide whether it's monotonic is to use calculus to decide if the associated function f of x equals x minus five over x squared, it is increasing for x values bigger than one.
+So let me take the derivative.
+Using the quotient rule and simplify, I get that f prime of x is equal to minus x squared plus 10x over x to the fourth.
+And now I need to decide is F prime of X greater than zero for x bigger than one, if so my function, and therefore my sequence will, will be increasing.
+To check if f prime of x is greater than zero, I'll first set f prime of x equal to zero.
+So I'll set my ratio here equal to zero, which means my numerator needs to be equal to zero.
+And if I factor that, I get that x equals zero, or x equals 10.
+a sequence is decreasing if each term is greater than the next one.
+So a sub n is greater than a sub n plus one for all n.
+And a sequence is not increasing, if a sub n is greater than or equal to a sub n plus one for all n.
+Again, not increasing is like decreasing, but we allow for equality between consecutive terms.
+If we were to graph and on the x axis and a sub n on the y axis, then increasing looks like this just like an increasing function, whereas decreasing would go down non decreasing would go up possibly with some flat patches and mnandi increasing would go down possibly with some flat patches, notice that increasing is a stronger condition than non decreasing since being strictly less than something is stronger than just being less than or equal to it.
+For that reason.
+If a sequence is increasing, it is also non decreasing.
+And similarly, if a sequence is decreasing, it is also not increasing.
+A sequence is called monotonic, if it is either non decreasing or non increasing.
+Please pause the video and try to decide which of the following sequences are monotonic.
+The first two sequences are monotonic.
+The first one is monotonically.
+Non increasing, since we never increase when we go from one term to the next.
+In fact, we could also say that it's monotonically decreasing.
+Since we always go strictly down as we go from one term to the next, we never have equality between terms.
+The second sequence is monotonically non decreasing.
+Since we never go down, as we go from one term to the next, we either go up or stay at the same level.
+In this case, however, we could not say that the sequence is monotonically increasing because of the equality between some pairs of consecutive terms.
+The third sequence is not monotonic, the numbers bounce around between positive and negative numbers, and therefore sometimes we are decreasing while other times we're increasing.
+And the fourth sequence is not monotonic, because of the first few terms.
+However, from the fifth term on the terms are monotonically, non decreasing.
+And we could also say monotonically increasing.
+In this video, we give definitions for bounded and monotonic sequences.
+We'll see later that these definitions can be important for determining when a sequence converges.
+In class, we talked briefly about the sequence n minus five over n squared, where n goes from one to infinity.
+We want to know if the sequence is monotonic.
+And if it's bounded.
+If we compute the first few terms, the sequence appears to be steadily increasing.
+But in this case, appearances are deceiving.
+And a better way to decide whether it's monotonic is to use calculus to decide if the associated function f of x equals x minus five over x squared, it is increasing for x values bigger than one.
+So let me take the derivative.
+Using the quotient rule and simplify, I get that f prime of x is equal to minus x squared plus 10x over x to the fourth.
+And now I need to decide is F prime of X greater than zero for x bigger than one, if so my function, and therefore my sequence will, will be increasing.
+To check if f prime of x is greater than zero, I'll first set f prime of x equal to zero.
+So I'll set my ratio here equal to zero, which means my numerator needs to be equal to zero.
+And if I factor that, I get that x equals zero, or x equals 10.
+Now if I draw my number line, since f prime is equal to zero at zero and 10, it'll be positive and negative in between these values.
+And by plugging in values, like x equals negative one, one and 11, I can see that f prime is negative for x less than zero, positive for x between zero and 10, and negative for x bigger than 10.
+In particular, f increases when x increases from one to 10.
+And then it decreases.
+And so the same thing is happening to our sequence.
+Therefore, the sequence is not monotonic.
+We can also use calculus to check if the sequence is bounded.
+Our first derivative test shows that our function f of x has a maximum at x equals 10.
+At least that's the maximum for x values, ranging from one to infinity.
+And that's all that's relevant for our sequence.
+Therefore, our sequence is bounded above by its value at 10, which is 10 minus five over 10 squared, or 1/20.
+Now notice that our sequence and minus five over n squared is always bigger than zero, for n bigger than five since the numerator and denominator are both positive in this situation.
+And since there are only finitely, many terms where n is less than five, we can just use the minimum of these terms and zero as a lower bound.
+The smallest of the first four terms is negative four, which is less than zero, so that negative four forms a lower bound.
+So the sequence is in fact bounded.
+And somewhat surprisingly, the calculus ideas of derivative and maximum and minimum.
+In the past, we've encountered limits, like the limit as x goes to two of x minus two over x squared minus four.
+We can't evaluate this limit just by plugging In two for x, because x minus two goes to zero, and x squared minus four goes to zero as x goes to two.
+This is known as a zero over zero indeterminate form.
+It's called indeterminate because we can't tell what the limits going to be just by the fact that the numerator goes to zero and the denominator goes to zero.
+It depends on how fast the numerator and the denominator are going to zero compared to each other.
+And the final limit of the quotient could be any number at all, or it could be infinity, or it could not even exist.
+In the past, we've been able to evaluate some limits in zero over zero indeterminate form by using algebraic tricks to rewrite the quotients.
+In this video, we'll introduce lopatok rule, which is a very powerful technique for evaluating limits and indeterminate forms.
+A limit of the form the limit as x goes to a of f of x over g of x is called a zero over zero indeterminate form.
+If the limit as x goes to a of f of x is equal to zero, and the limit as x goes to a of g of x is equal to zero.
+A limit in this form is called an infinity over infinity indeterminate form.
+If the limit as x goes to a of f of x is equal to infinity or minus infinity.
+And the limit as x goes to a pub g of x is equal to infinity or minus infinity.
+We saw an example of a zero over zero indeterminate form in the introductory slide.
+One example of a infinity over infinity indeterminate form is the limit as x goes to infinity of 3x squared minus 2x plus seven divided by negative 2x squared plus 16.
+Notice that as x goes to infinity, the numerator goes to infinity while the denominator goes to negative infinity.
+In these definitions of indeterminate form, it's possible for a to be a negative infinity or infinity, like it is in this example, but it doesn't have to be loopy.
+talls rule can be applied when f and g are differentiable functions.
+And the derivative of g is nonzero in some open interval around a except possibly in a Now if I draw my number line, since f prime is equal to zero at zero and 10, it'll be positive and negative in between these values.
+And by plugging in values, like x equals negative one, one and 11, I can see that f prime is negative for x less than zero, positive for x between zero and 10, and negative for x bigger than 10.
+In particular, f increases when x increases from one to 10.
+And then it decreases.
+And so the same thing is happening to our sequence.
+Therefore, the sequence is not monotonic.
+We can also use calculus to check if the sequence is bounded.
+Our first derivative test shows that our function f of x has a maximum at x equals 10.
+At least that's the maximum for x values, ranging from one to infinity.
+And that's all that's relevant for our sequence.
+Therefore, our sequence is bounded above by its value at 10, which is 10 minus five over 10 squared, or 1/20.
+Now notice that our sequence and minus five over n squared is always bigger than zero, for n bigger than five since the numerator and denominator are both positive in this situation.
+And since there are only finitely, many terms where n is less than five, we can just use the minimum of these terms and zero as a lower bound.
+The smallest of the first four terms is negative four, which is less than zero, so that negative four forms a lower bound.
+So the sequence is in fact bounded.
+And somewhat surprisingly, the calculus ideas of derivative and maximum and minimum.
+In the past, we've encountered limits, like the limit as x goes to two of x minus two over x squared minus four.
+We can't evaluate this limit just by plugging In two for x, because x minus two goes to zero, and x squared minus four goes to zero as x goes to two.
+This is known as a zero over zero indeterminate form.
+It's called indeterminate because we can't tell what the limits going to be just by the fact that the numerator goes to zero and the denominator goes to zero.
+It depends on how fast the numerator and the denominator are going to zero compared to each other.
+And the final limit of the quotient could be any number at all, or it could be infinity, or it could not even exist.
+In the past, we've been able to evaluate some limits in zero over zero indeterminate form by using algebraic tricks to rewrite the quotients.
+In this video, we'll introduce lopatok rule, which is a very powerful technique for evaluating limits and indeterminate forms.
+A limit of the form the limit as x goes to a of f of x over g of x is called a zero over zero indeterminate form.
+If the limit as x goes to a of f of x is equal to zero, and the limit as x goes to a of g of x is equal to zero.
+A limit in this form is called an infinity over infinity indeterminate form.
+If the limit as x goes to a of f of

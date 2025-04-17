@@ -1,0 +1,61 @@
+Angle Sum and Difference Formulas.
+formulas are formulas for computing the sine of a sum of two angles, the cosine of a sum of two angles, the sine of a difference of two angles, and the cosine of a difference of two angles.
+Please pause the video for a moment to think about this question.
+Is it true that the sine of A plus B is equal to the sine of A plus the sine of B?
+No, it's not true.
+And we can see by an example, if we plug in say, A equals pi over two and B equals pi, then the sine of pi over two plus pi is the same thing as a sine of three pi over two, which is negative one.
+Whereas the sine of pi over two plus the sine of pi is equal to one plus zero, which is one, negative one is not equal to one.
+So this equation does not hold for all values of a and b.
+There are a few values of a and b for which it does hold.
+For example, if a is zero and B zero, but it's not true in general.
+Instead, we need more complicated formulas.
+It turns out that the sine of the sum of two ends angles A plus B is given by sine of A cosine of B plus cosine of A, sine of B.
+The cosine of A plus B is given by cosine A, cosine B minus sine A sine Bay.
+I like to remember these with a song, sine cosine cosine sine cosine cosine minus sine sine.
+Please feel free to back up the video and sing along with me, I encourage you to memorize the two formulas for the sine of a sum of angles and the cosine of a sum of angles.
+Once you do, it's easy to figure out the sine and cosine of a difference of two angles.
+One way to do this is to think of sine of A minus B as sine of A plus negative B.
+And then use the angle sum formula.
+So this works out two, sine cosine plus cosine, sine.
+And now, if I use the fact that cosine is even, I know that cosine of negative B is cosine of B.
+And since sine is odd, sine of negative b is negative sine of B.
+So I can rewrite this as sine of A cosine of B minus cosine of A sine of B.
+Notice that this new formula for the difference is the same as the formula for the sum is just that plus sign turned into a minus sign, we can do the same trick for cosine of A minus B, that's cosine of A plus minus b, which is cosine A cosine minus b minus sine of A sine of negative B.
+Again, using even an odd properties, this gives us cosine A cosine B plus sine A sine B.
+Once again, the formula for the difference is almost exactly like the for the sum, just that minus sign has switched to a plus sign.
+Now let's use the angle sum formula to find the exact value for the sine of 105 degrees.
+Now, 105 degrees is not a special angle on the unit circle, but I can write it as the sum of two special angles, I can write it as 60 degrees plus 45 degrees.
+Therefore, the sine of 105 degrees is the sine of 60 plus 45.
+And now by the angle sum formula, this is sine, cosine, cosine, sine.
+And I, from my unit circle, I can figure out that sine of 60 degrees is root three over two cosine of 45 degrees root two over two, cosine of 60 degrees is one half, and sine of 45 degrees is root two over two.
+So this simplifies to root six plus root two over four.
+For our last example, let's find the cosine of v plus W, given the values of cosine v, and cosine W, and the fact that v and w are angles in the first quadrant.
+Remember, to compute the cosine of a sum, we can't just add together the two cosines.
+That wouldn't even make sense in this case, because adding point nine and point seven would give something bigger than one and the cosine of something's never bigger than one.
+Instead, we have to use the angle sum formula for cosine.
+So that goes cosine of v plus w equals cosine, cosine, minus sine, sine.
+Now, I've already know the cosine of v and the cosine of W.
+So I could just plug those in.
+But I have to figure out the sine of v and the sine of W from the given information.
+And one way to do that is to draw right triangles.
+So here, I'm going to draw a right triangle with angle V, and another right triangle with angle W.
+Since I know that the cosine of V is point nine, I can think of that as nine over 10.
+And I can think of that as adjacent over hypotenuse in my right triangle.
+So I'll decorate my triangles adjacent side with the number nine and the hypotony is with 10.
+Similarly, since I know that the cosine of W is point seven, which is seven tenths, I can put a seven on this adjacent side and attend on this side.
+partners'.
+Now the Pythagorean Theorem, lets me compute the length of the unlabeled side.
+So this one is going to be the square root of 10 squared minus nine squared, that's going to be the square root of 19.
+And here I have the square root of 10 squared minus seven squared.
+So that's the square root of 51.
+I can now find the sine of V as the opposite over the hypotenuse.
+So that's the square root of 19 over 10.
+And the sine of W will be the square root of 51 over 10.
+Because we're assuming v and w are in the first quadrant, we know the values of sign need to be positive, so we don't need to Jimmy around with positive or negative signs in our answers, we can just leave them as is.
+Now we're ready to plug into our formula.
+So we have that cosine of v plus w is equal to point nine times point seven minus the square root of 19 over 10, times the square root of 51 over 10.
+using a calculator, this works out to a decimal approximation of 0.
+3187.
+This video gave the angle sum and difference formulas and use them to compute some values.
+To see a proof for why the sum formulas hold, please watch my other video.
+Remember the angle some formulas, those are the formulas

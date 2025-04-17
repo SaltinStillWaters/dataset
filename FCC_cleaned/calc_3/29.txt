@@ -1,0 +1,50 @@
+[Corequisite] Trig Identities.
+is just df dx, ought to be zero, because the slope of the tangent line of this straight line is just zero.
+zero.
+Another simple example, is the derivative of the function f of x equals x.
+So again, if I draw the graph, that's just going to be a straight line with slope one.
+And so the tangent line for the straight line will also have slope one.
+And the derivative, f prime of x has to be always equal to one.
+These two simple examples are actually special cases of the power rule, which is one of the most useful rules for calculating Another simple example, is the derivative of the function f of x equals x.
+So again, if I draw the graph, that's just going to be a straight line with slope one.
+And so the tangent line for the straight line will also have slope one.
+And the derivative, f prime of x has to be always equal to one.
+These two simple examples are actually special cases of the power rule, which is one of the most useful rules for calculating derivatives.
+derivatives.
+So the power rule says that if you have the function, y equals x to the n, where n is any real number, then you can find the derivative d y dx, simply by pulling that exponent and down and multiplying it in the front and then reducing the exponent by one.
+So for example, if you want to calculate the derivative of y equals x to the 15th, D y dX here is just going to be 15 times x to the 15 minus one, or 14.
+The second example, f of x equals the cube root of x might not immediately look like an example where we can apply the power rule.
+But if we rewrite it, by putting the cube root in exponential tation as x to the 1/3, now we can apply the power rule, we bring the 1/3 down, multiplied on the front and So the power rule says that if you have the function, y equals x to the n, where n is any real number, then you can find the derivative d y dx, simply by pulling that exponent and down and multiplying it in the front and then reducing the exponent by one.
+So for example, if you want to calculate the derivative of y equals x to the 15th, D y dX here is just going to be 15 times x to the 15 minus one, or 14.
+The second example, f of x equals the cube root of x might not immediately look like an example where we can apply the power rule.
+But if we rewrite it, by putting the cube root in exponential tation as x to the 1/3, now we can apply the power rule, we bring the 1/3 down, multiplied on the front and reduce the reduce the exponent of 1/3 by one, or 1/3 minus one is negative two thirds.
+So we found the derivative here using the power rule, we could rewrite it if we want to using exponent rules, as one over 3x to the two thirds, either answers good.
+exponent of 1/3 by one, or 1/3 minus one is negative two thirds.
+So we found the derivative here using the power rule, we could rewrite it if we want to using exponent rules, as one over 3x to the two thirds, either answers good.
+In the third example, g of x is one over x to the 3.
+7.
+Again, we need to do a little rewriting before we can apply the power rule.
+So I'm going to rewrite g of x as x to the minus 3.
+7.
+Using exponent rules, now I can find dg dx by pulling down the negative 3.
+7 multiplying in the front, and now I have to reduce negative 3.
+7 by one, so I subtract one that gives me x to the negative 4.
+7.
+Again, I can rewrite this if I wish as negative 3.
+7 over x to the 4.
+7.
+It's important to notice that in all these examples and in fact, in any example where the power rule applies, the variable x is in the base.
+And the exponent is just a constant, just a real number.
+The constant multiple rules says that if c is just a constant real number, and f is a differentiable function, then the derivative of C times f of x is just c times the derivative of f of x.
+In other words, when we take the derivative, we can just pull a constant outside of the derivative sign.
+Let's use this rule in an example.
+If we want to take the derivative of 5x cubed, that's the same thing as five times the derivative of x cubed.
+And now using the power rule, we can bring down the three and get 15x squared.
+f and g are differentiable functions, then the derivative of f of x plus g of x is the derivative of f plus the derivative of g.
+Similarly, for a difference, if f and g are differentiable functions, then the derivative of the difference is just the difference of the derivatives.
+Now let's use all these rules together to calculate the derivative of this polynomial.
+To find the y dx, we can use the sum and difference rule to calculate the derivative of each term separately.
+Now using the constant multiple rule and the power rule, we can bring out the seven, bring down the three getting x squared here, similarly, for the next term, five times two times x to the one, four times the derivative of x, which is just one, and the derivative of a constant two is just zero.
+So simplifying, we get 21x squared minus 10x plus four, and notice that the derivative of the original polynomial is just another polynomial of one less degree.
+In this video, we use some shortcuts to calculate the derivatives of various functions, especially polynomials.
+If you're interested in seeing where these rules come from, how they're derived from the limit definition of derivative, then look

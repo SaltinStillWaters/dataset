@@ -1,0 +1,55 @@
+Average Value of a Function.
+of x squared.
+I can simplify this a little bit as the integral of four times y of x squared, dx.
+Now all I need to do is find a formula for y as a function of x.
+And since I've got this equation up here, relating y and x, all I have to do is solve for y in terms of x.
+In fact, I can get by solving for y squared, since I've really got y squared in my formula.
+solving for y squared, I have y squared over nine is equal to one minus x squared over four, which means that y squared is equal to nine times one minus x squared over four.
+over four.
+Now I plug this into my volume equation.
+And I get the integral from negative two to four times nine, one minus x squared over four dx.
+I'll pull out the four times nine that's 36.
+and integrate.
+Plugging in values and simplifying, we get a final answer of 96.
+Now, how would this problem be different if we used cross sections that were perpendicular to the y axis instead of the x axis?
+Well, for one thing, our picture would look a little bit different.
+Since our squares would now be running in the other direction.
+Since our squares are now fin in the y direction, instead of the extraction, it makes sense to have the width of a slab B delta y, and to compute our volume as an integral with respect to y.
+Our bounds of integration now and they also need to be Y values.
+So they run from the minimum y value of negative three to the maximum y value of three.
+And our cross sectional area should also be written in terms of y.
+area is still side length squared.
+But now our side length is actually twice our x value, instead of twice our y value.
+And we can write our x value squared in terms of our y value as four times one minus y squared over nine.
+Therefore, our area, which is our side length squared, which is 2x, quantity squared, or 4x squared, is going to be equal to 16 times one minus y squared over nine, we'll need to calculate our volume by taking the integral from negative three to three of 16 times one minus y squared over nine d y.
+If we integrate this, we get an answer of 64.
+a different answer from the answer to our first problem, and it makes sense that we get a different answer, because we now have a different three dimensional object with a different shape and a different volume.
+In this video, we saw that if we divided three dimensional objects into slices, then the volume of the three dimensional object is the integral of the cross sectional area, dx.
+In this video, I'll derive a formula to calculate the length of a curve given as a function y equals f of x.
+For a curve like this one that's made up of a bunch of straight line segments, it's easy to calculate the length just by using the distance formula to find the length of each line segment.
+The distance formula says the distance between two points x one, y one, and x two, y two is given by the square root of x two minus x one squared plus y two minus y one squared.
+Applying this formula to the first line segment, connecting the points one, two, and two, three, we get a length of the square root of two minus one squared plus three minus two squared, which is the square root of two, the length of the next line segment can be calculated similarly, and the next piece has length two, we don't even need the distance formula for that one.
+And the last line segment has a length of the square to five.
+If we add up all the lengths of these four line segments, we get a total length of the curve of two times the square root of five, plus the square root of two plus two, Now I plug this into my volume equation.
+And I get the integral from negative two to four times nine, one minus x squared over four dx.
+I'll pull out the four times nine that's 36.
+and integrate.
+Plugging in values and simplifying, we get a final answer of 96.
+Now, how would this problem be different if we used cross sections that were perpendicular to the y axis instead of the x axis?
+Well, for one thing, our picture would look a little bit different.
+Since our squares would now be running in the other direction.
+Since our squares are now fin in the y direction, instead of the extraction, it makes sense to have the width of a slab B delta y, and to compute our volume as an integral with respect to y.
+Our bounds of integration now and they also need to be Y values.
+So they run from the minimum y value of negative three to the maximum y value of three.
+And our cross sectional area should also be written in terms of y.
+area is still side length squared.
+But now our side length is actually twice our x value, instead of twice our y value.
+And we can write our x value squared in terms of our y value as four times one minus y squared over nine.
+Therefore, our area, which is our side length squared, which is 2x, quantity squared, or 4x squared, is going to be equal to 16 times one minus y squared over nine, we'll need to calculate our volume by taking the integral from negative three to three of 16 times one minus y squared over nine d y.
+If we integrate this, we get an answer of 64.
+a different answer from the answer to our first problem, and it makes sense that we get a different answer, because we now have a different three dimensional object with a different shape and a different volume.
+In this video, we saw that if we divided three dimensional objects into slices, then the volume of the three dimensional object is the integral of the cross sectional area, dx.
+In this video, I'll derive a formula to calculate the length of a curve given as a function y equals f of x.
+For a curve like this one that's made up of a bunch of straight line segments, it's easy to calculate the length just by using the distance formula to find the length of each line segment.
+The distance formula says the distance between two points x one, y one, and x two, y two is given by the square root of x two minus x one squared plus y two minus y one squared.
+Applying this formula to the first line segment, connecting the points one, two, and two, three, we get a length

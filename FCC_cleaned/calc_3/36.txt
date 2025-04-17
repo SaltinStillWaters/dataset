@@ -1,0 +1,41 @@
+Product Rule and Quotient Rule.
+special angles.
+I can write it as 60 degrees plus 45 degrees.
+Therefore, the sine of 105 degrees is the sine of 60 plus 45.
+And now by the angle some formula, this is sine, cosine, cosine, sine.
+And I for my Unit Circle, I can figure out that sine of 60 degrees is root three over two cosine of 45 degrees root two over two, cosine of 60 degrees is one half, and sine of 45 degrees is root two over two.
+So this simplifies to root six plus root two over four.
+For our last example, let's find the cosine of v plus W, given the values of cosine v and cosine W, and the fact that v and w are angles in the first quadrant.
+Remember, to compute the cosine of a sum, we can't just add together the two cosines.
+That wouldn't even make sense in this case, because adding point nine and point seven would give something bigger than one and the cosine of something's never bigger than one.
+Instead, we have to use the angle sum formula for cosine.
+So that goes cosine of v plus w equals cosine, cosine, minus sine, sine.
+Now, I've already know the cosine of v and the cosine of W, so I could just plug those in.
+But I have to figure out the sine of v and the sine of W from the given information.
+And one way to do that is to draw right triangles.
+So here, I'm going to draw a right triangle with angle V, and another right triangle with angle W.
+Since I know that the cosine of V is point nine, I can think of that as nine over 10.
+and another right triangle with angle W.
+Since I know that the cosine of V is point nine, I can think of that as nine over 10.
+And I can think of that as adjacent over hypotenuse in my right triangle.
+So I'll decorate my triangles adjacent side with the number nine and the hypotenuse with 10.
+Similarly, since I know that the cosine of W is point seven, which is seven tenths, I can put a seven on this adjacent side, and a 10 on this iPod news.
+Now, the Pythagorean Theorem, lets me compute the length of the unlabeled side.
+So this one is going to be the square root of 10 squared minus nine squared, that's going to be the square root of 19.
+And here I have the square root of 10 squared minus seven squared.
+So that's the square root of 51.
+I can now find the sign of V as the opposite over the hi partners.
+So that's the square root of 19 over 10.
+And the sign of W will be the square root of 51 over 10.
+Because we're assuming v and w are in the first quadrant, we know the values of sign need to be positive, so we don't need to Jimmy around with positive or negative signs in our answers, we can just leave them as is.
+And I can think of that as adjacent over hypotenuse in my right triangle.
+So I'll decorate my triangles adjacent side with the number nine and the hypotenuse with 10.
+Similarly, since I know that the cosine of W is point seven, which is seven tenths, I can put a seven on this adjacent side, and a 10 on this iPod news.
+Now, the Pythagorean Theorem, lets me compute the length of the unlabeled side.
+So this one is going to be the square root of 10 squared minus nine squared, that's going to be the square root of 19.
+And here I have the square root of 10 squared minus seven squared.
+So that's the square root of 51.
+I can now find the sign of V as the opposite over the hi partners.
+So that's the square root of 19 over 10.
+And the sign of W will be the square root of 51 over 10.
+Because we're assuming v and w are in the first quadrant, we know the values of sign need to be positive, so we don't need to Jimmy around with positive or negative signs in our answers, we can just

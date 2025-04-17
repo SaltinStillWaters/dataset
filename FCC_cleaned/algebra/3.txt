@@ -1,0 +1,123 @@
+Factoring.
+This video goes over some common methods of factoring.
+Recall that factoring an expression means to write it as a product.
+So we could factor the number 30, by writing it as six times five, we could factor it more completely by writing it as two times three times five.
+As another example, we could factor the expression x squared plus 5x plus six by writing it as x plus two times x plus three.
+In this video, I'll go over how I get from here to here, how I know how to do the factoring.
+But for right now, I just want to review how I can go backwards how I can check that the factoring is correct.
+And that's just by multiplying out or distributing.
+If I distribute x plus two times x plus three, then I multiply x by x, that gives me x squared, x times three gives me 3x.
+Two times x gives me 2x.
+And two times three gives me six.
+So that simplifies to x squared plus 5x plus six, which checks out with what I started with.
+So you can think of factoring as the opposite of distributing out.
+And you can always check your factoring by distributing or multiplying out a bit of terminology, when I think of an expression as a sum of a bunch of things, then the things I sum up are called the terms.
+But if I think of the same expression as a product of things, then the things that I multiply together are called factors.
+Now let's get started on techniques of factoring.
+When I have to factor something, I always like to start by pulling out the greatest common factor, the greatest common factor means the largest thing that divides each of the terms.
+In this first example, the largest thing that divides both 15 and 25x is five.
+So the GCF is five.
+So I pull the five out, and then I divide each of the terms by that number.
+And so I get three plus 5x.
+Pause the video for a moment and see if you can find the greatest common factor of x squared y and y squared x cubed.
+The biggest thing that divides both x squared y and y squared x cubed is going to be x squared times y.
+One way to find this is to look for the power of x that smallest in each of these terms.
+So that's x squared.
+And the power of y that smallest in each of these terms is just y to the one or y.
+Now if I factor out the x squared y from each of the terms, that's like dividing each term by x squared y, if I divide the first term by x squared y, I just get one.
+If I divide the second term by x squared y, I'm going to be left with an X and a Y.
+I'll write this out on the side just to make it more clear, y squared x cubed over x squared y.
+That's like two y's on the end.
+Three x's on the top and two x's and a y on the bottom.
+So I'm left with just an X and a Y.
+So I'll write the x, y here, and I factored my expression.
+As always, I can check my answer by multiplying out.
+So if I multiply out my factored expression, I get x squared y is the first term and the second term, I get x there.
+Now let's see three X's multiplied together and two y's multiplied together.
+And that checks out with what I started with.
+The next technique of factoring, I'd like to go over his factoring by grouping.
+In this example, notice that we have four terms, factoring by grouping is a handy method to look at.
+If you have four terms in your expression, you need to factor in order to factor by grouping, I'm first going to factor out the greatest common factor of the first two terms, and then separately, factor out the greatest common factor of the last two terms.
+The greatest common factor of x cubed, and 3x squared is x squared.
+So I factor out the x squared, and I get x plus three.
+And now the greatest common factor of forex and 12 is just four.
+So I factor out the four from those two terms.
+Notice that the factor of x plus three now appears in both pieces.
+So I can factor out the greatest common factor of x plus three, and I'll factor it out on the left side instead of the right.
+And now I have an x squared from this first piece, and I have a four from this second piece.
+And that completes my factoring by grouping.
+You might wonder if we could factor further by factoring the expression x squared plus four.
+But in fact, as we'll see later, this expression, which is a sum of two squares, x squared plus two squared does not factor any further over the integers.
+Next, we'll do some factoring of quadratics.
+a quadratic is an expression with a squared term, just a term with x in it, and a constant term with no x's in it.
+I'd like to factor this expression as a product of x plus or minus some number times x plus or minus some other number.
+The key idea is that if I can find those two numbers, then if I were to distribute out this expression, those two numbers would have to multiply to give me my constant term of eight.
+And these two numbers would end up having to add to give me my negative six, because when I multiply out, this number will be a coefficient of x, and this number will be also another coefficient of x, they'll add together to the negative six.
+So if I look at all the pairs of numbers that multiply together to give me eight, so that could be one and eight, two, and four, four and two, but that's really the same thing as I had before.
+And that's sort of the same thing I had before.
+I shouldn't forget the negatives, I could have negative one, negative eight, or I could have negative two, negative four, those alternate multiply together to give me eight.
+Now I just have to find, see if there's a pair of these numbers that add to negative six, and it's not hard to see that these ones will work.
+So now I can write out my factoring as that would be x minus two times x minus four.
+And it's always a good idea to check by multiplying out, I'm going to get x squared minus 4x minus 2x, plus eight.
+And that works out to just what I want.
+Now this second examples a bit more complicated, because now my leading coefficient, my coefficient of x squared is not just one, it's the number 10.
+Now, there are lots of different methods for approaching a problem like this.
+And I'm just going to show you one method, my favorite method that uses factoring by grouping, but but to start out, I'm going to multiply my coefficient of x squared by my constant term, so I'm multiplying 10 by negative six, that gives me negative 60.
+And I'll also take my coefficient of x the number 11.
+And write that down here.
+Now I'm going to look for two numbers that multiply to give me negative 60.
+And add to give me 11.
+You might notice that this is exactly what we were doing in the previous problem.
+It's just here, we didn't have to multiply the coefficient of x squared by eight, because the coefficient of x squared was just one.
+So to find the two numbers that multiply to negative 60 and add to 11, you might just be able to come up with them in your head thinking about it, but if not, you can figure it out.
+Pretty simple.
+thematically by writing out all the factors, pairs of factors that multiply to negative 60.
+So I can start with negative one and 60, negative two and 30, negative three and 20.
+And keep going like this until I have found factors that actually add together to give me the number 11.
+And, and now that I look at it, I've already found them.
+15 minus four, gives me 11.
+So I don't have to continue with my chart of factors.
+Now, once I found those factors, I write out my expression 10x squared, but instead of writing 11x, I write negative 4x plus 15x.
+Now I copy down the negative six, notice that negative 4x plus 15x equals 11x.
+That's how I chose those numbers.
+And so this expression is evaluates is the same as, as this expression, I haven't changed my expression.
+But I have turned it into something that I can apply factoring by grouping on Look, I've got four terms here.
+And so if I factor out my greatest common factor of my first two terms, that's let's see, I think it's 2x.
+So I factor out the 2x, I get 5x minus two, and then I factor out the greatest common factor of 15x and negative six, that would be three, and I get a 5x minus two, again, this is working beautifully.
+So I have a 5x minus two in each part.
+And so I put the 5x minus two on the right, and I put what's left from these terms in here.
+So that's 2x plus three.
+And I have factored my expression.
+There are a couple special kinds of expressions that appear frequently, that it's handy to just memorize the formula for.
+So the first one is the difference of squares.
+If you see something of the form a squared minus b squared, then you can factor that as a plus b times a minus b.
+And let's just check that that works.
+If I do a plus b times a minus b and multiply that out, I get a squared minus a b plus b A minus B squared, and those middle two terms cancel out.
+So it gives me back the difference of squares just like I want it.
+So for this first example, I if I think of x squared minus 16 as x squared minus four squared, then I can see that's a difference of squares.
+And I can immediately write it as x plus four times x minus four.
+And the second example, nine p squared minus one, that's the same thing as three p squared minus one squared.
+So that's three p plus one times three p minus one.
+Notice that if I have a sum of squares, for example, x squared plus four, which is x squared plus two squared, then that does not factor.
+The difference of squares formula doesn't apply.
+And there is no formula that applies for a sum of squares.
+There is, however, a formula for both a difference of cubes and a sum of cubes.
+The difference of cubes formula, a cubed minus b cubed is a minus b times a squared plus a b plus b squared.
+The formula for the sum of cubes is pretty much the same, you just switch the negative and positive sign here in here.
+So that gives us a plus b times a squared minus a b plus b squared.
+As usual, you can check these formulas by multiplying out.
+Let's look at one example of using these formulas.
+Y cubed plus 27 is actually a sum of two cubes because it's y cubed plus three cubed.
+So I can factor it using the sum of cubes formula by plugging in y for a and three for B.
+That gives me y plus three times y squared minus y times three plus three squared.
+And I can clean that up a little bit to read y plus three times y squared minus three y plus nine.
+So in this video, we went over several methods of factoring.
+We did factoring out the greatest common factor.
+We did factoring by grouping.
+We did factoring quadratics.
+And we did a difference of squares.
+And we did a difference and a psalm of cubes and more complicated problems, you may need to apply several these techniques in order to get through a single problem.
+For example, you might need to start by pulling out a greatest common factor and then Add to a factoring of quadratics, or something similar.
+Now go forth and factor.
+This video gives some additional examples of factoring.
+Please pause the video and decide

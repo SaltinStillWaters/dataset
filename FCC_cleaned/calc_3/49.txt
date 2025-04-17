@@ -1,0 +1,59 @@
+The Chain Rule.
+everywhere we see an x in this formula, so that's x squared plus x quantity squared plus x squared plus x.
+Once again, I can simplify by distributing out, that gives me x to the fourth plus 2x cubed plus x squared plus x squared plus x, or x to the fourth plus 2x cubed plus 2x squared plus x.
+In this last set of examples, we're asked to go backwards, we're given a formula for a function of h of x.
+But we're supposed to rewrite h of x as a composition of two functions, F and G.
+Let's think for a minute, which of these two functions gets applied first, f composed with g of x, let's see, that means f of g of x.
+And since we evaluate these expressions from the inside out, we must be applying g first, and then F.
+In order to figure out what what f and g could be, I like to draw a box around some thing inside my expression for H, so I'm going to draw a box around x squared plus seven, then whatever's inside the box, that'll be my function, g of x, the first function that gets applied, whatever happens to the box, in this case, taking the square root sign, that becomes my outside function, my second function f.
+So here, we're gonna say g of x is equal to x squared plus seven, and f of x is equal to the square root of x, let's just check and make sure that this works.
+So I need to check that when I take the composition, f composed with g, I need to get the same thing as my original h.
+So let's see, if I do f composed with g of x, well, by definition, that's f of g of x.
+everywhere we see an x in this formula, so that's x squared plus x quantity squared plus x squared plus x.
+Once again, I can simplify by distributing out, that gives me x to the fourth plus 2x cubed plus x squared plus x squared plus x, or x to the fourth plus 2x cubed plus 2x squared plus x.
+In this last set of examples, we're asked to go backwards, we're given a formula for a function of h of x.
+But we're supposed to rewrite h of x as a composition of two functions, F and G.
+Let's think for a minute, which of these two functions gets applied first, f composed with g of x, let's see, that means f of g of x.
+And since we evaluate these expressions from the inside out, we must be applying g first, and then F.
+In order to figure out what what f and g could be, I like to draw a box around some thing inside my expression for H, so I'm going to draw a box around x squared plus seven, then whatever's inside the box, that'll be my function, g of x, the first function that gets applied, whatever happens to the box, in this case, taking the square root sign, that becomes my outside function, my second function f.
+So here, we're gonna say g of x is equal to x squared plus seven, and f of x is equal to the square root of x, let's just check and make sure that this works.
+So I need to check that when I take the composition, f composed with g, I need to get the same thing as my original h.
+So let's see, if I do f composed with g of x, well, by definition, that's f of g of x.
+Working from the inside out, I can replace g of x with its formula x squared plus seven.
+So I need to evaluate f of x squared plus seven.
+That means I plug in x squared plus seven, into the formula for for F.
+So that becomes the square root of x squared plus seven, two, it works because it matches my original equation.
+So we found a correct answer a correct way of breaking h down as a composition of two functions.
+But I do want to point out, this is not the only correct answer.
+I'll write down my formula for H of X again, and this time, I'll put the box in a different place, I'll just box the x squared.
+If I did that, then my inside function, my first function, g of x would be x squared.
+And my second function is what happens Working from the inside out, I can replace g of x with its formula x squared plus seven.
+So I need to evaluate f of x squared plus seven.
+That means I plug in x squared plus seven, into the formula for for F.
+So that becomes the square root of x squared plus seven, two, it works because it matches my original equation.
+So we found a correct answer a correct way of breaking h down as a composition of two functions.
+But I do want to point out, this is not the only correct answer.
+I'll write down my formula for H of X again, and this time, I'll put the box in a different place, I'll just box the x squared.
+If I did that, then my inside function, my first function, g of x would be x squared.
+And my second function is what happens to the box.
+to the box.
+So my f of x is what happens to the box, and the box gets added seven to it, and taking the square root.
+So in other words, f of x is going to be the square root of x plus seven.
+Again, I can check that this works.
+If I do f composed with g of x, that's f So my f of x is what happens to the box, and the box gets added seven to it, and taking the square root.
+So in other words, f of x is going to be the square root of x plus seven.
+Again, I can check that this works.
+If I do f composed with g of x, that's f of g of x.
+of g of x.
+So now g of x is x squared, so I'm taking f of x squared.
+When I plug in x squared for x, I do in fact get the square root of x squared plus seven.
+So this is an alternative correct solution.
+In this video, we learn to evaluate the composition of functions.
+by rewriting it and working from the inside out.
+We also learn to break apart a complicated function into a composition of two functions by boxing one piece of the function and letting the first function applied in the composition.
+Let that be the inside of the box and the second function applied in the composition be whatever happens to the box.
+So now g of x is x squared, so I'm taking f of x squared.
+When I plug in x squared for x, I do in fact get the square root of x squared plus seven.
+So this is an alternative correct solution.
+In this video, we learn to evaluate the composition of functions.
+by rewriting

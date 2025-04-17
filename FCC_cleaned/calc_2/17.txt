@@ -1,0 +1,43 @@
+The Comparison Theorem for Integrals.
+Whatever choice we make, we need a u times dv to be our entire integrand here, and we need dx to be part of dv in order to use proper differential notation.
+Let's try using the first choice first.
+If u is equal to x, then d u is equal to dx.
+And if dv is e to the x dx, then we can find V by integrating this and the integral of e to the x dx is e to the x.
+plugging into our integration by parts formula, we have the integral of u dv that's x, e to the x dx is equal to u times v x into dx minus the integral of vdu.
+That's e to the x dx.
+Well, this is looking very promising, because I know how to integrate e to the x dx.
+It's just e to the x plus a constant of integration.
+And so integration by part has allowed us to compute our integral, let's check our answer by taking the derivative of what we got the derivative of x, e to the x minus e to the x plus C is going to be the derivative of x, that's one, times e to the x plus x times the derivative of e to the x, which is dx, minus the derivative of iliacs, which is again, the x plus the derivative of C, which is just zero.
+And since this term and this term cancel out, we're left with x e to the x, which is exactly what we started out with as our integrand.
+So we've checked that our work is correct.
+Notice that in order to take the derivative of our answer, we ended up having to use the product rule.
+And that's no coincidence, because the formula for integration by parts is really just the product rule used in reverse.
+So we were successful in computing this integral using our first choice of u and dv.
+But before we leave this problem, let's see what would have happened if we used a different choice.
+Instead, if we used you've equal to either the X and dv equal to x dx, if we done that, then we would have gotten do to be either the x dx, and we would have computed V by integrating x dx two that get x squared over two.
+plugging this into our formula for integration by parts, we would get the integral of udv, that's e to the x times x dx is equal to u times v, that's e to the x times x squared over two, minus the integral of vdu.
+That's x squared over two times e to the x, dx.
+Now in order to go any further, we need to be able to compute the integral of x squared over two times e to the x dx.
+dividing by two poses no problem, that's just a constant, but the integral of x squared e to the x that's more complicated than the integral of e to the x times x that we started with.
+So we're going the wrong direction here.
+And this turns out to be a poor choice of u and dv.
+I'll let you check that the third choice of u and dv that I suggested also ends up making things more complicated instead of simpler.
+So the first choice turned out to be the best choice for you, and dv.
+integration by parts works by replacing an integral of the form u dv by the equivalent expression, u times v minus the integral of vdu.
+That's hopefully easier to compute.
+There are a lot of trig identities that come in handy when you're doing calculus.
+But the good news is, if you're willing to do a little bit of algebra, there are only a few that you really have to memorize.
+In this video, I'll tell you my three favorite trig identities, and show you how to derive a bunch more with very little effort from these three.
+So I'm going to tell you the three trig identities that I think everybody should know.
+Fortunately, all three of them are very easy to remember.
+The first one is the Pythagorean identity.
+That's the identity that says sine squared of theta plus cosine squared of theta is equal to one.
+That one's easy to remember, because it's really just the Pythagorean theorem for triangles in the context of the unit circle.
+If I draw a right triangle with angle theta on a unit circle, it's hi partners has length one, because a unit circle means a circle of radius one.
+The base of this triangle has length cosine of theta, because by definition, cosine of theta is the x coordinate of the point on the unit circle at angle theta.
+Similarly, the height of the triangle is sine of theta, because sine of theta means the y coordinate on the unit circle.
+So by the Pythagorean theorem for right triangles, we know that sine theta squared plus cosine theta squared equals one, which is exactly the bit beggary and identity.
+The second identities that everybody should know are the even and odd identities.
+I guess technically, these are two different identities but they go together, so I'm counting them as one.
+The even identity says that cosine of negative theta is equal to cosine of Beta.
+In other words, cosine is an even function.

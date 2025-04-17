@@ -1,0 +1,108 @@
+[Corequisite] Inverse Functions.
+it to prove.
+Now we can use these two limits that we've just proved to calculate the derivatives of sine and cosine, using the limit definition of derivative and prove the results that were stated previously.
+According to the limit definition of derivative, the derivative of sine x is the limit as h goes to zero of sine of x plus h minus sine of x divided by H.
+As usual, this is a zero for zero indeterminate form limits.
+So I'm going to need to rewrite things to evaluate it.
+And I'm going to rewrite using the angle sum formula for sine, the sine of x plus h is equal to sine x cosine H, cosine plus cosine x sine H.
+Now if I rearrange things, and factor out a sine x from the first term, I can break up my limit into pieces and compute every piece.
+So this is sine x times zero plus cosine x times one.
+And so my final answer is cosine x as we wanted the proof that the derivative of cosine is minus sine is very similar.
+So please stop the video and try it for yourself before proceeding.
+Using the limit definition of derivative, we have that the derivative of cosine of x is the limit as h goes to zero of cosine of x plus h minus cosine of x over h, we can rewrite the cosine of x plus h using the angle sum formula as the cosine of x times the cosine of H minus the sine of x times the sine of H.
+And then we still have the minus cosine of x over h.
+As before, we're going to regroup things and factoring out the cosine x from the first part, the same familiar limits just put together in different ways.
+So here, cosine of x as h goes to zero is just cosine of x.
+This limit we know is zero.
+sine of x is just saying sine of x, and sine of h over h is going to one which means that our final answer is going to be negative sine of x times one or just negative sine of x, which is exactly what we wanted.
+That's all for the proofs of these four useful calculus facts.
+rectilinear motion or linear motion means the motion of an object along a straight line.
+For example, a particle moving left and right, or a ball going up and down.
+In this video, we'll see what the derivative and the second derivative tell us about the motion of an object constrained to move along a straight line.
+In this example, A particle is moving up and down along a straight line.
+And its position is given by this equation where the positive positions mean that the particle is above its Baseline Position, whatever I'm calling position zero, and negative positions mean the particle is below this Baseline Position.
+I'm asked to find s prime of T and S double prime of t.
+So by deriving I get four t cubed minus 16 t squared plus 12 T for the first derivative, and 12 t squared minus 32 t plus 12.
+For the second derivative, I get cosine squared theta minus one.
+And from the trig identity, sine squared theta plus cosine squared theta equals one, I know that cosine squared theta minus one has to equal minus sine squared.
+So I can rewrite my limit as the limit of minus sine squared theta over theta cosine theta plus one.
+And now I can regroup to write my sine theta over theta, and my other copy of sine theta over cosine theta plus one, the limit of the first expression is going to be negative one, because of the limit we just proved.
+And the limit of the second expression is just zero over one plus one, or zero, and therefore, my entire limit is just going to be negative one times zero, or zero, which is exactly what we want it to prove.
+Now we can use these two limits that we've just proved to calculate the derivatives of sine and cosine, using the limit definition of derivative and prove the results that were stated previously.
+According to the limit definition of derivative, the derivative of sine x is the limit as h goes to zero of sine of x plus h minus sine of x divided by H.
+As usual, this is a zero for zero indeterminate form limits.
+So I'm going to need to rewrite things to evaluate it.
+And I'm going to rewrite using the angle sum formula for sine, the sine of x plus h is equal to sine x cosine H, cosine plus cosine x sine H.
+Now if I rearrange things, and factor out a sine x from the first term, I can break up my limit into pieces and compute every piece.
+So this is sine x times zero plus cosine x times one.
+And so my final answer is cosine x as we wanted the proof that the derivative of cosine is minus sine is very similar.
+So please stop the video and try it for yourself before proceeding.
+Using the limit definition of derivative, we have that the derivative of cosine of x is the limit as h goes to zero of cosine of x plus h minus cosine of x over h, we can rewrite the cosine of x plus h using the angle sum formula as the cosine of x times the cosine of H minus the sine of x times the sine of H.
+And then we still have the minus cosine of x over h.
+As before, we're going to regroup things and factoring out the cosine x from the first part, the same familiar limits just put together in different ways.
+So here, cosine of x as h goes to zero is just cosine of x.
+This limit we know is zero.
+sine of x is just saying sine of x, and sine of h over h is going to one which means that our final answer is going to be negative sine of x times one or just negative sine of x, which is exactly what we wanted.
+That's all for the proofs of these four useful calculus facts.
+rectilinear motion or linear motion means the motion of an object along a straight line.
+For example, a particle moving left and right, or a ball going up and down.
+In this video, we'll see what the derivative and the second derivative tell us about the motion of an object constrained to move along a straight line.
+In this example, A particle is moving up and down along a straight line.
+And its position is given by this equation where the positive positions mean that the particle is above its Baseline Position, whatever I'm calling position zero, and negative positions mean the particle is below this Baseline Position.
+I'm asked to find s prime of T and S double prime of t.
+So by deriving I get four t cubed minus 16 t squared plus 12 T for the first derivative, and 12 t squared minus 32 t plus 12.
+For the second derivative, S prime of t, which can also be written, D STD represents the instantaneous rate of change of S of t, the position over time, well, the change in position over time is just the velocity.
+And this can also be written as v of t, s double prime of t, the second derivative of s with respect to t, can also be thought of as the derivative of the velocity function.
+So that represents the rate of change of velocity over time, how fast the velocity is increasing or decreasing.
+And that is called acceleration.
+And it can be written as a lefty.
+Like position, velocity and acceleration can be both positive and negative.
+A positive velocity means the position is increasing.
+So the particle is moving up, while a negative velocity means the position is decreasing, so the particle is moving down.
+Of course, a velocity of zero means the particles at rest, at least for that instant.
+from physics, we know that force equals mass times acceleration.
+So if the acceleration is positive, then that means the force is in the positive direction, it's like the particle is being pulled up.
+If on the other hand, the acceleration is negative than the force is in the negative direction, and it's like the particle is being pulled down.
+an acceleration of zero means there's no force on the particle at that instant, and the velocity continues as is.
+Let's use these ideas about velocity acceleration.
+And the following table of values to describe the particles motion at time equals 1.
+5 seconds.
+At time 1.
+5 seconds, the position of the particle is positive, so that means the particle is above its Baseline Position of zero.
+its velocity is negative, so that means that its position is decreasing.
+In other words, the particle is moving down.
+Its acceleration is negative acceleration is the derivative of velocity.
+So a negative acceleration means the velocity is decreasing.
+Well, a negative velocity that's decreasing is getting more and more negative.
+So in fact, the particle is moving down faster and faster.
+This can be a little bit confusing, because even though the velocity is decreasing, it's getting more and more negative, the speed, which is the absolute value of velocity is increasing.
+We can also see what the particle is doing at 1.
+5 seconds by looking at this graph, where the time is drawn on the x axis and position s of t is on the y axis.
+From the graph, we can see that when t is zero, S of t is also zero.
+So the particle starts at its Baseline Position of zero.
+At time 1.
+5 seconds, the particle is above this starting position, but moving downwards.
+And since the slope of this graph is getting steeper and steeper, we can conclude that the speed of the particle is increasing.
+Same thing was we concluded from the table of values.
+Now let's do the same analysis when time is 2.
+5 seconds.
+s of 2.
+5 seconds is negative.
+So the particle is below its starting position.
+Velocity s prime of t is also negative.
+So the particle is still going down.
+But now the acceleration as double prime of t is positive.
+That means that the velocity Today is increasing, well, a negative velocity that's increasing is getting less negative closer to zero.
+So the particle must be slowing down.
+And in fact, the speed is decreasing.
+Again, the graph agrees with this reasoning, at 2.
+5 seconds, our position is way down here, our graph is decreasing, so the particles moving down, and the slope seems to be leveling off.
+So the particle speed is decreasing.
+Even though it's velocity, S prime of t, which can also be written, D STD represents the instantaneous rate of change of S of t, the position over time, well, the change in position over time is just the velocity.
+And this can also be written as v of t, s double prime of t, the second derivative of s with respect to t, can also be thought of as the derivative of the velocity function.
+So that represents the rate of change of velocity over time, how fast the velocity is increasing or decreasing.
+And that is called acceleration.
+And it can be written as a lefty.
+Like position, velocity and acceleration can be both positive and negative.
+A positive velocity means the position is increasing.
+So the particle is moving up, while a negative velocity means

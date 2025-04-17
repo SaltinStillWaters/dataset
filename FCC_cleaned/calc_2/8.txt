@@ -1,0 +1,93 @@
+Trig Identities.
+root of one plus three halves x to the one half squared dx.
+After simplifying a little bit, we can use use substitution to rewrite this.
+So we get the integral from 13 fourths, to 10 of the square root of u times four ninths do which integrates to u to the three halves divided by three halves, times four ninths, evaluated between 10 and 13 fourths, which after some computation works out to 1/27 times at the square root of 10 minus 13, the squared of 13 or approximately 7.
+6 units, which seems about right, based on the graph, taking into account the fact that this scale here is by twos on the y axis.
+In this video, we found the formula for the arc length of a curve.
+If the curve stretches from x equals a to x equals b, then the arc length is given by the integral from a to b of the square root of one plus f prime of x squared dx.
+This video introduces the idea of work from physics and the key role of integration in doing work calculations.
+If a constant force f is applied to move an object a distance d, then the work done to move the object is defined to be work equals force times distance, or in symbols, w equals F times d.
+The units of force can be given in metric units, or in bold fashion, English units.
+Since force is mass times acceleration, the units of force are going to be units of mass, which are kilograms, times units of acceleration, meters per second squared.
+This collection of units is also called a Newton.
+In English units, force is given typically, in terms of pounds.
+Now the units of work since work is force times distance, and distance in metric units is in meters.
+That gives units for work of kilograms meters squared per second squared, or we can write it work as Newton meters.
+And these collection of units is also given its own name, which is the joule.
+If we're using English units for work, work again is force times distance.
+So the units become pounds times feet are usually this is written instead, as a foot pound.
+Now, if I give you my weight in pounds, I weigh about 140 pounds.
+Those pounds are already and I get it a force.
+So that 140 pounds, my weight is also telling the force of gravity on my body.
+But if I tell you instead, that my mass is 63.
+5 kilograms, well, that's a unit of mass not a unit of force.
+So if I want to know the force, due to gravity on my body, I'm gonna have to multiply that 63.
+5 by the acceleration due to gravity, which is 9.
+8 meters per second squared.
+That product works out to be 622.
+3 kilogram meters per second squared.
+Notice that we're now have the right units for force, we could also say, that's the force of gravity on my body is 622.
+3 Newtons.
+Now that we familiarize ourselves with units a bit, let's do some examples.
+As our first example, how much work is done to lift a two pound book off the floor onto a shelf that's five feet high?
+Well, we know that work is force times distance, and two pounds is already a unit of force.
+And distance is five feet.
+So the work done is 10 foot pounds.
+Now let's do the same problem in metric units.
+The two pound book is actually a naught point nine kilogram book, and we're lifting it off the floor onto a shelf that's about 1.
+5 meters high.
+Well, work is still force times distance.
+But now the force is point nine kilograms times the acceleration due to gravity 9.
+8 meters per second squared, times our distance of 1.
+5 meters.
+That gives us a product of 13.
+23 kilograms meters squared per second squared, or in other words, 13.
+23 jewels.
+In the previous two examples, force was constant, so we could just multiply force by distance to get work.
+Now let's consider the case where force is not constant.
+Let's say a particle moves along the x axis from a point x equals a to a point x equals b.
+According to a force, F of x, that's a function of x and varies with x.
+How much work is done in moving a particle although the force is not constant, on the whole interval from a to b, if we divide up that interval, into a bunch of little sub intervals, each of width delta x, then on any particular sub interval The force is going to be approximately constant, it's not going to change a whole lot on a tiny little sub interval.
+As usual, let's pick a sample point exabyte star in the eye sub interval for each little sub interval.
+exabytes star could be the left endpoint of the sub interval, the right endpoint or any point in the middle.
+Now, on the AI sub interval, the force is approximately constant is approximately equal to f at EXA biostar.
+Therefore, the work on that I sub interval is approximately equal to this constant f x sub i star times the distance that the particle is going on that sub interval, that that distance is just the length of the sub interval delta x.
+Instead of thinking of the big picture of the particle going all the way from A to B, I'm thinking of it going just along the first sub interval with the approximately constant force at a distance of delta x.
+And then it's going to go the second sub interval, again, the forces approximately constant times the distance of delta x.
+And then we'll do some more work getting along the third sub interval, another proximately, constant force times delta x.
+And so on each little tiny bit of the way, I'll get another little chunk of work.
+And then I can get the entire amount of work by adding all those little chunks of work up.
+So the total work done is going to be the sum from i equals one to n, where n is the number of sub intervals of the work done on each sub interval, which is f of x sub i star times distance delta x.
+I should say this is approximately the total work, in order to get the actual total work, we'll need to take a limit as we use more and more skinnier and skinnier subintervals.
+So the limit as n goes to infinity of this Riemann sum, the limit of a Riemann sum is an integral.
+So we've got the integral of the force f of x, dx, and we'll integrate between the minimum x value of a and the maximum x value of b.
+And that's our formula for work.
+Now that we familiarize ourselves with units a bit, let's do some examples.
+As our first example, how much work is done to lift a two pound book off the floor onto a shelf that's five feet high?
+Well, we know that work is force times distance, and two pounds is already a unit of force.
+And distance is five feet.
+So the work done is 10 foot pounds.
+Now let's do the same problem in metric units.
+The two pound book is actually a naught point nine kilogram book, and we're lifting it off the floor onto a shelf that's about 1.
+5 meters high.
+Well, work is still force times distance.
+But now the force is point nine kilograms times the acceleration due to gravity 9.
+8 meters per second squared, times our distance of 1.
+5 meters.
+That gives us a product of 13.
+23 kilograms meters squared per second squared, or in other words, 13.
+23 jewels.
+In the previous two examples, force was constant, so we could just multiply force by distance to get work.
+Now let's consider the case where force is not constant.
+Let's say a particle moves along the x axis from a point x equals a to a point x equals b.
+According to a force, F of x, that's a function of x and varies with x.
+How much work is done in moving a particle although the force is not constant, on the whole interval from a to b, if we divide up that interval, into a bunch of little sub intervals, each of width delta x, then on any particular sub interval The force is going to be approximately constant, it's not going to change a whole lot on a tiny little sub interval.
+As usual, let's pick a sample point exabyte star in the eye sub interval for each little sub interval.
+exabytes star could be the left endpoint of the sub interval, the right endpoint or any point in the middle.
+Now, on the AI sub interval, the force is approximately constant is approximately equal to f at EXA biostar.
+Therefore, the work on that I sub interval is approximately equal to this constant f x sub i star times the distance that the particle is going on that sub interval, that that distance is just the length of the sub interval delta x.
+Instead of thinking of the big picture of the particle going all the way from A to B, I'm thinking of it going just along the first sub interval with the approximately constant force at a distance of delta x.
+And then it's going to go the second sub interval, again, the forces approximately constant times the distance of delta x.
+And then we'll do some more work getting along the third sub interval, another proximately, constant force times delta x.
+And so on each little tiny bit of the way, I'll get another little chunk of work.
+And then I can get the entire amount of work by

@@ -1,0 +1,108 @@
+Compound Interest.
+exponential functions can be used to model compound interest for loans and bank accounts.
+Suppose you invest $200 in a bank account that earns 3% interest every year.
+If you make no deposits or withdrawals, how much money will you have accumulated after 10 years, because 3% of the money that's in the bank is getting added each year, the money in the bank gets multiplied by 1.
+03 each year.
+So after one year, the amount will be 200 times 1.
+3, after two years 200 times one point O three squared, and and after t years 200 times one point O three to the t power.
+So the function modeling the amount of money, I'll call it P of t is given by 200 times 1.
+03 to the T.
+More generally, if you invest a dollars at an annual interest rate of our for t years.
+In the end, you'll have P of t equals a times one plus r to the T here r needs to be written as a decimal, so 0.
+03 In our example, for the 3% annual interest rate.
+Going back to our specific example, After 10 years, the amount of money is going to be P of 10 which is 200 times 1.
+03 to the 10 which works out to 206 $68.
+78 to the nearest cent.
+In this problem, we've assumed that the interest accumulates once per year.
+But in the next few examples, we'll see what happens when the interest rate accumulates more frequently, twice a year, or every month.
+For example, let's deposit $300 in an account that earns 4.
+5% annual interest compounded semi annually, this means two times a year or every six months.
+A 4.
+5% annual interest rate compounded two times a year means that we're actually getting 4.
+5 over 2% interest, every time the interest is compounded.
+That is every six months.
+That's 2.
+25% interest every half a year.
+Note that 2.
+25% is the same as 0.
+02 to five as a decimal.
+So every time we earn interest, our money gets multiplied by 1.
+02 to five.
+Let me make a chart of what happens.
+After zero years, which is also zero half years, we have our original $300.
+for half a year, that's one half year, our money gets earns interest one time, so we multiply the 300 by 1.
+02 to five, after one year, that's two half years, our money earns interest two times.
+So we multiply 300 by 1.
+0225 squared.
+continuing this way, after 1.
+5 years, that's three half years, we have 300 times 1.
+02 to five cubed.
+And after two years or four half years, we have 300 times 1.
+02 to five to the fourth.
+In general, after t years, which is to T half years, our money will grow to 300 times 1.
+02 to five to the two t power.
+Because we've compounded interest to tee times our formula for our amount of money is P of t equals 300 times one point O two to five to the two t where t is the number of years.
+To finish the problem, after seven years, we'll have P of $7, which is 300 times 1.
+02 to five to the two times seven or 14 power.
+And that works out to $409.
+65 to the nearest cent.
+In this next example, we're going to take out a loan for $1, 200 in annual interest rate of 6% compounded monthly.
+Although loans and bank accounts might feel different, they're mathematically the same.
+It's like from the bank's point of view, they're investing money in you and getting interest on their money from you.
+So we can work them out with the same kind of math 6% annual interest rate compounded monthly means you're compounding 12 times a year.
+So each time you compound interest, you're just going to get six over 12% interest.
+That's point 5% interest.
+And as a decimal, that's 0.
+005.
+Let's try it out again, what happens.
+Time is zero, of course, you'll have the original loan amount of 1200.
+After one year, that's 12 months, your loan has had interest added to it 12 times so it gets multiplied by 1.
+05 to the 12th.
+After two years, that's 24 months, it's had interest added to it 24 times, so it gets multiplied by 1.
+05 to the 24th power.
+Similarly, after three years or 36 months, your loan amount will be 1200 times 1.
+05 to the 36th power.
+And in general, after two years, that's 12 t months.
+So the interest will be compounded 12 t times and so we have to raise the 1.
+05 To the 12 t power.
+This gives us the general formula for the money owed is P of t equals 1200 times 1.
+05 to the 12 T, where T is the number of years.
+In particular, after three years, we'll have to pay back a total of 1200 times 1.
+05 to the 12 times three or 36 power, which works out to $1, 436.
+02 to the nearest cent.
+These last two problems follow a general pattern.
+If A is the initial amount of the loan or bank account, and r is the annual interest rate, compounded n times per year, then our formula for the amount of money is going to be a times one plus r over n to the n t.
+This formula exactly matches what we did in this problem.
+First, we took the interest rate our which was 6%, and divided it by the number of compounding periods each year 12.
+We wrote that as a decimal and added one to it.
+That's where we got the 1.
+05 from.
+We raised this to not to the number of years, but to 12 times the number of years.
+That's the number of compounding periods per year, times the number of years.
+And we multiplied all that by the initial amount of money, which was 1200.
+This formula for compound interest is a good one to memorize.
+But it's also important to be able to reason your way through it, like we did in this chart.
+There's one more type of compound interest.
+And that's interest compounded continuously.
+You can think of continuous compounding as the limit of compounding more and more frequently 10 times a year, 100 times a year 1000 times a year a million times a year.
+In the limit, you get continuous compounding.
+The formula for continuous compounding is P of t equals a times e to the RT, where p of t is the amount of money, t is the time in years.
+A is the initial amount of money.
+And R is the annual interest rate written as a decimal.
+So 0.
+025 in this problem from the 2.
+5% annual interest rate.
+He represents the famous constant Oilers constant, which is about 2.
+718.
+So in this problem, we have P of t is 4000 times e to the 0.
+025 T.
+And after five years, we'll have P of five, which is 4000 times e to the 0.
+0 to five times five, which works out to $4, 532.
+59 to the nearest cent.
+To summarize, if R represents the annual interest rate written as a decimal, that is 2% would be 0.
+02.
+And t represents the number of years and a represents the initial amount of money, then for just simple annual interest compounded once a year.
+Our formula is P of t is a times one plus r to the T for compound interest compounded n times per year.
+Our formula is P of t is a times one plus r over n to the n T.
+And for compound interest compounded continuously, we get P of t is a times e to the RT.
+In this video, we looked at three kinds of compound interest problems, simple annual interest, interest compounded and times per year, and continuously compounded interest.

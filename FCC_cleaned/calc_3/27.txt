@@ -1,0 +1,40 @@
+Proof that Differentiable Functions are Continuous.
+differentiable functions are continuous.
+What we want to show here is that if a function is differentiable at a number x equals a, then it's continuous at x equals a.
+Let me call the function f of x.
+And I'm going to start out by writing down what it means for f of x to be differentiable at x equals a.
+That means that the limit as x goes to a of f of x minus F of A over x minus a exists and equals this finite number that we call f prime However, if all we know is that f is continuous at x equals a, then we can't conclude anything about whether or not is differentiable there, f may or may not be differentiable at x equals a.
+Remember the square root example, the square root of x is continuous at x equals zero, but it's not differentiable there because of the corner.
+In this video, we related the graph of a function to the graph of its derivative.
+By thinking about the slopes of tangent lines, we also looked at several ways that a derivative can fail to exist at a point and noted that if a function is differentiable, it has to be continuous.
+This video gives a proof that differentiable functions are continuous.
+What we want to show here is that if a function is differentiable at a number x equals a, then it's continuous at x equals a.
+Let me call the function f of x.
+And I'm going to start out by writing down what it means for f of x to be differentiable at x equals a.
+That means that the limit as x goes to a of f of x minus F of A over x minus a exists and equals this finite number that we call f prime of a.
+Now I'm going to multiply both sides of this equation of a.
+Now I'm going to multiply both sides of this equation by the limit as x goes to a of x minus a.
+Now wait a second, before I go any further on to make sure this is legit.
+Does this limit actually exist?
+Well, yeah, because the limit as x goes to a of x exists, that's just a, and the limit as x goes to a of a exists, that's a also.
+So the limit of the difference has to exist.
+And actually, that limit of the difference is the difference of the limits, which is just going to be a minus a or a zero.
+So I've actually just multiplied both sides by zero and a fancy form.
+by the limit as x goes to a of x minus a.
+Now wait a second, before I go any further on to make sure this is legit.
+Does this limit actually exist?
+Well, yeah, because the limit as x goes to a of x exists, that's just a, and the limit as x goes to a of a exists, that's a also.
+So the limit of the difference has to exist.
+And actually, that limit of the difference is the difference of the limits, which is just going to be a minus a or a zero.
+So I've actually just multiplied both sides by zero and a fancy form.
+This is actually a surprisingly useful thing to do.
+Because I have a product of a limit of two limits here, both of which exist.
+So by the product rule for limits, I can rewrite this as the limit as x goes to a This is actually a surprisingly useful thing to do.
+Because I have a product of a limit of two limits here, both of which exist.
+So by the product rule for limits, I can rewrite this as the limit as x goes to a of x minus a times f of x minus F of A over x minus a.
+And canceling these two copies of x minus a, which is fine to do when x is near a, just not when x equals a, I get that the limit of f of x minus f of a is equal to this limit over here.
+Well, we said this limit was just zero.
+So my limit on the left is equal to zero.
+of x minus a times f of x minus F of A over x minus a.
+And canceling these two copies of x minus a, which is fine to do when x is near a, just not when x equals a, I get that the limit of f of x minus f of a is equal to this limit over here.
+Well, we said this

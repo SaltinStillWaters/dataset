@@ -1,0 +1,46 @@
+Continuity on Intervals.
+we'll discuss continuity on an interval and continuous functions.
+We say that a function f of x is continuous on the open interval BC, if f of x is continuous at every point in that interval.
+For x to be continuous on a closed interval BC, we require it to be continuous on every point in the interior of BC, but we just require it to be continuous from the right at B.
+And from the left at sea.
+We can also talk about f being continuous on half open intervals.
+For example, on half open interval, BC, which is open at B and closed at sea, or the other way around, or the happy to open it all from B to infinity and so on.
+In all of these cases, we require F to be continuous on the interior of the interval, and left or right continuous on the closed endpoints of the interval as appropriate.
+So on what intervals is this function geovax continuous?
+Well, it's continuous.
+On this part, the arrows indicate it keeps on going.
+So I'd say it's continuous from negative infinity to negative one, not including the endpoint negative one.
+It's also continuous here, and we can include the endpoint this time.
+So this is from negative one to one and Then again, on this last section, we can't include one.
+It's not continuous there.
+It's not even defined there.
+So what kinds of functions are continuous?
+What kinds of functions are continuous everywhere?
+And by everywhere, I mean, on the entire real line negative infinity infinity?
+Well, polynomials are a great example.
+Also, sine x and cosine x, the absolute value of x is another common example.
+There are certainly many other functions that are continuous on the whole real line.
+I'll let you see if you can come up with some more examples.
+Now, if we ask the second question, what kinds of functions are continuous on their domains, we get a lot more answers, not only polynomials, but also all rational functions, things like f of x equals 5x minus two over x minus three squared times x plus four is a good example of a rational function, even though it's not continuous everywhere.
+Because it's not continuous when x equals three or negative four, it is continuous on its whole domain, because three and four are not in the domain of this rational function.
+In addition, all trig functions, inverse trig functions, log and either the x functions.
+And pretty much all the functions we normally encounter are continuous on their domains, although their domains are not necessarily the whole real line.
+For example, for natural log of x, the domain is just zero, infinity, and that's where the function is continuous.
+In addition, the sums, differences, products and quotients of continuous functions are continuous on their domains, so for example, y equals sine of x plus the natural log of x is continuous where it's defined, the compositions of continuous functions are continuous on their domains.
+So for example, the function y equals ln of sine of x is continuous, where defined turns out to be a bunch of disjoint intervals where sine is positive.
+Since continuity is defined in terms of limits, it's sometimes possible to use our knowledge of which functions are continuous to calculate limits.
+For example, if we want to find the limit as x goes to zero of cosine of x, because cosine is continuous, we can evaluate this limit just by plugging in zero for x.
+And cosine of zero is one.
+We're using the definition of continuity here to say that the limit of the function is equal to the value of the function.
+The second example is a little trickier, because the function inside is not continuous at x equals two.
+In fact, it's not defined at x equals two.
+But as X approaches 2x squared minus four over 2x minus four times pi, can be rewritten as x plus two times x minus two over two times x minus two times pi, which is the same thing as x plus two over two pi.
+For x not equal to two.
+So as X approaches two, this expression here, approaches two plus two over two times pi, which is just two pi.
+In other words, the limit as x goes to two of x squared minus four over 2x minus four pi is just two pi.
+And therefore, the limit as x goes to two of cosine of this expression is just cosine of two pi, which is again equal to one.
+We're using here the fact that cosine is continuous, and a property of continuous functions, which says that the limit as x goes to a of f of g of x is equal to f of the limit as x goes to a of g of x.
+If f is a continuous function.
+In other words, for continuous functions, you can pass the limit inside the function.
+That's all for continuity on intervals and continuous functions.
+The intermediate value

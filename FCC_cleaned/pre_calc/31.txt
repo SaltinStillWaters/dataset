@@ -1,0 +1,75 @@
+Parabolas - Vertex, Focus, Directrix.
+of a parabola.
+Its vertex, focus and directrix.
+I want to start by finding the equation of all points that are equidistant the same distance from a point zero p on the y axis, and the horizontal line y equals negative P.
+I'm assuming here that P is positive, for starters, certainly the origin will be among those points as it has a distance of P from the point and P from the line.
+But the other points on the x axis will be closer to the line than they are to the point.
+So if I want the set of points that are the same distance from the point of the line, that's going to be a curve that curved upwards, something like this.
+So for example, a point out here will be the same distance from the point as it is from the line.
+So our intuition is suggesting that this set of points should be the shape of a parabola.
+Let's confirm this with some algebra.
+If we take an arbitrary point, with coordinates x, y, its distance from the point zero P is given by the distance formula, x minus zero squared plus y minus p squared.
+Its distance from the line y equals negative P is just given by its difference in Y coordinates.
+So that's going to be y minus negative p or y plus P.
+Let me set these two quantities equal to each other.
+And simplify, I can square both sides to get on the left x minus zero squared with the same thing as x squared plus y minus p squared equals y plus p squared.
+Now I'll distribute out, that gives me x squared plus y squared minus two p y plus p squared equals y squared plus two p y plus p squared.
+The P squares cancel out as do the Y squared, and I'm left with x squared equals four p y after move In this negative two p y to the other side, I could also write this as y equals one over four p x squared.
+And you might recognize this as the standard parabola y equals x squared, transformed by vertically stretched it stretching or shrinking it by this factor of whenever for pee.
+You might recall that this lowest point of the parabola is called the vertex.
+This point here is called its focus.
+And the line here is called the directrix.
+Notice that the number of P in this equation represents the distance between the vertex and the focus, and also represents the distance between the vertex and the directrix line.
+For this reason, if you're interested in the focus and the vertex, this form of the equation might be more useful than the equivalent form something like y equals A x squared, where the that distance P is more hidden.
+Now, so far, we've just considered the case when a p is greater than zero.
+Let's look for a moment at what happens when p is less than zero, then when we draw the point zero, P is going to be below the x axis.
+And the directrix y equals negative P is going to be above the x axis because we're taking the negative of a negative number makes it a positive y value.
+Our parabola will also be upside down.
+All the algebra works out the same is just in our equation, this coefficient of y will now be a negative number instead of a positive one.
+Or if we write it in this other form, which might be more familiar, our coefficient of x squared will be negative instead of positive, which signifies that the parabola is pointing down.
+Since P is now a negative number, if we want to talk about distances, we should write absolute value of p instead of P.
+Next, let's turn things sideways by looking at the equation for all points equidistant from a point P zero.
+on the x axis.
+Here, we're assuming For starters, that P is bigger than zero, and a vertical line at x equals negative P.
+Our intuition suggests that this should be a parabola pointing sideways.
+And we can work out the same algebra steps to get an equation for it.
+Starting with an arbitrary point, x y, the distance from the point P zero is going to be given by x minus p squared plus y minus zero squared, the distance from the line x equals negative P is going to be given by the difference in x coordinates.
+So that's going to be x minus negative p, or just x plus P.
+I'll set these two distances equal to each other, square both sides like before, and simplify.
+This gives me the equation y squared equals four p x, which I could also rewrite as x equals one over four p y squared or x equals A y squared, where my a corresponds to my one over four P.
+Once again, if p is negative, then I probably pointing the opposite direction, but my equation will still be the same, it'll just have a negative coefficient of x instead of a positive one.
+The negative number of being hidden inside this variable P.
+As before, the absolute value of p gives me the distance between the vertex and the focus, and also gives me the distance between the vertex and the directrix.
+Now let's find the equation of a parabola with a vertex at some arbitrary point h k instead of the origin, assuming that the parabola opens up or down.
+If the parabola had its vertex at the origin, we know it would be given by the equation x squared equals four p y, or I could rewrite that as y equals one over four p x squared.
+So this parabola should just be shifted to the right by H and up by K.
+From transformations of functions.
+We know we can accomplish this by sticking a x minus h on the inside and putting a plus k on the outside.
+In other words, we have y minus k equals one over four P times x minus h squared.
+Or we can write this as x minus h squared equals four P times y minus k.
+So this is the original All with a vertex at the origin, and here is the transformed by shifting right and up to have a vertex at h k, notice that the equations are exactly the same.
+It's just you stuck in a minus h and a minus k near the X and near the y, this transform parabola will have its focus, a distance of P up from the vertex.
+So that's going to be the point h, k plus p, that's going to have as directrix at a distance p down from the vertex.
+So that's going to be the line y equals k minus P.
+Everything's the same for this other parabola pointing downwards, we just have P is negative in that case, the same story holds for the parabola is pointing right and left, the original equation, y squared equals four p x gets transformed when we shift the parabola over into y minus k squared equals four p x minus h.
+This time, the vertex is a distance p to the left or right of my vertex.
+So here it would be h plus p, k.
+And the directrix would be shifted over by P also from the vertex.
+So this would be the vertical line x equals h minus P.
+It works the same way, when the parabola is opening, left instead of right, it's just in this case, P is negative.
+Let's use this information to find the equation of a parabola with vertex at two, four, and focus at negative one, four.
+I'll start with a quick sketch, which will help me see how the parabola is lined up.
+So here's the vertex at two, four.
+And the focus is at negative one, four.
+So here's the focus here.
+Now says the problem always has its focus, that means that this problem must be pointing left and looks something like this.
+The directrix is going to be on the other side of the parabola, the same distance as the distance between the vertex and the focus.
+Since this distance is a distance of three to minus negative one is three, the directrix must be three units over here to the right, and so that would be the line x equals five.
+Since my problems open to the left, I know I need to use the form of the equation y minus k squared equals four p x minus h, where h k is the vertex, so that's two four, I also know that P is going to be negative.
+And since the absolute value of p represents the distance between the vertex and the focus, I know that P must be negative three.
+So filling on all these numbers, I get y minus four squared equals four times negative three times x minus two.
+I'll simplify that to y minus four squared equals negative 12x minus two.
+In this video, we looked at special forms of the equation for a parabola, the forms y minus k squared equals four p x minus h, and x minus h squared equals four p y minus k.
+In these equations, h k represents the vertex and PS absolute value gives the distance between the vertex and the focus and between the vertex and the directrix.
+parabolas in this form, are opening right if p is bigger than zero, and left if p is less than zero, and parabolas in this form, are opening up if p is bigger than zero, and down if p is less than zero.
+This video is

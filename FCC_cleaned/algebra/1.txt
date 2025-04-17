@@ -1,0 +1,67 @@
+Simplifying using Exponent Rules.
+rules.
+I'll start by reviewing the exponent rules.
+The product rule says that when you multiply two expressions with the same base, you add the exponents.
+The quotient rule says that when you divide two expressions with the same base, you subtract the exponents.
+The power rule says that when you take a power to a power, you multiply the exponents.
+The power of zero rule says that anything to the zero power is one, as long as the base is not zero.
+Since zero to the zero is undefined, it doesn't make sense.
+negative exponents to evaluate x to the minus n, we take the reciprocal one over x to the n.
+To evaluate a fractional exponent, like x to the one over n, we take the nth root of x, we can distribute an exponent over a product, a times b to the n is equal to A to the N times b to the n.
+And we can distribute an exponent over a quotient a over b to the n is a to the n over b to the n.
+In the rest of this video, we'll use these exponent rules to simplify expressions.
+For our first example, we want to simplify three times x to the minus two divided by x to the fourth, there's several possible ways to proceed.
+For example, we could use the negative exponent rule dr x to the minus two as one over x squared, all that gets divided by x to the fourth, still, notice that we only take the reciprocal of the x squared, the three stays where it is.
+And that's because the exponent of negative two only applies to the x not to the three.
+Now if we think of three as three over one, we have a product of two fractions and our numerator.
+And so we evaluate that by taking the product of the numerators times the product of the denominators, which is three over x squared, all divided by x to the fourth, I can think of x to the fourth as x to the fourth over one.
+So now I have a fraction of a fraction, which I can evaluate by multiplying by the reciprocal, that simplifies to three times one divided by x squared times x to the fourth, which is three over x to the six, using the product rule.
+Since x squared times x to the fourth is equal to x to the two plus four, or x to the six.
+An alternate way of solving this problem is to start by using the quotient rule, I can rewrite this as three times x to the minus two over x to the fourth, and by the quotient rule, that's three times x to the minus two minus four, or three times x to the minus six.
+Now using the negative exponent roll, x to the minus six is one over x to the six.
+And this product of fractions simplifies to three over x to the six, the same answer I got before.
+The second problem can be solved in similar ways.
+Please pause the video and try it before going on.
+One way to simplify would be to use the negative exponent rule first, and rewrite y to the minus five as one over wide the fifth.
+thinking of this as a fraction, divided by a fraction, I can multiply by the reciprocal and get four y cubed y to the fifth over one by the product rule.
+The numerator here is four y to the eight.
+And so my final answer is just for one of the eight.
+Alternatively, I could decide to use the quotient rule first.
+As in the previous problem, I can write this as for y cubed minus negative five by the quotient rule.
+And so that's for y to the eighth as before.
+I'd like to show you one more method to solve these two problems, kind of a shortcut method before we To go on, that shortcut relies on the principle that a negative exponent in the numerator corresponds to a positive exponent in the denominator.
+For example, the x to the negative two in the numerator here, after some manipulations became an X to the positive two in the denominator.
+Furthermore, a negative exponent in the denominator is equivalent to a positive exponent in the numerator.
+That's what happened when we had the y to the negative five in the denominator, and translated into a y to the positive five in the numerator.
+Sometimes people like to talk about this principle, by saying that you can pass a factor across the fraction bar by switching the sine of the exponent that is making a positive exponent negative, or a negative exponent positive.
+Let's see how this principle gives us a shortcut for solving these two problems.
+In the first problem, 3x to the minus two over x to the four, we can move the negative exponent in the numerator and make it a positive exponent the denominator, so we get three over x to the four plus two or x to the six.
+In the second example, for y cubed over y to the minus five, we can change the Y to the minus five in the denominator into a y to the five in the numerator and get our final answer of four y to the three plus five or eight.
+We'll use this principle again in the next problems.
+In this example, notice that I have I have y's in the numerator and the denominator, and also Z's in the numerator and the denominator.
+In order to simplify, I'm going to try to get all my y's either in the numerator or the denominator.
+And similarly for the Z's.
+Since I have more y's in the denominator, let me move this y to the three downstairs and make it a y to the negative three.
+I'm using the principle here that a positive exponent in the numerator corresponds to a negative exponent in the denominator.
+Now since I have a positive exponent, z in the numerator and a negative exponent denominator, and I want to get rid of negative exponents, I'm going to pass the Z's to the numerator as e to the minus two in the denominator, it comes as e to the plus two in the numerator.
+Notice that my number seven doesn't move.
+And when I do any of these manipulations, because it doesn't have an exponent, and the exponent of negative two, for example, only applies to the Z not to the seven.
+Now that I've got all my Z's in the numerator and all my y's in the denominator, it's easy to clean this up using the product rule.
+And I have my simplified expression.
+In this last example, we have a complicated expression raised to a fractional power.
+I'm going to start by simplifying the expression inside the parentheses.
+I can bring all my y's downstairs and all my x's upstairs and get rid of negative exponents at the same time.
+In other words, I can rewrite this as 25x to the fourth, I'll bring the Y to the minus five downstairs and make it y to the fifth on the denominator, bring the x to the minus six upstairs and make it x to the sixth the numerator, and then I still have the Y cubed on the denominator, all that's raised to the three halves power.
+Using the product rule, I can rewrite the expression on the inside of the parentheses as 25x to the 10th over y to the eighth.
+Recall that we're allowed to distribute an exponent across a product or across a quotient.
+When I distribute my three halves power, I get 25 to the three halves times x to the 10th to the three halves divided by y to the eighth to the three halves.
+Now the power rule tells me when I have a power to a power, I get to multiply the exponents.
+So I can rewrite this as 25 to the three halves times x to the 10 times three halves of our y to the eight times three halves.
+In other words, 25 to the three halves times x to the 15th over y to the 12th.
+Finally, I need to rewrite 25 to the three halves.
+Since three halves can be thought of as three times one half, or as one half times three, I can write 25 to the three halves as 25 to the three times one half, or as 25 to the one half times three.
+Well, using the power rule in reverse, I can think of this as 25 cubed to the one half, or as 25 to the one half cubed.
+Since when I take a power to a power, I multiply the exponents 25 cubed to the one half might be hard to evaluate, since 25 cubed is a huge number, but 25 to the one half is just the square root of 25.
+So I have the square root of 25 cubed, or five cubed, which is 125.
+Therefore, my original expression is going to be 120 5x to the 15 over y to the 12th.
+In this video, we use the exponent rules to simplify complicated expressions.

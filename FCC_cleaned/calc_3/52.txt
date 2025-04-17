@@ -1,0 +1,81 @@
+Implicit Differentiation.
+C equals negative two.
+Now let's see, we need to still check our answers.
+Without even going to the trouble of calculating anything, I can see that C equals negative one is not going to work, because if I plug it in to this denominator here, I get a denominator of zero, which doesn't make sense.
+So C equals minus one is an extraneous solution, it doesn't actually satisfy my original equation.
+And so I can just cross it right out, C equals negative two.
+I can go if I go ahead, and that doesn't make any of my denominators zero.
+So if I haven't made any mistakes, it should satisfy my original equation, but, but I'll just plug it in to be sure.
+And after some simplifying, I get a true statement.
+So my final answer is C equals negative two.
+In this video, we solved a couple of rational equations, using the method of finding the least common denominator, and then clearing the denominator, we cleared the denominator by multiplying both sides of the equation by the least common denominator or equivalently.
+multiplying each of the terms by that denominator.
+There's another equivalent method that some people prefer, it still starts out the same, we find the least common denominator, but then we write all the fractions over that least common denominator.
+So in this example, we'd still use the least common denominator of x plus three times x.
+cancel out the denominators, the whole point of multiplying by the least common denominator, you're multiplying by something that's big enough to kill every single denominator so you don't have to deal with denominators anymore.
+Now I'm going to simplify by multiplying out.
+So I get, let's see, c plus one times four c, that's four c squared plus four c, now I get minus just c minus five, and then over here, I get three c squared plus three, I can rewrite the minus quantity c minus five as a minus c plus five.
+And now I can subtract the three c squared from both sides to get just a C squared over here, and the four c minus c, that becomes a three C.
+And finally, I can subtract the three from both sides to get c squared plus three c plus two equals zero.
+got myself a quadratic equation that looks like a nice one that factors.
+So this factors to C plus one times c plus two equals zero.
+So either c plus one is zero, or C plus two is zero, so C equals negative one, or C equals negative two.
+Now let's see, we need to still check our answers.
+Without even going to the trouble of calculating anything, I can see that C equals negative one is not going to work, because if I plug it in to this denominator here, I get a denominator of zero, which doesn't make sense.
+So C equals minus one is an extraneous solution, it doesn't actually satisfy my original equation.
+And so I can just cross it right out, C equals negative two.
+I can go if I go ahead, and that doesn't make any of my denominators zero.
+So if I haven't made any mistakes, it should satisfy my original equation, but, but I'll just plug it in to be sure.
+And after some simplifying, I get a true statement.
+So my final answer is C equals negative two.
+In this video, we solved a couple of rational equations, using the method of finding the least common denominator, and then clearing the denominator, we cleared the denominator by multiplying both sides of the equation by the least common denominator or equivalently.
+multiplying each of the terms by that denominator.
+There's another equivalent method that some people prefer, it still starts out the same, we find the least common denominator, but then we write all the fractions over that least common denominator.
+So in this example, we'd still use the least common denominator of x plus three times x.
+But our next step would be to write each of these rational expressions over that common denominator by multiplying the top and the bottom by the appropriate things.
+So one, in order to get the common denominator of x plus 3x, I need to multiply the top and the bottom by x plus three times x, whenever x, I need to multiply the top and the bottom just by x plus three since that's what's missing from the denominator x.
+Now, if I simplify a little bit, let's say this is x squared over that common denominator, and here I have just x plus three times x over that denominator, and here I have x plus three over that common denominator.
+Now add together my fractions on the right side, so they have a common denominator.
+So this is x plus three times x plus x plus three.
+And now I have two fractions that have that are equal, that have the same denominator, therefore, their numerators have to be equal also.
+So the next step is to set the numerators equal.
+So I get x squared is x plus three times x plus x plus three.
+And if you look back at the previous way, we solve this equation, you'll recognize this equation.
+And so from here on we just continue as before.
+When choosing between these two methods, I personally tend to prefer the clear the denominators method, because it's a little bit less writing, you don't have to get rid of those denominators earlier.
+You don't have to write them as many times, but some people find this one a little bit easier to remember, a little easier to understand either of these methods is fine.
+One last caution.
+Don't forget at the end, to check your solutions and eliminate any extraneous solutions.
+These will be solutions that make the denominators of your original equation.
+Go to zero.
+This video gives the derivative of sine cosine and other trig functions.
+A graph of the function y equals sine x is given in blue here, we can estimate the shape of the derivative of sine x by looking at the slopes of the tangent lines.
+Here, when x equals zero, the tangent line has a positive slope of approximately one.
+As x increases to pi over two, the slope of the tangent line is still positive, but decreases to zero.
+Next, the slope turns negative more and more negative reaching a negative value of negative one, before returning again to zero.
+Continuing like this, we see that the graph of the derivative y equals sine prime of x looks like the graph of y equals cosine x below.
+Please pause the video and do a similar exercise for the graph of y equals cosine of x below, that is use the graph of y equals cosine x to estimate the shape of the graph of y equals cosine prime of x.
+Notice that when x equals zero, the slope of the tangent line here is zero, that slope turns negative, and then reaches zero again before turning positive.
+So the graph of the derivative should look something like this.
+This new blue graph looks like the vertical reflection of the blue graph above suggesting that the derivative of cosine of x is equal to the negative of sine of x.
+So we have graphical evidence that the derivative of sine x is equal to cosine of x, and the derivative of cosine of x is equal to negative sine of x.
+For proofs of these facts, please see the separate proof video for this section.
+Once we have the derivatives of sine and cosine, we have the power to compute the derivatives of a lot of other trig functions as well.
+But our next step would be to write each of these rational expressions over that common denominator by multiplying the top and the bottom by the appropriate things.
+So one, in order to get the common denominator of x plus 3x, I need to multiply the top and the bottom by x plus three times x, whenever x, I need to multiply the top and the bottom just by x plus three since that's what's missing from the denominator x.
+Now, if I simplify a little bit, let's say this is x squared over that common denominator, and here I have just x plus three times x over that denominator, and here I have x plus three over that common denominator.
+Now add together my fractions on the right side, so they have a common denominator.
+So this is x plus three times x plus x plus three.
+And now I have two fractions that have that are equal, that have the same denominator, therefore, their numerators have to be equal also.
+So the next step is to set the numerators equal.
+So I get x squared is x plus three times x plus x plus three.
+And if you look back at the previous way, we solve this equation, you'll recognize this equation.
+And so from here on we just continue as before.
+When choosing between these two methods, I personally tend to prefer the clear the denominators method, because it's a little bit less writing, you don't have to get rid of those denominators earlier.
+You don't have to write them as many times, but some people find this one a little bit easier to remember, a little easier to understand either of these methods is fine.
+One last caution.
+Don't forget at the end, to check your solutions and eliminate any extraneous solutions.
+These will be solutions that make the denominators of your original equation.
+Go to zero.
+This video gives the derivative of sine cosine and other trig functions.
+A graph of the function y equals sine x is given in blue here, we can estimate the shape

@@ -1,0 +1,47 @@
+Solving Basic Trig Equations.
+get a general formula for all solutions, not just those in that interval.
+Let me start by rewriting this equation to isolate the tricky part, which is cosine of x.
+So I'm going to write two cosine x equals negative one, and then divide both sides by two.
+Now I'm looking for the angles x between zero and two pi whose cosine is negative one half.
+Since negative one half is one of the special values on the unit circle, I can use my knowledge of the unit circle to see that the angle between zero and two pi must be either two pi over three, or four pi over three.
+My answer needs to include both of these values.
+There are no other spots on the unit circle whose cosine is negative one half.
+But there are more angles because we can always take one of these angles and add multiples of two pi to it.
+So if I want to Find all solutions, I can take these two principles solutions, two pi over three, and four pi over three, and simply add multiples of two pi to them, for example, two pi over three plus two pi, or two pi over three minus two pi, two pi over three plus four pi, and so on.
+A much more efficient way to write this is to write two pi over three plus two pi times k, any integer that is any positive or negative whole number, or zero.
+Similarly, I can write four pi over three plus two pi k, to capture all solutions, based on the principal solution for pi over three by adding and subtracting multiples of two pi.
+This is my final solution.
+Next, let's look at a trig equation involving tangent.
+As usual, I'm going to start out by cleaning things up and isolating the tricky part, which in this case is tangent.
+So let me add tangent to both sides.
+That'll give me three, tan x equals the square root of three.
+And so tan x is the square root of three over three, the square root of three over three looks suspiciously similar to value the value of square to three over two, which is a special value on my unit circle.
+So my suspicion is that my unit circle will again, help me find this value of x without a calculator.
+Recall that tan x is sine x over cosine x.
+So I'm looking for angles on the unit circle between zero and two pi with a ratio of sine over cosine will give me square root of three over three, I actually only need to look in the first quadrant, and the third quadrant, because those are the quadrants where a tangent is positive.
+And I really only need to look at angles whose either sine or cosine has a squared of three in it.
+So by trial and error, I can see that tan pi over six, which is sine pi over six over cosine pi over six, will give me one half over root three over two, that's the same thing as one half times two over three, which is one over root three.
+If I rationalize that, I get root three over three.
+So that value works.
+If I try tan of pi over three, instead, I get root three, which is not equal to root three over three.
+So pi over three doesn't work.
+Similarly, I can work out some the values in the third quadrant and see that seven pi over six works.
+But four pi over three does not.
+So my answer to part A includes just two values, pi over six, and seven pi over six.
+Now if I want to find all solutions, not just those in the interval from zero to two pi, I noticed that I can take one of these principal solutions and add multiples of two pi to it, because that'll give me the same angle.
+So I get pi over six plus two pi k, and pi over six, sorry, seven pi over six plus two pi k, any integer.
+This is a correct answer.
+But it's not as simple as it could be.
+Notice that seven pi over six over here on the unit circle is exactly pi more than pi over six.
+So instead of taking both of these and adding multiples of two pi to them, I could get all the same answers by just taking one of them and adding multiples of pi to it.
+So a more efficient answer is to say that x equals pi over six plus pi times k for K any integer.
+This will still capture all the same solutions.
+Because when k is even, I'll get this family of solutions.
+And when k is odd, I'll get this family.
+For example, when k is one pi over six plus one times pi is just the original seven pi over six.
+If you think about the fact that tangent has a period of pi instead of two pi, it makes a lot of sense that you should be able to write the solutions in the form.
+In this video, we solved basic trig equations by first, isolating sine, or tangent, or the same thing would work with cosine.
+And then using the unit circle to find principal solutions, Principal solutions are just solutions between zero and two pi.
+And then adding multiples of two pi to these principles solutions to get all solutions.
+For tangent, we noticed that it was equivalent to just use one principal solution and add multiples of pi instead of two pi.
+In a previous video, we looked at trig equations

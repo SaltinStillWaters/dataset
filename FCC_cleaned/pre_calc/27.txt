@@ -1,0 +1,55 @@
+Solving Right Triangles.
+finding the lengths of all the sides and the measures of the angles given partial information.
+In this example, we're given the length of one side, and the measure of one angle.
+Plus we know the measure of this right angle is 90 degrees, we need to find the measure of the third angle labeled capital A, and the length of the two sides labeled lowercase b and lowercase C.
+To find the measure of angle A, let's use the fact that the measures of the three angles of a triangle add up to 180 degrees.
+So that means that 49 degrees plus 90 degrees plus a is equal to 180 degrees.
+So A is equal to 180 degrees minus 90 degrees minus 49 degrees, which works out to 41 degrees.
+To find the length of the side B, we have a couple of possible options.
+We could use the fact that tan of 49 degrees, which is opposite over adjacent is B over 23.
+So b is 23 times tan 49 degrees, which works out to 26.
+46 units.
+Alternatively, we could use the fact that tan of 41 degrees is 23 over b since now if we're looking at the angle here, 23 is our opposite and B is an adjacent, that's a little bit harder to solve algebraically.
+But we can write B tan 41 degrees equals 23, which means that B is 23 divided by 1041 degrees with a calculator that works out again to 26.
+46.
+The reason we want to use tan in this problem and not say sine or cosine is because tan of say 49 degrees relates the unknown side that we're looking for B to the side that we know the measure of if we had use sine instead, we'll be saying that sine of 49 is B over C and we'd have two unknowns, which would make it difficult to solve.
+Next, to find the side length C, we can have a few options, we could use a trig function again.
+For example, we could use the cosine of 49 degrees, that's adjacent over hypotenuse, which is 23 oversee.
+Solving for C, we get that C is 23 over cosine 49.
+Which works out to 35.
+06 units.
+Another option would be to use the Pythagorean Theorem to find C.
+Since we know 23 squared plus b squared equals c squared.
+In other words, that's 23 squared plus 26.
+46 squared equals c squared, which means that C is the square root of that song, which works out again to 35.
+06.
+To review the ideas we used where the sum of the angles is equal to 180 degrees.
+We used facts like tangent of an angle being opposite over adjacent and similar facts about sine and cosine.
+And we use the Pythagorean Theorem.
+This allowed us to find all the angles and side lengths of the triangle knowing just the side length of one side and the angle of one of the non right angles to begin with.
+In this next example, we don't know any of the angles except for the right angle, but we know to have the side lengths.
+To find the unknown angle theta, we can use the fact that cosine theta is adjacent overhype hotness, so that's 10 over 15.
+Cosine is a good trig function to use here, because this equation relates our unknown angle to our two known sides.
+So we just have one unknown in our equation to solve for.
+To solve for theta, we just take the cosine inverse of 10/15 which is 0.
+8411 radians, or 48.
+19 degrees.
+To find the measure of angle fee, we could use the fact that sine of fee is 10 over 15 and take sine inverse of 10/15.
+But probably a little easier just to use the fact that these three angles do 180 degrees.
+That tells us that fee plus 90 plus 48.
+19 is equal to 180 Which means that fee is 41.
+81.
+Finally, we can find x, either using a trig function or by using the Pythagorean Theorem.
+To find it using a trig function, we could write down something like tan of 48.
+19 degrees is x over 10.
+To find that using the Tyrion theorem, we'd write down 10 squared plus x squared equals 15 squared.
+I'll use the Pythagorean theorem and find the x by doing the square root of 15 squared minus 10 squared.
+That gives me an answer of 11.
+18.
+Notice that we use many of the same ideas as in the previous problem.
+For example, the fact that the sum of the angles is 180.
+The Pythagorean theorem and the trig functions like tan, sine and cosine, we also use the inverse trig functions to get from an equation like this one to the angle.
+This video showed how it's possible to find the lengths of all the sides of a right triangle.
+And then measures of all the angles given partial information.
+For example, the measure of one angle and one side or from two sides.
+Recall that solving a triangle

@@ -1,0 +1,92 @@
+Area Between Curves.
+Hi, I'm Beau with Free Code Camp.
+This course is taught by Dr.
+Linda green.
+She teaches at the University of North Carolina at Chapel Hill, and she has been teaching calculus two for many years to undergraduate students, we recommend using a paper and pencil so you can follow along at home.
+Let's start.
+Hi, I'm Beau with Free Code Camp.
+This course is taught by Dr.
+Linda green.
+She teaches at the University of North Carolina at Chapel Hill, and she has been teaching calculus two for many years to undergraduate students, we recommend using a paper and pencil so you can follow along at home.
+Let's start.
+This video introduces the idea of finding the area between two curves.
+Let's start with some review.
+in calculus one, you approximate the area between a curve and the x axis by dividing it up into tall skinny rectangles.
+You represented the width of one of these rectangles using the symbols delta x, here delta x means a small distance along the x axis or a small change in x values.
+You picked out an x value called a sample point from each of these little sub intervals along the x axis, one sample point for each rectangle.
+The sample point on the x axis for rectangle number i is denoted by x i star.
+You use the sample points and the function f to figure out the height of each rectangle.
+The height of rectangle number i is given by the functions value on the sample point f of x star.
+From this, you calculate the area of each rectangle, the area of a rectangle is base times height.
+So the area of the first rectangle is delta x times f of x one star, the area of the second rectangle is delta x times f of x two star.
+And the area of rectangle number i is going to be its base delta x times its height, f of x i star, and so on, if there are n rectangles, than the last rectangle will have base delta x and height f of x and star.
+So the approximate area under the curve is given by adding up all these areas of all these rectangles.
+In sigma notation, this can be written as sigma, the psalm from i equals one to n, the number of rectangles of the area of the rectangle, delta x times f of x i star.
+The exact area is then given by the limit of these approximating areas, as the number of rectangles goes to infinity.
+That's the limit as n goes to infinity of this Riemann sum This video introduces the idea of finding the area between two curves.
+Let's start with some review.
+in calculus one, you approximate the area between a curve and the x axis by dividing it up into tall skinny rectangles.
+You represented the width of one of these rectangles using the symbols delta x, here delta x means a small distance along the x axis or a small change in x values.
+You picked out an x value called a sample point from each of these little sub intervals along the x axis, one sample point for each rectangle.
+The sample point on the x axis for rectangle number i is denoted by x i star.
+You use the sample points and the function f to figure out the height of each rectangle.
+The height of rectangle number i is given by the functions value on the sample point f of x star.
+From this, you calculate the area of each rectangle, the area of a rectangle is base times height.
+So the area of the first rectangle is delta x times f of x one star, the area of the second rectangle is delta x times f of x two star.
+And the area of rectangle number i is going to be its base delta x times its height, f of x i star, and so on, if there are n rectangles, than the last rectangle will have base delta x and height f of x and star.
+So the approximate area under the curve is given by adding up all these areas of all these rectangles.
+In sigma notation, this can be written as sigma, the psalm from i equals one to n, the number of rectangles of the area of the rectangle, delta x times f of x i star.
+The exact area is then given by the limit of these approximating areas, as the number of rectangles goes to infinity.
+That's the limit as n goes to infinity of this Riemann sum of areas.
+of areas.
+A limit of a Riemann sum like this is by definition, an integral.
+So we can rewrite this using the integral sign as the integral of f of x dx.
+And the bounds of integration here, based on our picture are from x equals a 2x equals b.
+Notice that when we convert the limit of a Riemann sum to integral notation, the sample points x vystar just become our variable x, and the delta x becomes our dx.
+Now that we've reviewed these ideas of calculating the area under a curve, we're going to use these same ideas to calculate the area between two curves.
+To compute the area between two curves, y equals f of x and y equals g of x, in between the x values of a and b, we can again divide up the region and a tall skinny rectangles as shown in this picture.
+Once again, let's let delta x be the width of each rectangle.
+And let's let x i star represent a sample point in the ife interval.
+So x sub i star is a point on the x axis that lives in the rectangle number i.
+Now if we want to compute the area of one of these tall skinny rectangles, as always, the area of a rectangle is the base times the height.
+The base of any of these rectangles is given by delta x.
+But the height is different for each rectangle.
+If I focus on in on rectangle number, I assume this is rectangle number i right here.
+It stretches all the way up to F of the sample point f of x by star and it stretches all the way down.
+To add g of that x, y star.
+So the height of that rectangle is the gap between f of x and g of x at that sample point.
+In other words, it's the difference, f of x sub i star minus g of x, y star.
+Now that we have an expression for the area of one of these rectangles, we can add up all those areas as before, to get an expression for the approximate area between the curves, it's just the sum of these areas.
+And as before, we can get the exact area.
+By making these rectangles skinnier and skinnier.
+By taking more of them, we take the limit as the number of rectangles goes to infinity of this Riemann sum.
+And as always, the limit of a Riemann sum is given by the integral where the exabyte stars a sample points just become our variable x, and the delta x becomes our dx, let's put in our bounds of integration, we're told that x goes between A and B, and we have an expression for the area between our two curves.
+Actually, this formula only works if f of x is greater than or equal to g of x on the interval from a to b.
+That inequality guarantees that this expression, f of x i star minus g of x i star will be a positive number, we want a positive height for our rectangle, so that will get a positive area.
+If instead, f of x is less than or equal to g of x, then you'll need to switch around your subtraction and take the integral of g of x minus f of x dx instead, in order to get a positive area.
+One way to remember what to do is just to write the integral as the integral from a to b of the top y value minus the bottom y value, dx.
+Remembering that you'll need to replace the top y value and the bottom y value with functions of x before you can integrate.
+A limit of a Riemann sum like this is by definition, an integral.
+So we can rewrite this using the integral sign as the integral of f of x dx.
+And the bounds of integration here, based on our picture are from x equals a 2x equals b.
+Notice that when we convert the limit of a Riemann sum to integral notation, the sample points x vystar just become our variable x, and the delta x becomes our dx.
+Now that we've reviewed these ideas of calculating the area under a curve, we're going to use these same ideas to calculate the area between two curves.
+To compute the area between two curves, y equals f of x and y equals g of x, in between the x values of a and b, we can again divide up the region and a tall skinny rectangles as shown in this picture.
+Once again, let's let delta x be the width of each rectangle.
+And let's let x i star represent a sample point in the ife interval.
+So x sub i star is a point on the x axis that lives in the rectangle number i.
+Now if we want to compute the area of one of these tall skinny rectangles, as always, the area of a rectangle is the base times the height.
+The base of any of these rectangles is given by delta x.
+But the height is different for each rectangle.
+If I focus on in on rectangle number, I assume this is rectangle number i right here.
+It stretches all the way up to F of the sample point f of x by star and it stretches all the way down.
+To add g of that x, y star.
+So the height of that rectangle is the gap between f of x and g of x at that sample point.
+In other words, it's the difference, f of x sub i star minus g of x, y star.
+Now that we have an expression for the area of one of these rectangles, we can add up all those areas as before, to get an expression for the approximate area between the curves, it's just the sum of these areas.
+And as before, we can get the exact area.
+By making these rectangles skinnier and skinnier.
+By taking more of them, we take the limit as the number of rectangles goes to infinity of this Riemann sum.
+And as always, the limit of a Riemann sum is given by the integral where the exabyte stars a sample points just become our variable x, and the delta x becomes our dx, let's put in our bounds of integration, we're told that x goes between A and B, and we have an expression for the area between our two curves.
+Actually, this formula only works if f of x is greater than or equal to g of x on the interval from a to b.
+That inequality guarantees that this expression, f of x i star minus g of x i star will be a positive number, we want a positive height for our rectangle, so that will get

@@ -1,0 +1,63 @@
+Proof of the Ratio Test.
+Or if we'd rather start with an index of one, we can rewrite that as D times n minus one plus a.
+Notice these two expressions are exactly the same, if we just set k equal to n minus one, in particular, the starting value of n equals one here, if I plug in one for n, I get the equivalent starting value of K to be zero.
+Let's read some more formulas for sequences.
+In this first sequence, notice that consecutive terms always have the same ratio of 1/10.
+In other words, each time n increases by one, a sub n gets multiplied by 1/10.
+This is the same property that exponential functions have.
+And in fact, we can write a sub n in the form of an exponential function with base 1/10.
+But we need to multiply by the right initial value, so that when n is one, we'll get a first term of three, that correct initial value is 30.
+As usual, we can check our answer by plugging in a few values of n, n equals 123.
+And making sure we get back the terms in our sequence.
+If we prefer to start with our index at zero, we can rewrite this as three times 1/10 to the nth power.
+Since a value of zero for n in this formula, gives us three, just like a value of one for n in this formula gives us three.
+In the second example, we again have a common ratio, if I divide the second term by the first term, I get a ratio of five halves.
+And that's the same ratio as I get when I divide the third term by the second term.
+So if I use an index starting with zero, I can write this series as 15 halves, which is the first term times five halves to the nth power.
+If I prefer to start with my index at one, one way to do this is to let K equal n plus one and making a variable substitution.
+When n is 0k, will be one.
+And since K is n plus one, n is k minus one, so I can replace n with k minus one.
+This gives the following representation of the sequence.
+The third example has a common ratio of negative two thirds.
+so we can write it as the initial term of three times that ratio, negative two thirds raised to the nth power, where n starts at zero.
+Or, as above, we can write it as three times negative two thirds to the k minus one.
+Now let's practice writing out a formula for the general term, a sub n of a sequence.
+For this first sequence, notice that each term is three more than the previous term.
+So this is like a linear function with slope three, each time that n goes up by one, our ace events go up by three.
+And so I can write a sub n is three times n plus b, where B functions like my y intercept and a linear equation, to find B, I can plug in seven, four, a sub one that corresponds to an N value of one, and I get that B has to equal four.
+So my general formula is three times n plus four, where n starts at one.
+I can check this by plugging in a few values of n, like we did in the previous example, just to make sure it works.
+Notice that it would also be possible to write this as three times n plus seven If we're willing to start with n equals zero instead of one, if we let n start with zero, then our first term functions like our y intercept.
+This is an example of an arithmetic sequence, a sequence for which consecutive terms have the same common difference.
+And in general, if A is the first term, and d is the common difference than an arithmetic sequence has the form d times k plus a, if our index is K and starts at zero, like it did over here.
+Or if we'd rather start with an index of one, we can rewrite that as D times n minus one plus a.
+Notice these two expressions are exactly the same, if we just set k equal to n minus one, in particular, the starting value of n equals one here, if I plug in one for n, I get the equivalent starting value of K to be zero.
+Let's read some more formulas for sequences.
+In this first sequence, notice that consecutive terms always have the same ratio of 1/10.
+In other words, each time n increases by one, a sub n gets multiplied by 1/10.
+This is the same property that exponential functions have.
+And in fact, we can write a sub n in the form of an exponential function with base 1/10.
+But we need to multiply by the right initial value, so that when n is one, we'll get a first term of three, that correct initial value is 30.
+As usual, we can check our answer by plugging in a few values of n, n equals 123.
+And making sure we get back the terms in our sequence.
+If we prefer to start with our index at zero, we can rewrite this as three times 1/10 to the nth power.
+Since a value of zero for n in this formula, gives us three, just like a value of one for n in this formula gives us three.
+In the second example, we again have a common ratio, if I divide the second term by the first term, I get a ratio of five halves.
+And that's the same ratio as I get when I divide the third term by the second term.
+So if I use an index starting with zero, I can write this series as 15 halves, which is the first term times five halves to the nth power.
+If I prefer to start with my index at one, one way to do this is to let K equal n plus one and making a variable substitution.
+When n is 0k, will be one.
+And since K is n plus one, n is k minus one, so I can replace n with k minus one.
+This gives the following representation of the sequence.
+The third example has a common ratio of negative two thirds.
+so we can write it as the initial term of three times that ratio, negative two thirds raised to the nth power, where n starts at zero.
+Or, as above, we can write it as three times negative two thirds to the k minus one.
+Where k starts at one.
+Sometimes people like to write the negative one separately.
+The negative one to the power makes a series alternate between negative and positive terms.
+These three sequences are all examples of geometric sequences, which are key sequences where consecutive terms have the same common ratio.
+And in general, if A is the first term and RS, the common ratio than a geometric sequence can be written in the form of a times r to the n, where n starts at zero, or as a times r to the n minus one, where n starts at one.
+These next two sequences are neither arithmetic sequences nor geometric sequences.
+Since they're terms neither have common differences nor common ratios, but I can still figure out a formula for the nth term just by looking for the pattern.
+In this example, since the terms are alternating, if I start at n equals one, I know that 90 to negative one to the nth power to make it start with a negative and then alternate, positive, negative Again, the numerator looks like it's just twice n.
+And the denominator looks like it's always a perfect square, starting

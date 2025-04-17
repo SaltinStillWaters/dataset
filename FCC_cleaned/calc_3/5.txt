@@ -1,0 +1,45 @@
+The Squeeze Theorem.
+theorem, which is another method for finding limits.
+Let's start with an example.
+Suppose we have a function g of x.
+We don't know much about it.
+But we do know that for x value is near one, g of x is greater than or equal to four times the square root of x drawn here in red, and less than or equal to 3x squared minus 4x plus five, drawn here in blue.
+So on the picture, G has to lie between the red and the blue curves for x values near one, it could look something like this.
+What can we say about the limit of g of x as x goes to one?
+Well, if you notice, the red curve and the blue curve have the exact same limit of four as x goes to one.
+And since the green curve is squeezed in between the red and the blue curve, its limit must also be for this example as a special case of the squeeze theorem.
+Now, let's say the squeeze theorem in general, suppose that we have three functions, f of x g of x and h of x.
+And let's suppose that f of x is less than or equal to g of x, which is less than or equal to h of x, at least for x values near some number A.
+this inequality doesn't necessarily have to hold for x equal to a, because we're going to be talking about limits.
+And limits don't care what happens when x is exactly a just when x is near a.
+Let's suppose also, that like in the previous example, f of x and h of x have the exact same limit as x approaches a.
+So we're going to suppose that the limit as x goes to a of f of x is equal to the limit as x goes to a of h of x.
+And we'll call this limit.
+Now.
+The picture looks a lot like the previous example.
+Again, it doesn't matter exactly what happens at x equals a, for example, g of x could have a hole there.
+And its value could be for example, way up here.
+Since g of x is trapped here in between f of x and h of x, which both have the same limit l at a, we can conclude that the limit as x goes to a of g of x is equal to l also.
+And that's the squeeze theorem, also known as the pinching theorem, and the sandwich theorem, three very descriptive names that capture the idea of geovax being trapped here, in between lower and upper bounds.
+Now let's use the squeeze there.
+To find the limit as x goes to zero of x squared sine one over x.
+Now, you might remember that sine one over x by itself has this crazy oscillating behavior.
+In fact, the limit as x goes to zero of sine one over x does not exist, because the function never settles down to a single finite value.
+At first glance, you might think the limit of x squared sine of one over x also wouldn't exist.
+In fact, it's tempting to try to use the product rule and say that the limit of the product is the product of the limits.
+But in fact, the product rule only applies when the component limits both exist.
+And since the second limit doesn't exist, the product rule tells us absolutely nothing about whether the limit that we're interested in exists or doesn't.
+So we can't use the product rule.
+But it turns out, we can use the squeeze theorem.
+Now this example is a little trickier than the first example, because in the first example, we were told what the upper and lower bounding functions should be.
+And in this example, we have to come up with.
+But if we look at a graph of x squared sine one over x, we can see that it does seem to be trapped in an envelope here.
+Let's use algebra to see what those two bounding functions might be.
+Now we know that sine of one over x is always between one and negative one, just because sine of anything has between one and negative one.
+And if we multiply this whole inequality by x squared, we get minus x squared is less than or equal to x squared, sine one over x, which is less than or equal to x squared.
+Notice that x squared is always positive, so we don't have to worry about flipping any of the inequality signs when we multiply by this positive number.
+So x squared and minus x squared are good bounding functions.
+And if we notice that the limit as x goes to zero of x squared is zero, and the limit as x goes to zero of negative x squared is also zero, we can conclude by the squeeze theorem, that the limit as x goes to zero of x squared, sine of one over x is also zero, because it squeezed in between these two functions with the same limit.
+the squeeze theorem is a great trick for evaluating limits when you happen to have a function that you're interested in, trapped in between two other functions with the same limit.
+The example in this video is a classic example, where we have a crazy oscillating trig function, multiplied by a power of x, that x is one of our bounding functions.
+In this video, we'll compute a bunch of limits using algebraic

@@ -1,0 +1,55 @@
+Exponential Functions.
+This video is about exponential functions and their graphs.
+an exponential function is a function that can be written in the form f of x equals a times b to the x, where a and b are any real numbers.
+As long as a is not zero, and B is positive.
+It's important to notice that for an exponential function, the variable x is in the exponent.
+This is different from many other functions we've seen, for example, quite a quadratic function like f of x equals 3x squared has the variable in the base, so it's not an exponential function.
+For exponential functions, f of x equals a times b dx.
+We require that A is not equal to zero, because otherwise, we would have f of x equals zero times b dx.
+Which just means that f of x equals zero.
+And this is called a constant function, not an exponential function.
+Because f of x is always equal to zero in an exponential function, but we require that B is bigger than zero, because otherwise, for example, if b is equal to negative one, say, we'd have f of x equals a times negative one to the x.
+Now, this would make sense for a lot of values of x.
+But if we try to do something like f of one half, with our Bs, negative one, that would be the same thing as a times the square root of negative one, which is not a real number, we'd get the same problem for other values of b, if the values of b were negative.
+And if we tried b equals zero, we'd get a kind of ridiculous thing a times zero to the x, which again is always zero.
+So that wouldn't count as an exponential either.
+So we can't use any negative basis, and we can't use zero basis, if we want an exponential function.
+The number A in the expression f of x equals a times b to the x is called the initial value.
+And the number B is called the base.
+The phrase initial value comes from the fact that if we plug in x equals zero, we get a times b to the zero, well, anything to the zero is just one.
+So this is equal to A.
+In other words, f of zero equals a.
+So if we think of starting out, when x equals zero, we get the y value of a, that's why it's called the initial value.
+Let's start out with this example, where y equals a times b to the x next special function, and we've set a equal to one and B equals a two.
+Notice that the y intercept, the value when x is zero, is going to be one.
+If I change my a value, my initial value, the y intercept changes, the function is stretched out.
+If I make the value of a go to zero, and then negative, then my initial value becomes negative, and my graph flips across the x axis.
+Let's go back to an a value of say one, and see what happens when we change B.
+Right now, the B value the basis two, if I increase B, my y intercept sticks at one, but my graph becomes steeper and steeper.
+If I put B back down close to one, my graph becomes more flat at exactly one, my graph is just a constant.
+As B gets into fractional territory, point 8.
+7 point six, my graph starts to slope the other way, it's decreasing now instead of increasing, but notice that the y intercept still hasn't changed, I can get it more and more steep as my B gets farther and farther away from one of course, when B goes to negative territory, my graph doesn't make any sense.
+So a changes the y intercept, and B changes the steepness of the graph.
+So that it's added whether it's increasing for B values bigger than one, and decreasing for values of the less than one.
+we'll summarize all these observations on the next slide.
+We've seen that for an exponential function, y equals a times b to the x, the parameter or number a gives the y intercept, the parameter B tells us how the graph is increasing or decreasing.
+Specifically, if b is greater than one, the graph is increasing.
+And if b is less than one, the graph is decreasing.
+The closer B is to the number one, the flatter the graph.
+So for example, if I were to graph y equals point two five to the x and y equals point four to the x, they would both be decreasing graphs, since the base for both of them is less than one.
+But point two five is farther away from one and point four is closer to one.
+So point four is going to be flatter.
+And point two five is going to be more steep.
+So in this picture, This red graph would correspond to point two five to the x, and the blue graph would correspond to point four to the x.
+For all these exponential functions, whether the graphs are decreasing or increasing, they all have a horizontal asymptote along the x axis.
+In other words, at the line at y equals zero, the domain is always from negative infinity to infinity, and the range is always from zero to infinity, because the range is always positive y values.
+Actually, that's true.
+If a is greater than zero, if a is less than zero, then our graph flips over the x axis, our domain stays the same, but our range becomes negative infinity to zero.
+The most famous exponential function is f of x equals e to the x.
+This function is also sometimes written as f of x equals x of x.
+The number E is Oilers number as approximately 2.
+7.
+This function has important applications to calculus and to some compound interest problems.
+In this video, we looked at exponential functions, functions of the form a times b to the x, where the variable is in the exponent, we saw that they all have the same general shape, either increasing like this, or decreasing like this, unless a is negative, in which case they flip over the x axis.
+They all have a horizontal asymptote at y equals zero, the x axis.
+In this video, we'll use exponential

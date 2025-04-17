@@ -1,0 +1,52 @@
+Graphs of Transformations of Tan, Sec, Cot, Csc.
+cotangent and cosecant.
+Before I graph this fancy function, I'm going to graph the related parent function, y equals cosecant of x.
+Recall that cosecant of x is one over sine of x.
+So the graph of cosecant of x has a vertical asymptotes, where sine of x is zero, that puts the vertical asymptotes at pi, two pi, zero, and so on.
+Because seeing n of x is one where sine is one.
+So here, and so it looks something like this.
+Now, when I graph my fancy function, I know that the two on the outside does a vertical stretch by two, the plus one shifts up by one, the PI means everything shrinks horizontally by one over pi.
+And so the period, instead of being two pi, like it is for cosecant, it's going to be two pi divided by pi, which is two.
+Finally, this pi over two has to do with a horizontal shift.
+But in order to see by how much we horizontal shift, we need to factor out the pie first.
+So if I rewrite my function, as two times cosecant pi times x plus a half, plus one, I can see the horizontal shift is one half to the left.
+Let me do those transformations in pieces.
+First, I'll do the vertical motions.
+So I'll leave the horizontal axis as is I'll stretch by a factor of two.
+And now I'll shift up by one.
+Next, I'll worry about the horizontal motion, instead of a period of two pi, I'm going to have a period of two.
+But in addition, everything is going to be shifted left by one half.
+So instead of having my vertical asymptotes at zero, pi, two pi and so on, they would be at 012, and so on, except everything shifted over by one half.
+So that means the vertical asymptotes will actually be at negative a half, a half, one and a half, and so on.
+Another way to find the vertical asymptotes is by noting that cosecant is one over sine, so therefore, cosecant pi x plus one half does not exist when a sine pi x plus one half equals zero, ie when pi times x plus one half is equal to a multiple of pi.
+canceling the PI's and solving for x, that's when x is some number minus a half.
+So those are exactly the values of say, one half, three half, five halves, and so on that we've drawn.
+So once we've got the vertical asymptotes in place, we can see that our graph fits in between them.
+This purple piece got shrunk horizontally and shifted by a half, so it ends up hugging the x axis.
+I'll draw it in right here.
+And all the other pieces also get shrunk horizontally and shifted.
+So my final graph looks something like this.
+In this next problem, we're given the graph and we need to find the equation, the shape of the graph.
+And the fact that it's increasing tells us it must be a tangent graph.
+But y equals tan x by itself would have a period of pi.
+Let's check what our graph has a period of need to find the horizontal width of one complete cycle, it's probably easiest to measure if I sketch in the vertical asymptotes, which seem to run from an x value of negative three to an x value of one.
+So that's a horizontal distance of four.
+So our graph might be something more like tan of Bx, where pi over B has to be four.
+That means that pi equals four B.
+And so B is pi over four.
+So our graph is probably more closely related to Y equals tan of pi over 4x.
+But if it were exactly y equals tan of pi over 4x, then that middle point right here would be at the origin.
+And instead, that middle point is at negative one, one, that means my tangent graph is shifted left by one, and up by one, the left by one, I can accomplish by writing x plus one, when I have the Pi over four factored out the up by one I get by writing a plus one on the outside.
+Now as possible, there might also be a vertical stretch factor out front, an easy way to check for that is by plugging in x equals zero and seeing whether what kind of number out in front I might need to get this y intercept of two.
+So I'm going to write y equals a tan pi over four quantity x plus one plus one, plug in point 02.
+So that's two equals a tan pi over four, zero plus one plus one.
+And I can solve for A since tan of pi over four is just one, this equation simplifies to two equals a times one plus one, which means that a has to be one.
+So in fact, this equation here is our final answer for this graph.
+To summarize, if we have a function of the form y equals a tan bx minus c plus d, the number a accomplishes a vertical stretch.
+The number B changes the period from pi to pi over B, the number D shifts vertically by D.
+And finally, to figure out what the number c is, we have to rewrite our equation in factored form factoring out the B.
+And so we see that there's a phase shift right by C over B.
+The same things hold.
+If instead of tangent, we have a graph of cotangent, we can say the same things for our graph of secant and a graph of cosecant.
+The only thing to be careful of is that B now changes the period from two pi to two pi over B, simply because the original period of secant and cosecant is two pi, whereas the original period of tan and co tan is just pi.
+If you know what the original graphs of tan, secant cotangent and cosecant look like, you can use your knowledge of transformations

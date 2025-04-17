@@ -1,0 +1,46 @@
+Graphs of Tan, Sec, Cot, Csc.
+secant, cotangent and cosecant.
+To gain an intuition for the graph of y equals tangent of x, I think it's handy to look at the slope of a line at angle theta on the unit circle.
+The slope of this line is the rise over the run.
+But the rise is given by sine of theta, and the run is given by cosine of theta.
+So the slope is given by sine theta over cosine theta, which is simply tan of theta.
+So if I want to graph y equals tan of x, I can think of x as being the angle and y as being the slope of the line at that angle.
+Notice if the angle is zero, the slope is zero.
+But as the angle increases towards pi over two, the slope gets bigger and bigger heading towards infinity.
+As the angle goes from zero towards negative pi over two, the slope is getting negative and heading towards negative infinity, at exactly pi over two and negative pi over two, we have a vertical line.
+And so the slope is undefined.
+Using this information, let's graph a rough sketch of y equals tan x.
+Remember, we're thinking of x as the angle and y as the slope, we're going to go between an angle of negative pi over two and pi over two.
+So we said that the slope was zero when the angles zero, and then it heads up towards positive infinity, as we go towards the angle goes towards pi over two with an undefined value at pi over two, it goes negative heading towards negative infinity as the angle heads towards negative pi over two, also, with an undefined value at negative pi over two, you can also verify that for angles slightly bigger than pi over two, we have the same line as for angles that are approaching negative pi over two, and therefore this picture repeats.
+And it turns out that tangent is periodic with period not to pi, like sine and cosine, but just pi.
+The period of pi makes sense because if you take a line and rotate it by 180 degrees, it's the same line with the same slope and therefore has the same value of tangent in this graph of y equals 10x knows that the x intercepts all right values of x of the form negative two pi negative pi Zero, pi, two pi, etc, you can write that as pi times k, where k is an integer that is a positive or negative whole number or zero.
+This makes a lot of sense because tangent of x is sine of x over cosine of x.
+And so you're gonna get x intercepts, that's where y is zero, which is where the numerator is zero, and sine x is zero, at values of the form pi, two pi, and so on.
+From the graph, you can see the vertical asymptotes are at values like negative three pi over two, negative pi over two, pi over two, and three pi over two, these values can be written as pi over two times k, where k is an odd integer.
+Again, this makes sense from the definition of tangent, since the vertical asymptotes will occur where the denominator is zero, and cosine x is zero, at numbers, like negative pi over two pi over two, three pi over two, and so on, the domain of tangent is the x axis for which it's defined.
+So that's going to be everything except for the vertical asymptotes, we can write that as x such that x is not equal to pi over two times k, for K, an odd integer.
+The range or the y values go all the way from negative infinity to infinity.
+And the period, as we mentioned previously, is pi.
+Since the smallest repeating unit has a horizontal width of pi, to graph y equals secant x, I'm going to remember that secant is one over cosine.
+So if I start with a graph of cosine, I can take the reciprocal of the y values to get the graph of secant, the reciprocal of one is one, the reciprocal of zero is undefined, so I'm not going to have a value at pi over two, negative pi over two, three pi over two, or negative three pi over two.
+When I take the reciprocal of numbers, just less than one, I'm going to get numbers just greater than one, but I would take the reciprocal of positive numbers getting close to zero, I'm going to get really big positive numbers going up towards infinity.
+Similarly, on the other side, over here, I have numbers close to zero, but negative, so their reciprocals will be negative numbers heading towards negative infinity, the reciprocal of negative one is negative one.
+And similarly here, so I'm getting kind of positive and negative buckets and upside down buckets as the graph of my sequence.
+Notice that secant has a period of two pi, which makes sense, since cosine has a period of two pi, it has a range that goes from negative infinity to negative one inclusive, and from one to infinity.
+That makes sense because the range of cosine is between one and negative one, and we're taking the reciprocal of those values.
+The domain is everything except for the vertical asymptotes.
+Now the vertical asymptotes are where cosine is zero.
+So that is at values of the form pi over two, three pi over two, etc.
+That's values of the form pi over 2k, where k is an odd integer.
+So the domain is going to be x values such that x is not equal to pi over 2k.
+For K and odd integer.
+The x intercepts of secant Well, it doesn't have any, because you can't take one over something and get the numbers zero for your y value.
+We've seen the graph of y equals tan x and y equals secant x.
+This is the graph of y equals cotangent x.
+It looks similar to the graph of tangent x, it's just a decreasing function instead of an increasing one, and it has its vertical asymptotes and its x intercepts in different places.
+Finally, this green graph is the graph of y equals cosecant x.
+It's related to the graph of sine x, since cosecant is one over sine x.
+And in fact, if I draw the graph of sine x in between, you can see how it kind of bounces off.
+Because it's the reciprocal.
+I encourage you to memorize the general shape of these graphs, you can always figure out the details by thinking how about how they're related to the graphs of cosine of x, and sine x.
+This video is about the graphs of transformations of tangent, secant

@@ -1,0 +1,42 @@
+Arclength and Areas of Sectors.
+is called an arc.
+And a wedge of pi for that circle is called a sector.
+This video explains how to calculate the length of the arc and the area of the sector in terms of the angle and the radius of the circle.
+the circumference of a circle is given by the formula, the circumference equals two pi times the radius.
+Let's use that to solve the following problem.
+A circular pool has a radius of eight meters, find the arc length spanned by a central angle of 2.
+5 radians.
+So this angle from the center of the circle is supposed to be 2.
+5 radians.
+I've drawn the angle is a little bit less than half the circle because half the circle would be pi radians, which is 3.
+141 radians.
+So I want to find the length of this arc.
+I know that the total circumference is going to be two pi times eight meters.
+But I just want a fraction of the circumference.
+The arc length I want is going to be given by the fraction of the circle that the angle makes times the circumference of the circle.
+The fraction of the circle that I want is given by the ratio of 2.
+5 radians over the total number of radians in the circle, which is two pi radians.
+Multiply that by there's a conference, which we said was two pi times eight meters.
+Notice that the two PI's cancel, and I'm left with just 2.
+5 times eight meters, which is 10 meters.
+In general, the arc length is related to the angle it spans by considering the arc length to be the fraction of the circle you get by taking the angle over The total angle the circle of two pi times the circumference, which is two pi r.
+Since the two PI's cancel as they did in our example, that means that arc length is given by theta times r.
+here, R is the radius of the circle, and theta is the angle, it's important to note that theta needs to be measured in radians, not degrees for this to work.
+That's because when I took this ratio, I was using two pi radians for the total measure of the circle.
+So it's important that theta also be in radians.
+The area of a circle is given by the formula, pi r squared, where r is the radius, let's use that fact to find the area of the sector of a circle of radius 10 meters.
+that spans an angle of pi over six radians, we know that the total area of the circle is given by pi times 10 meters squared, or 100 pi meter squared.
+But we just want a fraction of that area to give us the area of our sector.
+So we want to take the fraction of the circle that the sector makes times the area of the circle.
+Well, the fraction of the circle is given by the angle of pi over six over the total angle in the whole circle of two pi.
+And well times that by the 100 pi meter squared, that simplifies to 100 pi over 12 meters squared, or 25 thirds pi meter squared as a decimal, that's 26.
+18 meter squared up to two decimal places.
+In general, if you want to find the area of a sector, you can take the fraction of the circle that the sector spans out times the area of the circle, pi r squared.
+Notice that the fraction of the circle is given by the angle that the sector makes in radians, divided by the two pi radians in the circle.
+Since the PI's cancel, we can simplify this formula by saying the area is given by theta over two times r squared, where theta is the angle of the sector in radians.
+Again, it's important that this angle be in radians, since that's how we're doing our fraction of our circle comparison.
+As usual, r represents the radius of the circle.
+Notice that if you don't have your angle in radians, if it's in degrees instead, not a big deal, because we can always convert from degrees to radians first, before using our formula.
+In this video, we saw that for our sector of angle theta, given in radians, the arc length is given by the formula theta times R.
+And the area of the sector is given by theta over two times r squared, where r is the radius of the circle.
+This video defines

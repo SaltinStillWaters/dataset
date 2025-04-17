@@ -1,0 +1,90 @@
+[Corequisite] Composition of Functions.
+is that one of the trig functions has the argument of just x, but the other tree function has the argument of 2x.
+So I want to use my double angle formula to rewrite sine of 2x.
+I'll copy down the two cosine x, and now sine of 2x is equal to two sine x cosine x.
+At this point, I see a way to factor my equation, I can factor out a two cosine x from both of these two terms.
+That gives me one plus sine x and the product there is equal to zero.
+That means that either two cosine x is equal to zero One plus sine x is equal to zero, that simplifies to cosine x equals zero, or sine x is negative one.
+Using my unit circle, I see that cosine of x is zero at pi over two, and three pi over two, while sine of x is negative one at three pi over two, there's some redundancy here, but my solution set is going to be pi over two plus multiples of two pi, and three pi over two plus multiples of two pi.
+This video proved the double angle formulas, sine of two theta is two sine theta cosine theta.
+and cosine of two theta is cosine squared theta minus sine squared theta.
+It also proved to alternate versions of the equation for cosine of two theta.
+This video introduces higher order derivatives and notation.
+We've seen that f prime of x denotes the derivative of the function f of x, but f prime of x is also itself a function.
+So we can take its derivative, that would be f prime prime of x, which is usually written instead as f double prime of x.
+This is called the second derivative of f.
+And it means the derivative of the derivative, we can also talk about the third derivative, f triple prime of x, which might sometimes be written f to the three of x if you get tired of writing all those primes, and we can talk about the nth derivative f, parentheses n of x, the parentheses here are important to show that it's the nth derivative.
+The second, third and nth derivative are referred to as higher order derivatives.
+derivatives.
+There are many alternative notations for derivatives stemming from their tangled and contentious history in the 1600s.
+There are a few different notations for functions themselves.
+Most often we write a function of something like f of x, but we can also use the variable y to refer to the output of a function.
+When we're looking at the first derivative.
+We've been using the notation f prime of x.
+But you might also see y prime, this means the same thing.
+Another notation is df dx, is known as lug nuts denotation.
+After five minutes, you might see something like dy dx of f of x.
+And you might see dy dx, another version of Lebanon's notation.
+Sometimes you'll also see a capital D used to refer to the derivative.
+If we're looking at the second derivative, we've seen that in Haitian f double prime of x, y double prime is a similar notation, or we might write dy dx of df There are many alternative notations for derivatives stemming from their tangled and contentious history in the 1600s.
+There are a few different notations for functions themselves.
+Most often we write a function of something like f of x, but we can also use the variable y to refer to the output of a function.
+When we're looking at the first derivative.
+We've been using the notation f prime of x.
+But you might also see y prime, this means the same thing.
+Another notation is df dx, is known as lug nuts denotation.
+After five minutes, you might see something like dy dx of f of x.
+And you might see dy dx, another version of Lebanon's notation.
+Sometimes you'll also see a capital D used to refer to the derivative.
+If we're looking at the second derivative, we've seen that in Haitian f double prime of x, y double prime is a similar notation, or we might write dy dx of df dx.
+dx.
+And the shorthand for that is d squared f dx squared.
+Similarly, we might write d squared y dx squared using y in the place of F for the function.
+And the shorthand for that is d squared f dx squared.
+Similarly, we might write d squared y dx squared using y in the place of F for the function.
+There's similar notations for third derivative, I'll jump ahead to nth derivatives.
+So that would be F to the n of x, or y to the n, d to the n of f dx to the n, or D to the n of y dx to the N.
+When using live minutes notation, we want to emphasize that we're evaluating our derivative at a particular value of x, we might write something like at x equals three, or at x equals a, using a vertical line.
+For better or for worse, you'll need to become familiar with all of these alternative notations.
+There's similar notations for third derivative, I'll jump ahead to nth derivatives.
+So that would be F to the n of x, or y to the n, d to the n of f dx to the n, or D to the n of y dx to the N.
+When using live minutes notation, we want to emphasize that we're evaluating our derivative at a particular value of x, we might write something like at x equals three, or at x equals a, using a vertical line.
+For better or for worse, you'll need to become familiar with all of these alternative notations.
+That's all for this video on higher order derivatives and notation.
+This video is about the derivative of e to the x, one of my favorite functions ever simply because it has such a great derivative.
+As you may recall, he is an irrational number whose decimal approximation is something like 2.
+718 looks like it's repeating.
+But then it keeps going on forever, never repeating never terminating.
+That's all for this video on higher order derivatives and notation.
+This video is about the derivative of e to the x, one of my favorite functions ever simply because it has such a great derivative.
+As you may recall, he is an irrational number whose decimal approximation is something like 2.
+718 looks like it's repeating.
+But then it keeps going on forever, never repeating never terminating.
+Its value notice is somewhere in between two and three.
+Here is a graph of y equals e to the x.
+Its value notice is somewhere in between two and three.
+Here is a graph of y equals e to the x.
+It says exponential function increase thing looks a lot like two to the x or three to the x, not only is the graph of e to the x increasing, but it's increasing more and more rapidly.
+So for negative values of x, the slope of this graph is positive but very close to zero.
+Over here, when x equals zero, that slope is looks like approximately a slope of one, we'll see that it is in fact exactly one.
+And as the x values increase, this tangent lines get steeper and steeper.
+I'm going to state without proof, three really useful facts about E.
+First, if you take the limit, as n goes to infinity of one plus one over N raised to the nth power, that limit exists and equals E, you might have seen something like that when you took precalculus, and looked at compound interest compounded over smaller and smaller time periods.
+But even if you haven't seen it before, it's a really important fact worth memorizing, you'll see it again later in the class.
+A second important formula is that the limit as h goes to zero of e to the H minus one over h equals one.
+Now this expression here on the left may remind you of a derivative, in fact, I can rewrite it as the limit as h goes to zero of e to the zero plus h minus e to the zero since either the zero is one over h, that's equal to one.
+And this expression right here on the left is just the derivative of e to the x at x equals zero, according to the limit definition of derivative.
+So this fact, is really saying that the derivative of e to the x at x equals zero, that derivative is equal to one.
+So for the third fat, It says exponential function increase thing looks a lot like two to the x or three to the x, not only is the graph of e to the x increasing, but it's increasing more and more rapidly.
+So for negative values of x, the slope of this graph is positive but very close to zero.
+Over here, when x equals zero, that slope is looks like approximately a slope of one, we'll see that it is in fact exactly one.
+And as the x values increase, this tangent lines get steeper and steeper.
+I'm going to state without proof, three really useful facts about E.
+First, if you take the limit, as n goes to infinity of one plus one over N raised to the nth power, that limit exists and equals E, you might have seen something like that when you took precalculus, and looked at compound interest compounded over smaller and smaller time periods.
+But even if you haven't seen it before, it's a really important fact worth memorizing, you'll see it again later in the class.
+A second important formula is that the limit as h goes to zero of e to the H minus one over h equals one.
+Now this expression here on the left may remind you of a derivative, in fact, I can rewrite it as the limit as h goes to zero of e to the zero plus h minus e to the zero since either the zero is one over h, that's equal to one.
+And this expression right here on the left is just the derivative of e to the x at x equals zero, according to the limit definition of derivative.
+So this fact, is really saying that the derivative of e to the x at x equals zero, that derivative is equal to one.
+So for the third fat, the third fact, the third fact, it talks about the derivative of e to the x in general.
+And that third fact is that the derivative of the function, either the X is the function, e to the x, e to the x

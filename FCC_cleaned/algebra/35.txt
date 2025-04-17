@@ -1,0 +1,87 @@
+Solving Exponential Equations Using Logs.
+have an equation like this one that has variables in the exponent logs are the tool of choice for getting those variables down where you can solve for them.
+In this video, I'll do a few examples of solving equations with variables in the exponent.
+For our first example, let's solve for x the equation five times two to the x plus one equals 17.
+As my first step, I'm going to isolate the difficult spot, the part that has the variables and the exponent.
+In this example, I can do that by dividing both sides by five.
+That gives me two to the x plus one equals 17 over five.
+Next, I'm going to take the log of both sides, it's possible to take the log with any base, but I prefer to take the log base 10, or the log base e for the simple reason that my calculator has buttons for those logs.
+So in this example, I'll just take the log base 10.
+So I can omit the base because it's a base 10 is implied here.
+And that gives me this expression.
+As my next step, I'm going to use log roles to bring down my exponent and multiply it on the front.
+It's important to use parentheses here because the entire x plus one needs to get multiplied by log two.
+So that was my third step using the log roles.
+Now all my variables are down from the exponent where I can work with them, but I still need to solve for x.
+Right now x is trapped in the parentheses.
+So I'm going to free it from the parentheses by distributing.
+So I get x log two plus log two equals log of 17 fifths.
+Now I will try to isolate x by moving all my terms with x's in them to one side, and all my terms without x's in them to the other side.
+Finally, I factor out my x.
+Well, it's already kind of factored out, and I divide to isolate it.
+So I read out what I did.
+So far I distributed.
+I moved all the x terms on one side, and the terms without x's on the other side.
+And then I isolated the x by factoring out and dividing.
+We have an exact solution for x.
+This is correct, but maybe not so useful if you want a decimal answer.
+At this point, you can type in everything into your calculator using parentheses liberally to get a decimal answer about 0.
+765.
+It's always a good idea to check your work by typing in this decimal answer and seeing if the equation checks out.
+This next example is trickier because there are variables in the exponent in two places with two different bases.
+First step is normally to clean things up and simplify by isolating the tricky stuff.
+But in this example, there's nothing really to clean up or simplifier, or no way to isolate anything more than it already is.
+So we'll go ahead to the next step and take the log of both sides.
+Again, I'll go ahead and use log base 10.
+But we couldn't use log base e instead.
+Next, we can use log roles to bring down the exponents.
+This gives me 2x minus three in parentheses, log two equals x minus two, log five.
+Now I'm going to distribute things out to free the excess from the parentheses.
+That gives me 2x log two minus three log two equals x log five minus two log five.
+Now I need to group the x terms on one side, and the other terms that don't involve x on the other side.
+So I'll keep the 2x log two on the left, put the minus log x log five on the left, and that gives me the minus two log five that stays on the right and a plus three log two on the right.
+Finally, I need to isolate x by factoring and dividing by factoring I just mean I factor out the x from all the terms on the left, so that gives me x times the quantity to log two minus log five.
+And that equals this mess on the right.
+Now I can divide the right side by the quantity on the left side.
+When you type this into your calculator, I encourage you to type the whole thing in rather than type bits and pieces in because if you round off, you'll get a less accurate answer than if you type the whole thing in at once.
+In this example, when I type it in, I get a final answer of about 5.
+106.
+In this equation, we have the variable t in the exponent in two places.
+The letter E is not a variable, it represents the number e whose decimal approximation is about 2.
+7.
+Because there's already an E and the expression, it's going to be handy to use natural log in this problem instead of log base 10.
+But before we take the log of both sides, let's clean things up.
+by isolating the tricky parts, we could at least divide both sides by five.
+And that will give us either the negative 0.
+05 t is equal to three fifths it is 0.
+2 T.
+One way to proceed would now be to clean things out further by dividing both sides by either the point two t, but I'm going to take a different approach and go ahead and take the natural log of both sides.
+That gives me ln of e to the minus 0.
+05 t is equal to ln of three fifths e to the 0.
+2 t.
+Now on the left side, I can immediately use my log rule to bring down my exponent and get minus 0.
+05 t, L and E.
+But on the right side, I can't bring down the exponent yet because this e to the point two t is multiplied by three fifths.
+So before I can bring down the exponent, I need to split up this product using the product rule.
+So I can rewrite this as ln of three fifths plus ln e to the 0.
+2 T.
+And now I can bring down the exponent.
+So that third step was using log roles to ultimately bring down my exponents.
+Now ln of E is a really nice expression, ln IV means log base e of E.
+So that's asking what power do I raise E to in order to get e?
+And the answer is one.
+So anytime I have ln of E, I can just replace that with one.
+That's why using natural log is a little bit handier here than using log base 10.
+You can make that simplification.
+Next, I'm ready to solve for t.
+So I don't need to distribute here.
+But I do need to bring my T terms to one side of my terms without t to the other side.
+So let's see.
+I'll put my T terms on the left and my team turns without T on the right.
+And finally I'm going to isolate t by factoring and dividing.
+So by factoring I mean I factor out my T and now I can divide.
+Using my calculator, I can get a decimal answer of 2.
+04 Three, three.
+This video gave some examples of solving equations with variables in the exponent.
+And the key idea was to take the log of both sides and use the log properties to bring the exponents down.
+This video, give some

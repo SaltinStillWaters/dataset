@@ -1,0 +1,99 @@
+Hyperbolas.
+of points x y, such that the sum of the distances between x y and two fixed points called the fo cy is a constant.
+Well, I hyperbola is a set of points x y, such that the difference of the distances between x y and each of two fixed points, called the first side is a constant.
+In this picture on the left, the two blue lines are the two branches of the hyperbola.
+The two red points are the focuses or foe side.
+So, for a point x, y on the hyperbola.
+If I look at the distance from x, y to one focus, and the distance from x, y to the other focus, the difference of those two distances will be the same no matter which point x y on the hyperbola that I choose.
+If I draw a line between the two fourths I, that line is called the transverse axis.
+In this left picture, we have a vertical transverse axis.
+And the hyperbola itself reminds me of a person lying down horizontally.
+Now in the right picture, our transverse axis between the two fo psi is horizontal.
+And the blue hyperbola itself kind of reminds me of a person standing up vertically.
+It's possible for a hyperbola to be oriented other ways besides horizontally and vertically, but will only consider horizontal and vertical orientations in this video.
+If you look at where the transverse axis intersects the blue branches of the hyperbola, you'll find these two points.
+those points are called the vertices.
+Notice that the vertices are the two points on the two branches that are closest to one another.
+The point halfway between the two vertices, it's also halfway between the two foes side is called the center of the hyperbola.
+The two black dotted lines that I've drawn that form an X are not actually part of the hyperbola.
+They're called the asymptotes.
+And you can think of them as guidelines for drawing the hyperbola.
+Because the hyperbola gets closer and closer to these asymptotes, but doesn't cross them.
+We'll talk more about the asymptotes later.
+Let's find the equation of a hyperbola with both sides at negative c zero, and c zero, and vertices at negative a zero and a zero.
+This hyperbola will have at center at the origin.
+From the distance definition of hyperbola.
+We know that if we have a point x, y on the hyperbola, then if we take the distance from that point to the first focus, and the distance to the second focus and subtract them, we should get a constant.
+We're always taking the positive difference here.
+So if we're on the right branch, we'll take the distance to the left focus minus the shorter distance to the right focus.
+And if we happen to be on the left branch, then we would take the longer distance to the right focus minus the shorter distance, the left focus, when we do the differences that way, we should always get the same number.
+And in fact, that difference should equal to A I'll show you why.
+The reason is, if I take my point to be this vertex here, then its distance to this focus is exactly c minus A because C is bigger than a.
+And this distance to that focus is going to be well let's see, this is a, this is a and this is c minus a.
+So that different distance will be a plus a plus c minus a.
+Now I'm going to do the difference, A plus A plus c minus a minus c minus a.
+That simplifies to A plus c minus c plus a, which is two a.
+Now I'll focus on a point on the right branch, I'll actually write a formula for its distance to this point.
+That's the distance formula, it's going to be x minus negative c squared plus y minus zero squared.
+That's the longer difference distance.
+Now I subtract the shorter distance, which is the distance to this focus.
+And they're the distance formula gives me x minus c squared plus y minus zero squared.
+That should always equal to A for any point on that right branch.
+I'll clean up the inside of the square roots a little bit.
+After that a chunk of algebra, which I won't do here allows you to simplify this equation to see squared minus a squared times x squared minus a squared y squared equals a squared times c squared minus a squared.
+Since this expression, c squared minus a squared is appearing a couple times here, I'm going to give it a new name, I'm going to let b squared b c squared minus a squared.
+Now I can rewrite my equation as b squared x squared minus a squared y squared equals a squared b squared.
+And dividing both sides by a squared b squared, you'll have the equation x squared over a squared minus y squared over b squared equals one.
+In this equation, notice that a represents the distance from the center to a vertex.
+The quantity C is not directly in this equation, but it's related to a and b by this equation, which can also be rewritten as c squared equals a squared plus b squared.
+Or if you prefer, a squared equals c squared minus b squared.
+I remember this one.
+And remember that C, which is the distance from the center to the focus is the largest of the three quantities A, B, and C.
+So you might be wondering, Well, what is B represent?
+Well, I'm going to draw a box, whose center is at the center of my parabola that stretches out in a from either direction left, right, and stretches up by B in either direction, up and down.
+It turns out that the corners of such a box will be exactly on these two asymptote lines.
+In other words, the slope of this asymptote, its rise over its run is b over a.
+And for this asymptote that's slipping downwards.
+Its rise over it's Ron is negative b over a.
+So I can actually write the equations of the asymptotes.
+For this hyperbola, centered at the origin as y equals B over A x and y equals negative B over A x.
+We did all this work for a standing up hyperbola with its transverse axis oriented horizontally.
+Let me rearrange things.
+And we'll see what changes if a hyperbola is oriented the other way.
+In this case, where we have a vertical transverse axis, the roles of x and y are completely switched.
+So our equation, which we could derive the same way, becomes y squared over a squared minus x squared over b squared equals one, we still have the same formulas c squared equals a squared plus b squared.
+And the two related formulas b squared equals c squared minus a squared, and a squared equals c squared minus b squared.
+A is still the distance from the center to the vertex.
+And c still represents the distance from the center to a focus.
+Now our box will extend up and down by a units and left and right by b units.
+So this time, the slope of the asymptote, the rise over the run is going to be a over b for the line that sloped up and negative a Overby for the line that sloped down.
+This means our asymptotes, which go through the center at the origin will be given by the equations y equals a over b x and y equals negative a over bx.
+I want to point out that in this notation, a is going with x in one form of the equation and y and the other form of the equation, but it always goes with the positive term, the term that's added and subtracted, whereas B goes with the negative term, the term that subtracted which term is positive there, the x squared or the Y squared determines the orientation of the hyperbola this way or that way.
+So far, we've been considering only hyperbola Due to the origin, and we had these two equations for them, if we sent her as an arbitrary point, HK, instead, we just subtract h from the x term and subtract k from the y term.
+The graphs are shifted over by age and up by K.
+And to get to the vertices, we just start at the center, and go left and right, by a, or up and down by a depending on which way the hyperbola is oriented.
+So the vertices here are at h plus a K, and H minus A k.
+Whereas over here, the vertices are at h, k plus a and h, k minus a.
+To get to the focuses, we have to go over by C, or up and down by c, where c squared equals a squared plus b squared.
+Finally, the asymptotes still have the same slopes as before.
+But this time, they have to go through the center, which is at h k instead of 00.
+Their equations are going to be given by y minus k equals B over A x minus h.
+And y minus k is negative B over A x minus h, or with the other orientation, the analogous thing y minus k equals a over b x minus h, and y minus k equals A over B, negative a over b, x minus h.
+We've done all the abstract theory, let's do one example with numbers.
+If we're given this hyperbola, we can read off its center as six, negative three.
+Since the x term is positive, I'm gonna let A be the square root of four, and B will be the square root of 25.
+Since the x term is positive, and the y term is negative, the hyperbola is going to be oriented standing up like this.
+With a horizontal transverse axis, the distance from the center to each vertex is given by the number A, which is two.
+So the left vertex will have coordinates for negative three, and the right vertex will have coordinates eight, negative three.
+To find the full side, I need to figure out c squared, which is a squared plus b squared, or four plus 2529.
+So C is the square root of 29.
+I'll sketch ballpark position of my first eye here, and the coordinates are going to be at let's see, the center is six, so six minus square 29, same y coordinate of negative three, and the six plus squared of 29 negative three.
+Finally, the asymptotes will form an X going through the center with slope given by B over A, which is five has and negative b over a negative five halves.
+The equations for those lines will be y plus three, coming from the center equals five halves x minus six, and y plus three equals negative five halves x minus six.
+This gives a decent rough sketch of the hyperbola.
+If I want to be a little more accurate, I could also plot some points by plugging in values of x and solving for y or vice versa.
+In this video, we gave two equations for hyperbolas.
+Which one you use depends on how the hyperbola is oriented.
+A has to do with the distance between the center and the vertex, the number c, which can be figured out from the equation c squared equals a squared plus b squared, is going to represent the distance from the center to the focus.
+And B and A together help determine the slope of the asymptotes.
+This video introduces the idea of polar coordinates.

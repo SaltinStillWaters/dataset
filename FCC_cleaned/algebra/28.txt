@@ -1,0 +1,131 @@
+Exponential Function Applications.
+functions to model real world examples.
+Let's suppose you're hired for a job.
+The starting salary is $40, 000.
+With a guaranteed annual raise of 3% each year, how much will your salary be after one year, two years, five years.
+And in general after two years, let me chart out the information.
+The left column will be the number of years since you're hired.
+And the right column will be your salary.
+When you start work, at zero years after you're hired, your salary will be $40, 000.
+After one year, you'll have gotten a 3% raise.
+So your salary will be the original 40, 000 plus 3% of 40, 000.
+03 times 40, 000.
+I can think of this first number as one at times 40, 000.
+And I can factor out the 40, 000 from both terms, to get 40, 000 times one plus 0.
+03.
+we rewrite this as 40, 000 times 1.
+03.
+This is your original salary multiplied by a growth factor of 1.
+03.
+After two years, you'll get a 3% raise from your previous year salary, your previous year salary was 40, 000 times 1.
+03.
+But you'll add 3% of that, again, I can think of the first number is one times 40, 000 times 1.
+03.
+And I can factor out the common factor of 40, 000 times 1.
+03 from both terms, to get 40, 000 times 1.
+03 times one plus 0.
+03.
+Let me rewrite that as 40, 000 times 1.
+03 times 1.
+03 or 40, 000 times 1.
+3 squared.
+We can think of this as your last year salary multiplied by the same growth factor of 1.
+03.
+After three years, a similar computation will give you that your new salary is your previous year salary times that growth factor of 1.
+03 that can be written as 40, 000 times 1.
+03 cubed.
+And in general, if you're noticing the pattern, after two years, your salary should be 40, 000 times 1.
+03 to the t power.
+In other words, your salary after two years is your original salary multiplied By the growth factor of 1.
+03, taken to the t power, let me write this as a formula s of t, where S of t is your salary is equal to 40, 000 times 1.
+03 to the T.
+This is an exponential function, that is a function of the form a times b to the T, where your initial value a is 40, 000 and your base b is 1.
+03.
+Notice that your base is the amount that your salary gets multiplied by each year.
+Given this formula, we can easily figure out what your salary will be after, for example, five years by plugging in five for T.
+I worked that out on my calculator to be $46, 370.
+96 to the nearest cent.
+exponential functions are also useful in modeling population growth.
+The United Nations estimated that the world population in 2010 was 6.
+7 9 billion growing at a rate of 1.
+1% per year.
+Assuming that the growth rate stayed the same and will continue to stay the same, we'll write an equation for the population at t years after the year 2010 1.
+1%, written as a decimal is 0.
+011.
+So if we work out a chart as before, we see that after zero years since 2010, we have our initial population 6.
+7 9 billion, after one year, we'll take that 6.
+7 9 billion and add 1.
+1% of it.
+That is point 011 times 6.
+79.
+This works out to 6.
+79 times one plus point 011 or 6.
+79 times 1.
+011.
+Here we have our initial population of 6.
+7 9 billion, and our growth factor of 1.
+011.
+That's how much the population got multiplied by in one year.
+As before, we can work out that after two years, our population becomes 6.
+79 times 1.
+011 squared, since they got multiplied by 1.
+011, twice, and after two years, it'll be 6.
+79 times 1.
+011 to the t power.
+So our function that models population is going to be 6.
+79 times 1.
+011 to the T.
+Here, t represents time in years, since 2010.
+Just for fun, I'll plug in t equals 40.
+That's 40 years since 2010.
+So that's the year 2050.
+And I get 6.
+79 times 1.
+011 to the 40th power, which works out to 10 point 5 billion.
+That's the prediction based on this exponential model.
+The previous two examples were examples of exponential growth.
+This last example is an example of exponential decay.
+The drugs Seroquel is metabolized and eliminated from the body at a rate of 11% per hour.
+If 400 milligrams are given how much remains in the body.
+24 hours later, I'll chart out my information where the left column will be time in hours since the dose was given, and the right column will be the number of milligrams of Seroquel still on the body.
+zero hours after the dose is given, we have the full 400 milligrams in the body.
+One hour later, we have the formula 100 milligrams minus 11% of it, that's minus point one one times 400.
+If I factor out the 400 from both terms, I get 400 times one minus 0.
+11 or 400 times point eight nine.
+The 400 represents the initial amount.
+The point eight nine I'll call the growth factor, even though in this case the quantity is decreasing, not growing.
+So really it's kind of a shrink factor.
+Let's see what happens after two hours.
+Now I'll have 400 times 0.
+89 my previous amount, it'll again get multiplied by point eight, nine, so that's going to be 400 times 0.
+89 squared.
+And in general, after t hours, I'll have 400 multiplied by this growth or shrinkage factor of point eight nine, raised to the t power.
+Since each hour, the amount of Seroquel gets multiplied by point eight, nine, that number less than one.
+All right, my exponential decay function as f of t equals 400 times 0.
+89 to the T, where f of t represents the number of milligrams of Seroquel in the body.
+And t represents the number of hours since the dose was given.
+To find out how much is in the body after 24 hours, I just plug in 24 for t.
+This works out to about 24.
+4 milligrams, I hope you notice the common form for the functions used to model all three of these examples.
+The functions are always in the form f of t equals a times b to the T, where a represented the initial amount, and B represented the growth factor.
+To find the growth factor B, we started with the percent increase or decrease.
+We wrote it as a decimal.
+And then we either added or subtracted it from one, depending on whether the quantity was increasing or decreasing.
+Let me show you that as a couple examples.
+In the first example, we had a percent increase of 3% on the race as a decimal, I'll call this r, this was point O three.
+And to get the growth factor, we added that to one to get 1.
+03.
+In the world population example, we had a 1.
+1% increase, we wrote this as point 011 and added it to one to get 1.
+011.
+In the drug example, we had a decrease of 11%.
+We wrote that as a decimal.
+And we subtracted the point one one from one to get 0.
+89.
+In fact, you can always write the growth factor B as one plus the percent change written as a decimal.
+If you're careful to make that percent change, negative when the quantity is decreasing and positive when the quantity is increasing.
+Since here one plus negative point 11 gives us the correct growth factor of point eight nine which is less than one as a good check.
+Remember that if your quantity is increasing, the base b should be bigger than one.
+And if the quantity is decreasing, then B should be less than one.
+exponential functions can also be used to model bank accounts and loans with compound interest, as we'll see in another video.
+This video is about interpreting exponential functions.

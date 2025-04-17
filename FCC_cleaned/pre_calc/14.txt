@@ -1,0 +1,125 @@
+Properties of Trig Functions.
+ratio.
+This video gives three properties of the trig function sine and cosine, that can be deduced from the unit circle definition.
+Recall that the unit circle definition of sine and cosine for an angle theta is that cosine theta is the x coordinate.
+And sine of theta is the y coordinate for the point on the unit circle at angle theta.
+The first property is what I call the periodic property.
+This says that the values of cosine and sine are periodic with period two pi.
+And what that means is that if you take cosine of an angle plus two pi, you get the same thing as just if you took cosine of the angle So, when we write this down, we're assuming that theta is measured in radians.
+If we want to measure theta in degrees, the similar statement is that cosine of theta plus 360 degrees is equal to cosine of theta, we can make the same statements for sine, sine of an angle plus two pi is equal to sine of the original angle.
+Here, the angle being measured in radians.
+If we want to measure the angle in degrees, the statement is that sine of theta plus 360 is equal to sine of theta, we can see why this is true from the unit circle definition of sine and cosine.
+This is our angle theta, then theta plus two pi, the plus two pi adds a full turn around the unit circle to our angles, so we end up at the same place, theta and theta plus two pi are just two different names for the same location on the unit circle.
+And since sine and cosine give you the y and x coordinates of that point on the circle, they have to have the same value.
+Similarly, if we consider an angle theta, and an angle theta minus two pi, the minus two pi means we go the other direction around the unit circle clockwise, we still end up in the same place.
+And therefore, cosine of theta minus two pi, the x coordinate of that position is the same thing as cosine of theta, sine of theta minus two pi is the same thing as sine of theta, the same statements hold if we add or subtract multiples of two pi.
+For example, cosine of theta plus four pi is still the same thing as cosine of theta, this time, we've just gone to turns around the unit circle and still gotten back to the same place.
+So if we want to find cosine of five Pi, that's the same thing as cosine of pi plus four pi, which is the same thing as cosine of pi.
+Thinking about the unit circle, pi is halfway around the unit circle.
+So cosine of pi means the x coordinate of this point right here.
+Well, that point has coordinates negative one, zero, so cosine of pi must be negative one.
+If I want to take sine of negative 420 degrees, well, that's sine of negative 360 degrees, minus 60 degrees, which is the same thing as sine of minus 60 degrees.
+Thinking about the unit circle, minus 60 degrees, means I start at the positive x axis and go clockwise by 60 degrees that lands me about right here.
+And so that's one of the special angles that has an x coordinate of one half a y coordinate of negative root three over two.
+And therefore sine of negative 60 is negative root three over two the y coordinate.
+The next property I call the even odd property, it says that cosine is an even function, which means that cosine of negative theta is the same thing as cosine of theta, while sine is an odd function, which means that sine of negative theta is the negative of sine of theta.
+To see why this is true, let's look at an angle theta.
+And the angle negative theta.
+A negative angle means you go in the clockwise instead of counterclockwise direction from the positive x axis.
+The coordinates of this point by definition, r cosine theta sine theta, whereas the coordinates of this point are cosine of negative theta, sine of negative theta.
+But by symmetry, these two points have the exact same x coordinate, and therefore cosine of theta must equal cosine of negative theta, while their y coordinates have the same magnitude, but opposite signs.
+This one's positive and this one's negative.
+Therefore, sine of negative theta is the negative of sine of theta.
+Let's figure out if tan of theta isn't even or odd function.
+Well, we know that 10 of negative theta tangent by definition, is sine over cosine.
+Well, we know that sine of negative theta is the negative of sine of theta, whereas cosine of negative theta is cosine of theta.
+Therefore We're getting negative sine theta over cosine theta, which is negative tan of theta.
+Since tan of negative theta is the negative of tan of theta, tan theta is an odd function.
+The last property on this video is the Pythagorean property, which says that cosine of theta squared plus sine of theta squared is equal to one.
+A lot of times this property is written with this shorthand notation, cosine squared theta plus sine squared theta equals one.
+But this notation, cosine squared theta just means you take cosine of theta and square it.
+This property is called the Pythagorean property, because it comes from the Pythagorean Theorem.
+Let me draw a right triangle on the unit circle.
+I'll call this angle theta.
+So the coordinates of this endpoint here are cosine theta sine theta.
+Since this is supposed to be a unit circle, the hypothesis of my right triangle has length one, the base of my right triangle is just cosine theta, same thing as the x coordinate of this point.
+And the height of my triangle is the y coordinate of the point sine theta.
+Now the Pythagorean theorem says that this side length squared plus that side of that squared equals one squared.
+Since one squared is the same thing as one, that gives me the Pythagorean property.
+But the green property is handy for computing values of cosine given values of sine and vice versa.
+And this problem, we're told that sine of t is negative two sevenths.
+And T is an angle that lies in quadrant three.
+When we say the angle lies in quadrant three, that means the terminal side of the angle lies here in quadrant three.
+One way to find cosine of t is to use the fact that cosine squared t plus sine squared t is equal to one.
+That is cosine of t squared plus negative 2/7 squared is equal to one, I can write this as cosine of t squared plus 4/49 is equal to one.
+And so cosine of t squared is equal to one minus 4/49, which is 4540 nights.
+taking the square root of both sides, that goes for the cosine t is plus or minus the square root of 45 over 49, that's plus or minus the square root of 45 over seven.
+Now, since we're in the third quadrant, we know that cosine of t, which represents the x coordinate of this point, must also be negative.
+Therefore, cosine of t is going to be negative square root of 45 over seven.
+It's also possible to solve this problem using the Pythagorean theorem for right triangles directly.
+If we look at the fact that sine of t is negative two sevens and ignore the negative sign for now, we can think of this information as telling us that we have a right triangle, angle theta, whose opposite side is to and whose high partners is seven.
+We call this side here a them but Tiger in theorem says us a squared plus two squared is seven squared.
+So a squared plus four is 49.
+So a squared is 45.
+And a is plus or minus the square root of 45.
+Since I'm worrying about a triangle, I'm going to use the positive value.
+Now, cosine of t is going to be adjacent over hypotenuse.
+So that's going to be the square root of 45 over seven.
+Now I go back to thinking about positive and negative signs.
+And I noticed that since I'm in the third quadrant, my co sign needs to be negative, so I just stick a negative sign in front.
+This alternative solution uses many of the same ideas as the previous solution, and ultimately gets us the same answer.
+This video gives three properties of trig functions, the periodic property, the even odd property, and the Pythagorean property.
+This video is about the graphs of sine and cosine.
+I want to graph the functions y equals cosine t and y equals sine t, where t is in radians.
+I'm going to think of this being the t axis, and this being the y axis.
+One way to do this is to plot points.
+So I'll fill in this chart, using my knowledge of special angles on the unit circle.
+These points will be easier to graph, if I convert them all to decimals.
+Now a plot the points for cosine and connect the dots to get a graph of y equals cosine t from t equals zero to t equals two pi.
+To continue the graph for t values less than zero or bigger than two pi, I could plot more points.
+Or I could just use the fact that the cosine values repeat.
+If I add or subtract two pi to the my angle T, I'll be at the same place on the unit circle.
+So my cosine will be exactly the same.
+Therefore, my values of cosine, which are represented by my y values on this graph, repeat themselves.
+For example, when my T value is two pi plus pi over six about like here, it's cosine is the same as the cosine of just pi over six.
+So I'll take this dot here and repeat it over here.
+Similarly, the when t is like two pi plus pi over four, I get the same value of cosine is when it's just pi over four.
+So this.
+is going to repeat, and I can continue repeating all my dots.
+This one repeats over here at two pi plus, say pi over three.
+And so my whole graph will repeat something like this.
+It also repeats on this side, something like this.
+Since subtracting two pi from my t values will also give me the same value of cosine.
+We can also plot points to get a graph for sine and extend it by repetition.
+Going forward, I'll usually write the function sine and cosine as y equals cosine of x and y equals sine of x.
+When I read it this way, notice that x now refers to an angle, while y refers to a value of cosine, or sine.
+That's a different meaning of x and y, compared to when we're talking about the unit circle, where x refers to the cosine value, and y refers to the sine value.
+Now let's look at some properties of the graphs of sine and cosine.
+The first thing you might notice is that the graph of cosine and the graph of sine are super similar to each other.
+In fact, you can think of the graph of cosine as just being the graph of sine shifted to the left by pi over two.
+So we can write cosine of x as the sine function of x plus pi over two, since adding pi over two on the inside, move the graph horizontally to the left by pi over two.
+Or we can think of the graph of sine as being constructed from the graph of cosine by shifting the cosine graph right by pi over two, that means we can write sine of x as equal to cosine of x minus pi over two, since subtracting pi over two on the inside, shifts the cosine graph to the right by pi over two.
+Next, let's look at domain and range.
+The domain of sine and cosine is all real numbers.
+Alright, that is negative infinity to infinity, but the range is just from negative one to one.
+That makes sense, because sine and cosine come from the unit circle.
+The input values for the domain come from angles.
+And you can use any numbers and angle positive negative as big as you want, just by wrapping a lot of times around the circle, the output values for the range, that is the actual values of sine and cosine come from the coordinates on the unit circle.
+And those coordinates can't be any bigger than one or any smaller than negative one.
+So that gives us a range.
+As far as even an odd behavior, you can tell from the graph, here's cosine, that it's symmetric with respect to the y axis, and so it must be even.
+Whereas the graph of sine is symmetric with respect to the origin and must be odd.
+The absolute maximum values of these two functions is one and the absolute minimum value is negative one.
+We can also use the words midline amplitude and period to describe these two functions.
+The midline is the horizontal line, halfway in between the maximum and minimum points.
+Here the mid line is y equals zero.
+The amplitude is the vertical distance between a maximum point and the midline.
+You can also think of the amplitude as the vertical distance between a minimum point and the midline, or as half the vertical distance between a min point and a max point.
+For the cosine function and the sine function, the amplitude is one.
+A periodic function is a function that repeats at regular horizontal intervals, the horizontal length of the smallest repeating unit is called the period.
+For y equals cosine of x, the period is two pi.
+Notice that the period is the horizontal distance between successive peaks, or maximum points, or between successive troughs, or minimum points.
+algebraically, we can write cosine of x plus two pi equals cosine of x and sine of x plus two pi equals sine of x to indicate that the functions repeat themselves over an interval of two pi and have a period of two pi.
+In this video, we graphed y equals cosine of x and y equals sine of x.
+and observe that they both have a midline at y equals zero, an amplitude of one and a period of two pi.
+Sine you sort

@@ -1,0 +1,44 @@
+Parallel and Perpendicular Lines.
+This video is about finding parallel and perpendicular lines.
+Suppose we have a line of slope three fourths, in other words, the rise over the run is three over four, than any other line that's parallel to this line will have the same slope, the same fries over run.
+So that's our first fact to keep in mind, parallel lines have the same slopes.
+Suppose on the other hand, we want to find a line perpendicular to our original line with its original slope of three fourths.
+A perpendicular line, in other words, align at a 90 degree angle to our original line will have a slope, that's the negative reciprocal of the opposite reciprocal of our original slope.
+So we take the reciprocal of three for us, that's four thirds, and we make it its opposite by changing it from positive to negative.
+So I'll write this as a principle that perpendicular lines have opposite reciprocal slopes, to get the hang of what it means to be an opposite reciprocal, let's look at a few examples.
+So here's the original slope, and this will be the opposite reciprocal, which would represent the slope of our perpendicular line.
+So for example, if one was to the opposite reciprocal, reciprocal of two is one half opposite means I change the sign, if the first slope turned out to be, say, negative 1/3, the reciprocal of 1/3 is three over one or just three.
+And the opposite means I change it from a negative to a positive, so my perpendicular slope would be would be three.
+One more example, if I started off with a slope of, say, seven halves, then the reciprocal of that would be two sevenths.
+And I change it to an opposite reciprocal, by changing the positive to a negative.
+Let's use these two principles in some examples.
+In our first example, we need to find the equation of a line that's parallel to this slump, and go through the point negative three two.
+Well, in order to get started, I need to figure out the slope of this line.
+So let me put this line into a more standard form the the slope intercept form.
+So I'll start with three y minus 4x plus six equals zero, I'm going to solve for y to put it in this this more standard form.
+So I'll say three y equals 4x minus six and then divide by three to get y equals four thirds x minus six thirds is divided all my turns by three, I can simplify that a little bit y equals four thirds x minus two.
+Now I can read off the slope of my original line, and one is four thirds.
+That means my slope of my new line, my parallel line will also be four thirds.
+So my new line will have the equation y equals four thirds ax plus b for some B, of course, B will probably not be negative two like it was for the first line, it'll be something else determined by the fact that it goes through this point negative three to, to figure out what b is, I plug in the point negative three to four, negative three for x, and two for y.
+So that gives me two equals four thirds times negative three plus b, and I'll solve for b.
+So let's see.
+First, let me just simplify.
+So two equals, this is negative 12 thirds plus b, or in other words, two is negative four plus b.
+So that means that B is going to be six, and by my parallel line will have the equation y equals four thirds x plus six.
+Next, let's find the equation of a line that's perpendicular to a given line through and go through a given point.
+Again, in order to get started, I need to find what the slope of this given line is.
+So I'll rewrite it, well, first, I'll just copy it over 6x plus three, y equals four.
+And then I can put it in the standard slope intercept form by solving for y.
+So three, y is negative 6x plus four, divide everything by three, I get y equals negative six thirds x plus four thirds.
+So y is negative 2x, plus four thirds.
+So my original slope of my original line is negative two, which means my perpendicular slope is the opposite reciprocal, so I take the reciprocal of of negative two, that's negative one half and I change the sign so that gives me one half as the slope of my perpendicular line.
+Now, my new line, I know is going to be y equals one half x plus b for some B, and I can plug in my point on my new line, so one for y and four for x, and solve for b, so I get one equals two plus b, So b is negative one.
+And so my new line has equation one half x minus one.
+These next two examples are a little bit different, because now we're looking at a line parallel to a completely horizontal line, let me draw this line y equals three, so the y coordinate is always three, which means that my line will be a horizontal line through that height at height y equals three, if I want something parallel to this line, it will also be a horizontal line.
+Since it goes through the point negative two, one, C, negative two, one has to go through that point there, it's gonna have always have a y coordinate of one the same as the y coordinate of the point it goes through, so my answer will just be y equals one.
+In the next example, we want a line that's perpendicular to the line y equals four another horizontal line y equals four, but perpendicular means I'm going to need a vertical line.
+So I need a vertical line that goes through the point three, four.
+Okay, and so I'm going to draw a vertical line there.
+Now vertical lines have the form x equals something for the equation.
+And to find what x equals, I just need to look at the x coordinate of the point I'm going through this point three four, so that x coordinate is three and all the points on this, this perpendicular and vertical line have X coordinate three so my answer is x equals three.
+In this video will use the fact that parallel lines have the same slope and perpendicular lines have opposite reciprocal slopes, to find the equations of parallel and perpendicular lines.

@@ -1,0 +1,55 @@
+Arclength.
+y equals 1/4 X.
+We know our volume is given by the integral of pi times our outer squared minus pi times our inner squared.
+And since our washers are thin in the x direction, we know we'll need to integrate dx, our bounds of integration are just our lowest x value of zero, and our largest x value, which is where these two curves intersect, which is an x value of eight.
+We can confirm that the two curves intersect when x equals eight by setting them equal to each other.
+And solving for x, dividing both sides by x to the 1/3.
+And multiplying both sides by four gives us four equals x to the two thirds.
+And raising both sides to the three halves power gives us x equals four to three halves, or x equals eight.
+This confirms we have the correct bound of integration here.
+Now we need to figure out a formula for the outer radius as a function of x and a formula for the inner radius.
+Also, This confirms we have the correct bound of integration here.
+Now we need to figure out a formula for the outer radius as a function of x and a formula for the inner radius.
+Also, since the outer circle is swept out by the curve y equals cube root of x, the outer radius is just given by the y coordinate of this curve as a function of x, that's the cube root of x.
+Now the inner radius is given by the y coordinate of this line, and the y coordinate of this line as a function of x is 1/4 x.
+So we set up an equation for the volume of our solid and I routine computation gives us a volume of 128 fifteenth's times pi.
+Now let's switch gears and rotate this region around the y axis instead.
+Our cross sections are still washers, but this time the washers are thin in the y direction.
+So we're going to be integrating with respect to y.
+Our bounds of integration are also y values and start at the minimum y value of zero and the maximum Y value of two, that corresponds to this intersection, where x equals eight, and y, which is the cube root of x, or 1/4 times x is then equal to two.
+For this problem, we need our our outer and our inner to the functions of y.
+From the picture, we see that our outer is actually the x coordinate on this line.
+The line has the equation y equals 1/4 x.
+And so x is equal to four y.
+So that gives us our outer as a function of y.
+defined our inner, we can do the same sort of thing using the x coordinate of the curve, y equals cube root of x.
+But writing that x coordinate in terms of y, we have y equals the cube root of x means that x is equal to y cubed.
+And so our inner is equal to y cubed as a function of y.
+putting this all together, we have an equation for volume.
+We can simplify this and integrate to get an answer of 512 pi over 21.
+In this video, we calculated the volumes of solids of revolution, using the disk and the washer methods, and the following formulas.
+One way to calculate the volume of a loaf of bread is to slice it into slices, and calculate the volume of each slice separately.
+That's the idea to keep in mind as we cover this topic, on volumes using cross sections.
+A lot of three dimensional objects are kind of like loaves of bread, and can be naturally sliced into slabs or slices like this.
+Let's suppose we've sliced our object into n slabs, we'll call them s one s two through sn in this picture, and is seven, here's s one, here's s two, here's s3, and so on, we'll assume we've sliced in such a way that each slice is the same thickness, we'll call that thickness delta x.
+Well, the volume of the solid is just the sum of the volumes of the slices.
+And sigma notation, we can write this as the sum from i equals one to n, the number of slabs volume of s by the I slab.
+Now the volume of the slab is approximately its cross sectional area times its width.
+By cross sectional area of the slab, I mean the area of the front or the back part of the slice, where you might spread peanut butter.
+Well, now, as you've noticed from making peanut butter sandwiches, the area of the front of the slice might be slightly different from the area of the back of the slice.
+So what we'll do is for each interval, I, each slab will just pick a sample point x vystar, that's in that I've interval, it could be on the left endpoint, or it could be on the right endpoint, or it could be in the middle somewhere.
+And we'll just look at the cross sectional area, I'll call it a at x, y star that represents the area if I were to go karate chop right at that x y star and figure out the cross sectional area at that point.
+since the outer circle is swept out by the curve y equals cube root of x, the outer radius is just given by the y coordinate of this curve as a function of x, that's the cube root of x.
+Now the inner radius is given by the y coordinate of this line, and the y coordinate of this line as a function of x is 1/4 x.
+So we set up an equation for the volume of our solid and I routine computation gives us a volume of 128 fifteenth's times pi.
+Now let's switch gears and rotate this region around the y axis instead.
+Our cross sections are still washers, but this time the washers are thin in the y direction.
+So we're going to be integrating with respect to y.
+Our bounds of integration are also y values and start at the minimum y value of zero and the maximum Y value of two, that corresponds to this intersection, where x equals eight, and y, which is the cube root of x, or 1/4 times x is then equal to two.
+For this problem, we need our our outer and our inner to the functions of y.
+From the picture, we see that our outer is actually the x coordinate on this line.
+The line has the equation y equals 1/4 x.
+And so x is equal to four y.
+So that gives us our outer as a function of y.
+defined our inner, we can do the same sort of thing using the x coordinate of the curve, y equals cube root of x.
+But writing that x coordinate in

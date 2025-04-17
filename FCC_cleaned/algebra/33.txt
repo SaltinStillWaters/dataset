@@ -1,0 +1,50 @@
+Combining Logs and Exponents.
+logs and exponents.
+Please pause the video and take a moment to use your calculator to evaluate the following four expressions.
+Remember, that log base 10 on your calculator is the log button.
+While log base e on your calculator is the natural log button, you should find that the log base 10 of 10 cubed is three.
+The log base e of e to the 4.
+2 is 4.
+2 10 to the log base 10 of 1000 is 1000.
+And eat the log base e of 9.
+6 is 9.
+6.
+In each case, the log and the exponential function with the same base undo each other and we're left with the exponent.
+In fact, it's true that for any base a the log base a of a to the x is equal to x, the same sort of cancellation happens if we do the exponential function in the log function with the same base in the opposite order.
+For example, we take 10 to the power of log base 10 of 1000, the 10 to the power and the log base 10 undo each other, and we're left with the 1000s.
+This happens for any base, say, a data log base a of x is equal to x.
+We can describe this by saying that an exponential function and a log function with the same base undo each other.
+If you're familiar with the language of inverse functions, the exponential function and log function are inverses.
+Let's see why these roles hold for the first log role.
+log base a of a dx is asking the question, What power do we raise a two in order to get a to the x?
+In other words, a two what power is a dx?
+Well, the answer is clearly x.
+And that's why log base a of a to the x equals x.
+For the second log rule, notice that the log base a of x means the power we raise a two to get x.
+But this expression is saying that we're supposed to raise a to that power.
+If we raise a to the power, we need to raise a two to get x, then we'll certainly get x.
+Now let's use these two rules.
+In some examples.
+If we want to find three to the log base three of 1.
+43 to the power and log base three undo each other, so we're left with 1.
+4.
+If we want to find ln of e iliacs.
+Remember that ln means log base e.
+So we're taking log base e of e to the x, well, those functions undo each other, and we're left with x.
+If we want to take 10 to the log of three z, remember that log without a base written implies that the base is 10.
+So really, we want to take 10 to the log base 10 of three z will tend to a power and log base 10 undo each other.
+So we're left with a three z.
+Finally, this last statement hold is ln of 10 to the x equal to x, well, ln means log base e.
+So we're taking log base e of 10 to the x, notice that the base of the log and the base of the exponential function are not the same.
+So they don't undo each other.
+And in fact, log base e of 10 to the x is not usually equal to x, we can check with one example.
+Say if x equals one, then log base e of 10 to the one, that's log base e of 10.
+And we can check on the calculator that's equal to 2.
+3.
+And some more decimals, which is not the same thing as one.
+So this statement is false, it does not hold.
+We need the basis to be the same for logs and exponents to undo each other.
+In this video, we saw that logs and exponents with the same base undo each other.
+Specifically, log base a of a to the x is equal to x and a to the log base a of x is also equal to x for any values of x and any base a.
+This video is about rules or properties of logs.
+The

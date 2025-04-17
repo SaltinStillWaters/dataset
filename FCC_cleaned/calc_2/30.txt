@@ -1,0 +1,57 @@
+Absolute Convergence.
+than f of x also has to converge to a finite number.
+So if the integral of f of x converges, then g of x converges.
+If we turn this around, we can say that if g of x diverges, so it doesn't converge to a finite number, then f of x has to diverged also.
+So in the situation where the integral of the bigger function converges, or the integral of the smaller function diverges, then we can make some conclusions about the integral the other function, but you have to be a little careful about this.
+Because if instead, the integral of the bigger function diverges, then we really can't make any conclusions at all about the integral of the smaller function, it could also diverged or it could be small enough to converge as similarly, if the integral of the smaller function converges, then we really just don't know anything about the integral of the bigger function, it could converge, or it could divert.
+Let's look at an example.
+Suppose we want to find out if the integral from two to infinity of two plus sine x over square root of x dx converges or diverges.
+Instead of trying to evaluate it, which could get tricky, because of the sine x and the square root of x in here, I'm going to just try to compare it to something that I know converges or diverges.
+The first thing that I notice is that sine of x is bounded.
+It's always between one and negative one.
+And that means that the numerator two plus sine x is always going to be in between three and one.
+Therefore, the function two plus sine x over square root of x is going to be between three over square root of x and one over square root of x.
+Here's the general idea of the picture.
+Now the comparison theorem tells us that if our function is less than a function whose interval converges, then the integral of our current function will converge.
+And if our function is greater than a function whose integral diverges than the integral of our function will diverged.
+So which one of these two inequalities if we want to use depends on what happens to the integral of these functions on the ends?
+Now we know that the integral of one over the square root of x dx from two to infinity has to die verge.
+That's because this is a p function, where p is equal to one half, which is less than one, the integral from two to infinity of three over the square root of x dx also diverges since it's just three times the other integral.
+So if we want to compare our function to a function whose integral diverges, it It better be bigger than that divergent integral in order to get any useful information out of it being less than a function whose integral diverges doesn't tell us anything.
+So we need to focus on this inequality.
+And now we can say that, since the integral from two to infinity of one over the square root of x dx diverges by the P test, the integral of our function also diverges by the comparison test.
+In this video, we saw that if we have two positive functions, and one function is always less than or equal to the other function on an interval, then if the smaller functions integral diverges, the bigger functions integral also has to diverge.
+And if the Biggers functions integral converges, the smaller functions integral also has to converge.
+That's the comparison there.
+In this video, I'll give some definitions and notation for sequences.
+A sequence is a list of numbers in a particular order, the sequence 314159 and So on is a sequence that gives the digits of pi.
+A sequence is sometimes described abstractly, with letters in place of numbers, a sub one, a sub two, a sub three, and so on.
+Or more concisely, by writing a sub n with these curly brackets.
+Here, we're told that the index n ranges from one all the way up towards infinity.
+Sometimes the sequence is written just a sub n with curly brackets.
+Here, it's implied that n ranges through all positive integers.
+For these sequences, given by formulas, let's write out the first few terms.
+We start with n equals one, and we get a sub one is three times one plus one over one plus two factorial.
+That is, for over three factorial.
+Recall that three factorial means that we start with three and then multiply with consecutive numbers all the way down to one, this simplifies to four, six, or two thirds.
+To find the next term, a sub two, we plug in two for add, that's seven over four factorial, which is 720 fourths.
+Similarly, a sub three is 10, over five factorial, which is 10 over 120, or 112.
+So the first three terms of the sequence are two thirds, 720, fourths, and 112.
+For the second example, we're asked to start with K equals two.
+So I'll call the first term, a sub two, and just plug in two for K, which is five ninths.
+Since negative one squared is positive one.
+Plugging in K equals three, we get negative 6/27, or to negative two nights.
+For as of four, we again get a positive number, since negative one to the fourth is positive.
+And in fact, as we keep writing down terms, they're going to alternate between negative numbers and positive numbers, because of the negative one to the K in the definition.
+Sometimes, the nth term of a sequence is defined indirectly, in terms of previous terms.
+This is called a recursive formula.
+To write out the first few terms of this recursive sequence, we're told that a sub one equals two, to find a sub two, we just use the recursive formula for minus one over a sub one.
+Since a sub one is two, that's four minus a half, or seven half, defined a sub three, we just apply the recursive formula again, four minus one over seven has simplifies to 26/7.
+Sometimes as possible, describe a sequence with either a recursive formula, or a closed form non recursive formula.
+For example, if I look at the sequence 246 810, I can describe that recursively by saying a sub one is two, and each a sub n is equal to a sub n minus one plus two.
+Or I can describe as a closed form expression by saying the sequence is of the form two times n, where n starts at one.
+And now we can say that, since the integral from two to infinity of one over the square root of x dx diverges by the P test, the integral of our function also diverges by the comparison test.
+In this video, we saw that if we have two positive functions, and one function is always less than or equal to the other function on an interval, then if the smaller functions integral diverges, the bigger functions integral also has to diverge.
+And if the Biggers functions integral converges, the smaller functions integral also has to converge.
+That's the comparison there.
+In this video, I'll give some definitions and notation for sequences.

@@ -1,0 +1,58 @@
+Polynomials.
+This video is about polynomials and their graphs.
+We call that a polynomial is a function like this one, for example.
+His terms are numbers times powers of x.
+I'll start with some definitions.
+The degree of a polynomial is the largest exponent.
+For example, for this polynomial, the degree is for the leading term is the term with the largest exponent.
+In the same example, the leading term is 5x to the fourth, it's conventional to write the polynomial in descending order of powers of x.
+So the leading term is first.
+But the leading term doesn't have to be the first term.
+If I wrote the same polynomial as y equals, say, two minus 17x minus 21x cubed plus 5x.
+Fourth, the leading term would still be the 5x to the fourth, even though it was last.
+The leading coefficient is the number in the leading term.
+In this example, the leading coefficient is five.
+Finally, the constant term is the term with no x's in it.
+In our same example, the constant term is to please pause the video for a moment and take a look at this next example of polynomial figure out what's the degree the leading term, the leading coefficient and the constant term.
+The degree is again, four, since that's the highest power we have, and the leading term is negative 7x.
+to the fourth, the leading coefficient is negative seven, and the constant term is 18.
+In the graph of the polynomial Shown here are the three marks points are called turning points, because the polynomial turns around and changes direction at those three points, those same points can also be called local extreme points, or they can be called local maximum and minimum points.
+For this polynomial, the degree is four, and the number of turning points is three.
+Let's compare the degree and the number of turning points for these next three examples.
+For the first one, the degree is to and there's one turning point.
+For the second example, that agree, is three, and there's two turning points.
+And for this last example, the degree is four, and there's one turning point.
+For this first example, and the next two, the number of turning points is exactly one less than the degree.
+So you might conjecture that this is always true.
+But in fact, this is not always true.
+In this last example, the degree is four, but the number of turning points is one, not three.
+In fact, it turns out that while the number of turning points is not always equal to a minus one, it is always less than or equal to the degree minus one.
+That's a useful factor.
+Remember, when you're sketching graphs are recognizing graphs of polynomials.
+The end behavior of a function is how the ends of the function look, as x gets bigger and bigger heads towards infinity, or x gets goes through larger and larger negative numbers towards negative infinity.
+In this first example, the graph of the function goes down as x gets towards infinity as x goes towards negative infinity.
+I can draw this with two little arrows pointing Down on either side, or I can say in words, that the function is falling as we had left and falling also as we had right.
+In the second example, the graph rises to the left and rises to the right.
+In the third example, the graph falls to the left, but rises to the right.
+And in the fourth example, it rises to the left and falls to the right.
+If you study these examples, and others, you might notice there's a relationship between the degree of the polynomial the leading coefficients of the polynomials and the end behavior.
+Specifically, these four types of end behavior are determined by whether the degree is even or odd.
+And by whether the leading coefficient is positive or negative.
+When the degree is even, and the leading coefficient is positive, like in this example, where the leading coefficient is one, we have this sorts of n behavior rising on both sides.
+When the degree is even at the leading coefficient is negative, like in this example, we have the end behavior that's falling on both sides when the degree is odd, and the leading coefficient is positive, that's like this example, with the degree three and the leading coefficient three, then we have this sort of end behavior.
+And finally, when the degree is odd, and the leading coefficient is negative, like in this example, we have this sort of NBA havior.
+I like to remember this chart just by thinking of the most simple examples, y equals x squared, y equals negative x squared, y equals x cubed, and y equals negative x cubed.
+Because I know by heart what those four examples look like, then I just have to remember that any polynomial with a even degree and positive leading coefficient has the same end behavior as x squared.
+And similarly, any polynomial with even degree and negative leading coefficient has the same end behavior as negative x squared.
+And similar statements for x cubed and negative x cubed.
+We can use facts about turning points and behavior, to say something about the equation of a polynomial just by looking at this graph.
+In this example, because of the end behavior, we know that the degree is odd, we know that the leading coefficient must be positive.
+And finally, since there are 1234, turning points, we know that the degree is greater than or equal to five.
+That's because the number of turning points is less than or equal to the degree minus one.
+And in this case, the number of turning points we said was four.
+And so solving that inequality, we get the degree is bigger than equal to five.
+Put in some of that information together, we see the degree could be five, or seven, or nine, or any odd number greater than or equal to five.
+But it couldn't be for example, three or six.
+Because even numbers and and also numbers less than five are right out.
+This video gave a lot of definitions, including the definition of degree leading coefficients, turning points, and and behavior.
+We saw that knowing the degree and the leading coefficient can help you make predictions about the number of turning points and the end behavior, as well as vice versa.

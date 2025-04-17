@@ -1,0 +1,55 @@
+[Corequisite] Graphs of Sine and Cosine.
+y equals cosine t and y equals sine t, where t is in radians, I'm gonna think of this being the t axis, and this being the y axis.
+One way to do this is to plot points.
+So I'll fill in this chart, using my knowledge of special angles on the unit circle.
+These points will be easier to graph, if I convert them all to decimals.
+Now plot the points for cosine and connect the dots to get a graph of y equals cosine t from t equals zero to t equals two pi.
+To continue the graph for t values less than zero or bigger than two pi, I could plot more points.
+Or I could just use the fact that the cosine values repeat.
+If I add or subtract two pi to the my angle T, I'll be at the same place on the unit circle.
+So my cosine will be exactly the same.
+Therefore, my values of cosine, which are represented by my y values on this graph, repeat themselves.
+For example, when my T value is two pi plus pi over six about like here, it's cosine is the same as the cosine of just pi over six.
+So I'll take this dot here and repeat it over here.
+Similarly, the when t is like two pi plus pi over four, I get the same value of cosine is when it's just pi over four.
+So this.
+is going to repeat.
+And I can continue repeating all my dots.
+This one repeats over here at two pi plus, say pi over three.
+And so my whole graph will repeat something like this.
+It also repeats on this side, something like this.
+Since subtracting two pi from my t values will also give me the same value of cosine.
+We can also plot points to get a graph for sine and extend it by repetition.
+Going forward, I'll usually write the function sine and cosine as y equals cosine of x and y equals sine of x.
+When I read it this way, notice that x now refers to an angle, while y refers to a value of cosine, or sine.
+That's a different meaning of x and y, compared to when we're talking about the unit circle, where x refers to the cosine value, and y refers to the sine value.
+Now let's look at some properties of the graphs of sine and cosine.
+The first thing you might notice is that the graph of cosine and the graph of sine are super similar to each other.
+In fact, you can think of the graph of cosine as just being the graph of sine shifted to the left by pi over two.
+So we can write cosine of x as the sine function of x plus pi over two, since adding pi over two on the inside, move the graph horizontally to the left by pi over two.
+Or we can think of the graph of sine as being constructed from the graph of cosine by shifting the cosine graph right by pi over two, that means we can write sine of x as equal to cosine of x minus pi over two, since subtracting pi over two on the inside, shifts the cosine graph to the right by pi over two.
+Next, let's look at domain and range.
+The domain of sine and cosine is all real numbers.
+All right, that is negative infinity to infinity, but the range is just from negative one to one.
+That makes sense, because sine and cosine come from the unit circle.
+The input values for the domain come from angles.
+And you can use any numbers and angle positive or negative as big as you want, just by wrapping a lot of times around the circle.
+The output values for the range, that is the actual values of sine and cosine come from the coordinates on the unit circle.
+And those coordinates can't be any bigger than one or any smaller than negative one.
+So that gives us a range.
+As far as even an odd behavior, you can tell from the graph.
+Here's cosine, that it's symmetric with respect to the y axis and so it must be even.
+Whereas the graph of sine is symmetric with respect to the origin and must be odd.
+The absolute maximum value have these two functions is one and the absolute minimum value is negative one.
+We can also use the words midline amplitude and period to describe these two functions.
+The midline is the horizontal line, halfway in between the maximum and minimum points.
+Here, the midline is y equals zero, the amplitude is the vertical distance between a maximum point and the midline.
+You can also think of the amplitude as the vertical distance between a minimum point and the midline, or as half the vertical distance between a midpoint and a max point.
+For the cosine function and the sine function, the amplitude is one.
+A periodic function is a function that repeats at regular horizontal intervals.
+The horizontal length of the smallest repeating unit is called the period for Y equals cosine of x, the period is two pi.
+Notice that the period is the horizontal distance between successive peaks, or maximum points, or between successive troughs, or minimum points.
+algebraically, we can write cosine of x plus two pi equals cosine of x and sine of x plus two pi equals sine of x to indicate that the functions repeat themselves over an interval of two pi and have a period of two pi.
+In this video, we graphed y equals cosine of x and y equals sine of x.
+and observe that they both have a midline at y equals zero, an amplitude of one and a period of two pi.
+sine u sort of functions are functions that are related to sine and cosine by transformations

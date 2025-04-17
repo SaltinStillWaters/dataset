@@ -1,0 +1,64 @@
+Sine and Cosine of Special Angles.
+angle, a 45 degree angle and a 60 degree angle.
+One way to compute the sine of a 45 degree angle is to use a right triangle with a 45 degree angle.
+This particular right triangle has I have hotness of length one.
+Since all the angles of the triangle have to add up to 180 degrees, and we already have 90 degrees and 45 degrees, the remaining angle must also be 45 degrees.
+So we have an isosceles triangle with two sides the same length, I'll call that side length a.
+If we want sine of 45 degrees, let's use this 45 degree angle here, then sine is opposite over hypotenuse.
+So if I can figure out how long this side length is, I'll be able to compute sine of 45 degrees.
+Now the Pythagorean theorem says this side length squared plus that side length squared equals I have hot news squared.
+So we have that a squared plus a squared equals one squared.
+Alright, that is two A squared equals one.
+So a squared is one half, and a is plus or minus the square root of one half.
+Since we're talking about the length of sides of triangles, I can just use the positive square root it's customary to rewrite this as the square root of one over the square root of two, which is one over the square root of two, and then rationalize the denominator by multiplying the top and the bottom by the square root of two.
+That gives me square root of two in the numerator, and the square root of two squared in the denominator, which is the square root of two over two.
+So the side lengths are the square root of two over two.
+Now I can figure out the sine of 45 degrees, by computing the opposite over the hypotenuse.
+That's, I'm looking at this angle.
+So opposite is square root of two over two hypothesis one.
+So the sine of 45 degrees is the square root of two over two.
+Cosine of 45 degrees is adjacent over hypotenuse.
+That's this side length over this hypothesis.
+So that's the square root of two over to over one again, what would happen if instead of using this triangle with hypotony is one, we use this triangle, also a 4545 90 triangle, but with hypotony is five, not quite drawn to scale.
+Please pause the video for a moment and repeat the computation with this triangle.
+This time, I'll call the side length B.
+Pythagorean Theorem tells me b squared plus b squared equals five squared.
+So two, b squared equals 25.
+And b squared equals 25 over two, B is going to be the plus or minus the square root of 25 over two, again, I can just use the positive version.
+And so B is the square root of 25 over the square root of two, which is five over the square root of two, rationalizing the denominator, I get five root two over two.
+Now sign of my 45 degree angle is opposite over her partners, which is five square root of two over two divided by five.
+That simplifies to the square root of two over two as before, and a similar computation shows that cosine of 45 degrees is also square root of two over two as before.
+This makes sense, because sine and cosine are based on ratios of sides.
+And since these two triangles are similar triangles, they'll have the same ratios of sides.
+To find the sine and cosine of 30 degrees, let's use this 30 6090 right triangle with hypotony is one.
+If we double the triangle, we get an angle of 30 here, so a total angle of 60 degrees here, and this angle is also 60 degrees.
+So we have a 60 6060 triangle.
+That's an equilateral triangle.
+All side length the same.
+Since this side length has length one, this side length is also one.
+This entire side length is one, which means this short side of our original triangle has length one half.
+Going back to my original triangle, let's use the Pythagorean Theorem to find the length of his longer side x.
+Pythagorean theorem says x squared plus one half squared equals one squared.
+So x squared plus a fourth equals 1x squared is three fourths.
+And so x is plus or minus the square root of three fourths is the positive version and get the square root of three over the square root of four, which is the square root of three over two.
+Now using our original triangle, again, let's compute the sine of this 30 degree angle here.
+We know that sine of 30 degrees is opposite of our hypothesis.
+The opposite of this angle is one half and the hypothesis is one.
+So we get a sine of one half over one, which is one half cosine of 30 degrees is adjacent over hypotenuse.
+So that's the square root of three over two divided by one.
+To find sine of 60 degrees and cosine of 60 degrees, we can actually use the same green triangle and just focus on this upper corner angle of 60 degrees instead.
+So sine of 60 degrees.
+Opposite overhype hotness, but this time the opposite to this angle is the square root of three over two.
+Cosine of 60 degrees adjacent over hypotenuse gives us one half.
+I'll summarize the results in this table below.
+Notice that a 30 degree angle corresponds to pi over six radians since 30 degrees times pi over 180 is pi over six.
+Similarly, 45 degrees corresponds to pi over four radians and 60 degrees corresponds to pi over three radians.
+I recommend that you memorize the three numbers one half, root two over two, and root three over two.
+And the fact that one half and root three over two go together.
+And root two over two goes with itself.
+From that information, it's not hard to reconstruct the triangles, you know that a 4545 90 triangle is an isosceles triangle, so it must have the side links where the same number goes with itself.
+And a 30 6090 triangle has one side length smaller than the other.
+So the smaller side must be one half and the larger side must be root three over two since root three is bigger than one and so root three over two is bigger than one half.
+Doing a visual check, you can easily fill in the angles, the smaller angle must be the 30 degree angle, and the larger one must be the 60 degree one.
+In this video, we computed the sine and cosine of three special angles 30 degrees, 45 degrees, and 60 degrees.
+This video defined sine and cosine in terms of points on the

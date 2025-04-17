@@ -1,0 +1,73 @@
+Log Rules.
+log rules are closely related to the exponent rules.
+So let's start by reviewing some of the exponent rules.
+To keep things simple, we'll write everything down with a base of two.
+Even though the exponent rules hold for any base.
+We know that if we raise two to the zero power, we get one, we have a product rule for exponents, which says that two to the M times two to the n is equal to two to the m plus n.
+In other words, if we multiply two numbers, then we add the exponents.
+We also have a quotient rule that says that two to the M divided by n to the n is equal to two to the m minus n.
+In words, that says that if we divide two numbers, then we subtract the exponents.
+Finally, we have a power rule that says if we take a power to a power, then we multiply the exponents.
+Each of these exponent rules can be rewritten as a log rule.
+The first rule, two to the zero equals one can be rewritten in terms of logs as log base two of one equals zero.
+That's because log base two of one equals zero mean To the zero equals one.
+The second rule, the product rule can be rewritten in terms of logs by saying log of x times y equals log of x plus log of y.
+I'll make these base two to agree with my base that I'm using for my exponent rules.
+In words, that says the log of the product is the sum of the logs.
+Since logs really represent exponent, this is saying that when you multiply two numbers together, you add their exponents, which is just what we said for the exponent version.
+The quotient rule for exponents can be rewritten in terms of logs by saying the log of x divided by y is equal to the log of x minus the log of y.
+In words, we can say that the log of the quotient is equal to the difference of the logs.
+Since logs are really exponents, another way of saying the same thing is that when you divide two numbers, you subtract their exponents.
+That's how we described the exponent rule above.
+Finally, the power rule for exponents can be rewritten in terms of logs by saying the log of x to the n is equal to n times log of x.
+Sometimes people describe this rule by saying when you take the log of an expression with an exponent, you can bring down the exponent and multiply.
+If we think of x as being some power of two, this is really saying when we take a power to a power, we multiply their exponents.
+That's exactly how we described the power rule above.
+It doesn't really matter if you multiply this exponent on the left side, or on the right side.
+But it's more traditional to multiply it on the left side.
+I've given these rules with the base of two, but they actually work for any base.
+To help you remember them, please take a moment to write out the log roles using a base of a you should get the following chart.
+Let's use the log rules to rewrite the following expressions as a sum or difference of logs.
+In the first expression, we have a log base 10 of a quotient.
+So we can rewrite the log of the quotient as the difference of the logs.
+Now we still have the log of a product, I can rewrite the log of a product as the sum of the logs.
+So that is log of y plus log of z.
+When I put things together, I have to be careful because here I'm subtracting the entire log expression.
+So I need to subtract both terms of this song on the make sure I do that by putting them in parentheses.
+Now I can simplify a little bit by distributing the negative sign.
+And here's my final answer.
+In my next expression, I have the log of a product.
+So I can rewrite that as the sum of two logs.
+I can also use my power rule to bring down the exponent T and multiply it in the front.
+That gives me the final expression log of five plus t times log of to one common mistake on this problem is to rewrite this expression as t times log of five times two.
+In fact, those two expressions are not equal.
+Because the T only applies to the two, not to the whole five times two, we can't just bring it down in front using the power wall.
+After all, the power rule only applies to a single expression raised to an exponent, and not to a product like this.
+And these next examples, we're going to go the other direction.
+Here we're given sums and differences of logs.
+And we want to wrap them up into a single log expression.
+By look at the first two pieces, that's a difference of logs.
+So I know I can rewrite it as the log of a quotient.
+Now I have the sum of two logs.
+So I can rewrite that as the log of a product.
+I'll clean that up a little bit and rewrite it as log base five of a times c over B.
+In my second example, I can rewrite the sum of my logs as the log of a product now, I will Like to rewrite this difference of logs as the log of a quotient.
+But I can't do it yet, because of that factor of two multiplied in front.
+But I can use the power rule backwards to put that two back up in the exponent.
+So I'll do that first.
+So I will copy down the ln of x plus one times x minus one, and rewrite this second term as ln of x squared minus one squared.
+Now I have a straightforward difference of two logs, which I can rewrite as the log of a quotient.
+I can actually simplify this some more.
+Since x plus one times x minus one is the same thing as x squared minus one.
+I can cancel factors to get ln of one over x squared minus one.
+In this video, we saw four rules for logs that are related to exponent rules.
+First, we saw that the log with any base of one is equal to zero.
+Second, we saw the product rule, the log of a product is equal to the sum of the logs.
+We saw the quotient rule, the log of a quotient is the difference of the logs.
+And we saw the power rule.
+When you take a log of an expression with an exponent in it, you can bring down the exponent and multiply it.
+It's worth noticing that there's no log rule that helps you split up the log of a psalm.
+In particular, the log of a psalm is not equal to the sum of the logs.
+If you think about logs and exponent rules going together, this kind of makes sense, because there's also no rule for rewriting the sum of two exponential expressions.
+Log rules will be super handy, as we start to solve equations using logs.
+Anytime you

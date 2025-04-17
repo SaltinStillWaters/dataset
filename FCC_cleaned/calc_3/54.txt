@@ -1,0 +1,24 @@
+Derivatives of Log Functions.
+So in other words, the area of the sector is just going to be theta over two, where theta is given in the radians.
+Now if I want to compute the area of the little red triangle, I can do one half times the base times the height.
+Now the base is going to be equal to cosine theta, because I have a circle of radius one angle theta here, and the height is going to be sine theta.
+Finally, the area of the green triangle is also one half times the base times the height.
+But now the base is a full one unit, and the height is given by tangent theta, since opposite, which is the height here over adjacent, which is one has to equal tangent theta.
+Now if I put all those areas together, I know that the area of the red triangle, alright is cosine theta sine theta over two has to be less than or equal to the area of the blue sector, theta over two, which is less than or equal to the area of the big green triangle, which is tan theta over two.
+Now I'm going to multiply through this inequality by two and rewrite things in terms of sine and cosine to get cosine theta sine theta is less than or equal to theta is less than or equal to sine theta over cosine theta.
+Now I'm going to divide through my inequalities by sine theta, which won't change the inequalities as long as theta is greater than zero, so that sine theta is positive.
+always have a negative, and the root of the trig functions that don't have the ko are positive.
+Now let's use these formulas in an example.
+g of x is a complicated expression involving several trig functions as well as a constant m, and I have a couple choices of how to proceed.
+I could try to rewrite all my trig functions in terms of sine and cosine and simplify, or I could attack the derivative directly using the quotient rule.
+I'm going to use the direct approach In this case, but sometimes you'll find that rewriting will make things easier.
+So using the quotient rule on the denominator, I get the original denominator squared.
+On the numerator, I get low D high to compute the derivative of x cosine x, I need the product rule.
+So I get x times the derivative of cosine, which is negative sine x, plus the derivative of x, which is just one times cosine of x.
+Now I have to do a minus Hi, x cosine of x dillow.
+The derivative of M is just zero because M is a constant, plus the derivative of cotangent which is negative cosecant squared of x.
+So I found the derivative, I'm going to go ahead and simplify a little bit by multiplying out then rewriting everything in terms of sine and cosine, and then multiplying the numerator and denominator by sine squared of x, we have a somewhat simplified expression for the derivative, you should memorize the derivatives of the trig functions will prove that the first two formulas are correct in a separate proof video.
+In this video, I'll give proofs for the two special trig limit.
+And I'll also prove that the derivative of sine is cosine.
+And the derivative of cosine is minus sign.
+To prove that the limit of sine that over theta is

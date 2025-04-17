@@ -1,0 +1,21 @@
+Special Trig Integrals.
+two to five.
+We know that the average value of G is given by the integral from two to five of one over one minus 5x dx divided by the length of that interval.
+I'm going to use use of the tuition to integrate.
+So I'm going to set u equal to one minus 5x.
+So d u is negative five dx.
+In other words, dx is negative 1/5 times do.
+Looking at my bounds of integration, when x is equal to two, u is equal to one minus five times two, which is negative nine.
+And when x is equal to five, u is equal to negative 24.
+substituting into my integral, I get the integral from negative nine to negative 24 of one over u times negative 1/5.
+Do and that's divided by three.
+Now dividing by three is same as multiplying by 1/3.
+And as I integrate, I'm going to pull the negative 1/5 out, and then take the integral of one over u, that's ln of the absolute value of u, evaluated in between negative 24 and negative nine.
+The absolute value signs are important here, because they prevent me from trying to take the natural log of negative numbers.
+To evaluate, I get negative 1/15 times ln of 24 minus ln of nine, I can use my log rules to simplify and get negative 1/15 ln of 24 over nine, that's negative 1/15 ln of eight thirds, and as a decimal, that's approximately negative 0.
+0654.
+So I found the average value of G.
+Now my next question is, does g ever achieve that average value, in other words, is there a number c in the interval from two to five for which GFC equals its average value?
+Well, one way to find out is just to set GSC equal to GS average value.
+In other words, set one over one minus five c equal to negative 1/15 ln of eight thirds, and try to solve for C.
+There are lots of ways to solve this

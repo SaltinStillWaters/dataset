@@ -1,0 +1,57 @@
+Graphs of Sinusoidal Functions.
+of functions are functions that are related to sine and cosine by transformations like stretching and shrinking and shifting.
+This video is about graphing these functions.
+Let's start by graphing the function y equals three sine of 2x.
+This function is related to the function y equals sine x.
+So I'll graph that first.
+Now, the three on the outside stretches this graph vertically by a factor of three, while the two on the inside compresses that horizontally by a factor of one half.
+If instead I want to graph y equals three sine 2x plus one, this plus one on the outside shifts everything up by one unit.
+Let's compare the midline amplitude and period of our original y equals sine x are transformed y equals three sine 2x, and are further transformed y equals three sine 2x plus one, the original sign has a midline at y equals zero, an amplitude of one and a period of two pi.
+For the transformed function, y equals three times sine of 2x.
+The two on the inside shrinks everything horizontally by a factor of one half.
+So it changes the period of two pi into a period of one half times two pi, which just pi.
+Since the two on the inside only affects x values and horizontal distances, it doesn't affect the midline, which is a y value, or the amplitude, which is a vertical distance.
+But the three on the outside does affect these things.
+Well, in particular, it affects the amplitude, since everything is stretched out vertically by a factor of three, the amplitude of one get stretch to an amplitude of three.
+In this case, the midline doesn't actually change, because multiplying a y value of zero by three is still a y value of zero.
+Now on the third function, we've taken the second function and added one on the outside, so that shifts everything up by one.
+Therefore, instead of having a midline at y equals zero, we now have a midline at y equals one, the amplitude doesn't change though, it's still three, because shifting everything up by one doesn't affect the distance between the mid mine and the end the maximum point.
+Also, the period is still pi since the period is a horizontal measure, and adding one on the outside only affects vertical things.
+Next, let's graph the function y equals three times sine of two times quantity x minus pi over four.
+This function is very closely related to the first function we graphed on the previous page, that was y equals three sine of 2x.
+In fact, if we give the name f of x to that function, and maybe we can call g of x, this other function, then we can get g of x by taking f of x and plugging in x minus pi is pi over four in for x.
+In other words, g of x is f of x minus pi over four.
+This relationship gives mean idea for graphing g of x the function we want to graph, we can first graph f of x, we already did that on the previous page.
+And then we can shift its graph to the right by pi over four, because that's what you do when you subtract a number on the inside of a function.
+So here's the graph of y equals three sine 2x.
+Recall that it's just the graph of sine stretched vertically by a factor of three, and shrunk horizontally by a factor of one half.
+Now, to graph the function that I want, I'm going to shift this graph over by pi over four to the right.
+Notice that since I had my function written in factored form, I could just read off the horizontal shift.
+But if I had written it instead, as y equals three sine 2x minus pi over two, which is algebraically equivalent, it would be easy to get confused and think that I needed to shift over by pi over two.
+So it's best to factor first, before figuring out what the shift is, we're factoring out the coefficient of x.
+If instead, we wanted to graph this function, same as the one we just graphed, it's just with a minus one on the outside, that minus one would just bring everything down by one.
+Let's take a moment to look at midline amplitude, and period for the original parent function, y equals sine of x, and our final transformed function, y equals three sine of two times quantity x minus pi over four minus one, our original sine function has midline at y equals zero amplitude of one and period of two pi.
+For our transform function, the three on the outside stretches vertically, so it makes the amplitude three, the minus one on the outside shifts everything down by one.
+So it brings the midline, y equals zero, down to Y equals negative one, the two on the inside, shrinks everything horizontally by a factor of one half.
+So the period becomes one half times two pi, which is pi.
+Finally, there's a horizontal shift going on, are transferring function shifts to the right, by pi over four, this horizontal shift is sometimes called the phase shift.
+The function we just analyzed was y equals three sine 2x minus pi over four minus one, which could also be written as y equals three sine 2x minus pi over two minus one.
+This is a function of the form y equals a sine B x minus c plus d, where b is positive.
+If we have a function of this form, or the similar function with cosine in it, then we know that the midline is going to be at y equals D.
+That's because the original midline of sine or cosine at y equals zero gets shifted up by D, we know that the amplitude is going to be a because this A multiplied on the outside stretches everything vertically by a factor of a to be a little more accurate, we should say the amplitude is the absolute value of A in case a is negative.
+If a is negative, then that amounts to a vertical reflection, or a reflection over the x axis.
+We know that the period of the original sine or cosine is two pi.
+And we know that this factor of B amounts to a horizontal shrink by a factor of one over B, or I guess it could be a horizontal stretch by a factor of one over b if b is less than one.
+So because we're starting with a period of two pi, and we're multiplying by one over B, our new period is going to be two Pi over B.
+The trickiest thing is the horizontal shift.
+And to get that right, I like to factor out this be from my equation.
+So instead of writing y equals a cosine bx minus c plus d, I'm going to write y equals A cosine B times quantity x minus c over b plus d.
+Similarly, if it's a sine function, I write y equals a sine B times x minus quantity c over b plus d, then I can read off the horizontal shift as C over B.
+And that'll be a shift to the right, if C ever be as positive and a shift to the left, if C over b is negative, this might seem backwards from what you're used to.
+But it's because we have that minus sign there.
+So if C over B is positive, we're actually subtracting on the inside.
+So that shifts right, if C of b over b is negative minus a negative is actually adding something, and that's why it shifts it to the left.
+So as one final example, say I wanted to graph y equals 1/3, cosine of one half x plus three minus five, that would have a midline at y equals minus five, an amplitude of 1/3, a period of two pi divided by one half, which is four pi, and a horizontal shift.
+But a rewrite this horizontal shift of six units to the left, the horizontal shift is sometimes called the phase shift.
+And that's all for graphs of sinusoidal functions.
+This video is about graphing the trig functions, tangent, 

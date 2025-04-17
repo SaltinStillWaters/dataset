@@ -1,0 +1,38 @@
+Proof of the Mean Value Theorem for Integrals.
+of the square root of two minus one squared plus three minus two squared, which is the square root of two, the length of the next line segment can be calculated similarly, and the next piece has length two, we don't even need the distance formula for that one.
+And the last line segment has a length of the square to five.
+If we add up all the lengths of these four line segments, we get a total length of the curve of two times the square root of five, plus the square root of two plus two, we can use the same process to approximate the length of any curve by dividing it up into n small pieces, and approximate the length of one small curved piece with a straight line segment.
+And using the distance formula to calculate the length of these line segments, in this picture, the curve is divided up into nine sub intervals.
+I'll label the corresponding points on the x axis, x zero for a x 1x, two, all the way through x eight and x nine is B.
+And I can label the points on my curve.
+So here's the sixth point P six has x coordinates xx, and then y coordinate will be f of x x, since my curve is given by the equation y equals f of x.
+More generally, I have N sub intervals.
+And I'll label an arbitrary point piece of I.
+The point before it is then a piece of i minus one.
+And the length of the ice segment is given by the distance between P sub i and P sub i minus one.
+So that's the square root of x sub i minus x sub i minus one squared plus f of x sub i minus f of x sub i minus one squared by the distance formula.
+The total length of the curve can be approximated by adding the lengths of all these line segments up.
+So that's the sum from i equals one to N for the N line segments of these lengths.
+This is starting to look a little bit like a Riemann sum because of the Sigma sign, but it's missing the delta x That I usually have out here.
+So I'm going to use a trick, I'm going to multiply each term of this expression by x sub i minus x sub i minus one divided by x sub i minus x sub i minus one.
+This doesn't change the value of my expression, but it does introduce a delta x over delta x into my equation, because delta x represents the width of a sub interval.
+And that's equal to x by minus x, y minus one, I'm going to suck the factor in the denominator inside the square root sign, notice I have to square it, when I pull it inside the square root sign.
+Now I'm going to rewrite my fraction inside the square root sign.
+Now this first fraction is just one, and the second fraction can be rewritten with a single squared sign.
+And the second expression should look familiar to you.
+It's the expression for the slope of a secant line.
+At effects, I n x i minus one are very close to each other, the slope of that secant line is very close to the slope of a tangent line for at a point in that interval.
+In fact, you might recall that the mean value theorem says that the slope of the secant line is actually exactly equal to the slope of a tangent line.
+For some point, I'll call it x i star in that interval.
+So I'll rewrite my expression for the approximate length of the curve.
+And since x i minus x i minus one can be written as delta x, I have a Riemann sum here.
+So if I want to find the exact arc length, I just need to take the limit of this Riemann sum.
+This is the limit as the number of intervals goes to infinity.
+We know that the limit of a Riemann sum is given by an integral.
+So the arc length is given by the integral of the square root of one plus f prime of x squared dx, starting from the first x value of A to the last x value of b.
+And so we've derived a formula for arc length.
+Sometimes, this formula is also written with the alternative notation of dydx, instead of f prime of x.
+Let's use the arc length formula to find the length of the curve y equals x to the three halves between x equals one and x equals four.
+That's this section of the curve drawn.
+we can use the same process to approximate the length of any curve by dividing it up into n small pieces, and approximate the length of one small curved piece with a straight line segment.
+And using the distance formula to calculate the length of these line segments, 

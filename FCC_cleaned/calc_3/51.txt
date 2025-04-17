@@ -1,0 +1,21 @@
+Justification of the Chain Rule.
+will work.
+First off, find the least common denominator.
+So here, my denominators are c minus five, c plus one, and C squared minus four c minus five, I'm going to factor that as C minus five times c plus one.
+Now, my least common denominator needs to have just enough factors to that each of these denominators divided into it.
+So I need the factor c minus five, I need the factor c plus one.
+And now I've already got all the factors I need for this denominator.
+So here is my least common denominator.
+Next step is to clear the denominators.
+So I do this by multiplying both sides of the equation by my least common denominator.
+In fact, I can just multiply each of the three terms by this least common denominator.
+I went ahead and wrote my third denominator in factored form to make it easier to see what cancels.
+Now canceling time dies, this dies, and both of those factors die.
+cancel out the denominators, the whole point of multiplying by the least common denominator, you're multiplying by something that's big enough to kill every single denominator so you don't have to deal with denominators anymore.
+Now I'm going to simplify by multiplying out.
+So I get, let's see, c plus one times four c, that's four c squared plus four c, now I get minus just c minus five, and then over here, I get three c squared plus three, I can rewrite the minus quantity c minus five as a minus c plus five.
+And now I can subtract the three c squared from both sides to get just a C squared over here, and the four c minus c, that becomes a three C.
+And finally, I can subtract the three from both sides to get c squared plus three c plus two equals zero.
+got myself a quadratic equation that looks like a nice one that factors.
+So this factors to C plus one times c plus two equals zero.
+So either c plus one is zero, or C plus two is zero, so C equals negative one, or

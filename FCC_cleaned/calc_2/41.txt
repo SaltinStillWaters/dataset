@@ -1,0 +1,59 @@
+Using Taylor Series to find Sums of Series.
+to the zero are all indeterminate forms that can be handled using lobi TAs role.
+In this video, we saw that a zero times infinity indeterminate form could be converted to a zero over zero, or infinity over infinity indeterminate form by rewriting f of x times g of x as f of x divided by one over g of x, or as g of x divided by one over f of x.
+We also saw how to use lopi talls rule on these three sorts of indeterminate forms by taking the ln of y, where y is our f of x to the g of x that we want to take the limit of this video gives some tricks for deciding whether a sequence converges.
+We say that a sequence a sub n converges, if the limit as n goes to infinity of the terms, a sub n exists as a finite number.
+Otherwise, we say the sequence diverges.
+In other words, a sequence diverges if the limit is infinity, or negative infinity, or does not exist.
+More formally, we said the limit as n goes to infinity of a sub n equals L, if for any small number epsilon, there's a number capital N, such that when the index little n is bigger than or equal to capital N, a sub n is within distance epsilon of owl.
+Saying that a sedan is within distance epsilon of L is the same thing as saying that the absolute value of a sub n minus L is less than epsilon.
+Let me draw this as a picture.
+If we put in on the x axis and a sub n on the y axis, we can plot our terms a sub n like this, here, it looks like our a sub n are settling at a particular value, I'll draw the value on the y axis and call it L.
+We say that the limit of a sub n is equal to L.
+Because for any tiny number epsilon, here, I've tried to draw a distance epsilon above L and a distance epsilon below, we can trap or a sub ends within epsilon of L by requiring the index and to be big enough, for the epsilon I've chosen here, are a sub ends are trapped within epsilon of L, when little n is bigger than equal to three.
+So there is that big number n, which is here, like two or three, such that when little n is bigger than that the a sub n are always trapped within epsilon of L.
+And if I chosen a tinier epsilon, I would just have to go a little bit farther out to make sure that my sequence was trapped within epsilon of n about this is the epsilon definition of a limit.
+Formally, we say the limit as n goes to infinity of a sub n is infinity.
+If for any big number, omega, there's a number capital N, such that a sub n is bigger than capital N, for a little n bigger than or equal to capital N.
+In other words, no matter how big an Omega I originally pick, my terms a sub n are eventually true.
+Above omega.
+Let me draw a picture for this one too.
+My terms here again, are drawn in red.
+And now if I pick a certain height omega, eventually all my turns will be above omega.
+And if I pick a different, bigger value of omega, my terms will still eventually be bigger than omega, I might just need to go further out in my sequence.
+For this first value of omega, I would just need to pick a capital N of about 123456.
+Once my little ends are all bigger than six, my Ace events are bigger than that omega, and for this bigger value of omega, I need to pick a value of capital N of about nine, once my little ends are bigger than about nine, all my as events would be bigger than this omega.
+There's a similar definition for the limit as n goes to infinity of a sub n equaling negative infinity.
+Now we just need to say that for any big negative number, omega, there's a number.
+And such that a sub n is less than omega for a little n bigger than or equal to capital N.
+Please take a moment and try to come up with an example of a sequence that converges, a sequence that diverges to infinity or negative infinity, and a sequence that's bounded but still diverges.
+One example of a convergent sequence is a sequence whenever n, this sequence converges to zero, since the limit as n goes to infinity of one over N is zero.
+A divergent sequence is two to the N.
+Since the limit as n goes to infinity of two to the n is infinity.
+One example of a sequence that's bounded, but still diverges is negative one to the n.
+The sequence alternates between negative one and one, depending on whether n is odd, or even.
+So it's bounded in between negative one and one.
+But it still diverges because the limit does not exist.
+Since the sequence doesn't settle at a single value.
+The rest of this video will give some techniques for proving that sequences converge.
+The first technique is to use standard calculus tricks for finding limits of functions.
+Even though a sequence is only defined on positive integers.
+Sometimes it's possible to find a function defined on all positive real numbers that agrees with our sequence on the integers.
+In other words, the terms as of n are equal to f of n for this function F.
+When this happens, then if the limit as x goes to infinity of f of x equals L, then the limit as n goes to infinity of a sub n also equals out, the red dots are converging to the same limit as the blue function.
+So a lot of times, we can figure out if a sequence converges by replacing the terms a sub n with F of X for some appropriate function, and then using lobaton ruler, other tricks from calculus one to show that the function limit exists.
+Let's try that for the following example.
+When the indices are missing, as in this example, we'll assume that n starts at one and goes to infinity.
+In order to prove that this sequence converges, let's instead look at the function f of x equals ln one plus two e to the x over x, where x is a real number.
+Now let's look at the limit as x goes to infinity of f of x.
+That's the limit as x goes to infinity of ln one plus two e to the x over x.
+And as x goes to infinity in the x goes to infinity, so one plus two times e to the x goes to infinity, which means ln of that goes to infinity.
+So the numerator is going to infinity as x goes to infinity.
+And so as the denominator, we have an infinity over an infinity indeterminate form.
+So we can apply lobby towels rule and take the derivative of the numerator over the derivative of the denominator, the derivative of the numerator one over one plus two times e to the x times two times e to the x using the chain rule, and the derivative of the denominator is just one.
+We can take derivatives here, because we're thinking of x as a real number, not just an integer.
+Simplifying, we still have an infinity over infinity indeterminate form.
+So let's take the derivatives again, For this first value of omega, I would just need to pick a capital N of about 123456.
+Once my little ends are all bigger than six, my Ace events are bigger than that omega, and for this bigger value of omega, I need to pick a value of capital N of about nine, once my little ends are bigger than about nine, all my as events would be bigger than this omega.
+There's a similar definition for the limit as n goes to infinity of a sub n equaling negative infinity.
+Now we just need to say that for any big negative number, omega, 

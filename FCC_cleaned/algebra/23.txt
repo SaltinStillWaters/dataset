@@ -1,0 +1,61 @@
+Graphing Quadratic Functions.
+This video is about graphing quadratic functions.
+a quadratic function, which is typically written in standard form, like this, or sometimes in vertex form, like this, always has the graph that looks like a parabola.
+This video will show how to tell whether the problem is pointing up or down.
+How to find its x intercepts, and how to find its vertex.
+The bare bones basic quadratic function is f of x equals x squared, it goes to the origin, since f of zero is zero squared, which is zero, and it is a parabola pointing upwards like this.
+The vertex of a parabola is its lowest point if it's pointing upwards, and its highest point if it's pointing downwards.
+So in this case, the vertex is at 00.
+The x intercepts are where the graph crosses the x axis.
+In other words, where y is zero In this function, y equals zero means that x squared is zero, which happens only when x is zero.
+So the x intercept, there's only one of them is also zero.
+The second function, y equals negative 3x squared also goes to the origin.
+Since the functions value when x is zero, is y equals zero.
+But in this case, the parabola is pointing downwards.
+That's because thinking about transformations of functions, a negative sign on the outside reflects the function vertically over the x axis, making the problem instead of pointing upwards, reflecting the point downwards.
+The number three on the outside stretches the graph vertically by a factor of three.
+So it makes it kind of long and skinny like this.
+In general, a negative coefficient to the x squared term means the problem will be pointing down.
+Whereas a positive coefficient, like here, the coefficients, one means the parabola is pointing up.
+Alright, that roll over here.
+So if a is bigger than zero, the parabola opens up.
+And if the value of the coefficient a is less than zero, then the parabola opens down.
+In this second example, we can see again that the vertex is at 00.
+And the x intercept is x equals zero.
+Let's look at this third example.
+If we multiplied our expression out, we'd see that the coefficient of x squared would be to a positive number.
+So that means our parabola is going to be opening up.
+But the vertex of this parabola will no longer be at the origin.
+In fact, we can find the parabolas vertex by thinking about transformations of functions.
+Our function is related to the function y equals to x squared, by moving it to the right by three and up by four.
+Since y equals 2x squared has a vertex at 00.
+If we move that whole parabola including the vertex, right by three, and up by four, the vertex will end up at the point three, four.
+So a parabola will look something like this.
+Notice how easy it was to just read off the vertex when our quadratic function is written in this form.
+In fact, any parabola any quadratic function written in the form a times x minus h squared plus k has a vertex at h k.
+By the same reasoning, we're moving the parabola with a vertex at the origin to the right by H, and by K.
+That's why this form of a quadratic function is called the vertex form.
+Notice that this parabola has no x intercepts because it does not cross the x axis.
+For our final function, we have g of x equals 5x squared plus 10x plus three, we know the graph of this function will be a parabola pointing upwards, because the coefficient of x squared is positive.
+To find the x intercepts, we can set y equals zero, since the x intercepts is where our graph crosses the x axis, and that's where the y value is zero.
+So zero equals 5x squared plus 10x plus three, I'm going to use the quadratic formula to solve that.
+So x is negative 10 plus or minus the square root of 10 squared minus four times five times three, all over two times five.
+That simplifies to x equals negative 10 plus or minus the square root of 40 over 10, which simplifies further to x equals negative 10 over 10, plus or minus the square root of 40 over 10, which is negative one plus or minus two square root of 10 over 10, or negative one plus or minus square root of 10 over five.
+Since the square root of 10 is just a little bit bigger than three, this works out to approximately about negative two fifths and negative eight foot or so somewhere around right here.
+So our parabola is going to look something like this.
+Notice that it goes through crosses the x axis at y equals three, that's because when we plug in x equals zero, and two here we get y equal three, so the y intercept is at three.
+Finally, we can find the vertex.
+Since this function is written in standard form, On the Y equals a x plus a squared plus bx plus c form, and not in vertex form, we can't just read off the vertex like we couldn't before.
+But there's a trick called the vertex formula, which says that whenever you have a function in a quadratic function in standard form, the vertex has an x coordinate of negative B over two A.
+So in this case, that's an x coordinate of negative 10 over two times five or negative one, which is kind of like where I put it on the graph.
+To find the y coordinate of that vertex, I can just plug in negative one into my equation for x, which gives me at y equals five times negative one squared, plus 10, times negative one plus three, which is negative two.
+So I think I better redraw my graph a little bit to put that vertex down at a y coordinate of negative two where it's supposed to be.
+Let's summarize the steps we use to graph these quadratic functions.
+First of all, the graph of a quadratic function has the shape of a parabola.
+The parabola opens up, if the coefficient of x squared, which we'll call a is greater than zero and down if a is less than zero.
+To find the x intercepts, we set y equal to zero, or in other words, f of x equal to zero and solve for x, the find the vertex, we can either read it off as h k, if our function is in vertex form, or we can use the vertex formula and get the x coordinate of the vertex to be negative B over to a if our function is in standard form.
+To find the y coordinate of the vertex in this case, we just plug in the x coordinate and figure out what y is.
+Finally, we can always find additional points on the graph by plugging in values of x.
+In this video, we learned some tricks for graphing quadratic functions.
+In particular, we saw that the vertex can be read off as h k, if our function is written in vertex form, and the x coordinate of the vertex can be calculated as negative B over two A, if our function is in standard form.
+For an explanation of why this vertex formula works, please see the my other video.

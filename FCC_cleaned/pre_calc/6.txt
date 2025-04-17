@@ -1,0 +1,41 @@
+Piecewise Functions.
+introduces piecewise functions.
+A piecewise function is a function whose defined in pieces by two or more different rules that apply for different x values.
+The rule for calculating this function is you calculate negative x squared if x is less than one, but you calculate negative 2x plus three if x is greater than or equal to one.
+So if we want to find f of negative two, well, negative two is less than one.
+So the first rule applies.
+And we compute f of negative two by plugging in negative two for x in the first rule, so that's negative four.
+Next, we want to find f of one.
+Well, one is right on the border in between the two rules.
+But because we have a greater than or equal to here, when x is equal to one, we apply this rule.
+And so we could plug one into the formula, negative 2x plus three sets negative two times one plus three, which gives us one as our output.
+Finally, if we want to compute f of three, since three is bigger than or equal to one, the second rule applies.
+And we plug three into that role.
+That gives us an answer of negative three.
+To graph F, it makes sense to also draw the graph in pieces.
+First, I'm going to draw the graph of minus x squared, just x squared would be a problem opening up, so minus x squared is a parabola opening down goes through the points negative one, negative one and one negative one.
+So it looks something like this.
+Now I've drawn the whole parabola, but the rule actually only applies when x is less than one.
+So I'll keep the part of the parabola when x is less than one.
+And I'll erase the part of the parabola when x is greater than or equal to one.
+I'll leave an open circle here, when x equals one since that point is not included in this definition, either.
+Next, I'm going to draw the second piece, the line y equals minus 2x plus three.
+So that's a line with slope negative two, and intercept y intercept three, so it goes through this point 03.
+And then it goes over by one and down by two.
+So it goes through the point one, one, over by one down by two.
+And I can continue and draw this straight line.
+Again, we only want part of this graph the part where x is greater than or equal to one.
+So I'll erase the part where x is less than one, this part here.
+This time, I'm going to leave a closed circle, where x is equal to one, since that point is included on that graph.
+When drawing this graph, it's good to think about what happens when x equals one the border point, both in the second role, where we actually include that point.
+And in the first rule, where we don't actually include that point, but we kind of have to draw it in order anyway to draw the open circle here.
+Now the last question asks us if this function is continuous.
+The informal definition of continuity that I'm going to use is that a function is continuous if you can draw the whole thing without picking up your pencil.
+And this case, we can't, because we have to pick up our pencil to get from the jump here, up to here.
+So this function is not continuous, it's got a discontinuity when x is one, which is exactly the border port between the two rules.
+Often piecewise functions will have discontinuities, where they transition from one role to the next.
+However, it's possible to have a piecewise defined function that has no discontinuity if the two pieces happen to line up perfectly.
+For example, if we've changed the functions definition slightly, I'll call it g of x this time to still be the negative x squared when x is less than one, but this time, negative 2x plus one, if x is bigger than equal to one, then when we graph it, The parabola piece will look the same, but the linear piece will be two units lower than before.
+And so it'll actually start right here at one, negative one and go down, and our function will be continuous.
+That's all for this introduction to piecewise functions.
+The inverse of a function undoes

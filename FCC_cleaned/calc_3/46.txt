@@ -1,0 +1,93 @@
+[Corequisite] Log Functions and Their Graphs.
+Because intuitively, this is saying that sine theta is approximately equal to theta itself when theta is near zero, because the ratio is approximately one.
+So if I want to approximate sine of this value of theta, without a calculator, I can use that fact.
+And say that the sine of 0.
+01769 is going to be approximately equal to 0.
+01769.
+This is an important time to remind you that when we're doing these limits, we're assuming that theta is in radians.
+If it's not in radians, we won't get this nice limit of one here.
+So that's our approximation.
+And we can check it on a calculator, and I actually get an exact value of this number up to 10 decimal places.
+So as you can see, this is a really good approximation.
+We can use this same limit fat, again, in the next example, to calculate this complicated limit as x goes to zero, the limit of tan of 7x over sine of forex.
+So when I see tangents and signs and expression, I'm always tempted to rewrite things.
+And just in terms of sine and cosine, so I'm going to do that first I'm going to rewrite tangent as as sine over cosine.
+That still divided by sine of forex, and now I'm going to flip and multiply to get sine of 7x over cosine of 7x times one over sine of 4x.
+Now intuitively, if x is near zero, therefore 7x and 4x are also near zero, then sine of 7x is approximately equal to 7x.
+And sine of 4x is approximately equal to 4x.
+So intuitively, this limit should be pretty much the same thing as the limit as x goes to zero of 7x over cosine 7x times 4x.
+And canceling the access, this is just the same as seven fourths times the limit of one of our cosine 7x.
+Since cosine of 7x is going to one, this should just be seven fourths.
+So this is the intuitive approach, let me also give you a more rigorous approach.
+So more rigorously, I'm going to rewrite this limit by multiplying by 7x over 7x.
+And by multiplying by 4x, over 4x, that hasn't changed my expression, I'm just multiplying by one and fancy forms.
+But this is really useful.
+Because if I regroup here, and write the sine 7x over the 7x, times the one over cosine 7x.
+Now I'm going to write the Forex over the sign for x.
+And I'm still left with a 7x from the top and a 4x.
+From the bottom here, I can cancel out those x's.
+And I can notice that this limit here, as x goes to 07, x is going to zero, so sine 7x over 7x is just going to be equal to one.
+And similarly as x goes to zero, for x is going to zero.
+So the limit of 4x ever signed for x is the reciprocal of one, it's also one.
+And finally, this limit in the middle here, as x goes to 07, x is going to zero, so cosine of 7x is going to one, and everything in the world is going to one except the 7/4.
+So this limit is seven forth.
+these graphs provide strong evidence, but graphs can be misleading, and they're no substitute for a rigorous proof.
+So for a pretty cool geometric and algebraic proof of these facts, please see the proof video for this section.
+The fact that the limit as theta goes to zero of sine theta over theta is one is really handy when you want to approximate sine theta.
+Because intuitively, this is saying that sine theta is approximately equal to theta itself when theta is near zero, because the ratio is approximately one.
+So if I want to approximate sine of this value of theta, without a calculator, I can use that fact.
+And say that the sine of 0.
+01769 is going to be approximately equal to 0.
+01769.
+This is an important time to remind you that when we're doing these limits, we're assuming that theta is in radians.
+If it's not in radians, we won't get this nice limit of one here.
+So that's our approximation.
+And we can check it on a calculator, and I actually get an exact value of this number up to 10 decimal places.
+So as you can see, this is a really good approximation.
+We can use this same limit fat, again, in the next example, to calculate this complicated limit as x goes to zero, the limit of tan of 7x over sine of forex.
+So when I see tangents and signs and expression, I'm always tempted to rewrite things.
+And just in terms of sine and cosine, so I'm going to do that first I'm going to rewrite tangent as as sine over cosine.
+That still divided by sine of forex, and now I'm going to flip and multiply to get sine of 7x over cosine of 7x times one over sine of 4x.
+Now intuitively, if x is near zero, therefore 7x and 4x are also near zero, then sine of 7x is approximately equal to 7x.
+And sine of 4x is approximately equal to 4x.
+So intuitively, this limit should be pretty much the same thing as the limit as x goes to zero of 7x over cosine 7x times 4x.
+And canceling the access, this is just the same as seven fourths times the limit of one of our cosine 7x.
+Since cosine of 7x is going to one, this should just be seven fourths.
+So this is the intuitive approach, let me also give you a more rigorous approach.
+So more rigorously, I'm going to rewrite this limit by multiplying by 7x over 7x.
+And by multiplying by 4x, over 4x, that hasn't changed my expression, I'm just multiplying by one and fancy forms.
+But this is really useful.
+Because if I regroup here, and write the sine 7x over the 7x, times the one over cosine 7x.
+Now I'm going to write the Forex over the sign for x.
+And I'm still left with a 7x from the top and a 4x.
+From the bottom here, I can cancel out those x's.
+And I can notice that this limit here, as x goes to 07, x is going to zero, so sine 7x over 7x is just going to be equal to one.
+And similarly as x goes to zero, for x is going to zero.
+So the limit of 4x ever signed for x is the reciprocal of one, it's also one.
+And finally, this limit in the middle here, as x goes to 07, x is going to zero, so cosine of 7x is going to one, and everything in the world is going to one except the 7/4.
+So this limit is seven forth.
+In this video, we found that the limit as theta goes to zero of sine theta over theta is equal to one.
+And the limit as theta goes to zero of cosine theta minus one over theta is equal to zero.
+There's a nice proof of these facts in a later video for this section.
+When you compose two functions, you apply the first function.
+And then you apply the second function to the output of the first function.
+For example, the first function might compute population size from time in years.
+In this video, we found that the limit as theta goes to zero of sine theta over theta is equal to one.
+And the limit as theta goes to zero of cosine theta minus one over theta is equal to zero.
+There's a nice proof of these facts in a later video for this section.
+When you compose two functions, you apply the first function.
+And then you apply the second function to the output of the first function.
+For example, the first function might compute population size from time in years.
+So its input would be time in years, since a certain date, as output would be number of people in the population.
+The second function g, might compute health care costs as a function of population size.
+So it will take population size as input, and its output will be healthcare costs.
+If you put these functions together, that is compose them, then you'll go all the way from time in years to healthcare costs.
+This is your composition, g composed with F.
+The composition of two functions, written g with a little circle, f of x is defined as follows.
+g composed with f of x is G evaluated on f of x, we can think of it schematically and so diagram, f acts on a number x and produces a number f of x, then g takes that output f of x and produces a new number, g of f of x.
+Our composition of functions g composed with F is the function that goes all the way from X to g of f of x.
+Let's work out some examples where our functions are defined by tables of values.
+If we want to find g composed with F of four, by definition, this means g of f of four.
+To evaluate this expression, we always work from the inside out.
+So we start with the x value of four, and we find f of four using the table of values for f of x.
+When x equals four, f of x is seven, 

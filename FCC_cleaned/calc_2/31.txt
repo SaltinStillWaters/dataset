@@ -1,0 +1,36 @@
+The Ratio Test.
+A sequence is a list of numbers in a particular order, the sequence 314159 and So on is a sequence that gives the digits of pi.
+A sequence is sometimes described abstractly, with letters in place of numbers, a sub one, a sub two, a sub three, and so on.
+Or more concisely, by writing a sub n with these curly brackets.
+Here, we're told that the index n ranges from one all the way up towards infinity.
+Sometimes the sequence is written just a sub n with curly brackets.
+Here, it's implied that n ranges through all positive integers.
+For these sequences, given by formulas, let's write out the first few terms.
+We start with n equals one, and we get a sub one is three times one plus one over one plus two factorial.
+That is, for over three factorial.
+Recall that three factorial means that we start with three and then multiply with consecutive numbers all the way down to one, this simplifies to four, six, or two thirds.
+To find the next term, a sub two, we plug in two for add, that's seven over four factorial, which is 720 fourths.
+Similarly, a sub three is 10, over five factorial, which is 10 over 120, or 112.
+So the first three terms of the sequence are two thirds, 720, fourths, and 112.
+For the second example, we're asked to start with K equals two.
+So I'll call the first term, a sub two, and just plug in two for K, which is five ninths.
+Since negative one squared is positive one.
+Plugging in K equals three, we get negative 6/27, or to negative two nights.
+For as of four, we again get a positive number, since negative one to the fourth is positive.
+And in fact, as we keep writing down terms, they're going to alternate between negative numbers and positive numbers, because of the negative one to the K in the definition.
+Sometimes, the nth term of a sequence is defined indirectly, in terms of previous terms.
+This is called a recursive formula.
+To write out the first few terms of this recursive sequence, we're told that a sub one equals two, to find a sub two, we just use the recursive formula for minus one over a sub one.
+Since a sub one is two, that's four minus a half, or seven half, defined a sub three, we just apply the recursive formula again, four minus one over seven has simplifies to 26/7.
+Sometimes as possible, describe a sequence with either a recursive formula, or a closed form non recursive formula.
+For example, if I look at the sequence 246 810, I can describe that recursively by saying a sub one is two, and each a sub n is equal to a sub n minus one plus two.
+Or I can describe as a closed form expression by saying the sequence is of the form two times n, where n starts at one.
+Now let's practice writing out a formula for the general term, a sub n of a sequence.
+For this first sequence, notice that each term is three more than the previous term.
+So this is like a linear function with slope three, each time that n goes up by one, our ace events go up by three.
+And so I can write a sub n is three times n plus b, where B functions like my y intercept and a linear equation, to find B, I can plug in seven, four, a sub one that corresponds to an N value of one, and I get that B has to equal four.
+So my general formula is three times n plus four, where n starts at one.
+I can check this by plugging in a few values of n, like we did in the previous example, just to make sure it works.
+Notice that it would also be possible to write this as three times n plus seven If we're willing to start with n equals zero instead of one, if we let n start with zero, then our first term functions like our y intercept.
+This is an example of an arithmetic sequence, a sequence for which consecutive terms have the same common difference.
+And in general, if A is the first term, and d is the common difference than an arithmetic sequence has the form d times k plus a, if our index is K and starts at zero, like it did over here.

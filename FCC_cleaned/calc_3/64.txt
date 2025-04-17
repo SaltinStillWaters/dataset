@@ -1,0 +1,136 @@
+First Derivative Test and Second Derivative Test.
+Let me check, log base e of four minus y equals 3x plus seven means e to 3x plus seven equals four minus Y, which is just what I started with.
+I can also rewrite log base e as natural log.
+This video introduced the idea of logs.
+And the fact that log base a of B equal c means the same thing as a to the C equals b.
+So log base a of B is asking you the question, What power exponent Do you raise a to in order to get b.
+In this video, we'll work out the graph, so some log functions and also talk about their domains.
+For this first example, let's graph a log function by hand by plotting some points.
+The function we're working with is y equals log base two of x, I'll make a chart of x and y values.
+Since we're working this out by hand, I want to pick x values for which it's easy to compute log base two of x.
+So I'll start out with the x value of one.
+Because log base two of one is zero, log base anything of one is 02 is another x value that's easy to compute log base two of two, that's asking, What power do I raise to two to get to one?
+And the answer is one.
+Power other powers of two are easy to work with.
+So for example, log base two of four that saying what power do I raise to to to get four, so the answer is two.
+Similarly, log base two of eight is three, and log base two of 16 is four.
+Let me also work with some fractional values for X.
+If x is one half, then log base two of one half that saying what power do I raise to two to get one half?
+Well, that needs a power of negative one.
+It's also easy to compute by hand, the log base two of 1/4 and 1/8.
+log base two of 1/4 is negative two, since two to the negative two is 1/4.
+And similarly, log base two of 1/8 is negative three.
+I'll put some tick marks on my x and y axes.
+Please pause the video and take a moment to plot these points.
+Let's see I have the point, one, zero, that's here to one that's here, for two, that is here.
+And then eight, three, which is here.
+here.
+And the fractional x values, one half goes with negative one, and 1/4 with negative two 1/8 with negative three.
+And the fractional x values, one half goes with negative one, and 1/4 with negative two 1/8 with negative three.
+And if I connect the dots, I get a graph that looks something like this.
+If I had smaller and smaller fractions, I would keep getting more and more negative answers when I took log base two of them, so my graph is getting more and more negative, my y values are getting more and more negative as x is getting close to zero.
+Now I didn't draw any parts of the graph over here with negative X values, I didn't put any negative X values on my chart.
+That omission is no accident.
+Because if you try to take the log base two or base anything of a negative number, like say negative four or something, there's no answer.
+This doesn't exist because there's no power that you can raise to two to get a negative number.
+So there are no points on the graph for negative X values.
+And similarly, there are no points on the graph where x is zero, because you can't take log base two of zero, there's no power you can raise to to to get zero.
+I want to observe some key features of this graph.
+First of all, the domain is x values greater than zero.
+In interval notation, I can write that as a round bracket because I don't want to include zero to infinity, the range is going to be the y values, while they go all the way down into the far reaches of the negative numbers.
+And the graph gradually increases y value is getting bigger and bigger.
+So the range is actually all real numbers are an interval notation negative infinity to infinity.
+Finally, I want to point out that this graph has a vertical asymptote at the y axis, that is at the line x equals zero.
+I'll draw that on my graph with a dotted line.
+A vertical asymptote is a line that our functions graph gets closer and closer to so this is The graph of y equals log base two of x.
+But if I wanted to graph say, y equals log base 10 of x, it would look very similar, it would still have a domain of X values greater than zero, a range of all real numbers and a vertical asymptote at the y axis, it would still go through the point one zero, but it would go through the point 10.
+One instead, because log base 10 of 10 is one, it would look pretty much the same, just a lot flatter over here.
+But even though it doesn't look like it with the way I've drawn it, it still gradually goes up to n towards infinity.
+In fact, the graph of y equals log base neaa of X for a bigger than one looks pretty much the same, and has the same three properties.
+Now that we know what the basic log graph looks like, we can plot at least rough graphs of other log functions without plotting points.
+Here we have the graph of natural log of X plus five.
+And again, I'm just going to draw a rough graph.
+If I did want to do a more accurate graph, I probably would want to plot some points.
+But I know that roughly a log graph, if it was just like y equals ln of x, that would look something like this, and it would go through the point one zero, And if I connect the dots, I get a graph that looks something like this.
+If I had smaller and smaller fractions, I would keep getting more and more negative answers when I took log base two of them, so my graph is getting more and more negative, my y values are getting more and more negative as x is getting close to zero.
+Now I didn't draw any parts of the graph over here with negative X values, I didn't put any negative X values on my chart.
+That omission is no accident.
+Because if you try to take the log base two or base anything of a negative number, like say negative four or something, there's no answer.
+This doesn't exist because there's no power that you can raise to two to get a negative number.
+So there are no points on the graph for negative X values.
+And similarly, there are no points on the graph where x is zero, because you can't take log base two of zero, there's no power you can raise to to to get zero.
+I want to observe some key features of this graph.
+First of all, the domain is x values greater than zero.
+In interval notation, I can write that as a round bracket because I don't want to include zero to infinity, the range is going to be the y values, while they go all the way down into the far reaches of the negative numbers.
+And the graph gradually increases y value is getting bigger and bigger.
+So the range is actually all real numbers are an interval notation negative infinity to infinity.
+Finally, I want to point out that this graph has a vertical asymptote at the y axis, that is at the line x equals zero.
+I'll draw that on my graph with a dotted line.
+A vertical asymptote is a line that our functions graph gets closer and closer to so this is The graph of y equals log base two of x.
+But if I wanted to graph say, y equals log base 10 of x, it would look very similar, it would still have a domain of X values greater than zero, a range of all real numbers and a vertical asymptote at the y axis, it would still go through the point one zero, but it would go through the point 10.
+One instead, because log base 10 of 10 is one, it would look pretty much the same, just a lot flatter over here.
+But even though it doesn't look like it with the way I've drawn it, it still gradually goes up to n towards infinity.
+In fact, the graph of y equals log base neaa of X for a bigger than one looks pretty much the same, and has the same three properties.
+Now that we know what the basic log graph looks like, we can plot at least rough graphs of other log functions without plotting points.
+Here we have the graph of natural log of X plus five.
+And again, I'm just going to draw a rough graph.
+If I did want to do a more accurate graph, I probably would want to plot some points.
+But I know that roughly a log graph, if it was just like y equals ln of x, that would look something like this, and it would go through the point one zero, with a vertical asymptote along the y axis.
+Now if I want to graph ln of x plus five, that just shifts our graph by five units, it'll still have the same vertical asymptote, since the vertical line shifted up by five units is still a vertical line.
+But instead of going through one zero, it'll go through the point, one, five.
+So I'll draw a rough sketch here.
+Let's compare our starting function y equals ln x, and the transformed version y equals ln x plus five in terms of the domain, the range and the vertical asymptote.
+Our original function y equals ln x had a domain of zero to infinity.
+Since adding five on the outside affects the y values, and the domain is the x values, this transformation doesn't change the domain.
+So the domain is still from zero to infinity.
+Now the range of our original y equals ln x was from negative infinity to infinity.
+Shifting up by five does affect the y values, and the range is talking about the y values.
+But since the original range was all real numbers, if you add five to all set of all real numbers, you still get the set of all real numbers.
+So in this case, the range doesn't change either.
+And finally, we already saw that the original vertical asymptote of the y axis x equals zero, when we shift that up by five units, it's still the vertical line x equals zero.
+In this next example, we're starting with a log base 10 function.
+And since the plus two is on the inside, that means we shift that graph left by two.
+So I'll draw our basic log function.
+Here's our basic log function.
+So I'll think of that as y equals log of x going through the point one, zero, here's its vertical asymptote.
+Now I need to shift everything left by two.
+So my vertical asymptote shifts left, and now it's at the line x equals negative two, instead of at x equals zero, and my graph, let's see my point, one zero gets shifted to, let's see negative one zero, since I'm subtracting two from the axis, and here's a rough sketch of the resulting graph.
+Let's compare the features of the two graphs drawn here.
+We're talking about domains, the original kind of domain of from zero to infinity.
+But now I've shifted that left.
+So I subtracted two from all my exercises.
+And here's my new domain, which I can also verify just by looking at the picture.
+My range was originally from negative infinity to infinity.
+Well, shifting left only affects the x value, so it doesn't even affect the range.
+So my range is still negative infinity to infinity.
+My vertical asymptote was originally at x equals zero.
+And since I subtract two from all my x values, that shifts that to x equals negative two.
+In this last problem, I'm not going to worry about drawing this graph.
+I'll just use algebra to compute its domain.
+So let's think about What's the issue, when you're taking the logs of things?
+Well, you can't take the log of a negative number or zero.
+So whatever is inside the argument of the log function, whatever is being fed into log had better be greater than zero.
+So I'll write that down, we need to minus 3x, to be greater than zero.
+Now it's a matter of solving an inequality.
+Two has got to be greater than 3x.
+So two thirds is greater than x.
+In other words, x has to be less than two thirds.
+So our domain is all the x values from negative infinity to two thirds, not including two thirds, it's a good idea to memorize the basic shape of the graph of a log function.
+It looks something like this, go through the point one zero, and has a vertical asymptote on the y axis.
+Also, if you remember that you can't take the log of a negative number, or zero, then that helps you quickly compute domains for log functions.
+Whatever's inside the log function, you set that greater than zero, and solve.
+This video is about combining logs and exponents.
+Please pause the video and take a moment to use your calculator to evaluate the following four expressions.
+with a vertical asymptote along the y axis.
+Now if I want to graph ln of x plus five, that just shifts our graph by five units, it'll still have the same vertical asymptote, since the vertical line shifted up by five units is still a vertical line.
+But instead of going through one zero, it'll go through the point, one, five.
+So I'll draw a rough sketch here.
+Let's compare our starting function y equals ln x, and the transformed version y equals ln x plus five in terms of the domain, the range and the vertical asymptote.
+Our original function y equals ln x had a domain of zero to infinity.
+Since adding five on the outside affects the y values, and the domain is the x values, this transformation doesn't change the domain.
+So the domain is still from zero to infinity.
+Now the range of our original y equals ln x was from negative infinity to infinity.
+Shifting up by five does affect the y values, and the range is talking about the y values.
+But since the original range was all real numbers, if you add five to all set of all real numbers, you still get the set of all real numbers.
+So in this case, the range doesn't change either.
+And finally, we already saw that the original vertical asymptote of the y axis x equals

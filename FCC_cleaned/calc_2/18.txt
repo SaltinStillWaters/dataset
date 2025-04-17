@@ -1,0 +1,97 @@
+Sequences - Definitions and Notation.
+And the identity says that sine of negative theta is equal to negative sine of theta.
+In other words, sine is an odd function.
+One way to remember these identities is by looking at the graphs of sine and cosine.
+Y equals cosine x has this bilateral symmetry, so it's an even function.
+And if I look at the value of cosine at theta, and cosine at negative theta, my graph has the same height.
+So cosine has the same value for both of these angles.
+The graph of y equals sine x does not have bilateral symmetry, instead, it's got 180 degree rotational symmetry, which is characteristic of an odd function.
+And if I compare the y values, that theta and negative theta, I see that the y value at negative theta is exactly the opposite as the y value at theta, and therefore, sine of negative theta is equal to negative sine of theta.
+Another way to understand that, even in odd identities, is by going back to the unit circle.
+If I look at an angle of theta, compared to an angle of negative theta, the x coordinate, which is cosine has the same value for both of these angles.
+So that means cosine of negative theta is equal to cosine of theta.
+the y coordinate instead is the opposite.
+For negative theta, versus theta, one of them is positive and one of them is negative, but they have the same magnitude.
+Therefore, sine of negative theta is the negative of sine of theta.
+My third favorite trig identity is the angle sum formula.
+Again, there are really two, one for sine and one for cosine, but they go together, so I'll consider them a single identity.
+These identities are easy to remember because there's a song that goes with them.
+And the song goes, sine, cosine, cosine, sine, cosine, cosine, minus sign sign, you may recognize the tune, please sing along with me this time.
+So remember it 123 go sine cosine cosine sine, cosine cosine minus sine sine.
+The only thing you have to remember when you sing the song is that it gives the sine of A plus B first, and then the cosine of A plus B.
+So these are the three trig identities that I think everybody should memorize.
+Next, I'll show you how to derive a bunch more trig identities.
+Pretty simply, from these three.
+I've written my three favorite trig identities across the top for easy reference.
+First of all, we can derive a couple of good identities just from the beggary and identity.
+Let's start by dividing both sides of this identity by cosine squared theta.
+We can break up the fraction on the left into sine squared theta over cosine squared theta plus cosine squared theta over cosine squared theta equals one over cosine squared theta.
+But sine squared theta over cosine squared theta is just tan squared theta.
+and cosine squared theta over cosine squared theta is one.
+And one over cosine squared theta is seacon squared theta, since secant theta by definition is one over cosine.
+If I draw a right triangle with angle theta on a unit circle, it's hi partners has length one, because a unit circle means a circle of radius one.
+The base of this triangle has length cosine of theta, because by definition, cosine of theta is the x coordinate of the point on the unit circle at angle theta.
+Similarly, the height of the triangle is sine of theta, because sine of theta means the y coordinate on the unit circle.
+So by the Pythagorean theorem for right triangles, we know that sine theta squared plus cosine theta squared equals one, which is exactly the bit beggary and identity.
+The second identities that everybody should know are the even and odd identities.
+I guess technically, these are two different identities but they go together, so I'm counting them as one.
+The even identity says that cosine of negative theta is equal to cosine of Beta.
+In other words, cosine is an even function.
+And the identity says that sine of negative theta is equal to negative sine of theta.
+In other words, sine is an odd function.
+One way to remember these identities is by looking at the graphs of sine and cosine.
+Y equals cosine x has this bilateral symmetry, so it's an even function.
+And if I look at the value of cosine at theta, and cosine at negative theta, my graph has the same height.
+So cosine has the same value for both of these angles.
+The graph of y equals sine x does not have bilateral symmetry, instead, it's got 180 degree rotational symmetry, which is characteristic of an odd function.
+And if I compare the y values, that theta and negative theta, I see that the y value at negative theta is exactly the opposite as the y value at theta, and therefore, sine of negative theta is equal to negative sine of theta.
+Another way to understand that, even in odd identities, is by going back to the unit circle.
+If I look at an angle of theta, compared to an angle of negative theta, the x coordinate, which is cosine has the same value for both of these angles.
+So that means cosine of negative theta is equal to cosine of theta.
+the y coordinate instead is the opposite.
+For negative theta, versus theta, one of them is positive and one of them is negative, but they have the same magnitude.
+Therefore, sine of negative theta is the negative of sine of theta.
+My third favorite trig identity is the angle sum formula.
+Again, there are really two, one for sine and one for cosine, but they go together, so I'll consider them a single identity.
+These identities are easy to remember because there's a song that goes with them.
+And the song goes, sine, cosine, cosine, sine, cosine, cosine, minus sign sign, you may recognize the tune, please sing along with me this time.
+So remember it 123 go sine cosine cosine sine, cosine cosine minus sine sine.
+The only thing you have to remember when you sing the song is that it gives the sine of A plus B first, and then the cosine of A plus B.
+So these are the three trig identities that I think everybody should memorize.
+Next, I'll show you how to derive a bunch more trig identities.
+Pretty simply, from these three.
+I've written my three favorite trig identities across the top for easy reference.
+First of all, we can derive a couple of good identities just from the beggary and identity.
+Let's start by dividing both sides of this identity by cosine squared theta.
+We can break up the fraction on the left into sine squared theta over cosine squared theta plus cosine squared theta over cosine squared theta equals one over cosine squared theta.
+But sine squared theta over cosine squared theta is just tan squared theta.
+and cosine squared theta over cosine squared theta is one.
+And one over cosine squared theta is seacon squared theta, since secant theta by definition is one over cosine.
+So we found a new identity, a variation on the Pythagorean identity that involves tangent and secant.
+Now, what if we wanted an identity that involved cotangent and cosecant instead?
+Well, as you might be thinking, we could just start with the theory and identity.
+And this time, divide both sides by sine squared of theta.
+If we break up the fraction like before, we get one plus cotangent squared theta equals cosecant squared theta.
+Since cotangent is cosine over sine, and cosecant is one of our sign.
+Next, it's possible to get a bunch of great identities from the angle some formulas.
+Let's start by deriving an angle difference formula.
+If we want a formula for sine of A minus B, all we have to do is plug in negative B for B In our angle some formula.
+So we get sine of A cosine of negative b plus cosine of A sine of negative B.
+But we know that cosine of negative B is cosine of B, since cosine is 11.
+And sine of negative b is negative sine of B, so that turns this positive sign to a negative sign.
+And we have an angle difference formula for sine.
+Similarly, we can use the angle sum formula for cosine, plugging in negative B for b.
+and use the even odd properties to get an angle difference formula for cosine.
+Now let's derive a super useful formula, the double angle formula.
+If we want a formula for sine of two theta, we can think of that as being the sine of theta plus theta.
+So let's plug theta in for a and theta in for B in our angle sum formula.
+That gives us sine cosine, cosine sine, which simplifies to two sine theta cosine theta.
+That's the double angle formula for sine.
+That worked out so well, let's try the same thing for cosine.
+cosine of two theta is cosine of theta plus theta.
+And using the angle sum formula, that's cosine, cosine minus sine sine, we can rewrite this as cosine squared theta minus sine squared theta, and get our first version of the double angle formula for cosine.
+But we could also use the Pythagorean identity to replace cosine squared theta by one minus sine squared theta.
+Or if we prefer, we can replace sine squared theta by one minus cosine squared theta.
+If we replace cosine squared, we get cosine of two theta is one minus sine squared theta minus sine squared theta.
+In other words, cosine of two theta is one minus twice sine squared theta.
+And if we go back

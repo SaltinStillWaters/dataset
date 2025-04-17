@@ -1,0 +1,75 @@
+Series Definitions.
+to the original, and replace sine squared theta by one minus cosine squared theta, we get cosine of two theta is cosine squared theta minus quantity one minus cosine squared theta, which simplifies to cosine of two theta is twice cosine squared theta minus one.
+So we found one version of a double angle formula for sine, and three versions for cosine, just using the angle sum formula and the Pythagorean identity.
+These last two formulas are particularly useful for integration when they're rewritten slightly.
+For this formula, let me solve for sine squared of theta, I get two sine squared of theta is equal to one minus cosine of two theta.
+So sine squared of theta is one half minus one half cosine of two theta.
+I'll do the analogous thing with this formula and solve for cosine squared theta So we found a new identity, a variation on the Pythagorean identity that involves tangent and secant.
+Now, what if we wanted an identity that involved cotangent and cosecant instead?
+Well, as you might be thinking, we could just start with the theory and identity.
+And this time, divide both sides by sine squared of theta.
+If we break up the fraction like before, we get one plus cotangent squared theta equals cosecant squared theta.
+Since cotangent is cosine over sine, and cosecant is one of our sign.
+Next, it's possible to get a bunch of great identities from the angle some formulas.
+Let's start by deriving an angle difference formula.
+If we want a formula for sine of A minus B, all we have to do is plug in negative B for B In our angle some formula.
+So we get sine of A cosine of negative b plus cosine of A sine of negative B.
+But we know that cosine of negative B is cosine of B, since cosine is 11.
+And sine of negative b is negative sine of B, so that turns this positive sign to a negative sign.
+And we have an angle difference formula for sine.
+Similarly, we can use the angle sum formula for cosine, plugging in negative B for b.
+and use the even odd properties to get an angle difference formula for cosine.
+Now let's derive a super useful formula, the double angle formula.
+If we want a formula for sine of two theta, we can think of that as being the sine of theta plus theta.
+So let's plug theta in for a and theta in for B in our angle sum formula.
+That gives us sine cosine, cosine sine, which simplifies to two sine theta cosine theta.
+That's the double angle formula for sine.
+That worked out so well, let's try the same thing for cosine.
+cosine of two theta is cosine of theta plus theta.
+And using the angle sum formula, that's cosine, cosine minus sine sine, we can rewrite this as cosine squared theta minus sine squared theta, and get our first version of the double angle formula for cosine.
+But we could also use the Pythagorean identity to replace cosine squared theta by one minus sine squared theta.
+Or if we prefer, we can replace sine squared theta by one minus cosine squared theta.
+If we replace cosine squared, we get cosine of two theta is one minus sine squared theta minus sine squared theta.
+In other words, cosine of two theta is one minus twice sine squared theta.
+And if we go back to the original, and replace sine squared theta by one minus cosine squared theta, we get cosine of two theta is cosine squared theta minus quantity one minus cosine squared theta, which simplifies to cosine of two theta is twice cosine squared theta minus one.
+So we found one version of a double angle formula for sine, and three versions for cosine, just using the angle sum formula and the Pythagorean identity.
+These last two formulas are particularly useful for integration when they're rewritten slightly.
+For this formula, let me solve for sine squared of theta, I get two sine squared of theta is equal to one minus cosine of two theta.
+So sine squared of theta is one half minus one half cosine of two theta.
+I'll do the analogous thing with this formula and solve for cosine squared theta to cosine squared theta is equal to one plus cosine of two theta.
+So cosine squared theta is equal to one half, plus one half cosine of two theta.
+That's all the triggers in these we're gonna need.
+It may seem like a lot, but remember, they all follow very naturally from my three favorites at the top.
+Well, all these formulas are very useful.
+The ones that are of particular importance for techniques of integration are the first one, that factory and identity and its various forms.
+And the last two.
+In this video, I told you my three favorite trig identities, the Pythagorean identity, the even an odd identities and the angle some formulas.
+From these I derived a bunch of other identities, including a handful that will be particularly useful as we do techniques of integration.
+Remember the angle some formulas, those are the formulas for computing sine of A plus B, and cosine of A plus B.
+I like to sing them, sine, cosine, cosine, sine, cosine, cosine minus sine sine.
+This video gives a geometric proof of those formulas.
+There are many great proofs of the angle some formulas, but I'd like to share with you one of my favorites for those who are interested.
+Alright, the angle some formulas up here, so we'll know what we're trying to prove.
+To prove these formulas, let me start by drawing an angle A and angle B on top of that.
+Next, I'm going to draw a line perpendicular to this middle line.
+And I'm going to extend the top line until it meets that perpendicular, making a right triangle.
+Finally, I'll draw a rectangle around that right triangle that just touches its vertices.
+My rectangle is now divided up into four right triangles.
+And I'm going to choose units of measurement, so that the high partners of my middle triangle has length one.
+Now let's stop for a minute to think about the angles of these other triangles.
+Since the top and the bottom edge of the rectangle are parallel lines, and this high partners is a transversal.
+This angle up here must have the same measure as a plus b down here.
+Also, this skinny angle here must have the same measure as a down here.
+Because this angle is 180 degrees, minus 90 degrees minus this angle here.
+And this angle A is also 180 degrees, the measure of the angles in a triangle minus 90 degrees minus that same angle.
+to cosine squared theta is equal to one plus cosine of two theta.
+So cosine squared theta is equal to one half, plus one half cosine of two theta.
+That's all the triggers in these we're gonna need.
+It may seem like a lot, but remember, they all follow very naturally from my three favorites at the top.
+Well, all these formulas are very useful.
+The ones that are of particular importance for techniques of integration are the first one, that factory and identity and its various forms.
+And the last two.
+In this video, I told you my three favorite trig identities, the Pythagorean identity, the even an odd identities and the angle some formulas.
+From these I derived a bunch of other identities, including a handful that will be particularly useful as we do techniques of integration.
+Remember the angle some formulas, those are the formulas for computing sine of A plus B, and cosine of A plus B.
+I like to sing them, sine, cosine, cosine, sine, cosine, cosine minus sine sine.

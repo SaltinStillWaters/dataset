@@ -1,0 +1,67 @@
+Volumes Using Cross-Sections.
+to x equals B of the area of the cross section at point x, integrated dx.
+If our cross sections are disks, this formula becomes the integral of pi r squared dx, where the radius R is a function of x.
+If instead, the cross sections look like washers, then the volume formula becomes the integral of pi r outer squared minus pi r inner squared dx.
+Again, our outer and our inner are functions of x here.
+These formulas work when they solid a revolution is formed by rotating a region around the x axis or any horizontal line.
+When we rotate around a horizontal line, then our cross sectional discs or washers are perpendicular to the x axis and are thin in the x direction.
+So it makes sense to integrate dx.
+If instead, we want to rotate around the y axis or a vertical line, then our disk or wash our cross sections are going to be perpendicular to the y axis and are going to be thin in the y direction.
+So when rotating around the y axis or a vertical line, we'll need to do our integral with respect to y.
+Our cross sectional area will be a function of y will integrate d y and our bounds of integration will have to be Y values, our formulas will look pretty much the same.
+We'll just have to calculate our Radia and bounds of integration in terms of y instead of x.
+As our first example, let's consider the region bounded by the curve y equals a cube root of x, the x axis and the line x equals eight.
+We want to find the volume of the solid of revolution found by rotating this region around the x axis.
+or cross sections here are going to be discs.
+And these discs are thin in the extraction.
+So we're going to be integrating dx, our smallest x value is zero, and our largest is eight.
+So those are our bounds of integration.
+And we want to integrate pi times the radius squared dx.
+Now the radius of our disks is given by the y coordinate on this curve.
+So we can write r is equal to y, which is equal to the cube root of x according to our equation.
+So we can rewrite the volume as the integral from zero to eight of pi times the cube root of x squared dx, I can pull out the PI and rewrite this integral using exponents and integrate and then evaluate using bounds of integration to get three fifths pi times eight to the five thirds minus zero.
+Now, eight to the five thirds means eight to the 1/3 raised to the fifth power, eight to the 1/3 is two and two to the fifth is 32.
+So this expression simplifies to three fifths pi times 32, or 96/5 A disc here means the inside of a circle.
+The figure on the right is different because it's hollow inside.
+And when we slice it by planes perpendicular to the x axis, we get cross sections that are shaped like washers.
+A washer here means the region in between two concentric circles.
+So for solids of revolution, the cross sections can have the shape of a disk, or the shape of a washer.
+The area of a disk is given by the familiar formula, pi r squared, where r is the radius.
+And the area of a washer can be written as pi times r outer squared minus pi times our inner squared, where our outer is the radius of the big circle, and our inner is the radius of the little circle.
+This formula works because the area of the washer is just the area of the larger circle minus the area of the inside smaller circle.
+Now we know that the volume of any solid that can be sliced into cross sections using planes perpendicular to the x axis is given by v is the integral from x equals a to x equals B of the area of the cross section at point x, integrated dx.
+If our cross sections are disks, this formula becomes the integral of pi r squared dx, where the radius R is a function of x.
+If instead, the cross sections look like washers, then the volume formula becomes the integral of pi r outer squared minus pi r inner squared dx.
+Again, our outer and our inner are functions of x here.
+These formulas work when they solid a revolution is formed by rotating a region around the x axis or any horizontal line.
+When we rotate around a horizontal line, then our cross sectional discs or washers are perpendicular to the x axis and are thin in the x direction.
+So it makes sense to integrate dx.
+If instead, we want to rotate around the y axis or a vertical line, then our disk or wash our cross sections are going to be perpendicular to the y axis and are going to be thin in the y direction.
+So when rotating around the y axis or a vertical line, we'll need to do our integral with respect to y.
+Our cross sectional area will be a function of y will integrate d y and our bounds of integration will have to be Y values, our formulas will look pretty much the same.
+We'll just have to calculate our Radia and bounds of integration in terms of y instead of x.
+As our first example, let's consider the region bounded by the curve y equals a cube root of x, the x axis and the line x equals eight.
+We want to find the volume of the solid of revolution found by rotating this region around the x axis.
+or cross sections here are going to be discs.
+And these discs are thin in the extraction.
+So we're going to be integrating dx, our smallest x value is zero, and our largest is eight.
+So those are our bounds of integration.
+And we want to integrate pi times the radius squared dx.
+Now the radius of our disks is given by the y coordinate on this curve.
+So we can write r is equal to y, which is equal to the cube root of x according to our equation.
+So we can rewrite the volume as the integral from zero to eight of pi times the cube root of x squared dx, I can pull out the PI and rewrite this integral using exponents and integrate and then evaluate using bounds of integration to get three fifths pi times eight to the five thirds minus zero.
+Now, eight to the five thirds means eight to the 1/3 raised to the fifth power, eight to the 1/3 is two and two to the fifth is 32.
+So this expression simplifies to three fifths pi times 32, or 96/5 pie.
+pie.
+As our next example, let's consider the region in the first quadrant bounded by two curves, the curve y equals the cube root of x and y equals 1/4 times x.
+We'll start by rotating this region around the x axis to get this sort of hollow base shape.
+Notice that our cross sections this time are shaped like washers, where the outer circle of the washer is swept out by the curve y equals cube root of x, and the inner circle is swept out by the curve y equals 1/4 X.
+We know our volume is given by the integral of pi times our outer squared minus pi times our inner squared.
+And since our washers are thin in the x direction, we know we'll need to integrate dx, our bounds of integration are just our lowest x value of zero, and our largest x value, which is where these two curves intersect, which is an x value of eight.
+We can confirm that the two curves intersect when x equals eight by setting them equal to each other.
+And solving for x, dividing both sides by x to the 1/3.
+And multiplying both sides by four gives us four equals x to the two thirds.
+And raising both sides to the three halves power gives us x equals four to three halves, or x equals eight.
+As our next example, let's consider the region in the first quadrant bounded by two curves, the curve y equals the cube root of x and y equals 1/4 times x.
+We'll start by rotating this region around the x axis to get this sort of hollow base shape.
+Notice that our cross sections this time are shaped like washers, where the outer circle of the washer is swept out by the curve y equals cube root of x, and the inner circle is swept out by the curve

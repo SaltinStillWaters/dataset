@@ -1,0 +1,50 @@
+Integrals of Rational Functions.
+assume that f is not constant.
+Well, like continuous function on a closed interval has to have a minimum value and a maximum value, which I'll call little m, and big M.
+Now, we know that F's average value on the interval has to be between its maximum value and its minimum value.
+If you don't believe this, consider the fact that all of us values on the interval have to lie between big M and little m.
+And if we integrate this inequality, we get little m times b minus a is less than or equal to the integral of f is less than or equal to big M times b minus a.
+Notice that the first and the last integrals, were just integrating a constant.
+Now if I divide all three sides by b minus a, I can see that little m is less than or equal to the average value of f is less than or equal to big M as I wanted.
+Now, I just need to apply the intermediate value theorem with F average as my number L and little m and big M as my values of f of x one and f of x two.
+The intermediate value theorem says that F average is achieved by f of c for some C in between my x one and x two.
+And therefore, for some C in my interval a b.
+And that proves the mean value theorem for integrals.
+Now I'm going to give a second proof for the mean value theorem for integrals.
+And this time, it's going to be as a corollary to the regular mean value theorem for functions.
+Recall that the mean value theorem for functions, says that if g of x is continuous on a closed interval, and differentiable on the interior of that interval, then there's some number c in the interval, such that the derivative of g at C is equal to the average rate of change of G, across the whole interval from a to b.
+Let's keep the mean value theorem for functions in mind, and turn our attention back to the mean value theorem for integrals.
+I'm going to define a function g of x to be the integral from a to x of f of t dt, where F is the function given to us in the statement of the mean value theorem for integrals.
+Notice that g of A is just the integral from a to a, which is zero.
+Well, g of B is the integral from a to b of our function.
+Now, by the fundamental theorem of calculus, our function g of x is continuous and differentiable on the interval a, b, and g prime of x is equal to f of x.
+And by the mean value theorem for functions, we know that g prime of c has to equal g of b minus g of a over b minus a, for some number c and the interval a b, if we substitute in the three facts above, into our equation below, we get f of c is equal to the integral from a to b of f of t dt minus zero over b minus a, which is exactly the conclusion that we wanted to reach.
+This shows that the mean value theorem for integrals really is the mean value theorem for functions where our function is an integral.
+And this completes the second proof of the mean value theorem for integrals.
+So now I've proved the mean value theorem for integrals in two different ways.
+And I've used a lot of the great theorems of calculus along the way.
+In this video, we'll learn a technique of integration called inner By parts.
+integration by parts is based on the product rule for taking derivatives.
+Recall that the product rule says that when you take the derivative of a product of two functions, that's equal to the derivative of the first function times the second function, plus the first function times the derivative of the second function.
+If we rearrange this formula, by solving for this last term, we get f of x times g prime of x is equal to f of x g of x prime minus f prime of x g of x.
+Now let's integrate both sides of this equation with respect to x.
+The integral of a difference is the difference of the integrals.
+So I can break up this right hand side into two integrals.
+Now the integral of the derivative of f times g is just equal to f times g, by the fundamental theorem of calculus.
+And I carry the rest of the formula down.
+And now I have a formula relating the integral of f times g prime to the integral of f prime times G.
+This formula allows us to rewrite something that might be tricky to integrate, in terms of something that's hopefully easier to integrate.
+Although I've written this formula, using indefinite integrals with no bounds of integration, it would be just as easy to put on bounds of integration.
+Now, the fundamental theorem tells us that the integral of the derivative is the original product of functions evaluated from A to B.
+There's another version of this formula that might be a little easier to remember.
+If we let u equal f of x, and v equal g of x, then do is equal to f prime of x dx using differential notation, and dv is equal to g prime of x dx.
+In this notation, we can rewrite the formula as the integral of u times dv is equal to u times v minus the integral of v, d U.
+since V is our G of X, and D, u is our f prime of x dx.
+Again, we can include bounds of integration, if we're working with definite integrals.
+This will be our key formula for this section.
+and integrating using this formula is called integration by parts.
+Let's use integration by parts to find the integral of x e to the x dx.
+Or for formula for integration by parts, says the integral of u dv is equal to u times v minus the integral of the do.
+So we need to split up our inner grand x e to the x dx into the part that we're going to call you, and a part that we're going to call dv.
+One natural way to split it up is to let u equal x and dv equal e to the x dx.
+But another option might be to make

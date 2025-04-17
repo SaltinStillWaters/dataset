@@ -1,0 +1,53 @@
+Right Angle Trigonometry.
+functions, sine, cosine, tangent, secant, cosecant, and cotangent.
+For right triangles.
+For a right triangle, with sides of length A, B, and C angle theta as drawn, we define sine of theta as the length of the opposite side over the hypothesis, the side that's opposite to our angle theta has measure a and I have partners is this side here with measure C.
+So that would be a oversee for this triangle.
+Cosine of theta is defined as the length of the adjacent side, over the length of hi partners.
+This side here is the side adjacent to theta.
+Of course, the hypothesis is also adjacent to theta, but it's special as a partner, so we don't think of it as the adjacent side.
+So that would be B oversea.
+tangent of theta is the opposite side length over the adjacent side length, so that would be a over b.
+The pneumonic to remember this is so toa, that's sine is opposite over hypotenuse.
+Cosine is adjacent over hypotenuse.
+And tangent is opposite over adjacent.
+In fact, there's a relationship between tangent and sine and cosine.
+Namely, tangent of theta is equal to sine of theta over cosine of theta.
+If you want to see why that's that's because some of theta over cosine of theta is given by a sine, which is opposite over hypothesis, divided by cosine, which is adjacent over hypotenuse.
+If we compute these fractions by flipping and multiplying, the high partners, length cancels, and we just get opposite over adjacent, which is, by definition, tangent of theta.
+There are three more trig functions that are defined in terms of sine, cosine and tangent.
+First of all, their sequence of theta, by definition, that's one over cosine of theta.
+So it's going to be one over the adjacent over the partners, which is the high partners over the adjacent, which in this triangle is C over B.
+cosecant of theta is defined as one over sine theta.
+So that's one over the opposite over the hypotenuse, which is the hypothesis over the opposite.
+And for this triangle, that's going to be C over a.
+Finally, cotangent of theta is defined as one over tan theta.
+So that's going to be one over opposite over adjacent, flip and multiply, I get adjacent over opposite, which in this case is b over a.
+So notice that the values for cotangent cosecant and secant are the reciprocals of the values for tangent, sine and cosine, respectively.
+Let's use these definitions to find the exact values of all six trig functions for the angle theta in this triangle.
+I'll start with a sine of theta.
+That's the opposite of our hypothesis.
+Well, for this angle theta, the opposite side is down here and has measured to the high partners has measured five, sine theta is two over five.
+Cosine theta is adjacent over hypotenuse, but I don't know the value of the side length.
+But fortunately, I can find it using Bagaran theorem says I have a right triangle here, I know that a squared, I'll call the side length A plus B squared, where b is this other leg of the triangle is equal to c squared, where c is the hypothesis.
+So here I have a squared plus two squared equals five squared, which means that a squared plus four equals 25.
+A squared is 21.
+So A is plus or minus the square root of 21.
+But since I'm talking about the length of a side of a triangle, I can just use the positive answer.
+Returning to my computation of cosine theta, I can write it as adjacent, which is the square root of 21.
+Over high partners, which is five, tangent theta is the opposite over the adjacent, so that's going to be two over the square root of 21.
+To compute secant of theta, that's one over cosine theta, so that's going to be one over square root of 21 over five, which is five over the square root of 21.
+The reciprocal of my cosine value.
+cosecant theta is one over sine theta, that's going to be the reciprocal of my sine, so five halves, and cotangent theta is one over tan theta, so it's going to be the reciprocal of my 10 value square root of 21.
+Over to finally, we'll do an application.
+So if we have a kite that's flying at an angle of elevation as the angle from the horizontal of 75 degrees, with a kite length string of 100 meters, we want to find out how high it is I'll call the height Why?
+Well, we want to relate the known quantities this angle, and this hypothesis, to the unknown quantity, the unknown quantity is the opposite side of our triangle.
+So if we use sine of theta equals opposite of our hypothesis, then we can relate these known amounts sine of 75 degrees to our unknown amount y, which is the opposite and our note amount of 100 meters.
+solving for y This gives that y is 100 meters times sine of 75 degrees.
+We can use a calculator to compute sine of 75 degrees.
+Be sure Use degree mode and not radian mode when you type in the 75.
+When I do the computation, I get a final answer of 96.
+59 meters up to two decimal places.
+Notice that we're ignoring the height of the person in this problem.
+To remember the definitions of the trig functions, you can use the pneumonic, so tau, and the fact that secant is the reciprocal of cosine cosecant the reciprocal of sine and cotangent the reciprocal of tangent.
+In this video, I'll use geometry to compute the sine and cosine of a 30 degree

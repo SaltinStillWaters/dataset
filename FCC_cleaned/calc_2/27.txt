@@ -1,0 +1,50 @@
+Comparison Test for Series.
+over.
+Or, as in this example, it could occur on the endpoint of that interval of integration.
+Now, it's possible that both of these situations could occur for the same integral.
+And that's also an improper integral.
+This video will focus on type one improper integrals.
+A type one improper integral, asks us to integrate over an infinite interval.
+To do this, we take the integral over larger and larger finite intervals and take the limit.
+So for example, to find the integral from one to infinity of one over x squared dx, we'll evaluate the integral from one to some finite number T, and then take the limit as t goes off to infinity.
+In symbols, we can write the limit as t goes to infinity of the integral from one to T of one over x squared dx.
+Since one over x squared is the same thing as x to the minus two, we can integrate it to get negative x to the minus one evaluated between one and T, and then take that limit or rewrite this as negative one over x and evaluate on the bounds of integration.
+as t goes to infinity, one over t goes to zero.
+So the limit just comes from this expression, which evaluates to one.
+If we think of it, the integral is representing area, this is a little surprising.
+Even though we're taking the area of an infinitely long region, the area still evaluates to a finite number of one.
+In this situation, we say that the improper integral converges.
+So in general, the improper integral from some finite number a to infinity of f of x dx is defined as the limit as t goes to infinity of the integral from a to T of f of x dx.
+We say that the integral converges if this limit exists as a finite number.
+And we say that the integral diverges if the limit is infinity, or negative infinity, or if it doesn't exist.
+Similarly, we evaluate the integral from negative infinity to some finite number by taking bigger and bigger intervals that extend off to negative infinity.
+That is, this integral is defined as the limit as the left endpoint t goes to negative infinity of the integral from t to b of f of x dx.
+We say that this integral converges if the limit exists as a finite number, and diverges otherwise.
+So to evaluate the integral from negative infinity to negative one of one over x dx, we take the limit as t goes to negative infinity of the integral from t to negative one of one over x dx.
+Now the integral of one over x is ln of the absolute value of x, which will need to integrate between t and negative one and take a limit.
+We evaluate here we know that ln of the absolute value of negative one, that's ln of one which is zero.
+A graph of ln is helpful for evaluating the rest of this expression.
+as t goes to negative infinity, the absolute value of t is going to infinity.
+And so ln is also going to infinity.
+Therefore, our limit is actually negative infinity, and so the integral diverges.
+In this video, we evaluated improper integrals Which the interval that we're integrating over is infinite by looking at the integrals over larger and larger, finite intervals and taking a limit.
+This video is about type two improper integrals.
+These are integrals for which the interval that we're integrating over is finite.
+But the function that we're integrating goes to infinity on that interval.
+To integrate a type to improper integral like this one, or this one, we integrate our function over a larger and larger sub intervals on which the function is finite.
+And then we take a limit.
+So in this first picture, where the function approaches infinity, as x goes to be from the left, we can call that moving endpoint T.
+and evaluate the integral as the limit as that right endpoint t approaches B from the left of the integral from a to T of f of x dx.
+The same definition works if f of x is going to negative infinity instead of infinity.
+In the second picture here, we again want to take a limit of integrals over sub intervals on which the function is finite.
+So in symbols, that says that if f goes to infinity or negative infinity, as x goes to a from the positive side, then the integral from a to b of f of x dx is going to be the limit as t goes to a from the right of the integral from t to b of f of x dx.
+As an example, let's find the area under the curve y equals x over the square root of x squared minus one between the lines of x equals one and x equals two.
+That area can be described as the integral from one to two of our function.
+But this is an improper integral, because the function is going to infinity, as x goes to one from the right.
+So we'll evaluate it by taking the limit as t goes to one from the right of the integral from t to two of the function.
+I'll compute this integral using u substitution, where u is x squared minus one, and d u is 2x dx.
+Since I see an x dx, in my integrand, here, I'll solve for x dx, and I get x dx is equal to one half deal.
+I'm also going to change my bounds of integration, when x is equal to t.
+That means u is equal to t squared minus one.
+And when x is equal to two, u is two squared minus one, that's three.
+So I'll rewrite my integral x dx is the same thing as one half d u, and my square

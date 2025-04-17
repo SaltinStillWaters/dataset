@@ -1,0 +1,96 @@
+[Corequisite] Rational Functions and Graphs.
+rational function is a function that can be written as a ratio or quotient of two polynomials.
+Here's an example.
+The simpler function, f of x equals one over x is also considered a rational function, you can think of one and x as very simple polynomials.
+The graph of this rational function is shown here.
+This graph looks different from the graph of a polynomial.
+For one thing, its end behavior is different.
+The end behavior of a function is the way the graph looks, when x goes through really large positive, or really large negative numbers, we've seen that the end behavior of a polynomial always looks like one of these cases.
+That is why marches off to infinity or maybe negative infinity, as x gets really big or really negative.
+But this rational function has a different type of end behavior.
+Notice, as x gets really big, the y values are leveling off at about a y value of three.
+And similarly, as x values get really negative, our graph is leveling off near the line y equals three, I'll draw that line, y equals three on my graph, that line is called a horizontal asymptote.
+A horizontal asymptote is a horizontal line that our graph gets closer and closer to as x goes to infinity, or as X goes to negative infinity or both.
+There's something else that's different about this graph from a polynomial graph, look at what happens as x gets close to negative five.
+As we approach negative five with x values on the right, our Y values are going down towards negative infinity.
+And as we approach the x value of negative five from the left, our Y values are going up towards positive infinity.
+We say that this graph has a vertical asymptote at x equals negative five.
+vertical asymptote is a vertical line that the graph gets closer and closer to.
+Finally, there's something really weird going on at x equals two, there's a little open circle there, like the value at x equals two is dug out.
+That's called a hole.
+A hole is a place along the curve of the graph where the function doesn't exist.
+Now that we've identified some of the features of our rational functions graph, I want to look back at the equation and see how we could have predicted those features just by looking at the equation.
+To find horizontal asymptotes.
+We need to look at what our function is doing when x goes through really big positive or really big negative numbers.
+Looking at our equation for our function, numerator is going to be dominated by the 3x squared term when x is really big, right, because three times x squared is going to be absolutely enormous compared to this negative 12.
+If x is a big positive or negative number in the denominator, the denominator will be dominated by the x squared term.
+Again, if x is a really big positive or negative number, like a million, a million squared will be much, much bigger than three times a million or negative 10.
+For that reason, to find the end behavior, or the horizontal asymptote, for our function, we just need to look at the terms on the numerator and the term on the denominator that have the highest exponent, those are the ones that dominate the expression in size.
+So as x gets really big, our functions y values are going to be approximately 3x squared over x squared, which is three.
+That's why we have a horizontal asymptote at y equals three.
+Now our vertical asymptotes, those tend to occur where our denominator of our function is zero.
+That's because the function doesn't exist when our denominator is zero.
+And when we get close to that place where our denominator is zero, we're going to be dividing by tiny, tiny numbers, which will make our Y values really big in magnitude.
+So to check where our denominators zero, let's factor our function.
+In fact, I'm going to go ahead and factor the numerator and the denominator.
+So the numerator factors, let's see, pull out the three, I get x squared minus four, factor in the denominator, that factors into X plus five times x minus two, I can factor a little the numerator a little further, that's three times x minus two times x plus two over x plus 5x minus two.
+Now, when x is equal to negative five, my denominator will be zero, but my numerator will not be zero.
+That's what gives me the vertical asymptote at x equals negative five.
+Notice that when x equals two, the denominators zero, but the numerator is also zero.
+In fact, if I cancelled the x minus two factor from the numerator and denominator, I get a simplified form for my function that agrees with my original function, as long as x is not equal to two.
+That's because when x equals two, the simplified function exists, but the original function does not it's zero over zero, it's undefined.
+But for every other x value, including x values near x equals two, our original function is just the same as this function.
+And that's why our function only has a vertical asymptote at x equals negative five, not one at x equals two, because the x minus two factor is no longer in the function after simplifying, it does have a hole at x equals two, because the original function is not defined there, even though the simplified version is if we want to find the y value of our hole, we can just plug in x equals two into our simplified version of our function, that gives a y value of three times two plus two over two plus seven, or 12 ninths, which simplifies to four thirds.
+So our whole is that to four thirds.
+Now that we've been through one example in detail, let's summarize our findings.
+We find the vertical asymptotes and the holes by looking where the denominator is zero.
+The holes happen where the denominator and numerator are both zero and those factors cancel out.
+The vertical asymptotes are all other x values where the denominator is zero, we find the horizontal asymptotes by considering the highest power term on the numerator and the denominator, I'll explain this process in more detail in three examples.
+In the first example, if we circle the highest power terms, that simplifies to 5x over 3x squared, which is five over 3x.
+As x gets really big, the denominator is going to be huge.
+So I'm going to be dividing five by a huge, huge number, that's going to be going very close to zero, and therefore we have a horizontal asymptote at y equals zero.
+In the second example, the highest power terms, 2x cubed over 3x cubed simplifies to two thirds.
+So as x gets really big, we're going to be heading towards two thirds and we have a horizontal asymptote at y equals two thirds.
+In the third example, the highest power terms x squared over 2x simplifies to x over two.
+As x gets really big, x over two is getting really big.
+And therefore, we don't have a horizontal asymptote at all.
+This is going to infinity, when x gets through goes through big positive numbers, and is going to negative infinity when x goes through a big negative numbers.
+So in this case, the end behavior is kind of like that of a polynomial, and there's no horizontal asymptote.
+In general, when the degree of the numerator is smaller than the degree of the denominator, we're in this first case where the denominator gets really big compared to the numerator and we go to zero.
+In the second case, where the degree of the numerator and the degree of the denominator equal, things cancel out, and so we get a horizontal asymptote at the y value, that's equal to the ratio of the leading coefficients.
+Finally, in the third case, when the degree of the numerator is bigger than the degree of the denominator, then the numerator is getting really big compared to the denominator, so we end up with no horizontal asymptote.
+Finally, let's apply all these observations to one more example.
+Please pause the video and take a moment to find the vertical asymptotes, horizontal asymptotes and holes for this rational function.
+To find the vertical asymptotes and holes, we need to look at where the denominator is zero.
+In fact, it's going to be handy to factor both the numerator and the denominator.
+Since there if there are any common factors, we might have a hole instead of a vertical asymptote.
+The numerator is pretty easy to factor.
+Let's see, that's 3x times x plus one for the denominator, first factor out an x.
+And then I'll factor some more using a guess and check method.
+I know that I'll need a 2x and an X to multiply together to the to x squared, and I'll need a three and a minus one or also minus three and a one.
+Let's see if that works.
+If I multiply out 2x minus one times x plus three, that does give me back my 2x squared plus 5x minus three, so that checks out.
+Now, I noticed that I have a common factor of x in both the numerator and the denominator.
+So that's telling me I'm going to have a hole at x equals zero.
+In fact, I could rewrite my rational function by cancelling out that common factor, and that's equivalent, as long as x is not equal to zero.
+So the y value of my whole is what I get when I plug zero into my simplified version, that would be three times zero plus one over two times zero minus one times zero plus three, which is three over negative three or minus one.
+So my whole is at zero minus one.
+Now all the remaining places in my denominator that make my denominator zero will get me vertical asymptotes.
+So I'll have a vertical asymptote, when 2x minus one times x plus three equals zero, that is, when 2x minus one is zero, or x plus three is zero.
+In other words, when x is one half, or x equals negative three.
+Finally, to find my horizontal asymptotes, I just need to consider the highest power term in the numerator and the denominator.
+That simplifies to three over 2x, which is bottom heavy, right?
+When x gets really big, this expression is going to zero.
+And that means that we have a horizontal asymptote at y equals zero.
+So we found the major features of our graph, the whole, the vertical asymptotes and the horizontal asymptotes.
+Together, this would give us a framework for what the graph of our function looks like.
+horizontal asymptote at y equals zero, vertical asymptotes at x equals one half, and x equals minus three at a hole at the point zero minus one.
+plotting a few more points, or using a graphing calculator of graphing program, we can see that our actual function will look something like this.
+Notice that the x intercept when x is negative one corresponds to where the numerator of our rational function or reduced rational function is equal to zero.
+That's because a zero on the numerator that doesn't make the denominator zero makes the whole function zero.
+And an X intercept is where the y value of the whole function is zero.
+In this video, we learned how to find horizontal asymptotes of rational functions.
+By looking at the highest power terms, we learned to find the vertical asymptotes and holes.
+By looking at the factored version of the functions, the holes correspond to the x values that make the numerator and denominator zero, his corresponding factors cancel.
+The vertical asymptotes correspond to the x values that make the denominator zero, even after factoring any any common any common factors in the numerator denominator.
+This video focuses on the behavior of functions and graphs, as

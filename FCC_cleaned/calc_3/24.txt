@@ -1,0 +1,76 @@
+Computing Derivatives from the Definition.
+with calculating derivatives using the limit definition of derivative.
+Well, there are actually two versions of the limit definition of derivative.
+And I'll mostly use this one, the limit as h goes to zero of f of a plus h minus f of a over h.
+If you're interested, you can try reworking the problems using the alternative definition of derivative.
+The limit as x goes to a of f of x minus F of A over x minus a first example, find the derivative of f of x, which is one over the square root of three minus x at x equals negative one.
+Well, in other words, we want to find f prime of negative one.
+So that's the limit as h goes to zero of f of negative one plus h minus f of negative one over h.
+Using our definition of f, that's the limit of one over the square root of three minus negative one plus h minus one over the square root of three minus negative one, all over h.
+Let me clean this up a bit.
+So this is one over the square root of, let's see, it's three minus negative one, so that's three plus one, or four minus h minus one over the square root of four over h.
+And I guess I can replace the square root of four with two.
+Now, unfortunately, I can't just evaluate this by plugging in H equals zero, because if I try that, I get one of these zero over zero indeterminate forms.
+You'll run across these a lot when calculating derivatives by definition, it kind of makes sense because remember the context where computing slopes of secant lines as these points get closer and closer together.
+So our rise and our runs are both going to zero.
+So it makes sense, we'll get these zero or zero indeterminate forms, we have to use our algebraic tricks that we learned before, for rewriting our expression in a way that we can calculate the limit.
+And I see two things going on here, there's square roots lurking, and there's also fractions.
+So it's anybody's guess which trick I might want to apply First, the trick for square roots, which would be multiplying the top and the bottom by the conjugate.
+And the trick for fractions, which would be adding together my fraction for the common denominator.
+I guess I'll try my fraction trick first.
+So my common denominator for my two fractions here, is just the product of these two denominators.
+So that's the square root of four minus h times two.
+Let me rewrite my fractions with this common denominator.
+Continuing here, I get the limit of two minus the square root of four minus h over squared, a four minus h times two, all over h.
+instead of dividing by H, let me multiply by one over h.
+And let's see here, let's see if we can evaluate by plugging in H equals zero at this stage.
+Unfortunately, when I try to plug in, I'm still getting the zero of zero indeterminate form.
+But I'm not out of tricks, I haven't used the conjugate trick yet.
+So let's try multiplying the top and the bottom by the conjugate of the top.
+Once I multiply out here, I'll get four plus two square to four minus h minus two square to four minus h, minus the square root of four minus h squared, that's going to cancel out nicely.
+And on the bottom, I have two h squared of four minus h times two plus square to four minus h, I'll leave that factored for now.
+That's good thing, I have unlimited space here, I'm kind of need it.
+Now on the numerator, I'm going to get four minus four minus h, is carrying the denominator along for the ride now, oh, I see something good.
+I see in the numerator, we're getting a four minus four plus H.
+Subtracting out those fours to zero, and then cancelling out, my H is that divide by each other, I think I finally got something that I can evaluate without getting a zero over zero indeterminate form.
+All right, so here we've got.
+So as h goes to zero, I'm just going to get one over two times the square root of four times two plus a squared of four, which equals 1/16.
+So by now, you may have forgotten what the original problem was, I think I have it, let's go back up here, we were looking for the derivative of f of x, which was one over a squared of three minus x at x equals negative one, we set up the limit definition, did a bunch of algebra first adding together fractions, then using the conjugate trick, and eventually found that that derivative equaled 1/16.
+The algebra doesn't get much harder than this problem here.
+In this next example, we're asked to find the equation of the tangent line to y equals x cubed minus 3x at x equals two.
+So the slope of the tangent line is given by the derivative, f prime of two.
+So let's calculate the derivative first.
+f prime of two is the limit as h goes to zero of f of two plus h minus f of two, all over h.
+So that's the limit of two plus h cubed minus three times two plus h minus two cubed minus three times two.
+I'm just plugging in first two plus h for x in the definition of my function, and then I'm plugging in two for x.
+Now all of that needs to be over h.
+Once again, if I try to plug in zero for H in these expressions, I'm just gonna get something that all cancels out to zero at the top, and also have zero at the bottom, one of my classic zero over zero indeterminate forms.
+So instead, I need to use algebra to simplify things.
+And hope I can calculate the limit after that.
+So a good trick for simplifying here is to multiply out two plus h cubed multiplies out to two cubed, plus three times two squared times h, plus three times two times h squared plus h cubed.
+I'm getting this from the formula for multiplying out of cubic which I've memorized.
+But you can also get it more slowly just by writing out two plus h times itself three times and, and distributing.
+Now I need to subtract three times two, and three times h.
+And finally, I needed to subtract my two cubed and then add my three times to all this over h.
+Now if you have my terms cancel out to zero here, two cubed minus two cubed.
+And let's see I've got a minus three times two and a plus three times two.
+And I notice all the terms that are left have H's and so I'm going to factor out an H from the top from the remaining terms here.
+And that gives me let's say, three times two squared, so that's 12, plus six H, plus h squared minus three over h.
+Now, h divided by h is one.
+So I'm just left with the limit as h goes to zero of 12 plus six h plus h squared minus three, as h goes to zero, I can just plug in H zero, and I get 12 minus three, which is nine.
+So my slope of my tangent line, my derivative is nine.
+I'm not quite done, I still need to find the equation of the tangent line, I just know that its slope is nine.
+So the equation of the tangent line equation of any line is something like y equals mx plus b.
+and here m is nine.
+So I have y equals 9x plus b, I just need to find the intercept B.
+Now, usually, to find the intercept, I need a plug in a point.
+what point do I have here to plug in?
+Well, remember, we're talking about a tangent line here.
+So we've got the point of tangency, the point where x equals two, and the corresponding y value is y equals two cubed minus three times two, or two.
+So my tangent line has to go through the point to two, which means if I plug in this point for x and y, I get two equals nine times two plus b, which means that B has to equal negative 16.
+So the equation of my tangent line then becomes y equals 9x minus 16.
+I found that by first calculating the derivative to get my slope, and then using the point of tangency, plugging in the x value to get the y value, and plugging Matt in to get b to finish off the equation.
+So in this video, we used our tricks for evaluating limits algebraically to compute some derivatives, using the definition of derivative.
+This is pretty labor intensive.
+So fortunately, pretty soon, we'll learn some shortcut methods for calculating derivatives without resorting to the definition.
+We've seen that the derivative of a function y equals

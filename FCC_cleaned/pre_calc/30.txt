@@ -1,0 +1,66 @@
+Law of Sines.
+necessarily right triangles.
+It's especially useful when we know two angles and one side and it can also be used in this situation where we know two sides and an angle Let's not between them.
+The Law of Sines says that for a triangle with angles A, B and C, opposite two sides, lowercase a, b, and c respectively.
+The sine of angle A divided by the length of side A is equal to the sine of B over B, which is also equal to the sine of C over C.
+Notice that we're taking the sine of the three angles, and dividing by the three opposite side lengths.
+Suppose we know that angle A is 55 degrees, angle C is 67 degrees, and Side B is 20 degrees, we want to solve the triangle, that is find the length of the other sides and the measure of the third angle.
+Since we know two angles already, we can find the third angle by subtracting from 180 degrees.
+So angle B is 58 degrees.
+Now I can use the Law of Sines to find my remaining side lengths.
+To find side A, I'll use the fact that sine of angle A over side length A is equal to sine of angle B over side length B.
+Since I already know three of these quantities, angle A, angle B, and side length B, I can plug in and solve for the unknown side length a to solve or multiply both sides by a and then multiply both sides by 20 over the sine of 58 degrees.
+That gives me that a is equal to 20 sine 55 oversized 58, which works out to 19.
+32.
+Please pause the video and use the same method to find side length See, this time, we need to involve sign of C and sidelink see in our equation.
+And we could use either the B's or the A's since they're both known for the other side.
+I'll plug in values as I can and solve for C.
+C works out to 21.
+71.
+In the previous example, we use the Law of Sines to find the side lengths of a triangle, because we already knew the angles.
+In this next example, we're given some side lengths.
+And we're going to need to solve for some angles.
+This can be tricky, because when we write down the law of sines and start solving for an angle, we first solve for sine of the angle.
+But there can be two plausible angles that both have the same sign.
+For example, if sine of the angle happens to be one half, then the angle could be either 30 degrees, or 150 degrees.
+In some cases, this can lead to two possible triangles that both have the conditions given When this happens, and there are two possible solutions.
+I call this an ambiguous case.
+With that warning, let's figure out the details of this example.
+Plugging in my given information into the law of signs, I'll focus on this portion of the equation where there's only one unknown to solve for.
+First off, solve for sine of A, which is eight times sine 40 degrees over seven, which works out to 0.
+7346.
+From the unit circle, I can see that there'll be two possible angles with this sine one in the first quadrant and one in the second quadrant.
+If I take sine inverse of both sides of my equation, I get the solution in the first quadrant, which is 47.
+27 degrees.
+Since this angle right here is 47.
+27 degrees, so is this angle here.
+And so the angle that I want in the second quadrant I can get by going 180 minus 47.
+27 degrees, which works out to 132.
+731 of these possible angles.
+It's an acute angle, the other one and obtuse angle, but both are possible configurations are sketch the possible triangles in both triangles, side length A and B are the same and angle B is the same But everything else is different.
+We can continue to solve for the other angle and side in each case.
+In the left side, I'll call this case one, we can solve for angle C, by taking 180 degrees minus angle B minus angle A.
+That gives us an angle just over 90 degrees 92.
+73 degrees.
+Now we can use either the Law of Sines or the law of cosines.
+To find the final side length C, I'll use the Law of Sines again.
+So I plug in the value of angle C into this part of my equation, and solve for C to get C equals sine 92.
+73 degrees times seven over sine 40 degrees, which works out to 10.
+88.
+For the right hand triangle, we can carry out the same steps to get angle C.
+And now plug in to the Law of Sines.
+To get side length to see, we finish solving for the two possible triangles.
+With these given side length, and angle.
+In this video, we use the Law of Sines to solve a triangle in two different situations.
+In the first situation, we had two angles and the side between them.
+So that's an A s, a triangle, for angle, side angle.
+And that situation, we ended up just using the law of science to solve for side lengths, and there was no ambiguity.
+In the second situation, we had a triangle where we knew two side lengths and an angle that was not between them.
+So I'll call that s s A.
+And in that case, we did find two possible triangles.
+That would work.
+The SSA situation doesn't always give two possible triangles.
+Sometimes when you go through the two cases, and figure out all the other angles and side lengths, you'll get an impossible situation.
+And the angle, for example, that's got to be negative.
+Because the other two angles add up to more than 180 degrees by but you do have to be on the lookout for two possible triangles when you're solving a triangle with the SSA information given.
+This video describes some of the features

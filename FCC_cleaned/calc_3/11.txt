@@ -1,0 +1,55 @@
+Limits at Infinity and Algebraic Tricks.
+at infinity of rational functions.
+Let's find the limit as x goes to infinity of this rational function.
+The numerator and the denominator of this rational function are each getting arbitrarily large as x goes to infinity.
+One way to see this is by estimating the graphs, the graph of the numerator looks like a parabola pointing upwards.
+And the graph of the denominator looks like some kind of cubic.
+So something like this, for both of these graphs, as x goes to infinity, y also goes to infinity.
+So this is an infinity over infinity indeterminate form.
+And just like the zero have over zero indeterminate forms we saw earlier, and infinity over infinity and determinant form could turn out to be absolutely anything.
+So we're going to use algebra to rewrite this expression in a different form that makes it easier to evaluate.
+Specifically, we're going to factor out the highest power of x that we can find from the numerator, and then from the denominator.
+In the numerator, I'm going to factor out the highest power I see in the numerator, which is x squared.
+When I factor x squared out of 5x squared, I get five, when I factor x squared out of negative 4x, that's like dividing negative 4x by x squared, so I get negative four divided by x.
+You can check this works by distributing the x squared and making sure we get back to the original expression.
+Now the highest power of x SC, and the denominator is x cubed.
+So I'll factor out an x cubed for each from each of those terms, I get a two minus 11 over x plus 12 over x squared.
+Because factoring out an x cubed is the same as dividing each term by x cubed and then writing the x cubed on the side.
+Now, we can rewrite again by canceling an x squared from the top and the bottom to get the limit of one over x times five minus four over x over two minus 11 over x plus 12 over x squared.
+Now as x goes to infinity, four over x goes to zero, because I'm dividing for by larger and larger numbers.
+Similarly 11 over x goes to zero, and 12 over x squared goes to zero.
+So I end up with one over x, which is itself going to zero times something that's going to five halves.
+So my limit is going to be zero times five halves, which is just zero.
+I've actually been applying limit laws to do these last steps, which is fine, because my component limits exist as finite numbers.
+Something that wasn't true from my original expression when I had infinity over infinity.
+In this example, we're asked to find the limit as x goes to negative infinity of a different rational expression.
+I encourage you to stop the video and try it for yourself first.
+In this example, the highest power of x in the numerator is x cubed, and the highest power in the denominator is also x cubed.
+Factoring out the x cubed from the numerator, we get x cubed times three plus six over x plus 10 over x squared, plus two over x cubed.
+And factoring out the x cubed from the denominator, we get x cubed times two, plus one over X plus five over x cubed.
+Now the x cubes cancel, and all these parts go to zero.
+So when the dust clears here, our limit is just three halves.
+In this next example, the highest power in the numerator is x to the fourth, and the highest power in the denominator is x squared.
+So we factor out the x to the fourth from the numerator and the x squared from the denominator and cancel as much as we can.
+A lot of these pieces are going to zero.
+So our limit is the same as the limit of x squared times one over negative five.
+As x goes to negative infinity, x squared is positive and goes towards positive infinity.
+multiplying by negative fifth turns it negative, but doesn't change the fact that the magnitudes are getting arbitrarily large.
+Therefore, our final limit is negative infinity.
+Now let's look at the same three examples again, more informally, using a heuristic to get the same conclusions.
+In the first example, the term 5x squared dominates the numerator, because x squared is much larger than x when x is large.
+In the denominator, the highest power of x to x cubed dominates, because x cubed is much larger than x squared, or x when x is large.
+If we ignore all the other terms in the numerator and denominator, and just focus on the important terms, which have the highest powers, then we can rewrite our limit as the limit of 5x squared over 2x cubed, which is the same as the limit as x goes to infinity of five over 2x, just by canceling Xs, which is zero as x goes to infinity.
+Similarly, if we just focus on the highest power terms in the numerator and denominator in the second example, we get the limit of 3x cubed over 2x cubed, which simplifies to the limit of three halves, which is just three halves.
+In the third example, the highest power terms are x to the fourth and negative 5x squared.
+And we rewrite the limit using only these highest power terms and simplify, and we get the limit as x goes to negative infinity of x squared over negative five, which is negative infinity as before, for rational functions, in general, looking at the highest power terms, lets you reliably predict the limits that infinity and negative infinity when the degree of the numerator is less than the degree of the denominator, then the limit as x goes to infinity, or negative infinity, is zero.
+As an example, one above, when the degree of the numerator is equal to the degree of the denominator, then the limit is just the quotient of the highest power terms, which is how we got three halves as the limit in the second example.
+And finally, if the degree of the numerator is greater than the degree of the denominator, then the limit is going to be plus or minus infinity.
+Like it was in the third example.
+These shortcut rules are really handy.
+But it's important to also understand the technique of factoring out highest power terms.
+Since this technique can be used more generally.
+This video gave two methods for computing limits and infinity of rational functions.
+First, there's the formal method of factoring out highest power terms and simplifying.
+Second, there's the informal method of looking at the degree of the numerator and the degree of the denominator, and focusing on the highest power terms.
+In

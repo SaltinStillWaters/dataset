@@ -1,0 +1,61 @@
+Power Series Interval of Convergence Example.
+x is equal to infinity or minus infinity.
+And the limit as x goes to a pub g of x is equal to infinity or minus infinity.
+We saw an example of a zero over zero indeterminate form in the introductory slide.
+One example of a infinity over infinity indeterminate form is the limit as x goes to infinity of 3x squared minus 2x plus seven divided by negative 2x squared plus 16.
+Notice that as x goes to infinity, the numerator goes to infinity while the denominator goes to negative infinity.
+In these definitions of indeterminate form, it's possible for a to be a negative infinity or infinity, like it is in this example, but it doesn't have to be loopy.
+talls rule can be applied when f and g are differentiable functions.
+And the derivative of g is nonzero in some open interval around a except possibly in a under these conditions, if the limit as x goes to a of f of x over g of x is zero over zero or infinity over infinity indeterminate form, then the limit as x goes to a of f of x over g of x is the same thing as the limit as x goes to a of f prime of x over g prime of x, provided that the second limit exists, or as plus or minus infinity.
+Let's look at loopy towers rule in action.
+In this example, as x goes to infinity, the numerator x goes to infinity and the denominator three to the x also goes to infinity.
+So we have an infinity over infinity indeterminate form.
+So let's try applying lopi tos rule, our original limit should equal the limit as x goes to infinity of the derivative of the numerator, which is one divided by the derivative of the denominator, which is ln of three times three to the x, provided that the second limit exists or as infinity or negative infinity.
+In the second limit, the numerators just fixed at one.
+And the nominator goes to infinity as x goes to infinity.
+Therefore, the second limit is just zero.
+And so the original limit evaluates to zero as well.
+In this example, we have a zero over zero indeterminate form, because as x goes to zero, sine of x and x, both go to zero in the numerator, and sine of x cubed goes to zero in the denominator.
+So using loopy tells rule, I'll try to evaluate instead, the limit I get by taking the derivative of the numerator and the derivative of the denominator.
+The derivative of sine x minus x is cosine of x minus one, and the derivative of sine x cubed is three times sine x squared times cosine x using the chain rule.
+Now let me try to evaluate the limit again.
+As x goes to zero, cosine of x goes to one, so the numerator here goes to zero.
+As x goes to zero, sine of x goes to zero and cosine of x goes to one, so the denominator also goes to zero.
+So I still have a zero over zero and determinant form.
+And I might as well try applying leptitox rule again.
+But before I do, I want to point out that cosine of x is going to one.
+So the cosine of x here really isn't affecting my limit.
+And in fact, I could rewrite my limit of a product as a product of limits, where the second limit is just one and can be ignored from here on out.
+Now apply lopatok rule on this first limit, which is a little bit easier to take the derivatives.
+And so the derivative of the top is minus sine x.
+And the derivative of the bottom is six times sine x times cosine x.
+Now let's try to evaluate again, as x goes to zero, our numerator is going to zero and our denominator is also going to zero.
+But hang on, we don't have to apply lobby towels rule again, because we can actually just simplify our expression, the sine x on the top cancels with the sine x on the bottom.
+And we can just rewrite our limit as the limit of negative one over six cosine of x, which evaluates easily to negative one, six.
+In this example, I want to emphasize that it's a good idea to simplify after each application of lopi talls rule.
+If you don't simplify, like we did here, then you might be tempted to apply lopatok rule and additional time when you don't need to, which might make the problem more complicated.
+Instead of simpler to solve this video, we were able to evaluate zero over zero and infinity over infinity indeterminate forms by replacing the limit of f of x over g of x with the limit of f prime of x over g prime of x, provided that second limit exists.
+This trick is known as lopi tels rule.
+We've seen that lopatok rule can be used to evaluate limits of the form zero over zero, or infinity over infinity.
+In this video, we'll continue to use loopy towels rule to evaluate additional indeterminate forms, like zero times infinity, infinity to the 00 to the zero, and one to the infinity.
+under these conditions, if the limit as x goes to a of f of x over g of x is zero over zero or infinity over infinity indeterminate form, then the limit as x goes to a of f of x over g of x is the same thing as the limit as x goes to a of f prime of x over g prime of x, provided that the second limit exists, or as plus or minus infinity.
+Let's look at loopy towers rule in action.
+In this example, as x goes to infinity, the numerator x goes to infinity and the denominator three to the x also goes to infinity.
+So we have an infinity over infinity indeterminate form.
+So let's try applying lopi tos rule, our original limit should equal the limit as x goes to infinity of the derivative of the numerator, which is one divided by the derivative of the denominator, which is ln of three times three to the x, provided that the second limit exists or as infinity or negative infinity.
+In the second limit, the numerators just fixed at one.
+And the nominator goes to infinity as x goes to infinity.
+Therefore, the second limit is just zero.
+And so the original limit evaluates to zero as well.
+In this example, we have a zero over zero indeterminate form, because as x goes to zero, sine of x and x, both go to zero in the numerator, and sine of x cubed goes to zero in the denominator.
+So using loopy tells rule, I'll try to evaluate instead, the limit I get by taking the derivative of the numerator and the derivative of the denominator.
+The derivative of sine x minus x is cosine of x minus one, and the derivative of sine x cubed is three times sine x squared times cosine x using the chain rule.
+Now let me try to evaluate the limit again.
+As x goes to zero, cosine of x goes to one, so the numerator here goes to zero.
+As x goes to zero, sine of x goes to zero and cosine of x goes to one, so the denominator also goes to zero.
+So I still have a zero over zero and determinant form.
+And I might as well try applying leptitox rule again.
+But before I do, I want to point out that cosine of x is going to one.
+So the cosine of x here really isn't affecting my limit.
+And in fact, I could rewrite my limit of a product as a product of limits, where the second limit is just one and can be ignored from here on out.
+Now apply lopatok rule on

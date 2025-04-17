@@ -1,0 +1,44 @@
+Half Angle Formulas.
+is about the half angle formulas for computing cosine of theta over two and sine of theta over two.
+Cosine of theta over two is either a plus or minus the square root of one plus cosine theta over two.
+To figure out whether to use plus or minus, you need to know something about what quadrant, the angle theta over two is, if you're expecting cosine theta over two to be negative, then you're gonna need the negative sign, you're expecting this cosine to be positive, then of course, you want the positive sign since the square root of something is always positive.
+Notice that this formula always makes sense, because the inside of the square root sign is always going to be positive or zero.
+Since cosine theta can't be any more negative than negative one, we have a similar formula for sine of theta over two, and that's plus or minus the square root of one minus cosine theta over two.
+Notice that the formulas for both cosine of A half angle and sine of A half angle both have cosine in them, they just differ by the positive or negative side and the inside of the square root.
+To see why these formulas hold, let's recall the form In the last four double angles, we know that cosine of 2x is equal to two cosine squared x minus one, or we can write cosine of 2x as one minus two, sine squared of x.
+Of course, of course, we can also write cosine of 2x as cosine squared x minus sine squared x.
+But this one won't be relevant to our discussion right now.
+So I'm going to start with this first formula.
+And I'm going to make the substitution theta equals to x, that allows me to write cosine theta is two cosine squared theta over two minus one.
+Since if theta is 2x, then x is theta over two.
+Now, I'm going to solve for cosine of theta over two.
+So I'll add one to both sides.
+Divide both sides by two and take the square root of both sides.
+That gives me that cosine of theta over two is going to be plus or minus the square root of cosine theta plus one over two, which is the formula we're looking for.
+I can carry a similar process out with the second formula.
+I'll substitute theta for 2x, which means that x is theta over two, that gives me cosine theta is one minus two sine squared theta over two.
+Now I'll solve for sine of theta over two.
+I'll start by adding two sine squared theta over two to both sides.
+Next, I'll subtract cosine theta from both sides.
+Next, I'll divide both sides by two.
+And finally, I'll take the square root of both sides.
+That gives me sine of theta over two is plus or minus the square root of one minus cosine theta over two, which is the formula I was looking for.
+Now that we've got our formulas, and know where they come from, let's use them in an example.
+Let's suppose that sine theta is four fifths, and theta is between pi over two and pi.
+That means it's in the second quadrant, we want to find the exact values of cosine theta over two and sine theta over two.
+Since theta is between pi over two and pi, theta over two will be between pi over four and pi over two.
+So theta over two is somewhere in the first quadrant.
+That means that cosine theta over two and sine theta over two will both be positive.
+Let me write down my half angle formulas.
+And I know I can ignore the negative version and just use the positive version.
+Now unfortunately, I'm just given the value of sine theta and not cosine theta, so I can't plug in directly, first, I have to use this value to figure out what cosine might be.
+I'll draw a right triangle with angle theta.
+And since sine of theta is four fifths, I'll decorate the triangle with a four and a five on the hypothesis.
+That means that this side length is going to be five squared square root of five squared minus four squared, which is the square root of nine, which is three.
+That means that cosine theta is going to be either plus or minus three fifths because it's adjacent over hypotenuse.
+Now since I'm in the angle, the second quadrant for my angle theta, cosine is actually going to be negative three fifths.
+Now I can plug into my formulas, I get that cosine of theta over two is going to be the square root of one minus three fifths over two.
+That simplifies to the square root of two fifths divided by two, which is the square root of 1/5, or one over the square root of five.
+Sine of theta over two is the square root of one minus cosine theta, so that's one minus negative three fifths over two, that's the square root of one plus three fifths, or eight fifths over to the square root of four fifths or two over the square root of five.
+In this video, we found formulas for the cosine of A half angle, and the sine of A half angle and use them in an example.
+solving a right triangle means

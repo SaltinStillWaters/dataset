@@ -1,0 +1,83 @@
+Polynomial and Rational Inequalities.
+involving rational expressions like this one.
+Let's start with a simple example.
+Maybe a deceptively simple example.
+If you see the inequality, x squared is less than four, you might be very tempted to take the square root of both sides and get something like x is less than two as your answer.
+But in fact, that doesn't work.
+To see why it's not correct, consider the x value of negative 10.
+Negative 10 satisfies the inequality, x is less than two since negative 10 is less than two.
+But it doesn't satisfy the inequality x squared is less than four, since negative 10 squared is 100, which is not less than four.
+So these two inequalities are not the same.
+And it doesn't work to solve a quadratic inequality just to take the square root of both sides, you might be thinking part of why this reasoning is wrong, as we've ignored the negative two option, right?
+If we had the equation, x squared equals four, then x equals two would just be one option, x equals negative two would be another solution.
+So somehow, our solution to this inequality should take this into account.
+In fact, a good way to solve an inequality involving x squares or higher power terms, is to solve the associated equation first.
+But before we even do that, I like to pull everything over to one side, so that my inequality has zero on the other side.
+So for our equation, I'll subtract four from both sides to get x squared minus four is less than zero.
+Now, I'm going to actually solve the associated equation, x squared minus four is equal to zero, I can do this by factoring to x minus two times x plus two is equal to zero.
+And I'll set my factors equal to zero, and I get x equals two and x equals minus two.
+Now, I'm going to plot the solutions to my equation on the number line.
+So I write down negative two and two, those are the places where my expression x squared minus four is equal to zero.
+Since I want to find where x squared minus four is less than zero, I want to know where this expression x squared minus four is positive or negative, a good way to find that out is to plug in test values.
+So first, a plug in a test value in this area of the number line, something less than negative to say x equals negative three.
+If I plug in negative three into x squared minus four, I get negative three squared minus four, which is nine minus four, which is five, that's a positive number.
+So at negative three, the expression x squared minus four is positive.
+And in fact, everywhere on this region of the number line, my expression is going to be positive, because it can jump from positive to negative without going through a place where it's zero, I can figure out whether x squared minus four is positive or negative on this region, and on this region of the number line by plugging in test value similar way, evaluate the plug in between negative two and two, a nice value is x equals 00 squared minus four, that's negative four and negative number.
+So I know that my expression x squared minus four is negative on this whole interval.
+Finally, I can plug in something like x equals 10, something bigger than two, and I get 10 squared minus four.
+Without even computing that I can tell that that's going to be a positive number.
+And that's all that's important.
+Again, since I want x squared minus four to be less than zero, I'm looking for the places on this number line where I'm getting negatives.
+So I will share that in on my number line.
+It's in here, not including the endpoints.
+Because the endpoints are where my expression x squared minus four is equal to zero, and I want it strictly less than zero, I can write my answer as an inequality, negative two is less than x is less than two, or an interval notation as soft bracket negative two to soft bracket.
+Our next example, we can solve similarly, first, we'll move everything to one side, so that our inequality is x cubed minus 5x squared minus 6x is greater than or equal to zero.
+Next, we'll solve the associated equation by factoring.
+So first, I'll write down the equation.
+Now I'll factor out an x.
+And now I'll factor the quadratic.
+So the solutions to my equation are x equals 0x equals six and x equals negative one, I'll write the solutions to the equation on the number line.
+So that's negative one, zero, and six.
+That's where my expression x times x minus six times x plus one is equal to zero.
+But I want to find where it's greater than or equal to zero.
+So again, I can use test values, I can plug in, for example, x equals negative two, either to this version of expression, or to this factored version.
+Since I only care whether my answer is positive or negative, it's sometimes easier to use the factored version.
+For example, when x is negative two, this factor is negative.
+But this factor, x minus six is also negative when I plug in negative two for x.
+Finally, x plus one, when I plug in negative two for x, that's negative one, that's also negative.
+And a negative times a negative times a negative gives me a negative number.
+If I plug in something, between negative one and zero, say x equals negative one half, then I'm going to get a negative for this factor, a negative for this factor, but a positive for this third factor.
+Negative times negative times positive gives me a positive for a test value between zero and six, let's try x equals one.
+Now I'll get a positive for this factor a negative for this factor, and a positive for this factor.
+positive times a negative times a positive gives me a negative.
+Finally, for a test value bigger than six, we could use say x equals 100.
+That's going to give me positive, positive positive.
+So my product will be positive.
+Since I want values where my expression is greater than or equal to zero, I want the places where it equals zero.
+And the places where it's positive.
+So my final answer will be close bracket negative one to zero, close bracket union, close bracket six to infinity.
+As our final example, let's consider the rational inequality, x squared plus 6x plus nine divided by x minus one is less than or equal to zero.
+Although it might be tempting to clear the denominator and multiply both sides by x minus one, it's dangerous to do that, because x minus one could be a positive number.
+But it could also be a negative number.
+And when you multiply both sides by a negative number, you have to reverse the inequality.
+Although it's possible to solve the inequality this way, by thinking of cases where x minus one is less than zero or bigger than zero, I think it's much easier just to solve the same way as we did before.
+So we'll start by rewriting so that we move all terms to the left and have zero on the right.
+Well, that's already true.
+So the next step would be to solve the associated equation.
+That is x squared plus 6x plus nine over x minus one is equal to zero.
+That would be where the numerator is 0x squared plus 6x plus nine is equal to zero.
+So we're x plus three squared is zero, or x equals negative three.
+There's one extra step we have to do for rational expressions.
+And that's we need to find where the expression does not exist.
+That is, let's find where the denominator is zero.
+And that said, x equals one.
+I'll put all those numbers on the number line.
+The places where am I rational expression is equal to zero, and the place where my rational expression doesn't exist, then I can start in with test values.
+For example, x equals minus four, zero and to work.
+If I plug those values into this expression here, I get a negative answer a negative answer and a positive answer.
+The reason I need to conclude the values on my number line where my denominators zero is because I can my expression can switch from negative to positive by passing through a place where my rational expression doesn't exist, as well as passing by passing flew through a place where my rational expression is equal to zero.
+Now I'm looking for where my original expression was less than or equal to zero.
+So that means I want the places on the number line where my expression is equal to zero, and also the places where it's negative.
+So my final answer is x is less than one, or an interval notation, negative infinity to one.
+In this video, we solved polynomial and rational inequalities by making a number line and you think test values to make a sine chart.
+The distance formula can be used to find the distance between two points, if we know their

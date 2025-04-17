@@ -1,0 +1,91 @@
+Functions.
+This video introduces functions and their domains and ranges.
+A function is a correspondence between input numbers usually the x values and output numbers, usually the y values, that sends each input number to exactly one output number.
+Sometimes a function is thought of as a rule or machine in which you can feed in x values as input and get out y values as output.
+So, non mathematical example of a function might be the biological mother function, which takes as input any person and it gives us output their biological mother.
+This function satisfies the condition that each input number object person in this case, get sent to exactly one output per Because if you take any person, they just have one biological mother.
+So that rule does give you a function.
+But if I change things around and just use the the mother function, which sends to each person, their mother, that's no longer going to be a function because there are some people who have more than one mother, right, they could have a biological mother and adopted mother, or a mother and a stepmother, or any number of situations.
+So since there's, there's at least some people who you would put it as input, and then you'd get like more than one possible output that violates this, this rule of functions, that would not be a function.
+Now, most of the time, we'll work with functions that are described with equations, not in terms of mothers.
+So for example, we can have the function y equals x squared plus one.
+This can also be written as f of x equals x squared plus one.
+Here, f of x is function notation that stands for the output value of y.
+Notice that this notation is not representing multiplication, we're not multiplying f by x, instead, we're going to be putting in a value for x as input and getting out a value of f of x or y.
+For example, if we want to evaluate f of two, we're plugging in two as input for x either in this equation, or in that equation.
+Since F of two means two squared plus one, f of two is going to equal five.
+Similarly, f of five means I plug in five for x, so that's gonna be five squared plus one, or 26.
+Sometimes it's useful to evaluate a function on a more complicated expression involving other variables.
+In this case, remember, the functions value on any expression, it's just what you what you get when you plug in that whole expression for x.
+So f of a plus three is going to be the quantity a plus three squared plus one, we could rewrite that as a squared plus six a plus nine plus one, or a squared plus six a plus 10.
+When evaluating a function on a complex expression, it's important to keep the parentheses when you plug in for x.
+That way, you evaluate the function on the whole expression.
+For example, it would be wrong to write f of a plus three equals a plus three squared plus one without the parentheses, because that would imply that we were just squaring the three and not the whole expression, a plus three.
+Sometimes a function is described with a graph instead of an equation.
+In this example, this graph is supposed to represent the function g of x.
+Not all graphs actually represent functions.
+For example, the graph of a circle doesn't represent a function.
+That's because the graph of a circle violates the vertical line test, you can draw a vertical line and intersect the graph in more than one point.
+But our graph, it left satisfies the vertical line test, any vertical line intersects the graph, and at most one point, that means is a function, because every x value will have at most one y value that corresponds to it.
+Let's evaluate g have to note that two is an x value.
+And we'll use the graph to find the corresponding y value.
+So I look for two on the x axis, and find the point on the graph that has that x value that's right here.
+Now I can look at the y value of that point looks like three, and therefore gf two is equal to three.
+If I try to do the same thing to evaluate g of five, I run into trouble.
+Five is an x value, I look for it on the x axis, but there's no point on the graph that has that x value.
+Therefore, g of five is undefined, or we can say it does not exist.
+The question of what x values and y values make sense for a function leads us to a discussion of domain and range.
+The domain of a function is all possible x values that makes sense for that function.
+The range is the y values that make sense for the function.
+In this example, we saw that the x value of five didn't have a corresponding y value for this function.
+So the x value of five is not in the domain of our function J.
+To find the x values in the domain, we have to look at the x values that correspond to points on the graph.
+One way to do that is to take the shadow or projection of the graph onto the x axis and see what x values are hit.
+It looks like we're hitting all x values starting at negative eight, and continuing up to four.
+So our domain is the x's between negative eight, and four, including those endpoints.
+Or we can write this in interval notation as negative eight comma four with square brackets.
+To find the range of the function, we look for the y values corresponding to points on this graph, we can do that.
+By taking the shadow or projection of the graph onto the y axis, we seem to be hitting our Y values from negative five, up through three.
+So our range is wise between negative five and three are an interval notation negative five, three with square brackets.
+If we meet a function that's described as an equation instead of a graph, one way to find the domain and range are to graph the function.
+But it's often possible to find the domain at least more quickly, by using algebraic considerations.
+We think about what x values that makes sense to plug into this expression, and what x values need to be excluded, because they make the algebraic expression impossible to evaluate.
+Specifically, to find the domain of a function, we need to exclude x values that make the denominator zero.
+Since we can't divide by zero, we also need to exclude x values that make an expression inside a square root sign negative.
+Since we can't take the square root of a negative number.
+In fact, we need to exclude values that make the expression inside any even root negative because we can't take an even root of a negative number, even though we can take an odd root like a cube root of a negative number.
+Later, when we look at logarithmic functions, we'll have some additional exclusions that we have to make.
+But for now, these two principles should handle all functions We'll see.
+So let's apply them to a couple examples.
+For the function in part A, we don't have any square root signs, but we do have a denominator.
+So we need to exclude x values that make the denominator zero.
+In other words, we need x squared minus 4x plus three to not be equal to zero.
+If we solve x squared minus 4x plus three equal to zero, we can do that by factoring.
+And that gives us x equals three or x equals one, so we need to exclude these values.
+All other x values should be fine.
+So if I draw the number line, I can put on one and three and just dig out a hole at both of those.
+And my domain includes everything else on the number line.
+In interval notation, this means my domain is everything from negative infinity to one, together with everything from one to three, together with everything from three to infinity.
+In the second example, we don't have any denominator to worry about, but we do have a square root sign.
+So we need to exclude any x values that make three minus 2x less than zero.
+In other words, we can include all x values for which three minus 2x is greater than or equal to zero.
+Solving that inequality gives us three is greater than equal to 2x.
+In other words, x is less than or equal to three halves, I can draw this on the number line, or write it in interval notation.
+Notice that three halves is included, and that's because three minus 2x is allowed to be zero, I can take the square root of zero, that's just zero.
+And that's not a problem.
+Finally, let's look at a more complicated function that involves both the square root and denominator.
+Now there are two things I need to worry about.
+I need the denominator to not be equal to zero, and I need the stuff inside the square root side to be greater than or equal to zero.
+from our earlier work, we know the first condition means that x is not equal to three, and x is not equal to one.
+And the second condition means that x is less than or equal to three halves.
+Let's try both of those conditions on the number line.
+x is not equal to three and x is not equal to one means we've got everything except those two dug out points.
+And the other condition x is less than or equal to three halves means we can have three halves and everything To the left of it.
+Now to be in our domain and to be legit for our function, we need both of these conditions to be true.
+So I'm going to connect these conditions with N and N, that means we're looking for a numbers on the number line that are colored both red and blue.
+So I'll draw that above in purple.
+So that's everything from three halves to one, I have to dig out one because one was a problem for the denominator.
+And then I can continue for all the things that are colored both both colors red and blue.
+So my final domain is going to be, let's see negative infinity, up to but not including one together with one, but not including it to three halves, and I include three half since that was colored, both red and blue.
+Also, in this video, we talked about functions, how to evaluate them, and how to find domains and ranges.
+This video gives the graphs of some commonly used functions that I call the

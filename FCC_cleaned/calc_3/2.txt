@@ -1,0 +1,52 @@
+Graphs and Limits.
+the idea of limits through some graphs and examples.
+When I worked in San Francisco, I used to eat at Julia sushi and salad bar that had an interesting price structure, the food there cost $10 a pound.
+But if you happen to load up your plate to exactly one pound, you got a free lunch.
+So let's let y equals f of x represent the price of your lunch in dollars as a function of its weight x in pounds.
+And I want to write an equation to describe f of x as a piecewise defined function.
+It makes sense to use a piecewise defined function.
+Because there are two situations, the weight x could be exactly one pound, or it could be different from one pound.
+If the weight is exactly one pound, then f of x The price is zero.
+But if x is different from a pound, then the price is 10 times x as a graph, my function is going to follow the line y equals 10x.
+But when x is exactly one, my function is going to have a value of zero and not 10.
+The open circle here represents a hole or a place where a point is missing on the graph.
+Now when x is near one, but not equal to one, then the F of X values that is the y values are very close to 10.
+In the language of limits, we say that the limit as x approaches one of F have x is equal to Ted.
+More informally, we can write, as x approaches one, f of x approaches 10.
+Notice that the value of f at one is actually equal to zero, not 10.
+And so the limit of f of x as x goes to one, and the value of f at one, are not equal.
+This illustrates the important fact that the limit here as x goes to one doesn't care about the value of f, at one, it only cares about the value of f, when x is near one, in general, for any function f of x, and for real numbers, a and L, the limit as x goes to a of f of x equals L means that f of x gets arbitrarily close to L, as x gets arbitrarily close to a, in other words, as x heads towards a, f of x heads towards L.
+Let me draw this as a picture.
+In this picture, I can say that the limit as x goes to a of f of x is L.
+Because by taking a sufficiently small interval around a of x values, I can guarantee that my y values, my f of x values lie in an arbitrarily small interval around L.
+Now the limit doesn't care about s value at exactly a.
+So if I change the function, if I change the functions value at a, or even leave the function undefined at a, the limit is still L.
+But the limit does care about what happens for x values on both sides of a.
+If, for example, the function didn't even exist for x values bigger than a, then we could no longer say that the limit, as x approached a was out, the limit would not exist.
+In other words, the limit of f of x is L, only if the y values are approaching now, as x approaches a from both the left and the right.
+For the function g of x graph below, the limit as x goes to two of g of x does not exist.
+Because the y values approach one as the x values approach two from the left and the y values approach three, as the x values approach two from the right.
+Although the limit doesn't exist, we can say that the left sided limit exists.
+And we write this as limit as x goes to two from the left of g of x is equal to one.
+The superscript minus sign here means that x is going to two from the left side.
+In other words, the x values are less than two and approaching two.
+Similarly, we can talk about right sided limits.
+In this example, the limit as x goes to two from the right side of g of x is three.
+And here, the superscript plus side means that we're approaching two from the right side.
+In other words, our x values are greater than to and approaching to.
+In general, the limit as x goes to a minus of f of x equals L means that f of x approaches L, as x approaches a from the left, and the limit as x goes to a plus of f of x equals our means that f of x approaches our as x approaches a from the right limits from the left or from the right are also called one sided limits.
+In this last example, let's look at the behavior of y equals h of x graph below when x is near negative two.
+As x approaches negative two from the right, our Y values are getting arbitrarily large, larger than any real number we might choose.
+We can write this in terms of limits by saying the limit as x goes to negative two from the right of h of x is equal to infinity.
+As x approaches negative two from the left, the y values are getting smaller.
+In fact, they go below any negative real number we might choose.
+In terms of limits, we can say that the limit as x goes to negative two from the left of h of x is negative infinity.
+In this example, the limit of h of x as x goes to negative two, not specifying from the left or the right means we have to approach negative two from both sides.
+And so this limit does not exist, because the limits from the left and the limit from the right are heading in opposite directions.
+I want to mention that some people say that the limits from the right and the limits from the left also do not exist.
+Because the functions don't approach any finite number.
+I prefer to say that these limits do not exist as a finite number.
+But they do exist as infinity and negative infinity.
+This video introduced the idea of limits, and one sided limits and infinite limits.
+This video gives some examples of when limits fail to exist.
+For this function, 

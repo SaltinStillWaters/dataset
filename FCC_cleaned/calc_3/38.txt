@@ -1,0 +1,50 @@
+Special Trigonometric Limits.
+from.
+cosine of A plus B is equal to cosine of A cosine of B minus sine A, sine B.
+So if we want cosine of two theta, that's just cosine of theta plus theta, which is cosine theta, cosine theta, minus sine theta, sine theta by plugging in beta for a and b, this can be rewritten as cosine squared theta minus sine squared theta, which is exactly the formula above.
+Now there are a couple other formulas for cosine of two theta that are also popular.
+One of them is one minus two sine squared theta.
+And the other one is cosine of two theta is two cosine squared theta minus one, you can get each of these two formulas from the original one using the Pythagorean identity.
+We know that cosine squared theta plus sine squared theta is one.
+So cosine squared theta is one minus sine squared theta.
+If I plug that into my original formula, which I've copied here, so I'm plugging in, instead of cosine squared, I'm gonna write one minus sine squared theta, I still have a nother minus sine squared theta.
+So that's the same thing as one minus twice science grid data, which is exactly what I'm looking for.
+Similarly, I can use the Pythagorean identity to write sine squared theta as one minus cosine squared theta.
+Again, I'll take this equation and copy it below.
+But this time, I'm going to plug in for sine squared right here.
+So that gives me cosine of two theta is cosine squared theta minus the quantity one minus cosine squared theta.
+That simplifies to two cosine squared theta minus one after distributing the negative sign and combining like terms.
+So I have one double angle formula for sine of two theta.
+And I have three versions of the double angle formula for cosine of two theta.
+So I have one double angle formula for sine of two theta.
+And I have three versions of the double angle formula for cosine of two theta.
+Now let's use these formulas in some examples.
+Let's find the cosine of two theta.
+If we know that cosine theta is negative one over root 10, and theta terminates in quadrant three, we have a choice of three formulas for cosine of two theta, I'm going to choose the second one, because it only involves cosine if they had on the right side.
+And they already know my value for cosine theta.
+Of course, I could use one of the other ones, Now let's use these formulas in some examples.
+Let's find the cosine of two theta.
+If we know that cosine theta is negative one over root 10, and theta terminates in quadrant three, we have a choice of three formulas for cosine of two theta, I'm going to choose the second one, because it only involves cosine if they had on the right side.
+And they already know my value for cosine theta.
+Of course, I could use one of the other ones, but then I'd have to work out the value of sine theta.
+So plugging in, I get cosine of two theta is twice negative one over root n squared minus one, which simplifies to two tenths minus one or negative eight tenths, negative four fifths.
+Finally, let's solve the equation two cosine x plus sine of 2x equals zero.
+What makes this equation tricky is that one of the trig functions has the argument of just x, but the other tree function has the argument of 2x.
+So I want to use my double angle formula to rewrite sine of 2x.
+I'll copy down the two cosine x, and now sine of 2x is equal to two sine x cosine x.
+At this point, I see a way to factor my equation, I can factor out a two cosine x from both of these two terms.
+That gives me one plus sine x and the product there is equal to zero.
+That means that either two cosine x is equal to zero One plus sine x is equal to zero, that simplifies to cosine x equals zero, or sine x is negative one.
+Using my unit circle, I see that cosine of x is zero at pi over two, and three pi over two, while sine of x is negative one at three pi over two, there's some redundancy here, but my solution set is going to be pi over two plus multiples of two pi, and three pi over two plus multiples of two pi.
+This video proved the double angle formulas, sine of two theta is two sine theta cosine theta.
+and cosine of two theta is cosine squared theta minus sine squared theta.
+It also proved to alternate versions of the equation for cosine of two theta.
+This video introduces higher order derivatives and notation.
+We've seen that f prime of x denotes the derivative of the function f of x, but f prime of x is also itself a function.
+So we can take its derivative, that would be f prime prime of x, which is usually written instead as f double prime of x.
+This is called the second derivative of f.
+And it means the derivative of the derivative, we can also talk about the third derivative, f triple prime of x, which might sometimes be written f to the three of x if you get tired of writing all those primes, and we can talk about the nth derivative f, parentheses n of x, the parentheses here are important to show that it's the nth derivative.
+The second, third and nth derivative are referred to as higher order but then I'd have to work out the value of sine theta.
+So plugging in, I get cosine of two theta is twice negative one over root n squared minus one, which simplifies to two tenths minus one or negative eight tenths, negative four fifths.
+Finally, let's solve the equation two cosine x plus sine of 2x equals zero.
+What makes this equation tricky

@@ -1,0 +1,60 @@
+Derivative of e^x.
+identities called the Pythagorean identities.
+The first one is the familiar cosine squared theta plus sine squared theta equals one.
+The second one says tan squared theta plus one equals secant squared theta.
+And the third one goes cotangent squared theta plus one equals cosecant squared theta.
+Let's start by proving that cosine squared theta plus sine squared theta equals one.
+I'll do this by drawing the unit circle with a right triangle inside it by the definition of sine and cosine, the x&y coordinates of this top point, r cosine theta and sine theta, the high partners, my triangle is one, since that's the radius of my unit circle.
+Now the length of the base of my triangle is the same thing as the x coordinate of this point.
+So that's equal to cosine theta.
+The height of this triangle is the same thing as the y coordinate of this point.
+So that's sine theta.
+Now the Pythagoras theorem for right triangles, says this side length squared plus that side length squared is equal to the hypothenar squared.
+So by the Pythagorean theorem, we have that cosine theta squared plus sine theta squared equals one squared, I can rewrite that as cosine squared theta plus sine squared theta equals one, since one squared is one, and cosine squared theta is just a shorthand notation for cosine theta squared.
+That completes the proof of the first Pythagorean identity, at least in the case, when the angle theta is in the first quadrant.
+In the case, when the angle was in a different quadrant, you can use symmetry to argue the same identity holds.
+But I won't give the details here.
+To prove the next Pythagorean identity, tan squared theta plus one equals secant squared theta, let's use the first without your an identity, which said that cosine squared theta plus sine squared theta equals one, I'm going to divide both sides of this equation by cosine squared theta.
+Now I'm going to rewrite the left side by breaking apart the fraction into cosine squared theta over cosine squared theta plus sine squared theta over cosine squared theta.
+Now cosine squared theta over cosine squared theta is just one.
+And I can rewrite the next fraction as sine of theta over cosine of theta squared.
+That's because when I square a fraction, I can just square the numerator and square the denominator.
+And sine squared theta is shorthand for sine of theta squares.
+Similarly, for cosine squared theta.
+Now on the other side of the equal sign, I can rewrite this fraction as one over cosine theta squared.
+Again, that's because when I square the fraction, I just get the one squared, which is one divided by the cosine theta squared, which is this.
+I'm almost done.
+sine theta over cosine theta is the same thing as tangent theta.
+And one over cosine theta is the same thing as secant theta.
+Using the shorthand notation, that says one plus tan squared theta equals sequencer data, which, after rearranging is exactly the identity that we were looking for.
+The proof of the third for that green identity is very similar.
+Once again, I'll start with the identity cosine squared theta plus sine squared theta equals one, and this time, I'll divide both sides by sine squared theta.
+I'll break up the fraction on the left.
+And now I'll rewrite my fractions as cosine theta over sine theta squared plus one equals one over sine theta squared.
+cosine over sine can be written As cotangent, and one over sine can be written as cosecant.
+That gives me the identity that I'm looking for.
+We've now proved three trig identities.
+The first one, we proved using the unit circle, and the Pythagorean Theorem.
+The second and third identities, we proved by using the first identity, and a bit of algebra.
+The sum and difference formulas are formulas for computing the sine of a sum of two angles, the cosine of a sum of two angles, the sine of a difference of two angles, and the cosine of a difference of two angles.
+Please pause the video for a moment to think about this question.
+Is it true that the sine of A plus B is equal to the sine of A plus the sine of B?
+No, it's not true.
+And we can see by an example, if we plug in say, A equals pi over two and B equals pi, than the sine of pi over two plus pi, is the same thing as a sine of three pi over two, which is negative one.
+Whereas the sine of pi over two plus the sine of pi is equal to one plus zero, which is one, negative one is not equal to one.
+So this equation does not hold for all values of a and b.
+There are a few values of a and b for which it does hold.
+For example, if a is zero, and B is zero, but it's not true in general, instead, we need more complicated formulas.
+It turns out that the sine of the sum of two angles A plus B is given by sine of A cosine of B plus cosine of A, sine of B.
+The cosine of A plus B is given by cosine A cosine B minus sine A sine Bay.
+I like to remember these with a song, sine cosine cosine sine cosine cosine minus sine sine.
+Please feel free to back up the video and sing along with me, I encourage you to memorize the two formulas for the sine of a cosine squared theta plus sine squared theta equals one, and this time, I'll divide both sides by sine squared theta.
+I'll break up the fraction on the left.
+And now I'll rewrite my fractions as cosine theta over sine theta squared plus one equals one over sine theta squared.
+cosine over sine can be written As cotangent, and one over sine can be written as cosecant.
+That gives me the identity that I'm looking for.
+We've now proved three trig identities.
+The first one, we proved using the unit circle, and the Pythagorean Theorem.
+The second and third identities, we proved by using the first identity, and a bit of algebra.
+The sum and difference formulas are formulas for computing the sine of a sum of two angles, the cosine of a sum of two angles, the sine of a difference of two angles, and the cosine of a difference of two angles.
+Please pause the video for a moment to think

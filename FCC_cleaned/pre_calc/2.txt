@@ -1,0 +1,58 @@
+Maximums and minimums on graphs.
+minimums for functions from their graphs.
+We'll start with some definitions.
+A function f of x has an absolute maximum at the x value of x equals C, if the y value at x equals C is as big as it ever gets.
+We can write this more precisely by saying that f of c, that's the y value at x equals C is bigger than or equal to f of x, that's the y value at some other x value for all x values in the domain of f, that biggest y value f a c is called the absolute maximum value for F.
+And the point with an x value and a y value given is called an absolute maximum point.
+If I have a graph of a function, then the absolute maximum value, f of c is the highest value that function ever achieves.
+And the absolute maximum point is the point where it achieves that value.
+Now it's possible for a function to have more than one absolute maximum point, if there happens to be a tie where that highest value is achieved.
+But a function can only have at most one absolute maximum value.
+function f of x has an absolute minimum at x equals C.
+If the y value at x equals C is as small as it ever gets.
+We can write this more precisely by saying that f of c is less than or equal to f of x for all x values in the domain of f.
+the y value f of c is called the absolute minimum value of f.
+And the point c f of c is called an absolute minimum point in the graph of f of x.
+f of c is now The lowest y value that the graph ever achieves.
+And the point c f of c is the point where it achieves this very low y value.
+For example, this function has an absolute minimum value of about negative eight, and it has an absolute minimum point with coordinates, three, negative eight.
+If this function stops here, and has domain from x values just from zero to four, then the function will have an absolute maximum value of 10, achieved at the point with coordinates for 10.
+If however, the function keeps going on forever, then it will have no absolute maximum value at all.
+absolute maximum minimum values can also be called global maximum and minimum values.
+A function f of x has a local maximum at x equals C.
+If the y value at the x value of c is bigger than any y values nearby, it doesn't have to be the biggest y value anywhere in the domain.
+For example, for this function, there's bigger y values up here, it just has to be the biggest y value nearby, or more precisely, in an open interval of X values around C.
+We can write this by saying that f of c is bigger than or equal to f of x for all x values, and an open interval around C, the y value f OC is called a local maximum value for F.
+And the point with coordinates c f OC is called a local maximum point, a function f of x has a local minimum at x equals C.
+If f of c is less than or equal to f of x, for all x values in an open interval around the y value f of c is called a local minimum value.
+And the point with coordinate c f a c is called a local minimum point.
+A function might have many local minimum values.
+In this example, assuming that the domain is from zero to four, we have a local minimum point at x equals three, because this point here is the lowest point anywhere nearby.
+It also happens to be an absolute minimum point.
+Turning our attention to local maximum points.
+This function has a local maximum point at one to say, because this point here is the highest point anywhere nearby, even though it's not the highest point anywhere in the domain since their highest points higher points over here.
+So we have a local max point at one two, which is not an absolute max.
+different sources use different conventions as far as whether the point 410 up here counts as a local maximum point or not.
+Some sources do consider it a local maximum, since it's the highest point anywhere nearby.
+But other sources say that it doesn't count as a local maximum, for the technical reason that you can't get an open interval values around four because the function is not defined in an open interval around four because it's domain stops at four.
+So I'll just write this as a caution that some sources do not consider for 10 to be a local max point, because f is not defined.
+In an open interval around x equals four, local maximum and minimum values can also be called relative maximum and minimum values.
+Please pause the video for a moment to mark all local maximum minimum points on the graph of this function, as well as all absolute max and min points.
+The function has a local max point here at the point with coordinates approximately say 2.
+7 3.
+3 It's a local max point because it's the highest point anywhere nearby.
+There's a local min point right here at the point with coordinates to to, since this is the lowest point anywhere nearby.
+If this point actually existed, it would also be a local main points as well as an absolute min point.
+But this drilled out circle means that point is not actually part of the graph.
+So there's no local min point here, and no absolute min points.
+The point here with coordinates 04, is considered by some sources to be a local max point, but by other sources is not considered a local max point.
+Since the function is not defined in an open interval around zero, turning our attention to absolute maximum and points while there's no absolute max points as the function keeps going up and up and up forever.
+There's also no absolute min points, because the function just keeps going down and down a little by little and never actually achieves a lowest value.
+Now if we're talking about local maximum values, that's just the y values of the local maxima endpoints.
+So there's a local max value at this y value of 3.
+3.
+And there's a local min value of two this points y value.
+There are no absolute max or min values for this function.
+In this video, we defined absolute and local, max and min points and values.
+This video is about symmetry of graphs and functions.
+We say that a graph

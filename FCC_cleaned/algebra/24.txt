@@ -1,0 +1,30 @@
+Standard Form and Vertex Form for Quadratic Functions.
+a quadratic and standard form looks like y equals A x squared plus bx plus c, where a, b and c are real numbers, and a is not zero.
+a quadratic function in vertex form looks like y equals a times x minus h squared plus k, where a h and k are real numbers, and a is not zero.
+When a functions in vertex form, it's easy to read off the vertex is just the ordered pair, H, okay.
+This video explains how to get from vertex form two standard form and vice versa.
+Let's start by converting this quadratic function from vertex form to standard form.
+That's pretty straightforward, we just have to distribute out.
+So if I multiply out the X minus three squared, I get minus four times x squared minus 6x plus nine plus one, distributing the negative four, I get negative 4x squared plus 24x minus 36 plus one.
+So that works out to minus 4x squared plus 24x minus 35.
+And I have my quadratic function now in standard form.
+Now let's go the other direction and convert a quadratic function that's already in standard form into vertex form.
+That is, we want to put it in the form of g of x equals a times x minus h squared plus k, where the vertex is at h k.
+To do this, it's handy to use the vertex formula.
+The vertex formula says that the x coordinate of the vertex is given by negative over to a, where A is the coefficient of x squared, and B is the coefficient of x.
+So in this case, we get an x coordinate of negative eight over two times two or negative two.
+To find the y coordinate of the vertex, we just plug in the x coordinate into our formula for a g of x.
+So that's g of negative two, which is two times negative two squared plus eight times negative two plus six.
+And that works out to be negative two by coincidence.
+So the vertex for our quadratic function has coordinates negative two, negative two.
+And if I want to write g of x in vertex form, it's going to be a times x minus negative two squared plus minus two.
+That's because remember, we subtract H and we add K.
+So that simplifies to g of x equals a times x plus two squared minus two.
+And finally, we just need to figure out what this leading coefficient as.
+But notice, if we were to multiply, distribute this out, then the coefficient of x squared would end up being a.
+So therefore, the coefficient of x squared here, which is a has to be the same as the coefficient of x squared here, which we conveniently also called a, in other words, are a down here needs to be two.
+So I'm going to write that as g of x equals two times x plus two squared minus two, lots of twos in this problem.
+And that's our quadratic function in vertex form.
+If I want to check my answer, of course, I could just distribute out again, I'd get two times x squared plus 4x, plus two, minus two, in other words, 2x squared plus 8x plus six, which checks out to exactly what I started with.
+This video showed how to get from vertex form to standard form by distributing out and how to get from standard form to vertex form by finding the vertex using the vertex formula.
+Suppose you have a quadratic function in the form y equals x squared plus bx plus c, and

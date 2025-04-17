@@ -1,0 +1,97 @@
+Factoring - Additional Examples.
+which of these first five expressions factor and which one does not.
+The first expression can be factored by pulling out a common factor of x from each term.
+So that becomes x times x plus one.
+The second example can be factors as a difference of two squares, since x squared minus 25 is something squared, minus something else squared.
+And we know that anytime we have something like a squared minus b squared, that's a plus b times a minus b.
+So we can factor this as X plus five times x minus five.
+The third one is a sum of two squares, there's no way to factor a sum of two squares over real numbers.
+So this is the one that does not factor.
+just for completeness, let's look at the next to this next one does factor by grouping.
+When we factor by grouping, we pull up the biggest common factor out of the first two terms, that would be an x squared, that becomes x squared times x plus two.
+And then we factor as much as we can add the next two terms, that would be a three times x plus two.
+Notice that the x plus two factor now occurs in both of the resulting terms.
+So we can pull that x plus two out and get x plus two times x squared plus three, we can't factor any further because x squared plus three doesn't factor.
+Finally, we have a quadratic, this also factors.
+And I like to factor these also using a factoring by grouping trick.
+So first, what I do is I multiply the coefficient of x squared and the constant term, five times eight is 40.
+I'll write that on the top of my x.
+Now I take the coefficient of the x term, that's negative 14, and I write that on the bottom part of the x.
+Now I'm looking for two numbers that multiply to 40 and add to negative 14.
+Sometimes I can just guess numbers like this, but if not, I start writing out factors of 40.
+So factors of 40, I could do one times 40.
+Well, now I just noticed, I'm trying to add to a negative number.
+So if I use two positive factors, there's no way there's going to add to a negative number.
+It's better for me to use negative numbers, that factor 40, a negative times a negative still multiplies to 40.
+But they have a chance of adding to a negative number.
+So but negative one and negative 40, of course, don't work, they don't add to negative 14, they add to negative 41.
+So let me try some other factors.
+The next biggest number that divides 40, besides one is two, so I'll try negative two and negative 20.
+Those add to negative 22.
+That doesn't work.
+Next one that divides 40 would be four, so I'll try negative four and negative 10.
+Aha, we have a winner.
+So negative four plus negative 10 is negative 14, negative four times negative 10 is positive 40.
+We've got it.
+Alright, so the next step is to use factoring by grouping, we're going to first split up this negative 14x as negative 4x minus 10x.
+And carry down the eight and the 5x squared.
+Notice that this works, because I picked negative four and negative 10 to add up to negative 14, so so negative 4x minus 10x, will add up to negative 14x.
+So I've got the same expression, just just expand it out a little bit.
+Now I have four terms, I can do factoring by grouping, so I can group the first two terms and factor out the biggest thing I can that will be n x times 5x minus four.
+And now I'll factor the biggest thing I can out of these two numbers, including the the negative.
+So that becomes, let's see, I can factor out a negative two and that becomes 5x minus four since negative two times minus four is eight.
+All right, I've got the same 5x plus four in both my terms, so factoring by grouping is going swimmingly, I can factor out the 5x minus four from both those terms and I get the x minus two, and I factored this quadratic.
+If I want to, of course, I can always check my work by distributing out by multiplying out.
+So a check here would be multiplying 5x times x is 5x.
+squared 5x minus 10 to minus two is minus 10x minus four times x is minus 4x.
+And minus four times minus two is plus eight.
+So let's see, this does check out to exactly what it should be.
+So that was the method of factoring a quadratic.
+And all of these factors except for the sum of squares.
+So we saw that factoring by grouping is handy for factoring this expression here.
+It was also handy for factoring the quadratic indirectly, after splitting up the middle term into two terms.
+So how can you tell when a an expression is is appropriate to factor by grouping, there's, there's an easy way to tell that it might be a candidate, and that's that it has four terms.
+So if you see four terms, or in the case of quadratic, you can split it up into four terms, then that's a good candidate for factoring by grouping because you can group the first two terms group the second two terms, factoring by grouping all always work on, on expressions with four terms.
+But, but that's like the first thing to look for.
+So let's just review what are the same main techniques of factoring.
+We saw these on the previous page, we saw there was pull out common factors.
+There's difference of squares.
+There's factoring by grouping.
+There's factoring quadratics.
+And one more that I didn't mention is factoring sums and differences of cubes.
+that uses the formulas, aq minus b cubed is a minus b times a squared plus a b plus b squared.
+And a cubed plus b cubed is a plus b times a squared minus a b plus b squared.
+One important tip when factoring, I always recommend doing this first, pull out the common factors first.
+That'll simplify things and making the rest of factoring easier.
+One more tip is that you might need to do several these factoring techniques in one problem, for example, you might have to first pull out a common factor, then factor a difference of squares.
+And then you might notice that one of your factors is itself a difference of squares, and you have to apply a difference of squares again, so don't stop when you factor a little bit, keep factoring as far as you can go.
+Here are some extra examples of factoring quadratics.
+For you to practice, please pause the video and give these a try.
+For the first one, let's multiply two times negative 14.
+That gives us negative 28.
+And then we'll bring the three down in the bottom of the x.
+Now we're looking for two numbers that multiply to negative 28 and add to three.
+Well, to multiply two numbers to get a negative 28, we'll need one of them to be negative and one of them to be positive.
+So to be one, negative 128, or one, negative 28, those don't work.
+Let's see negative 214 or two, negative 14, those don't work.
+Hey, I just noticed the positive number had better be bigger than the negative number, so they add to a positive number.
+Let's see what comes next.
+How about negative four times seven, four times negative seven, I think four, negative four times seven will work.
+So I'll write those here at negative four, seven, copy down the two z squared.
+And I'll split up the three z into negative four z plus seven z and then minus 14.
+Now factoring by grouping, pull out a to z, that becomes z minus two, pull out a seven and that becomes z minus two again, looking good.
+I've got two z plus seven times z minus two as my factored expression.
+My second expression, I could work at the same way, drawing my axe and factoring by grouping that kind of thing.
+But it's actually going to be easier if I notice first that I can pull out a common factor from all of my terms, though, that'll make things a lot simpler to deal with.
+So notice that a five divides each of these terms, and in fact, I'm going to go ahead and pull out the negative five because I don't like having negatives in front of my squared term.
+So I'm going to pull out a common factor of negative five.
+Again, it would work if I forgot to do this, but it would be a lot more complicated.
+So negative five v squared, this becomes minus, this becomes plus nine V, since nine times negative five is negative 45.
+And this becomes minus 10 cents native 10 times negative five is positive 50.
+Now I can start my x and my factoring by grouping, or I can use kind of a shortcut method, which you may have seen before.
+So I can just put these here, and then I know that whatever numbers go here, they're gonna have to multiply to the negative 10.
+And they're gonna have to add to the nine.
+So that would be plus 10, and a minus one will do the trick.
+Those are all my factoring examples for today.
+I hope you enjoy your snow morning and have a chance to spend some time working in ALEKS.
+Bye.

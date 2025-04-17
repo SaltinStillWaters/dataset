@@ -1,0 +1,56 @@
+Toolkit Functions.
+toolkit functions.
+The first function is the function y equals x, let's plot a few points on the graph of this function.
+If x is zero, y zero, if x is one, y is one, and so on y is always equal to x doesn't have to just be an integer, it can be any real number, and we'll connecting the dots, we get a straight line through the origin.
+Let's look at the graph of y equals x squared.
+If x is zero, y is zero.
+So we go through the origin again, if x is one, y is one, and x is negative one, y is also one, the x value of two gives a y value of four and the x value of negative two gives a y value of four also connecting the dots, we get a parabola.
+That is this, this function is an even function.
+That means it has mirror symmetry across the y axis, the left side it looks like exactly like the mirror image of the right side.
+That happens because when you square a positive number, like two, you get the exact same y value as when you square it's a mirror image x value of negative two.
+The next function y equals x cubed.
+I'll call that a cubic.
+Let's plot a few points when x is zero, y is zero.
+When x is one, y is one, when x is negative one, y is negative one, two goes with the point eight way up here and an x value of negative two is going to give us negative eight.
+If I connect the dots, I get something that looks kind of like this.
+This function is what's called an odd function, because it has 180 degree rotational symmetry occur around the origin.
+If I rotate this whole graph by 180 degrees, or in other words, turn the paper upside down, I'll get exactly the same shape.
+The reason this function has this odd symmetry is because when I cube a positive number, and get its y value, I get n cube the corresponding negative number to get its y value, the negative number cubed gives us exactly the negative of the the y value we get with cubing the positive number.
+Let's look at the next example.
+Y equals the square root of x.
+Notice that the domain of this function is just x values bigger than or equal to zero because we can't take the square root of a negative number.
+Let's plug in a few x values.
+X is zero gives y is 0x is one square root of one is one, square root of four is two, and connecting the dots, I get a function that looks like this.
+The absolute value function is next.
+Again, if we plug in a few points, x is zero goes with y equals 0x is one gives us one, the absolute value of negative one is 122 is on the graph, and the absolute value of negative two is to I'm ending up getting a V shaped graph.
+It also has even or a mirror symmetry.
+Y equals two to the x is what's known as an exponential function.
+That's because the variable x is in the exponent.
+If I plot a few points, two to the zero is one, two to the one is two, two squared is four, two to the minus one is one half.
+I'll plot these on my graph, you know, let me fill in a few more points.
+So let's see.
+two cubed is eight.
+That's way up here and negative two gives Maybe 1/4 1/8 connecting the dots, I get something that's shaped like this.
+You might have heard the expression exponential growth, when talking about, for example, population growth, this is function is represents exponential growth, it grows very, very steeply.
+Every time we increase the x coordinate by one, we double the y coordinate.
+We could also look at a function like y equals three dx, or sometimes y equals e to the x, where E is just a number about 2.
+7.
+These functions look very similar.
+It's just the bigger bass makes us rise a little more steeply.
+Now let's look at the function y equals one over x.
+It's not defined when x is zero, but I can plug in x equals one half, one over one half is to whenever one is one, and one or two is one half.
+By connect the dots, I get this shape in the first quadrant, but I haven't looked at negative values of x, when x is negative, whenever negative one is negative one, whenever negative half is negative two, and I get a similar looking piece in the third quadrant.
+This is an example of a hyperbola.
+And it's also an odd function, because it has that 180 degree rotational symmetry, if I turn the page upside down, it'll look exactly the same.
+Finally, let's look at y equals one over x squared.
+Again, it's not defined when x is zero, but I can plug in points like one half or X, let's see one over one half squared is one over 1/4, which is four.
+And one over one squared, one over two squared is a fourth, it looks pretty much like the previous function is just a little bit more extreme rises a little more steeply, falls a little more dramatically.
+But for negative values of x, something a little bit different goes on.
+For example, one over negative two squared is just one over four, which is a fourth.
+So I can plot that point there, and one over a negative one squared, that's just one.
+So my curve for negative values of x is gonna lie in the second quadrant, not the third quadrant.
+This is an example of an even function because it has perfect mirror symmetry across the y axis.
+These are the toolkit functions, and I recommend you memorize the shape of each of them.
+That way, you can draw at least a rough sketch very quickly without having to plug in points.
+That's all for the graphs of the toolkit functions.
+If we change the equation of a function, then the graph of the function changes or transforms

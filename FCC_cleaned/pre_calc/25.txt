@@ -1,0 +1,57 @@
+Double Angle Formulas.
+theta and cosine of two theta.
+Please pause the video for a moment and see if you think this equation sine of two theta equals two sine theta is true or false.
+Remember that true means always true for all values of theta, were false means sometimes they're always false.
+This equation is false, because it's not true for all values of theta.
+One way to see this is graphically, if I graph y equals sine of two theta, that's like the graph of sine theta, squished in horizontally by a factor of one half.
+On the other hand, if I graph y equals two sine theta, that's like the graph of sine theta stretched vertically by a factor of two.
+These two graphs are not the same.
+So instead, we need a more complicated formula for sine of two theta.
+And that formula is sine of two theta is two sine theta, cosine theta.
+It's not hard to see why that formula works based on the angle song formula.
+Recall that sine of A plus B is equal to sine A, cosine B plus cosine A, sine B.
+Therefore, sine of two theta, which is sine of theta plus theta is going to be sine theta, cosine theta, plus cosine theta sine theta.
+simply plugging in theta for a and theta for B, in this angle, some formula.
+Well, sine theta cosine theta is the same thing as cosine theta sine theta.
+So I can rewrite this as twice sine theta cosine theta.
+That gives me this formula.
+There's also a formula for cosine of two theta.
+And that formula is cosine squared theta minus sine squared theta.
+Again, we can use the angle sum formula to see where this comes from.
+cosine of A plus B is equal to cosine of A cosine A B minus sine A, sine B.
+So if we want cosine of two theta, that's just cosine of theta plus theta, which is cosine theta cosine theta, minus sine theta sine theta by plugging in beta for A and B.
+This can be rewritten as cosine squared theta minus sine squared theta, which is exactly the formula above.
+Now there are a couple other formulas for cosine of two theta that are also popular.
+One of them is one minus two sine squared theta.
+And the other one is cosine of two theta is two cosine squared theta minus one.
+You can get each of these two formulas from the original one using the Pythagorean identity.
+We know that cosine squared theta plus sine squared theta is one.
+So cosine squared theta is one minus sine squared theta.
+If I plug that into my original formula, which I've copied here, so I'm plugging in instead of cosine squared, I'm going to write one minus sine squared theta, I still have a nother minus sine squared theta.
+So that's the same thing as one minus Twice science grade data, which is exactly what I'm looking for.
+Similarly, I can use the Pythagorean identity to write sine squared theta as one minus cosine squared theta.
+Again, I'll take this equation and copy it below.
+But this time, I'm going to plug in for sine squared right here.
+So that gives me cosine of two theta is cosine squared theta minus the quantity one minus cosine squared theta.
+That simplifies to two cosine squared theta minus one after distributing the negative sign, and combining like terms.
+So I have one double angle formula for sine of two theta.
+And I have three versions of the double angle formula for cosine of two theta.
+Now let's use these formulas in some examples.
+Let's find the cosine of two theta.
+If we know that cosine theta is negative one over root 10, and theta terminates in quadrant three, we have a choice of three formulas for cosine of two theta, I'm going to choose the second one, because it only involves cosine of theta on the right side.
+And I already know my value for cosine theta.
+Of course, I could use one of the other ones, but then I'd have to work out the value of sine theta.
+So plugging in, I get cosine of two theta is twice negative one over root n squared minus one, which simplifies to two tenths minus one or negative eight tenths, negative four fifths.
+Finally, let's solve the equation two cosine x plus sine of 2x equals zero.
+What makes this equation tricky is that one of the trig functions has the argument of just x, but the other trig function has the argument of 2x.
+So I want to use my double angle formula to rewrite sine of 2x.
+I'll copy down the two cosine x, and now sine of 2x is equal to two sine x cosine x.
+At this point, I see a way to factor my equation, I can factor out a two cosine x from both of these two terms.
+That gives me one plus sine x and the product there is equal to zero.
+That means that either two cosine x is equal to zero, or one plus sine x is equal to zero.
+That simplifies two cosine x equals zero, or sine x is negative one.
+Using my unit circle, I see that cosine of x is zero at pi over two, and three pi over two, while sine of x is negative one at three pi over two, there's some redundancy here, but my solution set is going to be pi over two plus multiples of two pi, and three pi over two plus multiples of two pi.
+This video proved the double angle formulas, sine of two theta is two sine theta cosine theta.
+and cosine of two theta is cosine squared theta minus sine squared theta.
+It also proved two alternate versions of the equation for cosine of two theta.
+This video

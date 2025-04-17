@@ -1,0 +1,86 @@
+Logarithms: Introduction.
+This video introduces logarithms.
+logarithms are a way of writing exponents.
+The expression log base a of B equals c means that a to the C equals b.
+In other words, log base a of B is the exponent that you raise a to to get BE THE NUMBER A It is called the base of the logarithm.
+It's also called the base when we write it in this exponential form.
+Some students find it helpful to remember this relationship.
+log base a of B equals c means a to the C equals b, by drawing arrows, a to the C equals b.
+Other students like to think of it in terms of asking a question, log base a of B, asks, What power do you raise a to in order to get b?
+Let's look at some examples.
+log base two of eight is three, because two to the three equals eight.
+In general, log base two of y is asking you the question, What power do you have to raise to to to get y?
+So for example, log base two of 16 is four, because it's asking you the question to what power equals 16?
+And the answer is four.
+Please pause the video and try some of these other examples.
+log base two of two is asking, What power do you raise to two to get two?
+And the answer is one.
+Two to the one equals two.
+log base two of one half is asking two to what power gives you one half?
+Well, to get one half, you need to raise two to a negative power.
+So that would be two to the negative one.
+So the answer is negative one.
+log base two of 1/8 means what power do we raise to two in order to get 1/8.
+Since 1/8, is one over two cubed, we have to raise two to the negative three power to get one over two cubed.
+So our exponent is negative three.
+And that's our answer to our log expression.
+Finally, log base two of one is asking to what power equals one.
+Well, anything raised to the zero power gives us one, so this log expression evaluates to zero.
+Notice that we can get positive negative and zero answers for our logarithm expressions.
+Please pause the video and figure out what these logs evaluate to.
+to work out log base 10 of a million.
+Notice that a million is 10 to the sixth power.
+Now we're asking the question, What power do we raise tend to to get a million?
+So that is what power do we raise 10 to to get 10 to the six?
+Well, of course, the answer is going to be six.
+Similarly, since point O one is 10 to the minus three, this log expression is the same thing as asking, what's the log base 10 of 10 to the minus three?
+Well, what power do you have to raise 10?
+to to get 10 to the minus three?
+Of course, the answer is negative three.
+Log base 10 of zero is asking, What power do we raise 10 to to get zero.
+If you think about it, there's no way to raise 10 to an exponent get zero.
+Raising 10 to a positive exponent gets us really big positive numbers.
+Raising 10 to a negative exponent is like one over 10 to a power that's giving us tiny fractions, but they're still positive numbers, we're never going to get zero.
+Even if we raise 10 to the zero power, we'll just get one.
+So there's no way to get zero and the log base 10 of zero does not exist.
+If you try it on your calculator using the log base 10 button, you'll get an error message.
+Same thing happens when we do log base 10 of negative 100.
+We're asking 10 to what power equals negative 100.
+And there's no exponent that will work.
+And more generally, it's possible to take the log of numbers that are greater than zero, but not for numbers that are less than or equal to zero.
+In other words, the domain of the function log base a of x, no matter what base you're using for a, the domain is going to be all positive numbers.
+A few notes on notation.
+When you see ln of x, that's called natural log, and it means the log base e of x where he is that famous number that's about 2.
+718.
+When you see log of x with no base at all, by convention, that means log base 10 of x And it's called the common log.
+Most scientific calculators have buttons for natural log, and for common log.
+Let's practice rewriting expressions with logs in them.
+log base three of one nine is negative two, can be rewritten as the expression three to the negative two equals 1/9.
+Log of 13 is shorthand for log base 10 of 13.
+So that can be rewritten as 10 to the 1.
+11394 equals 13.
+Finally, in this last expression, ln means natural log, or log base e, so I can rewrite this equation as log base e of whenever E equals negative one.
+Well, that means the same thing as e to the negative one equals one over e, which is true.
+Now let's go the opposite direction.
+We'll start with exponential equations and rewrite them as logs.
+Remember that log base a of B equals c means the same thing as a to the C equals b, the base stays the same in both expressions.
+So for this example, the base of three in the exponential equation, that's going to be the same as the base in our log.
+Now I just have to figure out what's in the argument of the log.
+And what goes on the other side of the equal sign.
+Remember that the answer to a log is an exponent.
+So the thing that goes in this box should be my exponent for my exponential equation.
+In other words, you.
+And I'll put the 9.
+78 as the argument of my log.
+This works, because log base three of 9.
+78 equals view means the same thing as three to the U equals 9.
+78, which is just what we started with.
+In the second example, the base of my exponential equation is E.
+So the base of my log is going to be the answer to my log is an exponent.
+In this case, the exponent 3x plus seven.
+And the other expression, the four minus y becomes my argument of my log.
+Let me check, log base e of four minus y equals 3x plus seven means e to the 3x plus seven equals four minus y, which is just what I started with.
+I can also rewrite log base e as natural log.
+This video introduced the idea of logs, and the fact that log base a of B equal c means the same thing as a to the C equals b.
+So log base a of B is asking you the question, What power exponent Do you raise a to in order to get b.
+In this video, 

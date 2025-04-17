@@ -1,0 +1,316 @@
+Proof of Mean Value Theorem.
+what f does.
+Since f takes two to three, F inverse takes three back to two.
+So we write this f superscript, negative one of three is two.
+Similarly, since f takes three to five, F inverse takes five to three.
+And since f takes four to six, f inverse of six is four.
+And since f takes five to one, f inverse of one is five.
+I'll use these numbers to fill in the chart.
+Notice that the chart of values when y equals f of x and the chart of values when y equals f inverse of x are closely related.
+They share the same numbers, but the x values for f of x correspond to the y values for f inverse of x, and the y values for f of x correspond to the x values for f inverse of x.
+That leads us to the first key fact inverse functions reverse the roles of y and x.
+I'm going to plot the points for y equals f of x in blue.
+Next, I'll plot the points for y equals f inverse of x in red.
+Pause the video for a moment and see what kind of symmetry you observe in this graph.
+How are the blue points related to the red points, you might have noticed that the blue points and the red points are mirror images over the mirror line, y equals x.
+So our second key fact is that the graph of y equals f inverse of x can be obtained from the graph of y equals f of x by reflecting over the line y equals x.
+This makes sense, because inverses, reverse the roles of y and x.
+In the same example, let's compute f inverse of f of two.
+This open circle means composition.
+In other words, we're computing f inverse of f of two.
+We compute this from the inside out.
+So that's f inverse of three.
+Since F of two is three, and f inverse of three, we see is two.
+Similarly, we can compute f of f inverse of three.
+And that means we take f of f inverse of three.
+Since f inverse of three is two, that's the same thing as computing F of two, which is three.
+Please pause the video for a moment and compute these other compositions.
+You should have found that in every case, if you take f inverse of f of a number, you get back to the very same number you started with.
+And similarly, if you take f of f inverse of any number, you get back to the same number you started with.
+So in general, f inverse of f of x is equal to x, and f of f inverse of x is also equal to x.
+This is the mathematical way of saying that F and envir f inverse undo each other.
+Let's look at a different example.
+Suppose that f of x is x cubed.
+Pause the video for a moment and guess what the inverse of f should be?
+Remember, F inverse undoes the work that F does.
+You might have guessed that f inverse of x is going to be the cube root function.
+And we can check that this is true by looking at f of f inverse of x, that's F of the cube root of function, which means the cube root function cubed, which gets us back to x.
+Similarly, if we compute f inverse of f of x, that's the cube root of x cubed.
+And we get back to excellence again.
+So the cube root function really is the inverse of the cubing function.
+When we compose the two functions, we get back to the number that we started with.
+It'd be nice to have a more systematic way of finding inverses of functions besides guessing and checking.
+One method uses the fact that inverses, reverse the roles of y and x.
+So if we want to find the inverse of the function, f of x equals five minus x over 3x, we can write it as y equals five minus x over 3x.
+Reverse the roles of y and x to get x equals five minus y over three y, and then solve for y.
+To solve for y, let's multiply both sides by three y.
+Bring all terms with wisened to the left side, and alternans without y's and then to the right side, factor out the y and divide to isolate y.
+This gives us f inverse of x as five over 3x plus one.
+Notice that our original function f and our inverse function, f inverse are both rational functions, but they're not the reciprocals of each other.
+And then General, f inverse of x is not usually equal to one over f of x.
+This can be confusing, because when we write two to the minus one, that does mean one of our two, but f to the minus one of x means the inverse function and not the reciprocal.
+It's natural to ask if all functions have inverse functions, that is for any function you might encounter.
+Is there always a function that it is its inverse?
+Next, I'll plot the points for y equals f inverse of x in red.
+Pause the video for a moment and see what kind of symmetry you observe in this graph.
+How are the blue points related to the red points, you might have noticed that the blue points and the red points are mirror images over the mirror line, y equals x.
+So our second key fact is that the graph of y equals f inverse of x can be obtained from the graph of y equals f of x by reflecting over the line y equals x.
+This makes sense, because inverses, reverse the roles of y and x.
+In the same example, let's compute f inverse of f of two.
+This open circle means composition.
+In other words, we're computing f inverse of f of two.
+We compute this from the inside out.
+So that's f inverse of three.
+Since F of two is three, and f inverse of three, we see is two.
+Similarly, we can compute f of f inverse of three.
+And that means we take f of f inverse of three.
+Since f inverse of three is two, that's the same thing as computing F of two, which is three.
+Please pause the video for a moment and compute these other compositions.
+You should have found that in every case, if you take f inverse of f of a number, you get back to the very same number you started with.
+And similarly, if you take f of f inverse of any number, you get back to the same number you started with.
+So in general, f inverse of f of x is equal to x, and f of f inverse of x is also equal to x.
+This is the mathematical way of saying that F and envir f inverse undo each other.
+Let's look at a different example.
+Suppose that f of x is x cubed.
+Pause the video for a moment and guess what the inverse of f should be?
+Remember, F inverse undoes the work that F does.
+You might have guessed that f inverse of x is going to be the cube root function.
+And we can check that this is true by looking at f of f inverse of x, that's F of the cube root of function, which means the cube root function cubed, which gets us back to x.
+Similarly, if we compute f inverse of f of x, that's the cube root of x cubed.
+And we get back to excellence again.
+So the cube root function really is the inverse of the cubing function.
+When we compose the two functions, we get back to the number that we started with.
+It'd be nice to have a more systematic way of finding inverses of functions besides guessing and checking.
+One method uses the fact that inverses, reverse the roles of y and x.
+So if we want to find the inverse of the function, f of x equals five minus x over 3x, we can write it as y equals five minus x over 3x.
+Reverse the roles of y and x to get x equals five minus y over three y, and then solve for y.
+To solve for y, let's multiply both sides by three y.
+Bring all terms with wisened to the left side, and alternans without y's and then to the right side, factor out the y and divide to isolate y.
+This gives us f inverse of x as five over 3x plus one.
+Notice that our original function f and our inverse function, f inverse are both rational functions, but they're not the reciprocals of each other.
+And then General, f inverse of x is not usually equal to one over f of x.
+This can be confusing, because when we write two to the minus one, that does mean one of our two, but f to the minus one of x means the inverse function and not the reciprocal.
+It's natural to ask if all functions have inverse functions, that is for any function you might encounter.
+Is there always a function that it is its inverse?
+In fact, the answer is no.
+See, if you can come up with an example of a function that does not have an inverse function.
+The word function here is key.
+Remember that a function is a relationship between x values and y values, such that for each x value in the domain, there's only one corresponding y value.
+One example of a function that does not have an inverse function is the function f of x equals x squared.
+To see that, the inverse of this function is not a function.
+Note that for the x squared function, the number two and the number negative two, both go to number four.
+So if I had an inverse, he would have to send four to both two and negative two.
+The inverse would not be a function, it might be easier to understand the problem, when you look at a graph of y equals x squared.
+Recall that inverse functions reverse the roles of y and x and flip the graph over the line y equals x.
+But when I flipped the green graph over the line y equals x, I get this red graph.
+This red graph is not the graph of a function, because it violates the vertical line test.
+The reason that violates the vertical line test is because the original green function violates the horizontal line test, and has 2x values with the same y value.
+In general, a function f has an inverse function if and only if the graph of f satisfies the horizontal line test, ie every horizontal line intersects the graph.
+In most one point, pause the video for a moment and see which of these four graphs satisfy the horizontal line test.
+In other words, which of the four corresponding functions would have an inverse function, you may have found that graphs A and B, violate the horizontal line test.
+So their functions would not have inverse functions.
+But graph C and D satisfy the horizontal line test.
+So these graphs represent functions that do have inverses.
+functions that satisfy the horizontal line test are sometimes called One to One functions.
+Equivalent way of function is one to one, if for any two different x values, x one and x two, the y value is f of x one and f of x two are different numbers.
+Sometimes, as I said, f is one to one, if, whenever f of x one is equal to f of x two, then x one has to equal x two.
+As our last example, let's try to find P inverse of x, where p of x is the square root of x minus two drawn here.
+If we graph P inverse on the same axis as p of x, we get the following graph, simply by flipping over the line y equals x.
+If we try to solve the problem, algebraically, we can write y equal to a squared of x minus two, reverse the roles of y and x and solve for y by squaring both sides and adding two.
+Now if we were to graph y equals x squared plus two, that would look like a parabola, it would look like the red graph was already drawn together with another arm on the left side.
+But we know that our actual inverse function consists only of this right arm, we can specify this algebraically by making the restriction that x has to be bigger than or equal to zero.
+This corresponds to the fact that on the original graph, for the square root of x, y was only greater than or equal to zero.
+Looking more closely at the domain and range of P and P inverse, we know that the domain of P is all values of x such that x minus two is greater than or equal to zero.
+Since we can't take the square root of a negative number.
+This corresponds to x values being greater than or equal to two, or an interval notation, the interval from two to infinity.
+The range of P, we can see from the graph is our y value is greater than or equal to zero, or the interval from zero to infinity.
+In fact, the answer is no.
+See, if you can come up with an example of a function that does not have an inverse function.
+The word function here is key.
+Remember that a function is a relationship between x values and y values, such that for each x value in the domain, there's only one corresponding y value.
+One example of a function that does not have an inverse function is the function f of x equals x squared.
+To see that, the inverse of this function is not a function.
+Note that for the x squared function, the number two and the number negative two, both go to number four.
+So if I had an inverse, he would have to send four to both two and negative two.
+The inverse would not be a function, it might be easier to understand the problem, when you look at a graph of y equals x squared.
+Recall that inverse functions reverse the roles of y and x and flip the graph over the line y equals x.
+But when I flipped the green graph over the line y equals x, I get this red graph.
+This red graph is not the graph of a function, because it violates the vertical line test.
+The reason that violates the vertical line test is because the original green function violates the horizontal line test, and has 2x values with the same y value.
+In general, a function f has an inverse function if and only if the graph of f satisfies the horizontal line test, ie every horizontal line intersects the graph.
+In most one point, pause the video for a moment and see which of these four graphs satisfy the horizontal line test.
+In other words, which of the four corresponding functions would have an inverse function, you may have found that graphs A and B, violate the horizontal line test.
+So their functions would not have inverse functions.
+But graph C and D satisfy the horizontal line test.
+So these graphs represent functions that do have inverses.
+functions that satisfy the horizontal line test are sometimes called One to One functions.
+Equivalent way of function is one to one, if for any two different x values, x one and x two, the y value is f of x one and f of x two are different numbers.
+Sometimes, as I said, f is one to one, if, whenever f of x one is equal to f of x two, then x one has to equal x two.
+As our last example, let's try to find P inverse of x, where p of x is the square root of x minus two drawn here.
+If we graph P inverse on the same axis as p of x, we get the following graph, simply by flipping over the line y equals x.
+If we try to solve the problem, algebraically, we can write y equal to a squared of x minus two, reverse the roles of y and x and solve for y by squaring both sides and adding two.
+Now if we were to graph y equals x squared plus two, that would look like a parabola, it would look like the red graph was already drawn together with another arm on the left side.
+But we know that our actual inverse function consists only of this right arm, we can specify this algebraically by making the restriction that x has to be bigger than or equal to zero.
+This corresponds to the fact that on the original graph, for the square root of x, y was only greater than or equal to zero.
+Looking more closely at the domain and range of P and P inverse, we know that the domain of P is all values of x such that x minus two is greater than or equal to zero.
+Since we can't take the square root of a negative number.
+This corresponds to x values being greater than or equal to two, or an interval notation, the interval from two to infinity.
+The range of P, we can see from the graph is our y value is greater than or equal to zero, or the interval from zero to infinity.
+Similarly, based on the graph, we see the domain of P inverse is x values greater than or equal to zero, the interval from zero to infinity.
+And the range of P inverse is Y values greater than or equal to two, or the interval from two to infinity.
+If you look closely at these domains and ranges, you'll notice that the domain of P corresponds exactly to the range of P inverse, and the range of P corresponds to the domain of P inverse.
+This makes sense because inverse functions reverse the roles of y and x.
+The domain of f inverse of x is the x values for F inverse, which corresponds to the y values or the range of F.
+The range of f inverse is the y values for F inverse, which correspond to the x values or the domain of f.
+In this video, we discussed Similarly, based on the graph, we see the domain of P inverse is x values greater than or equal to zero, the interval from zero to infinity.
+And the range of P inverse is Y values greater than or equal to two, or the interval from two to infinity.
+If you look closely at these domains and ranges, you'll notice that the domain of P corresponds exactly to the range of P inverse, and the range of P corresponds to the domain of P inverse.
+This makes sense because inverse functions reverse the roles of y and x.
+The domain of f inverse of x is the x values for F inverse, which corresponds to the y values or the range of F.
+The range of f inverse is the y values for F inverse, which correspond to the x values or the domain of f.
+In this video, we discussed five key properties of inverse functions.
+inverse functions reverse the roles of y and x.
+The graph of y equals f inverse of x is the graph of y equals f of x reflected over the line y equals x.
+When we compose F with F inverse, we get the identity function y equals x.
+And similarly, when we compose f inverse with F, that brings x to x.
+In other words, F and F inverse undo each other.
+The function f of x has an inverse function if and only if the graph of y equals f of x satisfies the horizontal line test.
+And finally, the domain of f is the range of f inverse.
+And the range of f is the domain of f inverse.
+These properties of inverse functions will be important when we study exponential functions and their inverses logarithmic functions.
+This video defines the standard inverse trig functions, sine inverse cosine inverse and tan inverse.
+In this crazy looking graph, please focus first on the thin black line.
+This is a graph of y equals sine x.
+The graph of the inverse of a function can be found by flipping the graph of the original function over the line y equals x.
+I've drawn the flipped graph with this blue dotted line.
+But you'll notice that the blue dotted line is not the graph of a function, because it violates the vertical line test.
+So in order to get a function, that's the inverse of y equals sine x, we need to restrict the domain of sine of x, we'll restrict it to this piece that's drawn with a thick black line.
+If I invert that piece, by flipping it over the line y equals x, I get the piece drawn with a red dotted line here.
+And that piece does satisfy the vertical line test.
+So it is in fact a function.
+of the regular sine x has domain from negative infinity to infinity, or restricted sine x has domain from negative pi over two to pi over two.
+It's it's range is still from negative one to one, just like the regular sine x.
+Because I've taken the biggest possible piece of the graph whose flipped version is still a function.
+The inverse sine function is often written as arc sine of x.
+And since inverting a function reverses the roles of y at x, it reverses the domain and the range.
+So arc sine of x, the inverse function has domain from negative one to one, and range from negative pi over two to pi over two, which seems plausible from the graph.
+Now an inverse function undoes the work of a function.
+So if the function sine takes angle theta, two numbers, x, then the inverse sine, or arc sine takes numbers x, two angles theta.
+For example, since sine of pi over two is one, arc sine of one is pi over two.
+And in general, the output of arc sine of x is the angle between negative pi over two and pi over two whose side is x.
+y is equal to arc sine x means that x is equal to sine of y.
+But since there are many angles, y who sine is x, right, they all differ by multiples of two pi.
+We specify also, that y is between negative pi over two and pi over two.
+That was the whole point of doing this domain restriction in order to get a well defined inverse value.
+There's an alternate notation for inverse sine.
+Sometimes it's written as sine to the negative one of x.
+But this notation can be confusing, so be careful.
+In particular, sine to the negative one of x does not equal one over sine of x.
+One over sine of x the reciprocal function is another word for cosecant The backs, but sign to the negative one of x is another word for arc sine of x, the inverse sine function, which is not the same thing as the reciprocal function.
+Let's go through the same process to build an inverse cosine function, we start with a graph of cosine of x, we flip it over the line y equals x to get the blue dotted line.
+But the blue dotted line is not a function.
+So we go back and restrict the domain for our original cosine of x to just be between zero and pi.
+The resulting red graph now satisfies the vertical line test.
+So it's a proper inverse function.
+Our restricted cosine has domain from zero to pi, and range from negative one to one.
+And so our inverse function, arc cosine has domain from negative one to one, and range from zero to pi.
+Since cosine takes us from angles to numbers, arc cosine takes us from numbers back to angles.
+For example, cosine of pi over four is the square root of two over two.
+So arc cosine of the square root of two over two is equal to pi over four.
+arc cosine of x is the angle between zero and pi, whose cosine is x.
+In other words, y equals r cosine of x means that x is equal to cosine of y, and y is between zero and pi.
+Since otherwise, there'd be lots of possible answers for an angle y whose cosine is x.
+The alternative notation for arc cosine is cosine inverse.
+And again, we have to be careful.
+cosine to the negative 1x is not the same thing as one over cosine of x.
+one over cosine of x is also called secant of x.
+cosine to the negative 1x means arc cosine, the inverse function, and these two things are not the same.
+Finally, let's look take a look at inverse tangent function.
+Here's a graph of tangent and black, these vertical lines aren't really part of the function, they're just vertical asymptotes.
+So in order to get actual function, when we flip over the line y equals x, we take just one piece of the tangent function.
+Here we've taken the piece marked in black, we flip that over the line y equals x, we get this piece in red, which is actually a function because it satisfies the vertical line test.
+Now, you might ask, would it be possible to pick a different piece of the tangent function to invert?
+And the answer is yes, we could do that.
+And on another planet, maybe mathematicians do that.
+But on our planet, we use the convention that we pick this piece of tangent to invert, which is kind of a convenient choice since it's centered here around the origin.
+In the previous two examples, our choice of restricted domain for sine and for cosine was also a convention that led to a conveniently defined inverse function.
+In any case, based on our choice, our restricted tan function has domain from negative pi over two to pi over two.
+We don't include the endpoints in that interval, because our restricted tan function has vertical asymptotes, that negative pi over two pi over two, so it's not defined there.
+The range of our restricted tan function is from negative infinity to infinity.
+Therefore, arc tan of X has domain from negative infinity to infinity and range from negative pi over two to pi over two.
+Once again, tangent is taking us from angles to numbers.
+So arc tan is taking us from numbers to angles.
+For example, tangent of pi over four is one, and therefore, arc tan of one is pi over four.
+So arc tan of x means the angle between negative pi over two and pi over two whose tangent is x.
+y is equal to arc tan x means that x is equal to tangent of y and the Why is between negative pi over two and pi over two.
+The inverse tan function can also be written as 10 to the minus one of x.
+And once again, tan inverse of x means the inverse trig function, arc tan of x.
+And it's not equal to one over tan of x, which is called cotangent of x.
+And that's all for this video on the three basic inverse trig functions.
+sine inverse x, also known as arc sine of x, cosine inverse x, also known as arc cosine x, and tan inverse x, also known as arc tan x.
+In this video, we'll use implicit differentiation to find the derivatives of the inverse trig functions.
+First, the inverse sine function.
+Recall that y equals sine inverse of x means that y is the angle in radians whose sine is x.
+In other words, we can write x equals sine of y as an almost equivalent statements, I say almost equivalent, because there are lots of different y's whose side is x, lots of different angles can have the same resulting side.
+And for the inverse sine function, we specify that that angle y has to be between pi over two and negative pi over two, that's just the convention.
+Be careful not to mistake sine inverse of x, which is an inverse function, and one over sine x, which is a reciprocal function.
+These are not the same thing.
+This negative one does not mean reciprocal here, it means inverse function.
+There is another notation for inverse sine, which is arc sine.
+So arc sine of x is the same thing as sine inverse of x, we want to find the derivative of sine inverse of x, in other words, the derivative of y with respect to x, where y is sine inverse of x, I'm going to rewrite this equation here as x equals sine y, and then use implicit differentiation.
+So taking the derivative of both sides with respect to x, I have derivative of x is equal to the derivative of sine y.
+In other words, one is equal to cosine of y times dy dx.
+Solving for dydx, I have that dydx is one over cosine of y.
+Now I found the derivative, but it's not in a super useful form, because there's still a Y and expression, I'd rather have it all in terms of x.
+Well, I could rewrite this as dy dx is one over cosine of sine inverse of x, since after all, y is equal to sine inverse of x, but that's still not a super useful form, because it's difficult to evaluate this.
+So instead of doing this, I'm going to look at a right triangle.
+I want to label my triangle with y and x.
+Since y is my angle, I'll put it here.
+And since sine of y is x, and sine is opposite over hypotenuse, I can label my opposite side with x and my hypothesis with one.
+From this, I can figure out the length of my remaining side, it's going to have to be the square root of one minus x squared by the Pythagorean Theorem.
+Now I can compute cosine of y just from the triangle.
+Cosine of y is adjacent overhype hotness, so that's the square root of one minus x squared over one, or just the square root of one minus x squared.
+I've been implicitly assuming that y is a positive angle between zero and pi over two when I've been drawing this triangle, but you can check that the same formula also works.
+If y is a negative angle, think of it going down here on the unit circle instead of up here.
+So now that I have a formula for cosine y in terms of x, I can go back to my derivative and substitute and I get dy dx is one over the square root of one minus x squared.
+In other words, I found a formula for With the derivative of inverse sine of x, we can carry out a similar process to find the derivative of inverse cosine y equals cosine inverse x means that x is equal to cosine of y.
+And by convention, y lies between zero and pi.
+To find the derivative of arc cosine of x, arc cosine is just an alternative notation for cosine inverse, I can write y equals arc cosine of x, and equivalently x equals the cosine of y.
+And then I want to find dydx.
+Using implicit differentiation, please pause the video and try it for yourself before going on.
+So starting with the equation x equals cosine y, we're going to take the derivative of both sides with respect to x.
+The derivative of x is one, and the derivative of cosine y is negative sine y, dy dx.
+So d y dx is equal to negative one over sine y.
+As before, I can draw and label a right triangle, the angle is y.
+And now I know that x is cosine of y.
+So I'm going to put x on the adjacent side and one on my partner's leaving the square root of one minus x squared on the opposite side, which means that sine of y, which is opposite overhype hotness, is equal to the square root of one minus x squared.
+And so dy dx is going to be negative one over the square root of one minus x squared.
+And I have my formula for the derivative of arc cosine of x.
+inverse tangent can be handled very similarly.
+And again, you may want to try it for yourself before watching the video.
+Y equals inverse tangent of x means that x is tangent of y.
+And the convention is that y is supposed to lie between negative pi over two and pi over two.
+Proceeding as before, we write y equals our tan of x and x equals tan of y, take the derivative of both sides.
+So we get one equals secant squared of y d y dx.
+Solving for dydx we have one over seacon square root of y.
+And using our right triangle as before, we can label the angle of as y.
+Since I know that tangent y is x, and tangent is opposite over adjacent, I'm going to label the opposite side x and the adjacent side one, which gives us a hypothesis of the square root of one plus x squared.
+Now we know that secant of y is one over cosine of y.
+So that's going to be hi partners over adjacent.
+So that's the square root of one plus x squared over one.
+And so secant squared of y is just the square of this, which is one plus x squared.
+Now I can substitute into my formula for dy dx, and I get dy dx is one over one plus x squared, which gives me a nice formula for the derivative of inverse tangent.
+The other inverse trig functions cotesia inverse, seacon inverse and cosequin inverse, have derivatives that can be computed.
+Similarly, the following table summarizes these results.
+In some books, you may see absolute value signs around the X for the formulas for inverse secant and inverse cosecant.
+Of course, when x is positive, this makes no difference.
+And when x is negative, this discrepancy comes from differences in the convention for the range of y for these inverse trig functions seeking inverse and cosecant numbers.
+Notice that the derivatives of the inverse trig functions that start with CO, all have negative signs in front of them and are the negatives of the corresponding inverse trig functions without the CO that makes it easier to remember them.
+You should memorize these formulas.
+Let's do one example using the formulas that we just found.
+Let's compute The derivative of tan inverse of A plus x over a minus x, we'll want to use the formula for the derivative of tan inverse x.
+Now, to compute dydx, for our function, we can use the chain rule, the outside function is tan inverse, whose derivative is one over one plus the inside function squared, we'll need to multiply that by the derivative of the inside function.
+I'll just copy over the first part and take the derivative of a plus x over a minus x using the quotient rule.
+So I put the denominator on the bottom and square it.
+And then I take low times d, hi, the derivative of a plus x with respect to x is just one minus high D low, the derivative of a minus x with respect to x is negative one.
+I'll simplify my numerator, a minus x, 

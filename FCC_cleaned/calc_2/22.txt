@@ -1,0 +1,69 @@
+L'Hospital's Rule.
+to get 1/5 sine to the fifth of x plus C.
+The next integral, the integral of sine to the fourth x times cosine cubed x dx can also be handled with a similar use of the tuition with a bit more work.
+First, I'm going to rewrite the integral as the integral of sine to the fourth x times cosine squared x times cosine of x dx.
+I'm rewriting the cosine cubed of x as cosine squared of x times cosine x in the hopes that I can use cosine of x dx as my d u, like I did in the previous problem.
+Now if we have d u, as cosine of x, dx, we're going to need you to be sine of x.
+But unlike the previous problem, I can't just replace sine of the fourth x with you to the fourth and cosine x dx with D, U and be done.
+Because I've got this cosine squared x hanging around that I need to deal with.
+I wish I didn't have that cosine squared x, I wish everything else over here was just written in terms of sine.
+Now, as you might realize, it's not hard for me to get my wish.
+We know from the Pythagorean identity, that cosine squared of x plus sine squared of x is equal to one.
+So cosine squared of x can be written as one minus sine squared x.
+Making that substitution, I can now rewrite my integral entirely in terms of you.
+And do now if I multiply things out, this becomes easy to integrate, I get 1/5 u to the fifth minus 1/7 u to the seventh plus C.
+And I can rewrite this in terms of x.
+To recap, we separated out one copy of cosine x to be part of our D U.
+And then we converted the rest of the cosines in the signs isn't a Pythagorean identity.
+This allowed us to do use of the tuition with u equal to sine x and evaluate the integral.
+This same technique with some modifications works on a lot of other problems.
+In this next problem, if we tried separating out one copy of cosine of x to be part of our do, we'd run into problems, because we just have one copy of cosine x left.
+And we can't use the Pythagorean identity can to convert a single cosine into signs.
+Well, I guess technically, we could do something like this.
+But then we'd have to introduce a plus or minus sign and a square root sign into our integrand, which would make things difficult to integrate.
+It's a lot easier if we can just use the cosine squared x is equal to one minus sine squared x identity to replace our cosines with signs.
+But this identity only applies if we have an even power of cosines leftover that we want to convert.
+So instead of trying to save out a copy of cosine x, let's say about a copy of sine x instead.
+So we'll rewrite our integral as the integral of sine to the fourth of x times a sine of x.
+And we'll keep the cosine squared x and the dx.
+Now we want the sine x to be part of our D U.
+So let's set u equal to cosine of x.
+That way d u is equal to negative sine of x dx.
+And so sine of x dx is equal to negative d U.
+since u is equal to cosine x, this time, we want to replace all of our stray signs with cosines.
+We know that sine squared of x is equal to one minus cosine squared of x by the Pythagorean identity.
+So let's rewrite this sine to the fourth as sine squared of x squared.
+That allows us to substitute in one minus cosine squared of x for sine squared of x And now we can replace everything with us and d is I'll bring out the negative sign and multiply things out.
+One minus u squared squared is one minus two u squared plus u to the fourth.
+And this multiplies out to us squared minus two u to the fourth plus u to the sixth.
+Now I can integrate, distribute my negative sign.
+And finally, plug in cosine of x for you.
+That completes this problem.
+In this video, we'll use use substitution and the Pythagorean identity.
+To evaluate integrals with at least one odd power of sine or cosine.
+The idea is to separate off one copy from the odd power that one copy becomes part of our D U.
+and the remaining even power gets converted using the Pythagorean identity.
+In this case, we convert sine squared into one minus cosine squared.
+This allows us to do the use substitution and evaluate the integral.
+In this video, we'll evaluate integrals of trig functions involving only even powers of sine and cosine.
+There are three trig identities that will come in handy here, the first ones that are familiar, the factory and identity.
+The second one's an identity that allows us to rewrite cosine squared of x in terms of cosine of 2x.
+And the third one is in nd that lets us write sine squared of x.
+Also in terms of cosine of 2x.
+The only difference between the second and third is the fact that one's cosine squared and one sine squared.
+But the other difference is the plus sign versus the minus sign here.
+To recap, we separated out one copy of cosine x to be part of our D U.
+And then we converted the rest of the cosines in the signs isn't a Pythagorean identity.
+This allowed us to do use of the tuition with u equal to sine x and evaluate the integral.
+This same technique with some modifications works on a lot of other problems.
+In this next problem, if we tried separating out one copy of cosine of x to be part of our do, we'd run into problems, because we just have one copy of cosine x left.
+And we can't use the Pythagorean identity can to convert a single cosine into signs.
+Well, I guess technically, we could do something like this.
+But then we'd have to introduce a plus or minus sign and a square root sign into our integrand, which would make things difficult to integrate.
+It's a lot easier if we can just use the cosine squared x is equal to one minus sine squared x identity to replace our cosines with signs.
+But this identity only applies if we have an even power of cosines leftover that we want to convert.
+So instead of trying to save out a copy of cosine x, let's say about a copy of sine x instead.
+So we'll rewrite our integral as the integral of sine to the fourth of x times a sine of x.
+And we'll keep the cosine squared x and the dx.
+Now we want the sine x to be part of our D U.
+So let's set u equal to cosine

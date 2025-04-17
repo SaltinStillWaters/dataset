@@ -1,0 +1,76 @@
+Simplifying Radicals.
+This video goes through a few tricks for simplifying expressions with radicals in them.
+Recall that this notation means the nth root of x, so this notation here means the cube root of eight, the number that when you cube it, you get eight, that number would be two, when we write the root sign without a little number, that just means the square root so the two is implied.
+In this case, the square root of 25 is five since five squared is 25.
+Let's start by reviewing some rules for radical expressions.
+First, if we have the radical of a product, we can rewrite that as the product of two radicals.
+For example, the square root of nine times 16 is the same thing as the square root of nine times the square root of 16, you can check that both of these evaluate to 12.
+Similarly, it's possible to distribute a radical sine across division, the radical of a divided by b is the same thing as the radical of A divided by the radical of B.
+For example, the cube root of 64 over eight is the same thing as the cube root of 64 over the cube root of eight, and you can check that both of these evaluated to you have to be a little bit careful though, because it's not okay to distribute a radical sign across addition.
+In general, the nth root of a plus b is not equal to the nth root of A plus the nth root of b.
+And similarly, it's not okay to distribute a radical across subtraction.
+If you're ever in doubt, you can always check with simple examples.
+For example, the square root of one plus one is not the same thing as the square root of one plus the square root of one, the right side evaluates to one plus one or two, and the left side is square root of two and the irrational number.
+The second expression to show that that fails, I don't think it'll work to use the square root of one minus one it'll actually hold in that case, but I can show it's false by using say the square root of two minus one, which does not equal the square root of two minus the square root of one.
+You might notice that these Rules for Radicals, the ones that hold and the ones that don't hold, remind you of rules for exponents.
+And that's no coincidence.
+Because radicals can be written in terms of exponents.
+For example, if we look at the first rule, we can rewrite this, the nth root of A times B is the same thing as the one of our nth power.
+And by exponent rules, I can distribute an exponent across multiplication.
+And so this radical rule can be restated completely in terms of an exponent rule.
+Similarly, the second rule can be restated in terms of exponents as a or b to the one over n is equal to A to the one over n divided by b to the one over n.
+We can use the relationship between radicals and the exponents to rewrite a to the m over n.
+a to the m over N is the same thing as a to the m with the N through taken.
+That's also the same thing As the nth root of A, all taken to the nth power to see whether that's true, think about exponent rules.
+So a to the m over N is the same thing as a to the m, taken to the one over nth power.
+That's because when we take a power to a power, we multiply exponents, and M times one over n is equal to M over n.
+But a one over nth power is the same thing as an nth root.
+And therefore, this expression is the same thing as this expression.
+And that proves the first equivalence.
+The second equivalence can we prove similarly, by writing a to the m over n as a to the one over n times M.
+Again, this is works because when I take the power to the power, I'm multiply exponents, one over n times M is the same thing as M over n.
+But now, these two expressions are the same, because the one over nth power is the same as the nth root.
+One mnemonic for remembering these relationships is flower over root.
+So flour is like power, and root is like root, so that tells us we can write a fractional exponent, the M becomes the power, and the n becomes the root in either of these two orders.
+Now let's use these rules in some examples.
+If we want to compute 25 to the negative three halves power, well, first I'll use my exponent rule to rewrite that negative exponent as one over 25 to the three halves power.
+Next, I'll use the power of a root mnemonic to rewrite this as 25 to the third power square rooted, or, as 25 square rooted to the third power.
+I wrote the two's there for the square root for emphasis, but most of the time, people will omit this and just write the square root without a little number there.
+Now, I could use either of these two equivalent expressions to continue, but I'd rather use this one because it's easier to compute without a calculator.
+The square root of 25 is just five, five cubed is 125.
+So my answer is one over 125.
+If I tried to compute the cube of 25, first, I'd get a huge number.
+In general, it's usually easier to compute the route before the power when you're working without a calculator.
+Now let's do an example simplifying a more complicated expression with with exponent cynet.
+I want to take the square root of all this stuff.
+And since I don't really like negative exponents, I'm first going to rewrite this as the square root of 60x squared y to the sixth over z to the 11th.
+So I'll change that negative exponent to a positive exponent by moving this, this factor to the denominator.
+Now, when you're asked to simplify radical expression, that generally means to pull as much as possible, out of the radical side.
+To pull things out of the square root side, I'm going to factor my numbers and try to rewrite everything in terms of squares as much as possible.
+Since the square root of a square, those two operations undo each other.
+So I'll show you what I mean first, our factor 60.
+So 60 is going to be two squared times three times five.
+And I'll just copy everything over for now.
+Now I'll break things up into squares as much as possible.
+So I've got a two squared, and three times five, I've already got an x squared, I write the wider the six as y squared times y squared times y squared.
+And I'll write the Z to the 11th as z squared times z squared, I guess five times 12345 times when extra z, that should add up to z to the 11th.
+I add all those exponents together.
+Now I know that I can distribute my radical sign across multiplication and division.
+So I'll write this with a zillion different radicals here.
+And every time I see the square root of something squared, I can just cancel those square roots and the squares out and get what's what's left here.
+So So after doing that cancellation, I get two times the square root of three times five times x times y times y times y over z times itself, I guess five times times the square root of z.
+And now I can clean that up with exponents.
+I'll write that as the square root of 15 I guess two times a squared of 15 times x times y cubed over z to the fifth the square root of z.
+I'm gonna leave this example as is.
+But sometimes people prefer to rewrite radical expressions without radical signs in the denominator.
+That's called rationalizing the denominator.
+I won't do it here, but I'll show you how to do it in the next example.
+This example asks us to rationalize the denominator, that means to rewrite as an equivalent expression without radical signs in the denominator.
+To get rid of the radical sine and the denominator, I want to multiply my denominator by square root of x.
+But I can't just multiply the denominator willy nilly by something unless I multiply the numerator by the same thing.
+So then just multiply my expression by one in a fancy forum and I don't change the value of my expression.
+Now, if I just multiply together numerators 3x squared of x and multiply denominators squared of x 10 squared of x is the square root of x squared squared of x squared is just x.
+Now I can cancel my access from the numerator denominator, and my final answer is three times the square root of x.
+I rationalize my denominator, and the process got a nicer looking expression.
+In this video, we went over the Rules for Radicals.
+And we simplified some radical expressions by working with fractional exponents, pulling things out of the radical sign and rationalizing the denominator.

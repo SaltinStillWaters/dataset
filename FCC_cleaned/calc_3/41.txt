@@ -1,0 +1,25 @@
+Derivatives of Trig Functions.
+But we can also prove this fact, using the limit definition of derivative.
+The derivative of any function is the limit as h goes to zero of the function of x plus h minus the function at x divided by H.
+Well, here, our function is just a constant.
+So we're taking the limit as h goes to zero of the constant minus the constant divided by h, which is just the limit as h goes to zero of zero over h, which is just the limit of zero, which is zero.
+Intuitively, it also makes sense that the derivative of the function y equals x is got to be one, because the graph of y equals x is a straight line with slope one.
+But again, we can prove this using the limit definition of derivative.
+So the derivative of x is the limit as h goes to zero of x plus h minus x over h.
+Well, that simplifies to the limit of h over h, since the Xs can't So in other words, the limit as h goes to zero of one, which is one as wanted But we can also prove this fact, using the limit definition of derivative.
+The derivative of any function is the limit as h goes to zero of the function of x plus h minus the function at x divided by H.
+Well, here, our function is just a constant.
+So we're taking the limit as h goes to zero of the constant minus the constant divided by h, which is just the limit as h goes to zero of zero over h, which is just the limit of zero, which is zero.
+Intuitively, it also makes sense that the derivative of the function y equals x is got to be one, because the graph of y equals x is a straight line with slope one.
+But again, we can prove this using the limit definition of derivative.
+So the derivative of x is the limit as h goes to zero of x plus h minus x over h.
+Well, that simplifies to the limit of h over h, since the Xs can't So in other words, the limit as h goes to zero of one, which is one as wanted x, x, h to the n minus one, and then finally, a term of h to the N.
+That's the binomial expansion of x plus h to the n.
+Now, we still have to subtract the x to the n that we had up here, and we still have to divide this whole thing by H.
+Okay, that's looking kind of horribly complicated.
+h to the n minus one, and then finally, a term of h to the N.
+That's the binomial expansion of x plus h to the n.
+Now, we still have to subtract the x to the n that we had up here, and we still have to divide this whole thing by H.
+Okay, that's looking kind of horribly complicated.
+But But notice that the X to the ends can So notice that all of the remaining terms have an H in them.
+So if we factor out that H, we get an x to the n minus one, plus a bunch of other

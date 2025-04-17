@@ -1,0 +1,39 @@
+The Limit Comparison Test.
+root of x squared minus one becomes a square root of u in the denominator.
+Rewrite again, by pulling the one half out of the integral and rewriting the square root of u in the denominator as u to the negative one half.
+Now I can integrate, I get two times you to the one half evaluated between three and t squared minus one, my one half and two cancel, and I'll plug in my bounds of integration here.
+Now, as t goes to one from the right, t squared is also going to one, so t squared minus one is going to zero.
+of the integral from t to negative one of one over x dx.
+Now the integral of one over x is ln of the absolute value of x, which will need to integrate between t and negative one and take a limit.
+We evaluate here we know that ln of the absolute value of negative one, that's ln of one which is zero.
+A graph of ln is helpful for evaluating the rest of this expression.
+as t goes to negative infinity, the absolute value of t is going to infinity.
+And so ln is also going to infinity.
+Therefore, our limit is actually negative infinity, and so the integral diverges.
+In this video, we evaluated improper integrals Which the interval that we're integrating over is infinite by looking at the integrals over larger and larger, finite intervals and taking a limit.
+This video is about type two improper integrals.
+These are integrals for which the interval that we're integrating over is finite.
+But the function that we're integrating goes to infinity on that interval.
+To integrate a type to improper integral like this one, or this one, we integrate our function over a larger and larger sub intervals on which the function is finite.
+And then we take a limit.
+So in this first picture, where the function approaches infinity, as x goes to be from the left, we can call that moving endpoint T.
+and evaluate the integral as the limit as that right endpoint t approaches B from the left of the integral from a to T of f of x dx.
+The same definition works if f of x is going to negative infinity instead of infinity.
+In the second picture here, we again want to take a limit of integrals over sub intervals on which the function is finite.
+So in symbols, that says that if f goes to infinity or negative infinity, as x goes to a from the positive side, then the integral from a to b of f of x dx is going to be the limit as t goes to a from the right of the integral from t to b of f of x dx.
+As an example, let's find the area under the curve y equals x over the square root of x squared minus one between the lines of x equals one and x equals two.
+That area can be described as the integral from one to two of our function.
+But this is an improper integral, because the function is going to infinity, as x goes to one from the right.
+So we'll evaluate it by taking the limit as t goes to one from the right of the integral from t to two of the function.
+I'll compute this integral using u substitution, where u is x squared minus one, and d u is 2x dx.
+Since I see an x dx, in my integrand, here, I'll solve for x dx, and I get x dx is equal to one half deal.
+I'm also going to change my bounds of integration, when x is equal to t.
+That means u is equal to t squared minus one.
+And when x is equal to two, u is two squared minus one, that's three.
+So I'll rewrite my integral x dx is the same thing as one half d u, and my square root of x squared minus one becomes a square root of u in the denominator.
+Rewrite again, by pulling the one half out of the integral and rewriting the square root of u in the denominator as u to the negative one half.
+Now I can integrate, I get two times you to the one half evaluated between three and t squared minus one, my one half and two cancel, and I'll plug in my bounds of integration here.
+Now, as t goes to one from the right, t squared is also going to one, so t squared minus one is going to zero.
+Therefore, my limit is just three to the one half, or square root of three.
+And that's the area underneath my curve.
+This video was about type two improper integrals, and how

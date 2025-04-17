@@ -1,0 +1,45 @@
+Limit Laws.
+limit laws, rules for finding the limits of sums, differences, products, and quotients and functions.
+Let's start with an example.
+Suppose that the limit as x goes to seven of f of x is 30.
+And the limit as x goes to seven of g of x is two.
+What's the limit as x goes to seven of f of x divided by negative three times g of x.
+Wilson's f of x is heading towards 30.
+And g of x is heading towards two, it makes sense that the quotient should head towards 30 divided by negative three times two, or negative five.
+in calculating this limit, by plugging in numbers for the components, we were actually using the limit loss, which are now state.
+Suppose that c is a constant, just some number, and that the limits as x goes to a of f of x and g of x exist as finite numbers that is not as limits that are infinity or negative infinity.
+Then the limit of the sum f of x plus g of x is equal to the limit of f of x plus the limit of g of x.
+In other words, the limit of the sum is the sum of the limits.
+Similarly, the limit of the difference is the difference of the limits.
+The limit of C times f of x is just c times the limit of f of x.
+And the limit of the product is the product of the limits.
+The limit of the quotient is the quotient of the limits, provided that the limit of g of x is not equal to zero.
+Since we can't divide by zero.
+Let's use these limit laws in an example, to find the limit as x goes to two of x squared plus 3x plus six divided by x plus nine.
+Well, the limit rule about quotients allows us to rewrite this limit of a quotient as a quotient of limits, provided that the limits of the numerator and denominator exist, and that the limit of the denominator is not zero.
+But we'll see in a moment that these conditions do in fact hold.
+Next, we can use the limit rule about sums to rewrite the numerator as a sum of limits.
+And we can rewrite the limit in the denominator also as a sum of limits.
+Next, we can use the limit rule about products to rewrite the limit of x squared as the square of the limit.
+That's because x squared is really x times x.
+And so the limit of x squared is really the limit of x times x, which by the product rule is a limit of x times the limit of x, which is the limit of x quantity squared.
+Going back to the original problem, we can now use the limit rule about multiplying by a constant to rewrite the limit of three times x as three times the limit of x.
+And I'll just carry the rest forward.
+Now that we've got things broken down into bite sized pieces, we can start evaluating some limits.
+Notice that the limit as x goes to two of x is just two, because as x heads towards 2x, heads towards two, so we can replace all these limits of access by just the number two.
+So we get two squared plus three times two.
+Now notice that the limit as x goes to two of six, well, six doesn't have any x's in it.
+So as x two heads towards to six days at six, and the limit here is just six.
+So in my original problem, I can replace the set limit of six with six.
+And on the denominator here, I get to plus nine.
+And after a little arithmetic, this simplifies to 16/11.
+Notice that we could have gotten this answer a lot faster, just by substituting in the value of two into our original expression.
+And in fact, that's the beauty of the lemon laws, they allow us to evaluate limits of rational functions, just by plugging in the number that x is going towards, as long as plugging in that number doesn't make the denominator zero.
+It's not nearly so simple.
+When plugging in the value does make the done at zero.
+And in the future, we'll build up a bunch of algebraic techniques for handling the situation.
+In this video, we've talked about the limit loss.
+It's important to note, these limit laws only apply if the limits of the component functions actually exist as finite numbers.
+If the limit of one or both of the component functions don't exist, then a limit rules just simply don't apply.
+And instead, we have to use other techniques to try to evaluate the limit of a sum, difference product or quotient.
+This video is about the squeeze

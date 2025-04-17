@@ -1,0 +1,40 @@
+[Corequisite] Combining Logs and Exponents.
+so we can replace F of four with the number seven.
+Now we need to evaluate g of seven, seven becomes our new x value in our table of values for G, the x value of seven corresponds to the G of X value of 10.
+So g of seven is equal to 10.
+We found that g composed with F of four is equal to 10.
+If instead we want to find f composed with g of four, well, we can rewrite that is f of g of four, and again, work from the inside out.
+Now we're trying to find g of four, so four is our x value.
+And we use our table of values for G to see that g of four is one.
+So we replaced by a four by one, and now we need to evaluate f of one.
+Using our table for F values, f of one is eight.
+Notice that when we've computed g of f of four, we got a different answer there when we computed F of G, F four.
+And in general, g composed with F is not the same thing as f composed with g.
+So its input would be time in years, since a certain date, as output would be number of people in the population.
+The second function g, might compute health care costs as a function of population size.
+So it will take population size as input, and its output will be healthcare costs.
+If you put these functions together, that is compose them, then you'll go all the way from time in years to healthcare costs.
+This is your composition, g composed with F.
+The composition of two functions, written g with a little circle, f of x is defined as follows.
+g composed with f of x is G evaluated on f of x, we can think of it schematically and so diagram, f acts on a number x and produces a number f of x, then g takes that output f of x and produces a new number, g of f of x.
+Our composition of functions g composed with F is the function that goes all the way from X to g of f of x.
+Let's work out some examples where our functions are defined by tables of values.
+If we want to find g composed with F of four, by definition, this means g of f of four.
+To evaluate this expression, we always work from the inside out.
+So we start with the x value of four, and we find f of four using the table of values for f of x.
+When x equals four, f of x is seven, so we can replace F of four with the number seven.
+Now we need to evaluate g of seven, seven becomes our new x value in our table of values for G, the x value of seven corresponds to the G of X value of 10.
+So g of seven is equal to 10.
+We found that g composed with F of four is equal to 10.
+If instead we want to find f composed with g of four, well, we can rewrite that is f of g of four, and again, work from the inside out.
+Now we're trying to find g of four, so four is our x value.
+And we use our table of values for G to see that g of four is one.
+So we replaced by a four by one, and now we need to evaluate f of one.
+Using our table for F values, f of one is eight.
+Notice that when we've computed g of f of four, we got a different answer there when we computed F of G, F four.
+And in general, g composed with F is not the same thing as f composed with g.
+Please Please pause the video and take a moment to compute the next two examples.
+We can replace f composed with F of two by the equivalent expression, f of f of two.
+Working from the inside out, we know that f of two is three, and f of three is six.
+If we want to find f composed with g of six, rewrite that as f of g of six isn't the table for g, g of six is eight.
+But F

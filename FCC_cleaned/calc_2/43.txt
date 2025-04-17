@@ -1,0 +1,73 @@
+Parametric Equations.
+sequence.
+In fact, for the sequence r to the n, if we replace n with x, and look at the function f of x equals r to the x, that's an exponential function.
+And if we're assuming r is greater than one, the base for our exponential functions is greater than one.
+So we know that the limit as x goes to infinity of our to the X is infinity, which means that our sequence r to the n also has to diverge to infinity.
+If instead, r is equal to one, then r to the n is just one to the n, which is just a sequence of ones, so that converges to one.
+if r is between zero and one, then r to the n, is decreasing.
+This time, it's like the exponential function f of x equals r to the x with the base between zero and one.
+And so the limit of that exponential function, as x goes to infinity is going to be equals zero.
+Therefore, the sequence also converges to zero.
+Of course, if r equals exactly zero, and the sequence is just a sequence of zeros, so it also converges to zero.
+Next, let's look at the case when r is between negative one and zero.
+Now, the sequence of rd ends are going to oscillate between positive and negative numbers that get smaller and smaller and magnitude as n goes to infinity.
+That's because we get from one number to the next by multiplying by r, which is a negative number of magnitude less than one.
+So our limit as n goes to infinity of our A to the ends, is going to be zero again.
+Another way of thinking about this case, is by thinking about the squeeze theorem, since r to the n is always less than or equal to the absolute value of r to the n, which is o n is always greater than or equal to negative the absolute value of r to the n.
+Technically, r to the n is always exactly equal to the absolute value are the n when n is even, so that art of the N is positive.
+And it's always exactly equal to the negative of the absolute value of r, the N, when n is odd, so that are the n is, is negative.
+But in any case, the inequality still does technically hold.
+And so therefore, since by the squeeze theorem, the limit of the left terms is zero, and the limit of the right terms is zero.
+As we noted before, the limit of the middle term also has to be zero.
+So our sequence converges to zero.
+Now, if r is equal to negative one, then our sequence r to the n is just negative one to the n, which alternates between negative one and one.
+And so that sequence diverges.
+Finally, if r is less than negative one, then to get from one term to the next, we're multiplying by negative number that has magnitude bigger than one.
+And so our terms are going to oscillate between positive and negative numbers, but they're going to be going up in magnitude.
+And so the limit as n goes to infinity of a sub n, does not exist.
+And we see that our sequence diverges.
+If we look through all these cases, we see that the sequence r to the n converges to zero, when r is between negative one and one.
+it converges to one when r is exactly equal to one, and it diverges when r is bigger than one or less than negative one.
+All right, then Summary below.
+In fact, almost the same thing as true, when we look at the sequence a times r to the n, where A is any real number, the sequence a times r to the n converges to zero, when r is between negative one and one.
+it converges to a, when r is equal to one.
+And it diverges when r is less than negative one, or greater than one.
+This follows because multiplying all the terms in the sequence by a just multiplies the limit by a and zero times as zero, well, one times i is a.
+So anytime you encounter a geometric sequence, that is a sequence that can be written in the form of a times r to the n, If instead, r is equal to one, then r to the n is just one to the n, which is just a sequence of ones, so that converges to one.
+if r is between zero and one, then r to the n, is decreasing.
+This time, it's like the exponential function f of x equals r to the x with the base between zero and one.
+And so the limit of that exponential function, as x goes to infinity is going to be equals zero.
+Therefore, the sequence also converges to zero.
+Of course, if r equals exactly zero, and the sequence is just a sequence of zeros, so it also converges to zero.
+Next, let's look at the case when r is between negative one and zero.
+Now, the sequence of rd ends are going to oscillate between positive and negative numbers that get smaller and smaller and magnitude as n goes to infinity.
+That's because we get from one number to the next by multiplying by r, which is a negative number of magnitude less than one.
+So our limit as n goes to infinity of our A to the ends, is going to be zero again.
+Another way of thinking about this case, is by thinking about the squeeze theorem, since r to the n is always less than or equal to the absolute value of r to the n, which is o n is always greater than or equal to negative the absolute value of r to the n.
+Technically, r to the n is always exactly equal to the absolute value are the n when n is even, so that art of the N is positive.
+And it's always exactly equal to the negative of the absolute value of r, the N, when n is odd, so that are the n is, is negative.
+But in any case, the inequality still does technically hold.
+And so therefore, since by the squeeze theorem, the limit of the left terms is zero, and the limit of the right terms is zero.
+As we noted before, the limit of the middle term also has to be zero.
+So our sequence converges to zero.
+Now, if r is equal to negative one, then our sequence r to the n is just negative one to the n, which alternates between negative one and one.
+And so that sequence diverges.
+Finally, if r is less than negative one, then to get from one term to the next, we're multiplying by negative number that has magnitude bigger than one.
+And so our terms are going to oscillate between positive and negative numbers, but they're going to be going up in magnitude.
+And so the limit as n goes to infinity of a sub n, does not exist.
+And we see that our sequence diverges.
+If we look through all these cases, we see that the sequence r to the n converges to zero, when r is between negative one and one.
+it converges to one when r is exactly equal to one, and it diverges when r is bigger than one or less than negative one.
+All right, then Summary below.
+In fact, almost the same thing as true, when we look at the sequence a times r to the n, where A is any real number, the sequence a times r to the n converges to zero, when r is between negative one and one.
+it converges to a, when r is equal to one.
+And it diverges when r is less than negative one, or greater than one.
+This follows because multiplying all the terms in the sequence by a just multiplies the limit by a and zero times as zero, well, one times i is a.
+So anytime you encounter a geometric sequence, that is a sequence that can be written in the form of a times r to the n, you can know that it converges if r is bigger than negative one and less than or equal to one.
+This sequence here, although it looks really complicated, it's really a geometric sequence in disguise.
+One way to see this is by simplifying the form of the terms, so this is negative one to the t, e to the t times e to the minus one over three to the T times three squared.
+This is the same thing as negative e over three to the T times one over three squared times E.
+Now this is looking like the tail end of a geometric sequence, where A is one over three squared times E, and R, the common ratio is minus e over three, say the tail end, because we have T starting at three instead of zero.
+Now since he is less than three, the magnitude of our is got to be smaller than one.
+In other words, our as a negative number, that's between negative one and zero, and therefore, the tail end of this geometric sequence converges.
+It's kind

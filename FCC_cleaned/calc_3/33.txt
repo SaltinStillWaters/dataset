@@ -1,0 +1,25 @@
+Higher Order Derivatives and Notation.
+squared theta plus sine squared theta equals one, since one squared is one, and cosine squared theta is just a shorthand notation for cosine theta squared.
+That completes the proof of the first Pythagorean identity, at least in the case, when the angle theta is in the first quadrant.
+In the case, when the angle was in a different quadrant, you can use symmetry to argue the same identity holds.
+But I won't give the details here.
+To prove the next Pythagorean identity, tan squared theta plus one equals secant squared theta, let's use the first without your an identity, which said that cosine squared theta plus sine squared theta equals one, I'm going to divide both sides of this equation by cosine squared theta.
+Now I'm going to rewrite the left side by breaking apart the fraction into cosine squared theta over cosine squared theta plus sine squared theta over cosine squared theta.
+Now cosine squared theta over cosine squared theta is just one.
+And I can rewrite the next fraction as sine of theta over cosine of theta squared.
+That's because when I square a fraction, I can just square the numerator and square the denominator.
+And sine squared theta is shorthand for sine of theta squares.
+Similarly, for cosine squared theta.
+Now on the other side of the equal sign, I can rewrite this fraction as one over cosine theta squared.
+Again, that's because when I square the fraction, I just get the one squared, which is one divided by the cosine theta squared, which is this.
+I'm almost done.
+sine theta over cosine theta is the same thing as tangent theta.
+And one over cosine theta is the same thing as secant theta.
+Using the shorthand notation, that says one plus tan squared theta equals sequencer data, which, after rearranging is exactly the identity that we were looking for.
+The proof of the third for that green identity is very similar.
+Once again, I'll start with the identity is to use algebra and to use other identities, like the Pythagorean identity to rewrite one side of the equation till it looks like the other side.
+The best way to prove the net equation is not an identity is to plug in numbers that break the identity.
+That is make the equation not true.
+Now if you're just trying to decide if an equation has an identity or not, and not worried about proving it, then I recommend plugging in numbers, or graphing the left and right sides to see if those graphs are the same.
+Recall that an identity is an equation that holds for all values of the variable.
+This video states and proves three

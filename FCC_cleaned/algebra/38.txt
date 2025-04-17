@@ -1,0 +1,94 @@
+Systems of Linear Equations.
+an equation without any x squared or y squared in it, something that could be rewritten in the form y equals mx plus b, the equation for a line a system of linear equations is a collection of two or more linear equations.
+For example, I could have these two equations.
+A solution to a system of equations is that an x value and a y value that satisfy both of the equations.
+For example, the ordered pair two three, that means x equals two, y equals three is a solution to this system.
+Because if I plug in x equals two, and y equals three into the first equation, it checks out since two times two minus three is equal to one.
+And if I plug in x equals two and y equals three into the second equation, it also checks out two plus three equals five.
+However, the ordered pair one for that is x equals one, y equals four is not a solution to the system.
+Even though this X and Y value work in the second equation, since one plus four does equal five, it doesn't work in the first equation, because two times one minus four is not equal to one.
+In this video, we'll use systematic methods to find the solutions to systems of linear equations.
+In this first example, we want to solve this system of equations, there are two main methods we could use, we could use the method of substitution, or we could use the method of elimination.
+If we use the method of substitution, the main idea is to isolate one variable in one equation, and then substitute it in to the other equation.
+For example, we can start with the first equation 3x minus two y equals four, and isolate the x by adding two y to both sides, and then dividing both sides by three.
+Think I'll rewrite that a little bit by breaking up the fraction into two fractions four thirds plus two thirds y.
+Now, I'm going to copy down the second equation 5x plus six y equals two.
+And I'm going to substitute in my expression for x.
+That gives me five times four thirds plus two thirds y plus six y equals two.
+And now I've got an equation with only one variable in it y.
+So I can solve for y as a number.
+First, I'm going to distribute the five so that gives me 20 thirds plus 10 thirds y plus six y equals two.
+And now I'm going to keep all my y terms, my terms with y's in them on the left side, but I'll move all my terms without y's in them to the right side.
+At this point, I could just add up all my fractions and solve for y.
+But since I don't really like working with fractions, I think I'll do the trick of clearing the denominators here.
+So I'm going to actually multiply both sides by my common denominator of three just to get rid of the denominators and not have to work with fractions.
+So let me write that down.
+Distributing the three, I get 10 y plus eight t and y equals six minus 20.
+Now add things together.
+So that's 28 y equals negative 14.
+So that means that y is going to be negative 14 over 28, which is negative one half.
+So I've solved for y.
+And now I can go back and plug y into either of my equations to solve for x, I plug it into my first equation.
+So I'm plugging in negative one half for y.
+That gives me 3x plus one equals four.
+So 3x equals three, which means that x is equal to one.
+I've solved my system of equations and gotten x equals one On y equals minus one half, I can also write that as an ordered pair, one, negative one half for my solution.
+Now let's go back and solve the same system, but use a different method, the method of elimination, the key idea to the method of elimination is to multiply each equation by a constant to make the coefficients of one variable match.
+Let me start by copying down my two equations.
+Say I'm trying to make the coefficient of x match.
+One way to do that is to multiply the first equation by five, and the second equation by three.
+That way, the coefficient of x will be 15 for both equations, so let me do that.
+So for the first equation, I'm going to multiply both sides by five.
+And for the second equation, I'm going to multiply both sides by three.
+That gives me for the first equation 15x minus 10, y equals 20.
+And for the second equation, 15x plus 18, y is equal to six.
+Notice that the equate the coefficients of x match.
+So if I subtract the second equation from the first, the x term will completely go away, it'll be zero times x, and I'll be left with let's see negative 10 y minus 18, y is going to give me minus 28 y.
+And if I do 20 minus six, that's going to give me 14.
+solving for y, I get y is 14 over minus 28, which is minus one half just like before.
+Now we can continue, like we did in the previous solution, and substitute that value of y into either one of the equations.
+I'll put it again in here.
+And my solution proceeds as before.
+So once again, I get the solution that x equals one and y equals minus one half.
+Before we go on to the next problem, let me show you graphically what this means.
+Here I've graphed the equations 3x minus two, y equals four, and 5x plus six y equals two.
+And we can see that these two lines intersect in the point with coordinates one negative one half, just like we predicted by solving equations algebraically.
+Let's take a look at another system of equations.
+I'm going to rewrite the first equation, so the x term is on the left side with the y term, and the constant term stays on the right.
+And I'll rewrite or copy down the second equation.
+Since the coefficient of x in the first equation is minus four, and the second equation is three, I'm going to try using the method of elimination and multiply the first equation by three and the second equation by four.
+That'll give me a coefficient of x of negative 12.
+And the first equation, and 12.
+And the second equation, those are equal and opposite, right, so I'll be able to add together my equations to cancel out access.
+So let's do that.
+My first equation becomes negative 12x plus 24, y equals three, and I'll put everything by three.
+And my second equation, I'll multiply everything by four.
+So that's 12x minus 24, y equals eight.
+Now something kind of funny has happened here, not only do the x coefficients match has in with opposite signs, but the Y coefficients do also.
+So if I add together my two equations, in order to cancel out the x term, I'm also going to cancel out the y term, and I'll just get zero plus zero is equal to three plus eight is 11.
+Well, that's a contradiction, we can't have zero equal to 11.
+And that shows that these two equations actually have no solution.
+Let's look at this situation graphically.
+If we graph our two equations, we see that they're parallel lines with the same slope.
+This might be more clear, if I isolate y in each equation, the first equation, I get y equals, let's see, dividing by eight that's the same thing as four eighths or one half x plus one eight.
+And the second equation, if I isolate y, let's say minus six y equals minus 3x plus two divided by minus six, that's y equals one half x minus 1/3.
+So indeed, they have the same slope.
+And so they're parallel with different In intercepts, and so they can have no intersection.
+And so it makes sense that we have no solution to our system of linear equations.
+This kind of system that has no solution is called an inconsistent system.
+In this third example, yet a third behavior happens.
+This time, I think I'm going to solve by substitution because I already have X with a coefficient of one.
+So it's really easy to just isolate X in the first equation, and then plug in to the second equation to get three times six minus five y plus 15, y equals 18.
+If I distribute out, I get the strange phenomenon that the 15 y's cancel and I just get 18 equals 18, which is always true.
+This is what's called a dependent system of linear equations.
+If you look more closely, you can see that the second equation is really just a constant multiple, the first equation is just three times every term is three times as big as the corresponding term and the first equation.
+So there's no new information in the second equation, anything, any x and y values that satisfy the first one will satisfy the second one.
+So this system of equations has infinitely many solutions.
+Any ordered pair x y, where X plus five y equals six, or in other words, X's minus five y plus six will satisfy this system of equations.
+That would include a y value of zero corresponding x value of six or a y value of one corresponding to an x value of one, or a y value of 1/3.
+Corresponding to an x value of 13 thirds just by plugging into this equation will work.
+Graphically, if I graph both of these equations, the lines will just be on top of each other, so I'll just see one line.
+In this video, we've solved systems of linear equations, using the method of substitution and the method of elimination.
+We've seen that systems of linear equations can have one solution.
+When the lines that the equations represent intersect in one point, they can be inconsistent, and have no solutions that corresponds to parallel lines, or they can be dependent and have infinitely many solutions that corresponds to the lines lying on top of each other.
+In this video, I'll work through a problem involving distance

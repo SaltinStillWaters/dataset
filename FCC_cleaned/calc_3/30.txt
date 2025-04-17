@@ -1,0 +1,38 @@
+[Corequisite] Pythagorean Identities.
+for another video coming soon on proofs.
+This video is about identities involving trig functions like sine and cosine.
+But I want to start with some examples that just involve In the third example, g of x is one over x to the 3.
+7.
+Again, we need to do a little rewriting before we can apply the power rule.
+So I'm going to rewrite g of x as x to the minus 3.
+7.
+Using exponent rules, now I can find dg dx by pulling down the negative 3.
+7 multiplying in the front, and now I have to reduce negative 3.
+7 by one, so I subtract one that gives me x to the negative 4.
+7.
+Again, I can rewrite this if I wish as negative 3.
+7 over x to the 4.
+7.
+It's important to notice that in all these examples and in fact, in any example where the power rule applies, the variable x is in the base.
+And the exponent is just a constant, just a real number.
+The constant multiple rules says that if c is just a constant real number, and f is a differentiable function, then the derivative of C times f of x is just c times the derivative of f of x.
+In other words, when we take the derivative, we can just pull a constant outside of the derivative sign.
+Let's use this rule in an example.
+If we want to take the derivative of 5x cubed, that's the same thing as five times the derivative of x cubed.
+And now using the power rule, we can bring down the three and get 15x squared.
+f and g are differentiable functions, then the derivative of f of x plus g of x is the derivative of f plus the derivative of g.
+Similarly, for a difference, if f and g are differentiable functions, then the derivative of the difference is just the difference of the derivatives.
+Now let's use all these rules together to calculate the derivative of this polynomial.
+To find the y dx, we can use the sum and difference rule to calculate the derivative of each term separately.
+Now using the constant multiple rule and the power rule, we can bring out the seven, bring down the three getting x squared here, similarly, for the next term, five times two times x to the one, four times the derivative of x, which is just one, and the derivative of a constant two is just zero.
+So simplifying, we get 21x squared minus 10x plus four, and notice that the derivative of the original polynomial is just another polynomial of one less degree.
+In this video, we use some shortcuts to calculate the derivatives of various functions, especially polynomials.
+If you're interested in seeing where these rules come from, how they're derived from the limit definition of derivative, then look for another video coming soon on proofs.
+This video is about identities involving trig functions like sine and cosine.
+But I want to start with some examples that just involve quadratic functions.
+If I want to find the solutions to this equation, I can rewrite it x squared minus 6x minus seven equals zero, factor it, x minus seven times x plus one equals zero, set the factors equal to 0x minus seven equals zero, or x plus one equals zero.
+And that gives me the solutions, x equals seven, or x equals negative one.
+Next, let's look at this more complicated equation.
+I'm going to try to solve that for x by multiplying out the right hand side.
+Next, our combined terms on the right hand side.
+So that gives me x squared minus 6x on both sides, well, x squared minus 6x is equal to x squared minus

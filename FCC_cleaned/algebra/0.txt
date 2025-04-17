@@ -1,0 +1,66 @@
+Exponent Rules.
+This video is about the exponent rules, rules that govern expressions like two to the fifth, or x to the n.
+two to the fifth is just shorthand for two times two times two times two times two, written five times.
+And similarly x to the n is just x multiplied by itself.
+And times when we write these expressions, the number on the bottom that's being multiplied by itself is called the base.
+And the number at the top telling us how many times we're multiplying the base by itself is called the exponent.
+Sometimes the exponent is also called the power.
+The product rule says that a 5x to the power of n times x to the power of m, that's the same thing as x to the n plus m power.
+In other words, when I multiply two expressions with the same base, then I can add their exponents.
+For example, if I have two cubed times two to the fourth, that's equal to two to the seventh.
+And that makes sense, because two cubed times two to the fourth, means I multiply two by itself three times.
+And then I multiply that by two multiplied by itself four times.
+And in the end, I have to multiplied by itself seven times, which is two to the seventh, I'm just adding up the number of times as multiplied in each piece, to get the number of times as multiplied total.
+The quotient rule says that if I have x to the n power divided by x to the m power, that's equal to x to the n minus m power.
+In other words, if I divide two expressions with the same base, then I can subtract their exponents.
+For example, three to the six divided by three squared is going to be three to the six minus two, or three to the fourth.
+And this makes sense, because three to the six means I multiply three by itself six times, and then I divide that by three multiplied by itself twice.
+So when I cancel out threes, I have four threes left, notice that I have to subtract the number of threes on the bottom, from the number of threes at the top to get my number of threes remaining.
+That's why subtract my exponents.
+The power rule tells us if I have x to the n power raised to the m power, that's the same thing as x to the n times M power.
+In other words, when I raise a power to a power, I get to multiply the exponents.
+For example, five to the fourth cubed is equal to five to the four times three, or five to the 12th.
+And this makes sense, because five to the fourth cubed can be thought of as five to the fourth times five to the fourth, times five to the fourth, expanding this out some more, that's five times five times five times five times the same thing times the same thing again.
+So I have three groups of four, or five, which is a total of three times four, or 12.
+fives.
+The next rule involves what happens when I raise a number, or a variable to the zeroeth power, it turns out that anything to the zeroeth power is equal to one.
+Usually, this is just taken as a definition.
+But here's why it makes sense to me.
+If you have something like two cubed divided by two cubed, Well, certainly that has to equal one, anything divided by itself is just one.
+But using the quotient rule, we know that this is the same thing as two to the three minus three, because when we divide two things with the same base, we get to subtract their exponents.
+Therefore, this is the same thing as two to the zero.
+So two to the zero has to equal one in order to make it work with the quotient rule.
+And the same argument shows that anything to the zero power has to be equal to one.
+What happens when we take something to a negative power, x to the n is equal to one over x to the n.
+Again, most people just take this as a definition of a negative exponent.
+But here's why it makes sense.
+If I take something like five to seven times five to the negative seven, then buy the product roll the SAS to equal five to the seven plus negative seven, which is five to the zero, and we just said that that is equal to one.
+Now I have the equation of five to the seventh times five to the negative seventh equals one, if I divide both sides by five, the seventh, I get that five to the negative seventh has to equal one over five to the seventh.
+So that's where this rule about negative exponents comes from.
+That has to be true in order to be consistent with the product rule.
+Finally, let's look at a fractional exponents.
+What does an expression like x to the one over N really mean?
+Well, it means the nth root of x, for example, 64 to the 1/3 power means the cube root of 64, which happens to be four, and nine to the one half means the square root of nine, which is usually written without that little superscript up there.
+Now, the square root of nine is just three.
+fractional exponents also makes sense.
+For example, if I have five to the 1/3, and I cube that, then by the power role, that's equal to five to the 1/3, times three, which is just five to the one or five.
+So in other words, five to the 1/3, is the number that when you cube it, you get five.
+And that's exactly what's meant by the cube root of five, the cube root of five is also a number that when you cube it, you get five.
+The next rule tells us we can distribute an exponent over a product.
+In other words, if we have a product, x times y, all raised to the nth power, that's equal to x to the n times y to the N.
+For example, five times seven, all raised to the third power is equal to five cubed times seven cubed.
+And this makes sense, because five times seven, all raised to the cube power can be expanded as five times seven, times five times seven, times five times seven.
+But if I rearrange the order of multiplication, this is the same thing as five times five times five, times seven times seven times seven, or five cubed times seven cubed.
+Similarly, we could distribute an exponent over a quotient, if we have the quotient X over Y, all raised to the n power, that's the same as x to the n over y to the N.
+For example, two sevenths raised to the fifth power is the same thing as two to the fifth over seven to the fifth.
+This makes sense, because two sevens to the fifth can be expanded as two sevens multiply by itself five times, which can be written rewritten as two multiplied by itself five times divided by seven multiplied by itself five times, and that's two to the fifth, over seven to the fifth, as wanted.
+We've seen that we can distribute an exponent over multiplication, and division.
+But be careful, because we cannot distribute next bowknot.
+over addition, or subtraction, for example, a plus b to the n is not generally equal to a to the n plus b to the n, a minus b to the n is not generally equal to a to the n minus b to the n.
+And if you're not sure, just try an example with numbers.
+For example, two plus three squared is not the same thing as two squared plus three squared, and two minus three squared is definitely not equal to two squared minus three squared.
+In this video, I gave eight exponent rules, which I'll list again here.
+There's the product rule, the quotient rule, the power rule, the zero exponent, the negative exponent, the fractional exponent, and the two rules involving distributing exponents.
+Across multiplication, and division.
+In another video, I'll use these exponent rules to rewrite and simplify expressions involving exponents.
+In this video, I'll work out some examples of simplifying expressions using exponent

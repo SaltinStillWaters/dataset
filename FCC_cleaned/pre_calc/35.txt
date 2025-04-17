@@ -1,0 +1,81 @@
+Parametric Equations.
+video introduces the idea of parametric equations, instead of describing a curve as y equals f of x, we can describe the x coordinates and y coordinates separately in terms of a third variable t, usually thought of as time.
+so we can write x as a function of t, and y as a separate function of t.
+This is especially useful as a way to describe curves that don't satisfy the vertical line test, and therefore can't be described traditionally as functions of y in terms of x.
+A Cartesian equation for a curve is an equation in terms of x and y only.
+parametric equations for a curve give both x and y as functions of a third variable, usually T.
+The third variable is called the parameter.
+That's our first example, let's graph the parametric equations given here on an x y coordinate axis.
+Well, we'll do this by finding x and y coordinates that correspond to the same value of t.
+For example, when t is negative two, you can calculate that x by plugging in negative two for t gives you five and why, when you plug in negative two for t gives you eight.
+Please pause the video for a moment and fill in some additional values of x and y.
+For some additional values of t.
+Your chart should look like this.
+And when we plot the XY pairs and connect the dots, we get something like this.
+It says this point over here corresponds to a T value of negative two.
+And this point over here corresponds to the t value of two.
+So if we think of t as time, we're traversing the curve in this direction.
+To find a Cartesian equation for this curve, we need to eliminate the variable t from these equations.
+One way to do this is to solve for t and one equation, say the first equation.
+So two t is equal to one minus x, which means that t is one half minus x over two, then we can plug that expression for t into the second equation and get y equals one half minus x over two squared plus four, which simplifies to the quadratic equation, y equals 1/4 X squared minus one half x plus 17 fourths.
+Let's try some more examples.
+A table of values for the first example helps us draw the familiar graph of a circle of radius one.
+This should come as no surprise since the equations x equals cosine t and y equals sine t are familiar from trig as a way of describing the x&y coordinates of a point on the unit circle.
+Notice that when t equals zero, our curve lies on the positive x axis.
+And as t increases from zero to two pi, we traverse the curve once in the counterclockwise direction.
+A Cartesian equation for this unit circle is given by the equation x squared plus y squared equals one.
+This follows from the trig identity cosine squared t plus sine squared t equals one by substituting in X for cosine t, and y for sine t.
+Please pause the video for a moment to graph the second curve and rewrite it as a Cartesian equation.
+The table of values should help you see that the graph is again a unit circle.
+But this time, as t increases from zero to two pi, we actually traverse the circle twice in the clockwise direction, I'll draw this with a double arrow going clockwise.
+The Cartesian equation for this graph is still x squared plus y squared equals one.
+And so we found two different parameterizations.
+For the same graph on the X Y axis.
+Let's take a look at the third equation.
+There's no interval value specified for t here.
+So let's just assume that t can be any real number.
+Now as T ranges from negative infinity to infinity, our Y values, which are given by cosine t, oscillate between one and negative one.
+Our x values are always the square of our Y values.
+So the graph of this curve has to lie on the graph of x equals y squared, which is a sideways parabola.
+But a parametrically defined curve doesn't cover this whole parabola.
+Remember that y is given by cosine of t.
+So y can only range between negative one and one.
+And so we're only getting the portion of the parabola that I shade in here.
+As t varies from say, zero to pi, I traverse this parabola one time.
+And then as t goes from pi to two pi, I go back again in the other direction.
+And as T continues to increase, I traverse this parabola infinitely many times.
+The Cartesian equation for this curve is the equation x equals y squared with the restriction that y is between negative one and one.
+We've seen several examples where we went from parametric equations to Cartesian equations.
+Now let's start with a Cartesian equation and rewrite it as a parametric equation.
+In this example, y is already given as a function of x.
+So an easy way to parameterize.
+This curve is to just let x equal t.
+And then y is equal to the square root of t squared minus t, substituting in T for x, the domain restriction in terms of x just translates into a restriction in terms of t.
+I call this the copycat parameterization.
+Since we've successfully introduced the new variable t, but T just copies, whatever x does.
+In the second example, we could try setting x equal to t, then we get 25 t squared plus 36.
+Y squared is equal to 900.
+and solving for y, we'd have y squared equals 900 minus 25 t squared over 36.
+So why is plus or minus the square root of this quantity?
+This is a very awkward looking expression.
+In fact, why is that even a function of t here because of the plus and minus signs.
+So let's look for a better way to parameterize this curve.
+Because of the x squared and the y squared, this equation is a good candidate for parameterizing using sine and cosine.
+In fact, if we divide both sides of the equation by 900, we get 25x squared over 900 plus 36.
+Y squared over 900 is equal to one, which simplifies to x squared over 36 plus y squared over 25 is equal to one.
+If I rewrite this as x over six squared plus y or five squared equals one, then I can set x over six equal to cosine of t, and y over five equal to sine of t.
+And I can see that for any value of t, x over six and y over five will satisfy this equation, simply because cosine squared plus sine squared equals one.
+This gives me the parameterization x equals six cosine of t, y equals five sine of t, which is a handy way to describe any lips.
+As a final example, let's describe a general circle of radius r, and center HK.
+For any point, x, y on the circle, we know that the distance from that point x y to the center of the circle is equal to r.
+So using the distance formula, we know that the square root of x minus h squared plus y minus k squared has to equal our squaring both sides, this gives us the equation for the circle in Cartesian coordinates.
+So for example, if our circle has radius five, and has Center at the point, negative 317, then its equation would be x minus negative three, that's x plus three squared plus y minus 17 squared is equal to 25.
+One way to find the equation of a general circle in parametric equations, is to start with the unit circle and work our way up.
+We know that the unit circle with radius one centered at the origin is given by the equation x equals cosine t, and y equals sine t.
+If we want a circle of radius r centered around the origin instead, then we need to expand everything by a factor of R.
+So we multiply our x and y coordinates by R.
+If we now want the center to be at HK instead of at the origin, then we need to add h to our x coordinates and add K to all our Y coordinates.
+This gives us the general equation for a circle in parametric equations.
+to match the Cartesian equation above, we can write our same example circle and parametric equations as x equals five cosine t minus three, y equals five sine t plus 17.
+In this video, we translated back and forth in between Cartesian equations and parametric equations with a special emphasis on the equations for circles.
+This video is

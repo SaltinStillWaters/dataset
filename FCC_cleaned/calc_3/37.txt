@@ -1,0 +1,62 @@
+Proof of Product Rule and Quotient Rule.
+leave them as is.
+Now we're ready to plug into our formula.
+So we have that cosine of v plus w is equal to point nine times point seven minus the square root of 19 over 10, times the square root of 51 over 10.
+Now we're ready to plug into our formula.
+So we have that cosine of v plus w is equal to point nine times point seven minus the square root of 19 over 10, times the square root of 51 over 10.
+using a calculator, this works out to a decimal approximation of 0.
+3187.
+This video gave the angle sum and difference formulas and use them to compute some values.
+To see a proof for why the sum formulas hold, please watch my other video.
+This video gives formulas for sine of two theta and cosine of two theta.
+Please pause the video for a moment and see if you think this equation sine of two theta equals two sine theta is true or false.
+Remember that true means always true for all values of theta were false means sometimes they're always false.
+This equation is false, because it's not true for all values of theta.
+One way to see this is graphically, if I graph y equals sine of two theta, that's like the graph of sine theta, squished in horizontally by a factor of one half.
+On the other hand, if I graph y equals two sine beta, that's like the graph of sine theta stretched vertically by a factor of two.
+These two graphs are not the same.
+So instead, we need a more complicated formula for sine of two theta.
+And that formula is sine of two theta is two sine theta, cosine theta.
+It's not hard to see why that formula works based on the angle some formula.
+Recall that sine of A plus B is equal to sine A cosine B plus cosine A sign Therefore, sine of two theta, which is sine of theta plus theta is going to be sine theta, cosine theta, plus cosine theta sine theta.
+simply plugging in theta for a and theta for B, in this angle, some formula, will sine theta cosine theta is the same thing as cosine theta sine theta.
+So I can rewrite this as twice sine theta cosine theta.
+That gives me this formula.
+There's also a formula for cosine of two theta.
+And that formula is cosine squared theta minus sine squared theta.
+Again, we can use the angle sum formula to see where this comes from.
+cosine of A plus B is equal to cosine of A cosine of B minus sine A, sine B.
+So if we want cosine of two theta, that's just cosine of theta plus theta, which is cosine theta, cosine theta, minus sine theta, sine theta by plugging in beta for a and b, this can be rewritten as cosine squared theta minus sine squared theta, which is exactly the formula above.
+Now there are a couple other formulas for cosine of two theta that are also popular.
+One of them is one minus two sine squared theta.
+And the other one is cosine of two theta is two cosine squared theta minus one, you can get each of these two formulas from the original one using the Pythagorean identity.
+We know that cosine squared theta plus sine squared theta is one.
+So cosine squared theta is one minus sine squared theta.
+If I plug that into my original formula, which I've copied here, so I'm plugging in, instead of cosine squared, I'm gonna write one minus sine squared theta, I still have a nother minus sine squared theta.
+So that's the same thing as one minus twice science grid data, which is exactly what I'm looking for.
+Similarly, I can use the Pythagorean identity to write sine squared theta as one minus cosine squared theta.
+Again, I'll take this equation and copy it below.
+But this time, I'm going to plug in for sine squared right here.
+So that gives me cosine of two theta is cosine squared theta minus the quantity one minus cosine squared theta.
+That simplifies to two cosine squared theta minus one after distributing the negative sign and combining like terms.
+using a calculator, this works out to a decimal approximation of 0.
+3187.
+This video gave the angle sum and difference formulas and use them to compute some values.
+To see a proof for why the sum formulas hold, please watch my other video.
+This video gives formulas for sine of two theta and cosine of two theta.
+Please pause the video for a moment and see if you think this equation sine of two theta equals two sine theta is true or false.
+Remember that true means always true for all values of theta were false means sometimes they're always false.
+This equation is false, because it's not true for all values of theta.
+One way to see this is graphically, if I graph y equals sine of two theta, that's like the graph of sine theta, squished in horizontally by a factor of one half.
+On the other hand, if I graph y equals two sine beta, that's like the graph of sine theta stretched vertically by a factor of two.
+These two graphs are not the same.
+So instead, we need a more complicated formula for sine of two theta.
+And that formula is sine of two theta is two sine theta, cosine theta.
+It's not hard to see why that formula works based on the angle some formula.
+Recall that sine of A plus B is equal to sine A cosine B plus cosine A sign Therefore, sine of two theta, which is sine of theta plus theta is going to be sine theta, cosine theta, plus cosine theta sine theta.
+simply plugging in theta for a and theta for B, in this angle, some formula, will sine theta cosine theta is the same thing as cosine theta sine theta.
+So I can rewrite this as twice sine theta cosine theta.
+That gives me this formula.
+There's also a formula for cosine of two theta.
+And that formula is cosine squared theta minus sine squared theta.
+Again, we can use the angle sum formula to see where this comes

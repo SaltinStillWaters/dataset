@@ -1,0 +1,64 @@
+Integrals Involving Even Powers of Sine and Cosine.
+this video, we saw that for a constant force work is just equal to the force times distance.
+But for a variable force work is equal to the integral of force with respect to distance.
+This video introduces the idea of an average value of a function.
+To take the average of a finite list of numbers, we just add the numbers up and divide by n, the number of numbers.
+In summation notation, we write the sum from i equals one to n of Q i all divided by n.
+But defining the average value of a continuous function is a little different.
+Because a function can take on infinitely many values on an interval from a to be, we could estimate the average value of the function by sampling it at a finite Li many evenly spaced x values.
+I'll call them x one through x n.
+And let's assume that they're spaced a distance of delta x apart, then the average value of f at these sample points is just the sum of the values of f divided by n, the number of values are in summation notation, the sum from i equals one to n of f of x i all divided by n.
+This is an approximate average value of f, since we're just using n sample points.
+But the approximation gets better as the number of sample points n gets bigger and bigger.
+So we could define the average as the limit as n goes to infinity of the sample average.
+I'd like to make this look more like a Riemann sum.
+So I need to get delta x in there.
+So I'm just going to multiply the top and the bottom by delta x.
+And notice that n times delta x is just the length of the interval b minus a.
+Now as the number of sample points goes to infinity, delta x, the distance between them goes to zero.
+So I can rewrite my limit as the limit as delta x goes to zero of the sum of FX II times delta x divided by b minus a.
+Now the limit of this Riemann sum in the numerator is just the integral from a to b of f of x dx.
+And so the average value of the function is given by the integral on the interval from a to b divided by the length of the interval.
+Notice the similarity between the formula for the average value of a function and the formula for the average value of a list of numbers, the integral for the function corresponds to the summation sign for the list of numbers.
+And the length of the interval B minus A for the function corresponds to n, the number of numbers in the list of numbers.
+Now let's work an example.
+For the function g of x equals one over one minus 5x.
+On the interval from two to five.
+We know that the average value of G is given by the integral from two to five of one over one minus 5x dx divided by the length of that interval.
+I'm going to use use of the tuition to integrate.
+So I'm going to set u equal to one minus 5x.
+So d u is negative five dx.
+In other words, dx is negative 1/5 times do.
+Looking at my bounds of integration, when x is equal to two, u is equal to one minus five times two, which is negative nine.
+And when x is equal to five, u is equal to negative 24.
+substituting into my integral, I get the integral from negative nine to negative 24 of one over u times negative 1/5.
+Do and that's divided by three.
+Now dividing by three is same as multiplying by 1/3.
+And as I integrate, I'm going to pull the negative 1/5 out, and then take the integral of one over u, that's ln of the absolute value of u, evaluated in between negative 24 and negative nine.
+The absolute value signs are important here, because they prevent me from trying to take the natural log of negative numbers.
+To evaluate, I get negative 1/15 times ln of 24 minus ln of nine, I can use my log rules to simplify and get negative 1/15 ln of 24 over nine, that's negative 1/15 ln of eight thirds, and as a decimal, that's approximately negative 0.
+0654.
+So I found the average value of G.
+Now my next question is, does g ever achieve that average value, in other words, is there a number c in the interval from two to five for which GFC equals its average value?
+Well, one way to find out is just to set GSC equal to GS average value.
+In other words, set one over one minus five c equal to negative 1/15 ln of eight thirds, and try to solve for C.
+There are lots of ways to solve this equation.
+But I'm going to take the reciprocal of both sides, subtract one from both sides and divide by negative five.
+This simplifies to three over ln of eight thirds, plus 1/5.
+What which is approximately 3.
+25.
+And that x value does lie inside the interval from two to five.
+So we've demonstrated that g does achieve its average value over the interval.
+But in fact, we could have predicted this to be true.
+Gs average value has to lie somewhere between GS minimum value and maximum value on this interval.
+And since G is continuous on the interval from two to five, it has to achieve every value that lies in between as minimum and maximum, including its average value.
+The same argument shows that for any continuous function, the function must achieve its average value on an interval.
+And this is known as the mean value theorem for integrals.
+Namely, for any continuous function f of x on an interval from a to b, there has to be at least one number c, between A and B, such that f of c equals its average value, or, in symbols, f of c equals the integral from a to b of f of x dx divided by b minus a.
+This video gave the definition of an average value of a function, and stated the mean value theorem for integrals.
+If we rewrite the formula for average value a little, then we can see a geometric interpretation for average value.
+The area of the box with height the average value Notice the similarity between the formula for the average value of a function and the formula for the average value of a list of numbers, the integral for the function corresponds to the summation sign for the list of numbers.
+And the length of the interval B minus A for the function corresponds to n, the number of numbers in the list of numbers.
+Now let's work an example.
+For the function g of x equals one over one minus 5x.
+On the interval from

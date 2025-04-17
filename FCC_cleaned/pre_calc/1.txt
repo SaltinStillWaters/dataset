@@ -1,0 +1,39 @@
+Increasing and Decreasing Functions.
+on their graphs.
+In this first example, I've graphed two lines, the first line is an increasing function.
+Because as the x values go from left to right, the y values are going up.
+this can be written more formally, by saying if x two is bigger than x one, these are supposed to be x values.
+So that means that x two is some x value, that's to the right so that it's bigger than x one.
+So whenever we have an x value x to this bigger than x one, increasing means that f of x two has to be bigger than f of x one, so that the y values are getting bigger when the x values are bigger.
+The second line is an example of a decreasing function.
+Because here as the x values increased from left to right, the y values are going down.
+So again, we can write this more formally by saying that whenever we have an x value x two that's bigger than x one, for example, this might be x two, and this might be x one, then the y value f of x two is less than f of x one this time, because here, when we have a bigger x value, we want to have a smaller y value to be decreasing.
+This second example gives the graph of a function that's increasing in some places, but decreasing and others.
+This part of the graph, here the functions decreasing, because as the x values increased from left to right, the y values go down.
+Over here, we also have a part of the graph where the function is decreasing.
+Now this part of the graph, the function is increasing, because as x goes from left to right, the y values are going up.
+I've marked that one in green, for increasing.
+And finally, on this part of the graph, the functions are neither increasing nor decreasing, it's completely flat or constant.
+Now we're asked to describe the intervals on which the graph is increasing or decreasing.
+So we describe those intervals in terms of the x values.
+It wouldn't make sense to describe them in terms of the y values because the y values can be the same for different parts of the graph, but the x values are always unique.
+Describe where this function is decreasing.
+That's for x values between negative four and negative two, and between four and seven.
+I can write this using inequalities as negative for less than x less than negative two, for less than x less than seven.
+It's not important whether I use less than or less than or equal to signs here, I'm going to use less than or equal to signs at the endpoints of the functions domain where the function stops existing altogether.
+And I'll use strict less than signs just where the function starts or stops decreasing in the middle of its domain.
+But again, that's not important.
+Describe where the function is increasing.
+That's for x values in between negative two, and one.
+So I can write that as an inequality as negative two less than x less than one, I can also describe these intervals in interval notation.
+So that would be close bracket, negative four, negative to open bracket, a cup sign for union, and then four comma seven, for the decreasing part, and the increasing part is negative two, comma one, I'm going to modify my graph just a little bit.
+Now by putting arrows on the end, what I have arrows instead of dots are just hard stops, that signifies that the function continues in the same direction forever.
+So if I write it like that, then the place where the function is increasing is still the same, it's still going to be from x values going from negative two to one.
+But now the decreasing part of the function extends further.
+So this section, these x values extend all the way out to infinity in it, we assume that it keeps going keeps decreasing here.
+So I would write that as for infinity, and similar the the left part, I would write as negative infinity, negative two, because the function is going on forever in this direction to set x values go all the way to negative infinity on that chunk.
+So when talking about increasing and decreasing parts of functions based on graphs, the thing to remember is that x is going to be heading from left to right.
+As long as you do that, increasing just means that y goes up.
+Decreasing means that y goes down.
+And if you're after describing the intervals, you have to do that in terms of x values.
+This video is about identifying maximums and

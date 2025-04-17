@@ -1,0 +1,68 @@
+[Corequisite] Solving Rational Equations.
+is its own derivative.
+So this is a generalized version of the second fact.
+Because the second fact is saying that the derivative at x equals zero is one, well, one is just the same thing as e to the zero.
+So it saying the drought of either the exit at x equals zero is equal to zero.
+And in general, the derivative of e to the x at any x is just e to the x.
+Now, fact, one is frequently taken as the definition of E.
+Sometimes fact two instead is taken as a definition of he, since he is the unique number with this, this property, the unique number, you can plug in here and get this limit equal one, it's possible to prove that fact one implies fact two and vice versa.
+But I won't do that here.
+It's also possible to prove that fact two implies fact three about the derivative in general.
+And that's pretty straightforward from the definition of derivative.
+So I will show you that argument.
+So let's start out assuming fact to and try to prove fact three using the definition of direct by the definition of derivative.
+The derivative of e to the x is the limit as h goes to zero of e to the x plus h minus e to the x over h.
+If I factor out an E to the X, from both terms on the numerator, I get the limit of e to the x times e to the H minus one over h.
+Notice that e to the x times e to the H is in the x plus h by the exponent rules.
+Now, either the X has nothing to do with H, so it's just a constant as far as H is concerned.
+And I can pull it all the way out of the limit sign and rewrite this limit.
+Now by factor two, which I'm assuming this limit here is just one, which means that my derivative it talks about the derivative of e to the x in general.
+And that third fact is that the derivative of the function, either the X is the function, e to the x, e to the x is its own derivative.
+So this is a generalized version of the second fact.
+Because the second fact is saying that the derivative at x equals zero is one, well, one is just the same thing as e to the zero.
+So it saying the drought of either the exit at x equals zero is equal to zero.
+And in general, the derivative of e to the x at any x is just e to the x.
+Now, fact, one is frequently taken as the definition of E.
+Sometimes fact two instead is taken as a definition of he, since he is the unique number with this, this property, the unique number, you can plug in here and get this limit equal one, it's possible to prove that fact one implies fact two and vice versa.
+But I won't do that here.
+It's also possible to prove that fact two implies fact three about the derivative in general.
+And that's pretty straightforward from the definition of derivative.
+So I will show you that argument.
+So let's start out assuming fact to and try to prove fact three using the definition of direct by the definition of derivative.
+The derivative of e to the x is the limit as h goes to zero of e to the x plus h minus e to the x over h.
+If I factor out an E to the X, from both terms on the numerator, I get the limit of e to the x times e to the H minus one over h.
+Notice that e to the x times e to the H is in the x plus h by the exponent rules.
+Now, either the X has nothing to do with H, so it's just a constant as far as H is concerned.
+And I can pull it all the way out of the limit sign and rewrite this limit.
+Now by factor two, which I'm assuming this limit here is just one, which means that my derivative is e to the x, just like I wanted to show.
+Here's a slightly tricky example, asking you to compute the derivative of a function that involves lots of ears and X's is e to the x, just like I wanted to show.
+Here's a slightly tricky example, asking you to compute the derivative of a function that involves lots of ears and X's combined in lots of different ways.
+You'll need to use not only the rule for the derivative of e to the x that we just talked about, but also the power rule and other rules.
+derivatives that we've talked about combined in lots of different ways.
+You'll need to use not only the rule for the derivative of e to the x that we just talked about, but also the power rule and other rules.
+derivatives that we've talked about earlier.
+earlier.
+So please pause the video and try to compute this derivative yourself paying careful attention to what's a variable and what's the constant.
+So please pause the video and try to compute this derivative yourself paying careful attention to what's a variable and what's the constant.
+Okay, so we're taking the derivative here with respect to x, that's our variable.
+And I'm taking the derivative of this entire expression, which I can split up as a sum of derivatives.
+For the first term, I can just use the power rule, E is a constant coefficient, so I just need to take down the exponent of two multiplied on the front, times x to the One Power.
+Now for the second part, Okay, so we're taking the derivative here with respect to x, that's our variable.
+And I'm taking the derivative of this entire expression, which I can split up as a sum of derivatives.
+For the first term, I can just use the power rule, E is a constant coefficient, so I just need to take down the exponent of two multiplied on the front, times x to the One Power.
+Now for the second part, here, I do have my either the x function multiplied by two, so its derivative is just two times the derivative of e to the x, which is either the X here, I do have my either the x function multiplied by two, so its derivative is just two times the derivative of e to the x, which is either the X for my third part, I have just x times a constant e squared.
+So the derivative of x is one times that constant.
+And so I just get e squared.
+Finally, to take the derivative of x to the power of E squared, I can use the power rule because my variable is in the base, and I have a constant e squared in my exponent.
+So using the power rule, I bring down the E squared times that by x and subtract one from the exponent.
+This video states the happy fact that the derivative of e to the x is just e to for my third part, I have just x times a constant e squared.
+So the derivative of x is one times that constant.
+And so I just get e squared.
+Finally, to take the derivative of x to the power of E squared, I can use the power rule because my variable is in the base, and I have a constant e squared in my exponent.
+So using the power rule, I bring down the E squared times that by x and subtract one from the exponent.
+This video states the happy fact that the derivative of e to the x is just e to the x.
+This video prove some of the rules for taking derivatives.
+the x.
+This video prove some of the rules for taking derivatives.
+First, the constant row, it makes sense that the derivative of a constant real number has to be zero, because the slope of a horizontal line First, the constant row, it makes sense that the derivative of a constant real number has to be zero, because the slope of a horizontal line is zero.
+is zero.

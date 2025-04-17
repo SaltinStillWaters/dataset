@@ -1,0 +1,46 @@
+Marginal Cost.
+expression here.
+Now my limit rules allow me to rewrite this limit as four separate limits, provided that these four limits do in fact exist, which that tell you show you in a moment that they do.
+So this first limit here is just equal to g of x, because G is a continuous function.
+G is continuous because by assumption it's differentiable, so it has to be continuous.
+This second limit here, you'll recognize as the definition of the derivative of f, so that limit exists at equals d dx of f of x.
+The third limit, well, f of x has nothing to do with age.
+So that limit is just f of x.
+And finally, the fourth limit is the derivative of g.
+And we've done it.
+Well, modulus some minor rearrangement, you'll see that this expression here, is exactly the same as this expression here, just with the order of the terms switched around.
+Before we go on to prove the quotient rule, it'll be really handy to prove the reciprocal rule, which states that the derivative of reciprocal, one over f of x is given by negative the derivative of f of x divided by f of x squared.
+So to prove this fact, let's start as usual, with the definition of derivative.
+The derivative of one over f of x is the limit as h goes to zero of one over f of x plus x plus h minus one over f of x over h.
+Now, these fractions here are just crying out to be combined by finding a common denominator that common denominators f of x plus h times f of x.
+So let me do that.
+I've just multiplied the first fraction by f of x over f of x and the second fraction by f of x plus h over f of x plus h in order to rewrite with a common denominator.
+So that gives me f of x minus f of x plus h divided by f of x plus h times f of x.
+And instead of dividing this whole thing by H, I'll multiply it by one of our age, which gives me another factor of H in the denominator.
+Now, this expression here is looking a lot like the derivative of h minus one over f of x over h.
+Now, these fractions here are just crying out to be combined by finding a common denominator that common denominators f of x plus h times f of x.
+So let me do that.
+I've just multiplied the first fraction by f of x over f of x and the second fraction by f of x plus h over f of x plus h in order to rewrite with a common denominator.
+So that gives me f of x minus f of x plus h divided by f of x plus h times f of x.
+And instead of dividing this whole thing by H, I'll multiply it by one of our age, which gives me another factor of H in the denominator.
+Now, this expression here is looking a lot like the derivative of f.
+f.
+It's just in the reverse order.
+So let me factor out a negative sign in order to let me switch that order here.
+So this becomes f of x plus h minus f of x over h, and then I've got the times one over f of x plus h times f of x.
+Now I can split this limit up first, I'll factor out the negative sign.
+And then I'll write this product as a product of two limits, which I can do provided the component limits exist.
+And I'll check that these limits do exist.
+Let's see the first limit here.
+The first limit here is just the derivative of It's just in the reverse order.
+So let me factor out a negative sign in order to let me switch that order here.
+So this becomes f of x plus h minus f of x over h, and then I've got the times one over f of x plus h times f of x.
+Now I can split this limit up first, I'll factor out the negative sign.
+And then I'll write this product as a product of two limits, which I can do provided the component limits exist.
+And I'll check that these limits do exist.
+Let's see the first limit here.
+The first limit here is just the derivative of f.
+f.
+And the second limit here exists because f is continuous, f is continuous since is differentiable.
+So by continuity, as H is going to zero, since x plus h is approaching x, f of x plus h is just approaching f of x.
+And I can rewrite this limit as one over f of x times f of x.

@@ -1,0 +1,55 @@
+[Corequisite] Angle Sum and Difference Formulas.
+6x.
+That's true no matter what I plug in for x, and therefore, all values of x satisfy this equation, we can say that the solution set is all real numbers.
+The second equation is called an identity, because it holds for all values of the variable.
+The first equation, on the other hand is not an identity, because it only holds for some values of x and not all values.
+Please pause the video for a moment and try to decide which of the following three equations or identities that is, which of these equations hold for all values of the variable.
+To start out, you might want to test them by plugging in a few values of the variable and see if the equation holds.
+The first equation is not an identity.
+It does hold for some values of x.
+For example, if x equals zero, then sine of two times zero is zero.
+Two times sine of zero is also zero.
+So it does hold when x is zero.
+However, when x is say pi over two, then sine of two times pi over two, that's the same thing as sine of pi, which is zero, but two times sine of pi over two, that's two times one, or two, and zero is not equal to two.
+So the equation does not hold for x equals pi quadratic functions.
+If I want to find the solutions to this equation, I can rewrite it x squared minus 6x minus seven equals zero, factor it, x minus seven times x plus one equals zero, set the factors equal to 0x minus seven equals zero, or x plus one equals zero.
+And that gives me the solutions, x equals seven, or x equals negative one.
+Next, let's look at this more complicated equation.
+I'm going to try to solve that for x by multiplying out the right hand side.
+Next, our combined terms on the right hand side.
+So that gives me x squared minus 6x on both sides, well, x squared minus 6x is equal to x squared minus 6x.
+That's true no matter what I plug in for x, and therefore, all values of x satisfy this equation, we can say that the solution set is all real numbers.
+The second equation is called an identity, because it holds for all values of the variable.
+The first equation, on the other hand is not an identity, because it only holds for some values of x and not all values.
+Please pause the video for a moment and try to decide which of the following three equations or identities that is, which of these equations hold for all values of the variable.
+To start out, you might want to test them by plugging in a few values of the variable and see if the equation holds.
+The first equation is not an identity.
+It does hold for some values of x.
+For example, if x equals zero, then sine of two times zero is zero.
+Two times sine of zero is also zero.
+So it does hold when x is zero.
+However, when x is say pi over two, then sine of two times pi over two, that's the same thing as sine of pi, which is zero, but two times sine of pi over two, that's two times one, or two, and zero is not equal to two.
+So the equation does not hold for x equals pi over two.
+over two.
+Since it doesn't hold for all values of the variable, it's not an identity.
+The second equation is an identity.
+You can build some evidence for this by plugging in numbers.
+For example, cosine of zero plus pi, which is negative one is the same thing as negative of cosine of zero.
+You can also check for example, that cosine of pi over six plus pi is the same thing as negative cosine of pi over six.
+But even if we check a zillion examples, that's just evidence, it's not a proof that the identity holds, we could have just gotten lucky with the values we picked, we can build a little bit stronger evidence, by looking at graphs, I'm going to put theta on the x axis in a pie graph, y equals cosine of theta plus Since it doesn't hold for all values of the variable, it's not an identity.
+The second equation is an identity.
+You can build some evidence for this by plugging in numbers.
+For example, cosine of zero plus pi, which is negative one is the same thing as negative of cosine of zero.
+You can also check for example, that cosine of pi over six plus pi is the same thing as negative cosine of pi over six.
+But even if we check a zillion examples, that's just evidence, it's not a proof that the identity holds, we could have just gotten lucky with the values we picked, we can build a little bit stronger evidence, by looking at graphs, I'm going to put theta on the x axis in a pie graph, y equals cosine of theta plus pi, pi, that's just like the graph of cosine shifted over to the left by pi.
+On the other hand, if I graph y equals negative cosine theta, that's the graph of cosine theta, reflected across the x axis, which gives us the exact same graph.
+So graphing both sides gives us strong evidence that this equation is an identity, it holds for all values of theta.
+Now, the strongest evidence of all would be an algebraic proof, which we'll do later in the course, once we have a formula for the cosine of a sum of two angles.
+that's just like the graph of cosine shifted over to the left by pi.
+On the other hand, if I graph y equals negative cosine theta, that's the graph of cosine theta, reflected across the x axis, which gives us the exact same graph.
+So graphing both sides gives us strong evidence that this equation is an identity, it holds for all values of theta.
+Now, the strongest evidence of all would be an algebraic proof, which we'll do later in the course, once we have a formula for the cosine of a sum of two angles.
+In the meantime, let's look at equation C.
+It turns out equation C is an identity.
+And we could build evidence for it again by plugging in values for x, or by graphing the left side and the right side separately, and checking to see that the graphs coincided.
+But for

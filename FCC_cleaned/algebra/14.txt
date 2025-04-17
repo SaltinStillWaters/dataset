@@ -1,0 +1,25 @@
+Distance Formula.
+coordinates, if this first point has coordinates, x one, y one, and the second point has coordinates x two, y two, then the distance between them is given by the formula, the square root of x two minus x one squared plus y two minus y one squared.
+This formula actually comes from the Pythagorean Theorem, let me draw a right triangle with these two points as two of its vertices, then the length of this side is the difference between the 2x coordinates.
+Similarly, the length of this vertical side is the difference between the two y coordinates.
+Now that Pythagoras theorem says that for any right triangle, with sides labeled A and B, and hypotony is labeled C, we have that a squared plus b squared equals c squared.
+Well, if we apply that to this triangle here, this hypotony News is the distance between the two points that we're looking for.
+So but Tyrion theorem says, the square of this side length, that is x two minus x one squared, plus the square of this side length, which is y two minus y one squared has to equal the square of the hypothesis, that is d squared.
+taking the square root of both sides of this equation, we get the square root of x two minus x one squared plus y two minus y one squared is equal to d, we don't have to worry about using plus or minus signs when we take the square root because distance is always positive.
+So we've derived our distance formula.
+Now let's use it as an example.
+Let's find the distance between the two points, negative one five, for negative one, five, maybe over here, and for two, this notation just means that P is the point with coordinates negative one five, and q is the point with coordinates for two.
+We have the distance formula, let's think of P being the point with coordinates x one y one, and Q being the point with coordinates x two y two.
+But as we'll see, it really doesn't matter which one is which, plugging into our formula, we get d is the square root of n x two minus x one.
+So that's four minus negative one squared, and then we add y two minus y one, so that's two minus five squared.
+Working out the arithmetic a little bit for minus negative one, that's four plus one or five squared, plus negative three squared.
+So that's the square root of 25 plus nine are the square root of 34.
+Let's see what would have happened if we'd call this first point, x two y two instead, and a second.
+Why'd x one y one, then we would have gotten the same distance formula, but we would have taken negative one minus four and added the difference of y's squared.
+So that's why two five minus two squared.
+That gives us the square root of negative five squared plus three squared, which works out to the same thing.
+In this video, we use the distance formula to find the distance between two points.
+When writing down the distance formula, sometimes students forget whether this is a plus or a minus and whether these are pluses or minuses.
+One way to remember is to think that the distance formula comes from the Pythagorean Theorem.
+That's why there's a plus in here.
+And then a minus in here, because we're finding the difference between the coordinates to find the lengths of the sides.

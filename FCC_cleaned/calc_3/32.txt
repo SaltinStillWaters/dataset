@@ -1,0 +1,43 @@
+[Corequisite] Double Angle Formulas.
+this example, I'm going to go ahead and do an algebraic verification.
+In the meantime, let's look at equation C.
+It turns out equation C is an identity.
+And we could build evidence for it again by plugging in values for x, or by graphing the left side and the right side separately, and checking to see that the graphs coincided.
+But for this example, I'm going to go ahead and do an algebraic verification.
+In particular, I'm going to start with the left side of the equation, and rewrite things and rewrite things until I get to the right side of the equation.
+The first thing I'll rewrite In particular, I'm going to start with the left side of the equation, and rewrite things and rewrite things until I get to the right side of the equation.
+The first thing I'll rewrite is secant and tangent in terms of their constituent functions, sine and cosine.
+Since secant of x is one over cosine x, and tangent of x is sine x over cosine x, I can rewrite this expression as one over cosine x minus sine x times sine x over cosine x.
+I can clean up those fractions and write this as one over cosine x minus sine squared x over cosine x.
+Now, I noticed that I have two fractions with the same denominator.
+So I can pull them together as one minus sine squared x over cosine x.
+Next, I'm going to rewrite the numerator one minus sine squared x using the Pythagorean identity that says that cosine squared x plus sine squared x equals one, and therefore, one minus sine squared x is equal to cosine squared x just by subtracting sine squared x from both sides.
+So I can replace my numerator, one minus sine squared x with cosine squared x.
+And canceling one cosine from the top and from the bottom, that's the same thing as cosine of x, which is the right hand side that I was trying to get to.
+So a combination of a bunch of algebra, and the Pythagorean identity allows me to prove that this equation is true for all values of x, is secant and tangent in terms of their constituent functions, sine and cosine.
+Since secant of x is one over cosine x, and tangent of x is sine x over cosine x, I can rewrite this expression as one over cosine x minus sine x times sine x over cosine x.
+I can clean up those fractions and write this as one over cosine x minus sine squared x over cosine x.
+Now, I noticed that I have two fractions with the same denominator.
+So I can pull them together as one minus sine squared x over cosine x.
+Next, I'm going to rewrite the numerator one minus sine squared x using the Pythagorean identity that says that cosine squared x plus sine squared x equals one, and therefore, one minus sine squared x is equal to cosine squared x just by subtracting sine squared x from both sides.
+So I can replace my numerator, one minus sine squared x with cosine squared x.
+And canceling one cosine from the top and from the bottom, that's the same thing as cosine of x, which is the right hand side that I was trying to get to.
+So a combination of a bunch of algebra, and the Pythagorean identity allows me to prove that this equation is true for all values of x, it's an identity.
+The best way to prove that an equation is an identity it's an identity.
+The best way to prove that an equation is an identity is to use algebra and to use other identities, like the Pythagorean identity to rewrite one side of the equation till it looks like the other side.
+The best way to prove the net equation is not an identity is to plug in numbers that break the identity.
+That is make the equation not true.
+Now if you're just trying to decide if an equation has an identity or not, and not worried about proving it, then I recommend plugging in numbers, or graphing the left and right sides to see if those graphs are the same.
+Recall that an identity is an equation that holds for all values of the variable.
+This video states and proves three identities called the Pythagorean identities.
+The first one is the familiar cosine squared theta plus sine squared theta equals one.
+The second one says tan squared theta plus one equals secant squared theta.
+And the third one goes cotangent squared theta plus one equals cosecant squared theta.
+Let's start by proving that cosine squared theta plus sine squared theta equals one.
+I'll do this by drawing the unit circle with a right triangle inside it by the definition of sine and cosine, the x&y coordinates of this top point, r cosine theta and sine theta, the high partners, my triangle is one, since that's the radius of my unit circle.
+Now the length of the base of my triangle is the same thing as the x coordinate of this point.
+So that's equal to cosine theta.
+The height of this triangle is the same thing as the y coordinate of this point.
+So that's sine theta.
+Now the Pythagoras theorem for right triangles, says this side length squared plus that side length squared is equal to the hypothenar squared.
+So by the Pythagorean theorem, we have that cosine theta squared plus sine theta squared equals one squared, I can rewrite that as cosine

@@ -1,0 +1,30 @@
+Power Series.
+to get from one term to the next, the oscillations are dying down in magnitude.
+And in fact, the terms can never get above three or below negative two.
+We say that a sequence is increasing if each term is less than the next term, that is, a sub n is less than a sub n plus one for all n.
+sequences called non decreasing if each term is less than or equal to the next term.
+So a sub n is less than or equal to a sub n plus one for all n.
+Non decreasing is like increasing, it's just we allow equality between 2/6 consecutive terms a sequence is decreasing if each term is greater than the next one.
+So a sub n is greater than a sub n plus one for all n.
+And a sequence is not increasing, if a sub n is greater than or equal to a sub n plus one for all n.
+Again, not increasing is like decreasing, but we allow for equality between consecutive terms.
+If we were to graph and on the x axis and a sub n on the y axis, then increasing looks like this just like an increasing function, whereas decreasing would go down non decreasing would go up possibly with some flat patches and mnandi increasing would go down possibly with some flat patches, notice that increasing is a stronger condition than non decreasing since being strictly less than something is stronger than just being less than or equal to it.
+For that reason.
+If a sequence is increasing, it is also non decreasing.
+And similarly, if a sequence is decreasing, it is also not increasing.
+A sequence is called monotonic, if it is either non decreasing or non increasing.
+Please pause the video and try to decide which of the following sequences are monotonic.
+The first two sequences are monotonic.
+The first one is monotonically.
+Non increasing, since we never increase when we go from one term to the next.
+In fact, we could also say that it's monotonically decreasing.
+Since we always go strictly down as we go from one term to the next, we never have equality between terms.
+The second sequence is monotonically non decreasing.
+Since we never go down, as we go from one term to the next, we either go up or stay at the same level.
+In this case, however, we could not say that the sequence is monotonically increasing because of the equality between some pairs of consecutive terms.
+The third sequence is not monotonic, the numbers bounce around between positive and negative numbers, and therefore sometimes we are decreasing while other times we're increasing.
+And the fourth sequence is not monotonic, because of the first few terms.
+However, from the fifth term on the terms are monotonically, non decreasing.
+And we could also say monotonically increasing.
+In this video, we give definitions for bounded and monotonic sequences.
+We'll see later that these definitions can be important for determining

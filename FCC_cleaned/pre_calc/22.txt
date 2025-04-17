@@ -1,0 +1,42 @@
+Pythagorean Identities.
+that holds for all values of the variable.
+This video states and proves three identities called the Pythagorean identities.
+The first one is the familiar cosine squared theta plus sine squared theta equals one.
+The second one says tan squared theta plus one equals secant squared theta.
+And the third one goes cotangent squared theta plus one equals cosecant squared theta.
+Let's start by proving that cosine squared theta plus sine squared theta equals one.
+I'll do this by drawing the unit circle with a right triangle inside it by the definition of sine and cosine, the x&y coordinates of this top point r cosine theta and sine theta, the high partners of my triangle is one, since that's the radius of my unit circle.
+Now the length of the base of my triangle is the same thing as the x coordinate of this point.
+So that's equal to cosine theta.
+The height of this triangle is the same thing as the y coordinate of this point.
+So that's sine theta.
+Now the Pythagorean theorem for right triangles says this side length squared plus that sine squared is equal to the hypothenar squared.
+So by the Pythagorean theorem, we have that cosine theta square plus sine theta squared equals one squared, I can rewrite that as cosine squared theta plus sine squared theta equals one, since one squared is one, and cosine squared theta is just a shorthand notation for cosine theta squared.
+That completes the proof of the first Pythagorean identity, at least in the case when the angle theta is in the first quadrant.
+In the case, when the angle was in a different quadrant, you can use symmetry to argue the same identity holds.
+But I won't give the details here.
+To prove the next Pythagorean identity, tan squared theta plus one equals secant squared theta, let's use the first without your an identity, which said that cosine squared theta plus sine squared theta equals one, I'm going to divide both sides of this equation by cosine squared theta.
+Now I'm going to rewrite the left side by breaking apart the fraction into cosine squared theta over cosine squared theta plus sine squared theta over cosine squared theta.
+Now cosine squared theta over cosine squared theta is just one.
+And I can rewrite the next fraction as sine of theta over cosine of theta squared.
+That's because when I square a fraction, I can just square the numerator and square the denominator.
+And sine squared theta is shorthand for a sine of theta squared.
+Similarly, for cosine squared theta.
+Now on the other side of the equal sign, I can rewrite this fraction as one over cosine theta squared.
+Again, that's because when I square the fraction, I just get the one squared, which is one divided by the cosine theta squared, which is this.
+I'm almost done.
+sine theta over cosine theta is the same thing as tangent theta.
+And one over cosine theta is the same thing as secant theta.
+Using the shorthand notation, that says one plus tan squared theta equals sequencer data, which, after rearranging is exactly the identity that we were looking for.
+The proof of the third for that green identity is very similar.
+Once again, I'll start with the identity cosine squared theta plus sine squared theta equals one.
+And this time, I'll divide both sides by sine squared theta.
+I'll break up the fraction on the left.
+And now I'll rewrite my fractions as cosine theta over sine theta squared plus one equals one over sine theta squared.
+Cosine over sign can be written as cotangent.
+And one over sine can be written as cosecant.
+That gives me the identity that I'm looking for.
+We've now proved three trig identities.
+The first one, we proved using the unit circle and the Pythagorean Theorem.
+The second and third identities, we proved by using the first identity and a bit of algebra.
+The sum and difference

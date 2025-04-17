@@ -1,0 +1,42 @@
+Logarithmic Differentiation.
+one as theta goes to zero, I'm going to start with a picture.
+In this picture, I have a unit circle a circle of radius one, and I have two right triangles, a green triangle and a smaller red triangle, both with angle theta.
+Now I'm going to argue in terms of areas, if I want to compute the area of this sector that I've shaded in blue here, in other words, that pie shaped piece, I can first compute the area of the circle, which is pi times one squared for the radius.
+But since the sector has angle theta, and the full circle has angle two pi, I need to multiply that area of the circle by the ratio theta over two pi to represent the fraction of the area of the circle that's included in this sector.
+So in other words, the area of the sector is just going to be theta over two, where theta is given in the radians.
+Now if I want to compute the area of the little red triangle, I can do one half times the base times the height.
+Now the base is going to be equal to cosine theta, because I have a circle of radius one angle theta here, and the height is going to be sine theta.
+Finally, the area of the green triangle is also one half times the base times the height.
+But now the base is a full one unit, and the height is given by tangent theta, since opposite, which is the height here over adjacent, which is one has to equal tangent theta.
+Now if I put all those areas together, I know that the area of the red triangle, alright is cosine theta sine theta over two has to be less than or equal to the area of the blue sector, theta over two, which is less than or equal to the area of the big green triangle, which is tan theta over two.
+Now I'm going to multiply through this inequality by two and rewrite things in terms of sine and cosine to get cosine theta sine theta is less than or equal to theta is less than or equal to sine theta over cosine theta.
+Now I'm going to divide through my inequalities by sine theta, which won't change the inequalities as long as theta is greater than zero, so that sine theta is positive.
+And I get cosine theta is less than or equal to theta over sine theta is less than or equal to one over cosine theta.
+Now this middle expression is the reciprocal of the expression I want to take the limit of.
+So I'm going to go ahead and take limits.
+And since the limits of the two expressions on the outside, both exist, and equal one by the sandwich theorem, the limit of the expression on the inside has to exist an equal one as well.
+Now I've cheated a little bit here.
+And I've really just taken the limit from the right because I've assumed that theta is greater than zero.
+But you can check that if you say that less than zero, so that sign that as negative, the limit from the left will also equal one, the inequalities will flip around first, but you'll still get it use the sandwich theorem to get a limit of one.
+And that's a cool geometric proof of this useful limit from calculus.
+To show that the limit of cosine theta minus one over theta is zero, we can actually rewrite this expression and reuse the limit that we just computed.
+So let me write down my limit.
+And I'm going to multiply this expression by cosine theta plus one on the numerator and the denominator.
+So I haven't changed the expression, I'm just multiply that by one.
+Now, if I multiply my numerator out, And I get cosine theta is less than or equal to theta over sine theta is less than or equal to one over cosine theta.
+Now this middle expression is the reciprocal of the expression I want to take the limit of.
+So I'm going to go ahead and take limits.
+And since the limits of the two expressions on the outside, both exist, and equal one by the sandwich theorem, the limit of the expression on the inside has to exist an equal one as well.
+Now I've cheated a little bit here.
+And I've really just taken the limit from the right because I've assumed that theta is greater than zero.
+But you can check that if you say that less than zero, so that sign that as negative, the limit from the left will also equal one, the inequalities will flip around first, but you'll still get it use the sandwich theorem to get a limit of one.
+And that's a cool geometric proof of this useful limit from calculus.
+To show that the limit of cosine theta minus one over theta is zero, we can actually rewrite this expression and reuse the limit that we just computed.
+So let me write down my limit.
+And I'm going to multiply this expression by cosine theta plus one on the numerator and the denominator.
+So I haven't changed the expression, I'm just multiply that by one.
+Now, if I multiply my numerator out, I get cosine squared theta minus one.
+And from the trig identity, sine squared theta plus cosine squared theta equals one, I know that cosine squared theta minus one has to equal minus sine squared.
+So I can rewrite my limit as the limit of minus sine squared theta over theta cosine theta plus one.
+And now I can regroup to write my sine theta over theta, and my other copy of sine theta over cosine theta plus one, the limit of the first expression is going to be negative one, because of the limit we just proved.
+And the limit of the second expression is just zero over one plus one, or zero, and therefore, my entire limit is just going to be negative one times zero, or zero, which is exactly what we want

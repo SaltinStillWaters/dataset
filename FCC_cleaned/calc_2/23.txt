@@ -1,0 +1,77 @@
+L'Hospital's Rule on Other Indeterminate Forms.
+of x.
+That way d u is equal to negative sine of x dx.
+And so sine of x dx is equal to negative d U.
+since u is equal to cosine x, this time, we want to replace all of our stray signs with cosines.
+We know that sine squared of x is equal to one minus cosine squared of x by the Pythagorean identity.
+So let's rewrite this sine to the fourth as sine squared of x squared.
+That allows us to substitute in one minus cosine squared of x for sine squared of x And now we can replace everything with us and d is I'll bring out the negative sign and multiply things out.
+One minus u squared squared is one minus two u squared plus u to the fourth.
+And this multiplies out to us squared minus two u to the fourth plus u to the sixth.
+Now I can integrate, distribute my negative sign.
+And finally, plug in cosine of x for you.
+That completes this problem.
+In this video, we'll use use substitution and the Pythagorean identity.
+To evaluate integrals with at least one odd power of sine or cosine.
+The idea is to separate off one copy from the odd power that one copy becomes part of our D U.
+and the remaining even power gets converted using the Pythagorean identity.
+In this case, we convert sine squared into one minus cosine squared.
+This allows us to do the use substitution and evaluate the integral.
+In this video, we'll evaluate integrals of trig functions involving only even powers of sine and cosine.
+There are three trig identities that will come in handy here, the first ones that are familiar, the factory and identity.
+The second one's an identity that allows us to rewrite cosine squared of x in terms of cosine of 2x.
+And the third one is in nd that lets us write sine squared of x.
+Also in terms of cosine of 2x.
+The only difference between the second and third is the fact that one's cosine squared and one sine squared.
+But the other difference is the plus sign versus the minus sign here.
+Let's start with the simplest possible even power, the integral of cosine squared x dx.
+According to my calculator, this integral evaluates to sine x cosine x over two plus x over two.
+And if I look it up in the back of my book, I get the integral to be one half x plus one for a sine of 2x.
+So what's going on here?
+Are these two answers really the same?
+Well, yes, because sine of 2x is equal to two times sine x cosine x.
+So if I replace that, here, I get this second answer is equivalent to one half x plus 1/4 times two sine x cosine x, which is equivalent to the first answer.
+Notice that the calculator on the table in the back of the book omit the plus c the cost of integration, but you should always include them for indefinite integrals.
+Now let's see where these answers come from.
+So let's compute the integral of cosine squared x dx by hand that is, without the aid of a calculator or computer integral table, the hint is that cosine squared x is equal to one plus cosine 2x over two, or sometimes I like to write this as one half plus one half cosine of 2x.
+So I'll use that identity to rewrite my integral.
+Now I can split up the integral using rules about integration.
+The integral of one half is just one half x, and the integral of cosine of 2x is one half times sine of 2x.
+It's possible to get that answer by use substitution with u equal to x.
+Or as a shortcut, we can observe that the derivative of sine of 2x is cosine of 2x times two, the times two comes from the chain rule taking the derivative of the inside.
+So to get rid of that, or counteract that, times two, we have to multiply by one half.
+In any case, our final answer is then one half x plus 1/4 sine of 2x plus C.
+This is the same answer that we can find using the integral table in the back of the book.
+Please pause the video for a minute and try to compute the integral of sine squared x dx.
+Using a similar technique.
+You'll want to use the identity sine squared of x is equal to one half minus one Half cosine of 2x.
+If you rewrite the integral, you can integrate like before, and get an answer of one half x minus 1/4 sine of 2x plus C, the same technique can be used to evaluate a lot of other integrals involving even powers of sine and cosine, often with a lot more effort.
+Let's try evaluating the integral of sine to the sixth x dx.
+We know that sine squared of x is equal to one half minus one half cosine of 2x.
+And since six is an even power, we know we can rewrite sine to the sixth as sine squared to the x raised to a power, in this case, the power of three.
+Now let's substitute in our identity.
+I think I'm going to factor out the one half.
+One half cubed is 1/8.
+So I'll pull the one eight out of the integral side and multiply out.
+Now let me divide up my integral into pieces.
+And I'll try to handle each piece separately.
+The integral of one dx, that's easy, that's x, and the integral of cosine of 2x, that's going to be one half times sine of 2x, like before.
+Now to integrate cosine squared of 2x, we can use the same trick we used to integrate cosine squared of x, cosine squared of 2x is going to be one half, plus one half cosine of two times 2x.
+So that's 4x.
+Let's start with the simplest possible even power, the integral of cosine squared x dx.
+According to my calculator, this integral evaluates to sine x cosine x over two plus x over two.
+And if I look it up in the back of my book, I get the integral to be one half x plus one for a sine of 2x.
+So what's going on here?
+Are these two answers really the same?
+Well, yes, because sine of 2x is equal to two times sine x cosine x.
+So if I replace that, here, I get this second answer is equivalent to one half x plus 1/4 times two sine x cosine x, which is equivalent to the first answer.
+Notice that the calculator on the table in the back of the book omit the plus c the cost of integration, but you should always include them for indefinite integrals.
+Now let's see where these answers come from.
+So let's compute the integral of cosine squared x dx by hand that is, without the aid of a calculator or computer integral table, the hint is that cosine squared x is equal to one plus cosine 2x over two, or sometimes I like to write this as one half plus one half cosine of 2x.
+So I'll use that identity to rewrite my integral.
+Now I can split up the integral using rules about integration.
+The integral of one half is just one half x, and the integral of cosine of 2x is one half times sine of 2x.
+It's possible to get that answer by use substitution with u equal to x.
+Or as a shortcut, we can observe that the derivative of sine of 2x is cosine of 2x times two, the times two comes from the chain rule taking the derivative of the inside.
+So to get rid of that, or counteract that, times two, we have to multiply by one half.
+In any case, our final answer is then

@@ -1,0 +1,539 @@
+Extreme Value Examples.
+zero, when we shift that up by five units, it's still the vertical line x equals zero.
+In this next example, we're starting with a log base 10 function.
+And since the plus two is on the inside, that means we shift that graph left by two.
+So I'll draw our basic log function.
+Here's our basic log function.
+So I'll think of that as y equals log of x going through the point one, zero, here's its vertical asymptote.
+Now I need to shift everything left by two.
+So my vertical asymptote shifts left, and now it's at the line x equals negative two, instead of at x equals zero, and my graph, let's see my point, one zero gets shifted to, let's see negative one zero, since I'm subtracting two from the axis, and here's a rough sketch of the resulting graph.
+Let's compare the features of the two graphs drawn here.
+We're talking about domains, the original kind of domain of from zero to infinity.
+But now I've shifted that left.
+So I subtracted two from all my exercises.
+And here's my new domain, which I can also verify just by looking at the picture.
+My range was originally from negative infinity to infinity.
+Well, shifting left only affects the x value, so it doesn't even affect the range.
+So my range is still negative infinity to infinity.
+My vertical asymptote was originally at x equals zero.
+And since I subtract two from all my x values, that shifts that to x equals negative two.
+In this last problem, I'm not going to worry about drawing this graph.
+I'll just use algebra to compute its domain.
+So let's think about What's the issue, when you're taking the logs of things?
+Well, you can't take the log of a negative number or zero.
+So whatever is inside the argument of the log function, whatever is being fed into log had better be greater than zero.
+So I'll write that down, we need to minus 3x, to be greater than zero.
+Now it's a matter of solving an inequality.
+Two has got to be greater than 3x.
+So two thirds is greater than x.
+In other words, x has to be less than two thirds.
+So our domain is all the x values from negative infinity to two thirds, not including two thirds, it's a good idea to memorize the basic shape of the graph of a log function.
+It looks something like this, go through the point one zero, and has a vertical asymptote on the y axis.
+Also, if you remember that you can't take the log of a negative number, or zero, then that helps you quickly compute domains for log functions.
+Whatever's inside the log function, you set that greater than zero, and solve.
+This video is about combining logs and exponents.
+Please pause the video and take a moment to use your calculator to evaluate the following four expressions.
+Remember, that log base 10 on your calculator is the log button.
+While log base e on your calculator is the natural log button, you should find that the log base 10 of 10 cubed is three, the log base e of e to the 4.
+2 is 4.
+2 10 to the log base 10 of 1000 is 1000.
+And eat the log base e of 9.
+6 is 9.
+6.
+In each case, the log and the exponential function with the same base undo each other, and we're left with the exponent.
+In fact, it's true that for any base a the log base a of a to the x is equal to x.
+The same sort of cancellation happens if we do the exponential function in the log function with the same base in the opposite order.
+For example, we take 10 to the power of log base 10 of 1000, the 10 to the power and the log base 10 undo each other, and we're left with the 1000s.
+This happens for any base a a to the log base a of x is equal to x.
+We can describe this by saying that an exponential function and a log function with the same base undo each other.
+If you're familiar with the language of inverse functions, the exponential function and log function are inverses.
+Let's see why these roles hold for the first log role.
+log base a of a dx is asking the question, What power do we raise a two in order to get a to the x?
+In other words, a to what power is a to the x?
+Well, the answer is clearly x.
+And that's why log base a of a to the x equals x.
+For the second log rule, notice that the log base a of x means the power we raise a two to get x.
+But this expression is saying that we're supposed to raise a to that power.
+If we raise a to the power, we need to raise a two to get x, then we'll certainly get x.
+Now let's use these two roles.
+In some examples.
+If we want to find three to the log base three of 1.
+43 to the power and log base three undo each other, so we're left with 1.
+4.
+Remember, that log base 10 on your calculator is the log button.
+While log base e on your calculator is the natural log button, you should find that the log base 10 of 10 cubed is three, the log base e of e to the 4.
+2 is 4.
+2 10 to the log base 10 of 1000 is 1000.
+And eat the log base e of 9.
+6 is 9.
+6.
+In each case, the log and the exponential function with the same base undo each other, and we're left with the exponent.
+In fact, it's true that for any base a the log base a of a to the x is equal to x.
+The same sort of cancellation happens if we do the exponential function in the log function with the same base in the opposite order.
+For example, we take 10 to the power of log base 10 of 1000, the 10 to the power and the log base 10 undo each other, and we're left with the 1000s.
+This happens for any base a a to the log base a of x is equal to x.
+We can describe this by saying that an exponential function and a log function with the same base undo each other.
+If you're familiar with the language of inverse functions, the exponential function and log function are inverses.
+Let's see why these roles hold for the first log role.
+log base a of a dx is asking the question, What power do we raise a two in order to get a to the x?
+In other words, a to what power is a to the x?
+Well, the answer is clearly x.
+And that's why log base a of a to the x equals x.
+For the second log rule, notice that the log base a of x means the power we raise a two to get x.
+But this expression is saying that we're supposed to raise a to that power.
+If we raise a to the power, we need to raise a two to get x, then we'll certainly get x.
+Now let's use these two roles.
+In some examples.
+If we want to find three to the log base three of 1.
+43 to the power and log base three undo each other, so we're left with 1.
+4.
+If we want to find ln of e to the x, remember that ln means log base e, so we're taking log base e of e to the x.
+If we want to find ln of e to the x, remember that ln means log base e, so we're taking log base e of e to the x.
+Well, those functions undo each other and we're left with x.
+If we want to take 10 to the log of three z, remember that log without a base written implies that the base is 10.
+So really, we want to take 10 to the log base 10 of three z will tend to a power and log base 10 undo each other.
+So we're left with a three z.
+Finally, does this last statement hold is ln of 10 to the x equal to x?
+Well, ln means log base e.
+So we're taking log base e of 10 to the x, notice that the base of the log and the base of the exponential function are not the same thing.
+So they don't undo each other.
+And in fact, log base e of 10 to the x is not usually equal to x, we can check with one example, say if x equals one, then log base e of 10 to the one, that's log base e of 10.
+And we can check on the calculator that's equal to 2.
+3.
+In some more decimals, which is not the same thing as one.
+So this statement is false, it does not hold.
+We need the basis to be the same for logs and exponent to undo each other.
+In this video, we saw that logs and exponents with the same base undo each other.
+Specifically, log base a of a to the x is equal to x and a to the log base a of x is also equal to x Well, those functions undo each other and we're left with x.
+If we want to take 10 to the log of three z, remember that log without a base written implies that the base is 10.
+So really, we want to take 10 to the log base 10 of three z will tend to a power and log base 10 undo each other.
+So we're left with a three z.
+Finally, does this last statement hold is ln of 10 to the x equal to x?
+Well, ln means log base e.
+So we're taking log base e of 10 to the x, notice that the base of the log and the base of the exponential function are not the same thing.
+So they don't undo each other.
+And in fact, log base e of 10 to the x is not usually equal to x, we can check with one example, say if x equals one, then log base e of 10 to the one, that's log base e of 10.
+And we can check on the calculator that's equal to 2.
+3.
+In some more decimals, which is not the same thing as one.
+So this statement is false, it does not hold.
+We need the basis to be the same for logs and exponent to undo each other.
+In this video, we saw that logs and exponents with the same base undo each other.
+Specifically, log base a of a to the x is equal to x and a to the log base a of x is also equal to x for any values of x and any base a.
+This video is about rules or properties of logs.
+The log rules are closely related to the exponent rules.
+So let's start by reviewing some of the exponent rules.
+for any values of x and any base a.
+This video is about rules or properties of logs.
+The log rules are closely related to the exponent rules.
+So let's start by reviewing some of the exponent rules.
+To keep things simple, we'll write everything down with a base of two.
+Even though the exponent rules hold for any base, we know that if we raise two to the zero power, we get one, we have a product rule for exponents, which says that two to the M times two to the n is equal to two to the m plus n.
+In other words, if we multiply two numbers, then we add the exponents.
+We also have a quotient rule that says that two to the M divided by n to the n is equal to two to the m minus n.
+In words, that says that if we divide two numbers, then we subtract the exponents.
+Finally, we have a power rule that says if we take a power to a power, then we multiply the exponents.
+Each of these exponent rules can be rewritten as a log rule.
+The first rule, two to the zero equals one can be rewritten in terms of logs as log base two of one equals zero.
+That's because log base two of one equals zero means two to the zero equals one.
+The second rule, the product rule, can be rewritten in terms of logs by saying log of x times y equals log of x plus log of y.
+I'll make these base two to agree with my base that I'm using for my exponent rules.
+In words, that says the log of the product is the sum of the logs.
+Since logs really represent exponents.
+This is saying that when you multiply two numbers together, you add their exponents, which is just what we said for the exponent version.
+The quotient rule for exponents can be rewritten in terms of logs by saying the log of x divided by y is equal to the log of x minus the log of y.
+In words, we can say that the log of the quotient is equal to the difference of the logs.
+Since logs are really exponents, another way of saying the same thing is that when you divide two numbers, you subtract their exponents.
+That's how we described the exponent rule above.
+Finally, the power rule for exponents can be rewritten in terms of logs by saying the log of x to the n is equal to n times log of x.
+Sometimes people describe this rule by saying when you take the log of an expression with an exponent, you can bring down the exponent and multiply.
+If we think of x as being some power of two, this is really saying when we take a power to a power, we multiply their exponents.
+That's exactly how we described the power rule above.
+It doesn't really matter if you multiply this exponent on the left side, or on the right side, but it's more traditional to multiply it on the left side.
+I've given these rules with the base of two, but they actually work for any base.
+To help you remember them, please take a moment to write out the log rules using a base of a you should get the following chart.
+Let's use the log rules to rewrite the following expressions as a sum or difference of logs.
+In the first expression, we have a log base 10 of a quotient.
+So we can rewrite the log of the quotient To keep things simple, we'll write everything down with a base of two.
+Even though the exponent rules hold for any base, we know that if we raise two to the zero power, we get one, we have a product rule for exponents, which says that two to the M times two to the n is equal to two to the m plus n.
+In other words, if we multiply two numbers, then we add the exponents.
+We also have a quotient rule that says that two to the M divided by n to the n is equal to two to the m minus n.
+In words, that says that if we divide two numbers, then we subtract the exponents.
+Finally, we have a power rule that says if we take a power to a power, then we multiply the exponents.
+Each of these exponent rules can be rewritten as a log rule.
+The first rule, two to the zero equals one can be rewritten in terms of logs as log base two of one equals zero.
+That's because log base two of one equals zero means two to the zero equals one.
+The second rule, the product rule, can be rewritten in terms of logs by saying log of x times y equals log of x plus log of y.
+I'll make these base two to agree with my base that I'm using for my exponent rules.
+In words, that says the log of the product is the sum of the logs.
+Since logs really represent exponents.
+This is saying that when you multiply two numbers together, you add their exponents, which is just what we said for the exponent version.
+The quotient rule for exponents can be rewritten in terms of logs by saying the log of x divided by y is equal to the log of x minus the log of y.
+In words, we can say that the log of the quotient is equal to the difference of the logs.
+Since logs are really exponents, another way of saying the same thing is that when you divide two numbers, you subtract their exponents.
+That's how we described the exponent rule above.
+Finally, the power rule for exponents can be rewritten in terms of logs by saying the log of x to the n is equal to n times log of x.
+Sometimes people describe this rule by saying when you take the log of an expression with an exponent, you can bring down the exponent and multiply.
+If we think of x as being some power of two, this is really saying when we take a power to a power, we multiply their exponents.
+That's exactly how we described the power rule above.
+It doesn't really matter if you multiply this exponent on the left side, or on the right side, but it's more traditional to multiply it on the left side.
+I've given these rules with the base of two, but they actually work for any base.
+To help you remember them, please take a moment to write out the log rules using a base of a you should get the following chart.
+Let's use the log rules to rewrite the following expressions as a sum or difference of logs.
+In the first expression, we have a log base 10 of a quotient.
+So we can rewrite the log of the quotient as the difference of the logs.
+Now we still have the log of a product, I can rewrite the log of a product as the sum of the logs as the difference of the logs.
+Now we still have the log of a product, I can rewrite the log of a product as the sum of the logs So that is log of y plus log of z.
+When I put things together, I have to be careful, because here I'm subtracting the entire log expression.
+So I need to subtract both terms of this son.
+So that is log of y plus log of z.
+When I put things together, I have to be careful, because here I'm subtracting the entire log expression.
+So I need to subtract both terms of this son.
+I'll make sure I do that by putting them in parentheses.
+Now I can simplify a little bit by distributing the negative sign.
+And here's my final answer.
+In my next expression, I have the log of a product.
+So I can rewrite that as the sum of two logs.
+I can also use my power rule to bring down the exponent T, and multiply it in the front.
+That gives me the final expression log of five plus I'll make sure I do that by putting them in parentheses.
+Now I can simplify a little bit by distributing the negative sign.
+And here's my final answer.
+In my next expression, I have the log of a product.
+So I can rewrite that as the sum of two logs.
+I can also use my power rule to bring down the exponent T, and multiply it in the front.
+That gives me the final expression log of five plus t times log of two.
+One common mistake on this problem is to rewrite this expression as t times log of five times two.
+In fact, those two expressions are not equal.
+Because the T only applies to the two, not to the whole five times two, we can't just bring it down in front using the power rule.
+After all, the power rule only applies to a single expression raised to an exponent, and not to a product like this.
+And these next examples, we're going to go the other direction.
+Here, we're given sums and differences of logs.
+And we want to wrap them up into a single log expression.
+By look at the first two pieces, that's a difference of logs.
+So I know I can rewrite it as the log of a quotient.
+Now I have the sum of two logs.
+So I can rewrite that as the log of a product.
+I'll clean that up a little bit and rewrite it as log base five of a times c over B.
+In my second example, I can rewrite the sum of my logs as the log of a product.
+Now, I would like to rewrite this difference of logs as the log of a quotient, but I can't do it yet, because of that factor of two multiplied in front.
+But I can use the power rule backwards to put that two back up in the exponent.
+So I'll do that first.
+So I will copy down the ln of x plus one times x minus one, and rewrite this second term as ln of x squared minus one squared.
+Now I have a straightforward difference of two logs, which I can rewrite as the log of a quotient.
+I can actually simplify this some more.
+Since x plus one times x minus one is the same thing as x squared minus one.
+I can cancel factors to get ln of one over x squared minus one.
+In this video, we solve for rules for logs that are related to exponent rules.
+First, we saw that the log with any base of one is equal to zero.
+Second, we saw the product rule, the log of a product is equal to the sum of the logs.
+We saw the quotient rule, the log of a quotient is the difference of the logs.
+And we saw the power rule.
+When you take a log of an expression with an exponent in it, you can bring down the exponent and multiply it.
+It's worth noticing that there's no log rule that helps you split up the log of a song.
+In particular, the log of a psalm is not equal to the sum of the logs.
+If you think about logs and exponent rules going together, this kind of makes sense, because there's also no rule for rewriting the sum of two exponential expressions.
+Log roles will be super handy.
+As we start to solve equations using locks.
+The chain rule is a really useful method for finding the derivative of the composition of two functions.
+Let's start with a brief review of composition.
+f composed with g means that we apply f to the output of G as a diagram, this means we start with x and apply g first.
+t times log of two.
+One common mistake on this problem is to rewrite this expression as t times log of five times two.
+In fact, those two expressions are not equal.
+Because the T only applies to the two, not to the whole five times two, we can't just bring it down in front using the power rule.
+After all, the power rule only applies to a single expression raised to an exponent, and not to a product like this.
+And these next examples, we're going to go the other direction.
+Here, we're given sums and differences of logs.
+And we want to wrap them up into a single log expression.
+By look at the first two pieces, that's a difference of logs.
+So I know I can rewrite it as the log of a quotient.
+Now I have the sum of two logs.
+So I can rewrite that as the log of a product.
+I'll clean that up a little bit and rewrite it as log base five of a times c over B.
+In my second example, I can rewrite the sum of my logs as the log of a product.
+Now, I would like to rewrite this difference of logs as the log of a quotient, but I can't do it yet, because of that factor of two multiplied in front.
+But I can use the power rule backwards to put that two back up in the exponent.
+So I'll do that first.
+So I will copy down the ln of x plus one times x minus one, and rewrite this second term as ln of x squared minus one squared.
+Now I have a straightforward difference of two logs, which I can rewrite as the log of a quotient.
+I can actually simplify this some more.
+Since x plus one times x minus one is the same thing as x squared minus one.
+I can cancel factors to get ln of one over x squared minus one.
+In this video, we solve for rules for logs that are related to exponent rules.
+First, we saw that the log with any base of one is equal to zero.
+Second, we saw the product rule, the log of a product is equal to the sum of the logs.
+We saw the quotient rule, the log of a quotient is the difference of the logs.
+And we saw the power rule.
+When you take a log of an expression with an exponent in it, you can bring down the exponent and multiply it.
+It's worth noticing that there's no log rule that helps you split up the log of a song.
+In particular, the log of a psalm is not equal to the sum of the logs.
+If you think about logs and exponent rules going together, this kind of makes sense, because there's also no rule for rewriting the sum of two exponential expressions.
+Log roles will be super handy.
+As we start to solve equations using locks.
+The chain rule is a really useful method for finding the derivative of the composition of two functions.
+Let's start with a brief review of composition.
+f composed with g means that we apply f to the output of G as a diagram, this means we start with x and apply g first.
+Then we apply f to the output to get our final results I'm going to call G, the inner function, and F the outer function.
+Because g looks like it's on the inside of f, Then we apply f to the output to get our final results I'm going to call G, the inner function, and F the outer function.
+Because g looks like it's on the inside of f, in this standard notation, we can write h of x, which is the square root of sine of x as the composition of two functions, by letting sine of x be the inner function, and the square root function be the outer function, which I write as f of u equals the square root of u.
+I like to do this sort of dissection of functions, by drawing a box around part of the function, whatever is inside the box becomes my inner function, whatever we do to the box becomes our outer function, in this case, taking the square root.
+This allows us to write h of x as the composition, f of g of x, where f and g are the outer and inner functions defined here.
+Please take a moment to write the next two functions as compositions of functions, before you go on.
+A natural way to write k of x as a composition is to let our inner function be tan of x plus seacon of x.
+The outer function describes what happens to that box the inner function, it gets cubed and multiplied by five.
+There's several ways to write the next example as a composition of functions.
+For example, we could take x squared as our inner function, and then our outer function takes a to the sign of that inner function.
+Alternatively, we could take the inner function to be sine of x squared.
+And then the outer function in this standard notation, we can write h of x, which is the square root of sine of x as the composition of two functions, by letting sine of x be the inner function, and the square root function be the outer function, which I write as f of u equals the square root of u.
+I like to do this sort of dissection of functions, by drawing a box around part of the function, whatever is inside the box becomes my inner function, whatever we do to the box becomes our outer function, in this case, taking the square root.
+This allows us to write h of x as the composition, f of g of x, where f and g are the outer and inner functions defined here.
+Please take a moment to write the next two functions as compositions of functions, before you go on.
+A natural way to write k of x as a composition is to let our inner function be tan of x plus seacon of x.
+The outer function describes what happens to that box the inner function, it gets cubed and multiplied by five.
+There's several ways to write the next example as a composition of functions.
+For example, we could take x squared as our inner function, and then our outer function takes a to the sign of that inner function.
+Alternatively, we could take the inner function to be sine of x squared.
+And then the outer function has to be e to the power.
+It's also possible to write our function r of x as a composition of three functions.
+An inner function of x squared, a middle function of sine and an outermost function of e to the power, which are right as h of V equals e to the V.
+has to be e to the power.
+It's also possible to write our function r of x as a composition of three functions.
+An inner function of x squared, a middle function of sine and an outermost function of e to the power, which are right as h of V equals e to the V.
+When calculating the derivatives of complicated functions, it's really important to recognize them as compositions of simpler functions.
+That way, we can build up the derivative in terms of the simpler derivatives.
+And that's the idea behind the chain rule.
+The chain rule tells us if we have two differentiable functions, then the derivative of the composition f composed with g of x is equal to the derivative of the outer function evaluated on the inner function times the derivative of the inner function.
+Sometimes the chain rule is written instead, in lightness notation, that is the dydx notation.
+To see how this works, let's let u equal g of x.
+And let's let y equal f of u.
+In other words, y is f of When calculating the derivatives of complicated functions, it's really important to recognize them as compositions of simpler functions.
+That way, we can build up the derivative in terms of the simpler derivatives.
+And that's the idea behind the chain rule.
+The chain rule tells us if we have two differentiable functions, then the derivative of the composition f composed with g of x is equal to the derivative of the outer function evaluated on the inner function times the derivative of the inner function.
+Sometimes the chain rule is written instead, in lightness notation, that is the dydx notation.
+To see how this works, let's let u equal g of x.
+And let's let y equal f of u.
+In other words, y is f of g of x.
+g of x.
+Now do u dx is just another way of writing g prime of x, and d y d u is another way of writing f prime of U.
+or in other words, f prime of g of x.
+Finally, if we write D y dX, that means we're taking the derivative of f composed with g.
+So that's f composed with g prime of x.
+Using this key, I can rewrite the expression above as the y dx equals d y d u Now do u dx is just another way of writing g prime of x, and d y d u is another way of writing f prime of U.
+or in other words, f prime of g of x.
+Finally, if we write D y dX, that means we're taking the derivative of f composed with g.
+So that's f composed with g prime of x.
+Using this key, I can rewrite the expression above as the y dx equals d y d u times d u dx.
+These are the two alternative ways of writing the chain rule.
+Let's use the chain rule to take the derivative of the square root of sine x.
+times d u dx.
+These are the two alternative ways of writing the chain rule.
+Let's use the chain rule to take the derivative of the square root of sine x.
+Actually, I'm going to rewrite this as h of x equals sine x to the one half power to make it easier to take derivatives.
+As a composition, we're thinking of the inner function as sine x and the outer function as the one half power.
+So the chain rule tells us that to take h prime Actually, I'm going to rewrite this as h of x equals sine x to the one half power to make it easier to take derivatives.
+As a composition, we're thinking of the inner function as sine x and the outer function as the one half power.
+So the chain rule tells us that to take h prime of x we need to take the derivative of the outer function evaluated on the inner function and then multiply that by the derivative of the inner function, we know that the derivative of the inner function, sine x is just cosine x.
+And the derivative of the outer function is one half times u to the negative one half.
+So h prime of x is then one half times u to the negative one half.
+But that's evaluated on the inner function, sine of of x we need to take the derivative of the outer function evaluated on the inner function and then multiply that by the derivative of the inner function, we know that the derivative of the inner function, sine x is just cosine x.
+And the derivative of the outer function is one half times u to the negative one half.
+So h prime of x is then one half times u to the negative one half.
+But that's evaluated on the inner function, sine of x.
+x.
+And then we multiply that by cosine of x.
+Again, that's the derivative of the outer function evaluated on the inner function times the derivative of the inner function.
+And we found the derivative using the chain rule.
+For the next example, our inner function was tan x plus seacon X and our outer function, f of u was five u cubed.
+So k prime of x is 15 times u squared.
+But that's the evaluated on the inner function 10x plus seacon x, then we still need to multiply that by the derivative of the inner function 10x plus seacon x.
+So we get the 15 tan x plus secant x squared times the derivative of tan x, which is secant squared x, plus the derivative of secant x, which is secant x, tan x.
+And that's our chain rule derivative.
+In this last example, we're thinking of the outermost function as being e to the power and its inner function is sine of x squared.
+But sine of x squared itself has an outer function of sine and an inner function of x squared.
+So to find r prime of x, we first have to take the derivative of the outermost function, well, the derivative of e to the power is just e to the power.
+And then we multiply that by cosine of x.
+Again, that's the derivative of the outer function evaluated on the inner function times the derivative of the inner function.
+And we found the derivative using the chain rule.
+For the next example, our inner function was tan x plus seacon X and our outer function, f of u was five u cubed.
+So k prime of x is 15 times u squared.
+But that's the evaluated on the inner function 10x plus seacon x, then we still need to multiply that by the derivative of the inner function 10x plus seacon x.
+So we get the 15 tan x plus secant x squared times the derivative of tan x, which is secant squared x, plus the derivative of secant x, which is secant x, tan x.
+And that's our chain rule derivative.
+In this last example, we're thinking of the outermost function as being e to the power and its inner function is sine of x squared.
+But sine of x squared itself has an outer function of sine and an inner function of x squared.
+So to find r prime of x, we first have to take the derivative of the outermost function, well, the derivative of e to the power is just e to the power.
+And now we evaluate that on its inner function, sine of x squared.
+But now by the chain rule, we have to multiply that by the derivative of the inner function, sine of x squared.
+I'll copy down the E to the sine x squared.
+And I'll use the chain rule a second time to find the derivative of sine x squared.
+Now the outer function is sine, and the derivative of sine is cosine.
+I need to evaluate it on its inner function of x squared, and then multiply that by the derivative of the inner function.
+After copying things down, I just have to take the derivative of x squared, which is 2x And now we evaluate that on its inner function, sine of x squared.
+But now by the chain rule, we have to multiply that by the derivative of the inner function, sine of x squared.
+I'll copy down the E to the sine x squared.
+And I'll use the chain rule a second time to find the derivative of sine x squared.
+Now the outer function is sine, and the derivative of sine is cosine.
+I need to evaluate it on its inner function of x squared, and then multiply that by the derivative of the inner function.
+After copying things down, I just have to take the derivative of x squared, which is 2x by the power.
+by the power.
+This video introduced the chain rule, which says that the derivative of f composed with g at x is equal to f prime at g of x times g prime at x, or equivalently, d y dx is equal to d y d u times d u dx.
+This video gives some more examples and a justification of the chain rule, and also includes a handy formula for the derivative of a to the x with respect to x, where A is any positive number.
+In the next example, I want to show using the chain rule that the derivative of five to the x is equal to ln five times five to the x.
+First, I want to rewrite five to the x as easily ln five times x.
+And I can do that because e to the ln five is equal to five.
+So e to the ln five to the x power is equal to five to the x.
+But e to the ln five to the x power using exponent rules is just e to the ln five times x.
+So if I want to take the derivative of five to the x, after rewriting it as e to the ln five times x, let me think of the inner function as being ln five times x.
+And I'm going to think of the outer function as being E to that power.
+That's what I wanted to Make the derivative of.
+So by the chain rule, I can first take the derivative of the outer function, derivative of e to the power is just e to the power, and I evaluate it at its inner function.
+But then by the chain rule, I need to take the derivative of the inner function, well, the derivative of ln five times x is just the constant coefficient ln five.
+And that's my derivative.
+Now, I know that e to the ln five times x is just five to the x.
+That's what we talked about before.
+So my final answer is five to the x times ln five, or I guess I can rewrite that in the other order.
+That is that there's nothing special about five in this example, I could have done this same process with any a base positive base a.
+So I'm going to write that as a general principle that the derivative of a to the x with respect to x is equal to ln a times a to the x.
+This is a fact worth memorizing.
+I'll use this fact to compute the derivative of this complicated expression, sine of 5x times the square root of two to the cosine 5x plus one.
+To find dydx, I'll first use the product rule, since our expression is the product of two other expressions.
+So D y dX is the first expression times the derivative of the second expression, which I'll go ahead and write using an exponent instead of a square root sign, plus the derivative of the first expression times the second expression.
+Now I'll need to use the chain rule to evaluate the derivative here.
+My outermost function is the function that raises everything to the one half power.
+So when I take the derivative, I can use the power rule, bring down the one half, right to the cosine 5x plus one to the negative one half.
+But then by the chain rule, I'm going to have to multiply by the derivative of the inner function, which is to to the cosine 5x plus one, I'll just carry along the rest of my expression for now, what I want to take the derivative of two to the cosine 5x plus one, I'm going to have to use the chain rule again, thinking of my outer function as being two to the power plus one.
+So let me copy things down on the next line.
+Now taking the derivative, the derivative of one is just zero, so I'm really just taking the derivative of two to the cosine 5x.
+And by my formula, this is going to be ln f two times two This video introduced the chain rule, which says that the derivative of f composed with g at x is equal to f prime at g of x times g prime at x, or equivalently, d y dx is equal to d y d u times d u dx.
+This video gives some more examples and a justification of the chain rule, and also includes a handy formula for the derivative of a to the x with respect to x, where A is any positive number.
+In the next example, I want to show using the chain rule that the derivative of five to the x is equal to ln five times five to the x.
+First, I want to rewrite five to the x as easily ln five times x.
+And I can do that because e to the ln five is equal to five.
+So e to the ln five to the x power is equal to five to the x.
+But e to the ln five to the x power using exponent rules is just e to the ln five times x.
+So if I want to take the derivative of five to the x, after rewriting it as e to the ln five times x, let me think of the inner function as being ln five times x.
+And I'm going to think of the outer function as being E to that power.
+That's what I wanted to Make the derivative of.
+So by the chain rule, I can first take the derivative of the outer function, derivative of e to the power is just e to the power, and I evaluate it at its inner function.
+But then by the chain rule, I need to take the derivative of the inner function, well, the derivative of ln five times x is just the constant coefficient ln five.
+And that's my derivative.
+Now, I know that e to the ln five times x is just five to the x.
+That's what we talked about before.
+So my final answer is five to the x times ln five, or I guess I can rewrite that in the other order.
+That is that there's nothing special about five in this example, I could have done this same process with any a base positive base a.
+So I'm going to write that as a general principle that the derivative of a to the x with respect to x is equal to ln a times a to the x.
+This is a fact worth memorizing.
+I'll use this fact to compute the derivative of this complicated expression, sine of 5x times the square root of two to the cosine 5x plus one.
+To find dydx, I'll first use the product rule, since our expression is the product of two other expressions.
+So D y dX is the first expression times the derivative of the second expression, which I'll go ahead and write using an exponent instead of a square root sign, plus the derivative of the first expression times the second expression.
+Now I'll need to use the chain rule to evaluate the derivative here.
+My outermost function is the function that raises everything to the one half power.
+So when I take the derivative, I can use the power rule, bring down the one half, right to the cosine 5x plus one to the negative one half.
+But then by the chain rule, I'm going to have to multiply by the derivative of the inner function, which is to to the cosine 5x plus one, I'll just carry along the rest of my expression for now, what I want to take the derivative of two to the cosine 5x plus one, I'm going to have to use the chain rule again, thinking of my outer function as being two to the power plus one.
+So let me copy things down on the next line.
+Now taking the derivative, the derivative of one is just zero, so I'm really just taking the derivative of two to the cosine 5x.
+And by my formula, this is going to be ln f two times two to the power of cosine 5x.
+But of course, I have to use the chain rule to the power of cosine 5x.
+But of course, I have to use the chain rule and multiply by that the derivative of the inner function here, which is cosine 5x.
+Again, I'm just going to carry the rest of the expression along with me for the ride for now.
+Now we're taking the derivative of cosine 5x, I think of cosine as the outer function.
+And five times x is the inner function.
+Similarly, down here, sign is the outer function, and 5x is the inner function.
+So I can complete my work by copying a lot of stuff down, and now taking the derivative of cosine, which is minus sine, evaluated at its inner function, times the derivative of the inner function 5x, which is just five.
+And I'm going to add to that the derivative of sine of 5x.
+Well, the derivative of sine is cosine, evaluated on its inner function times the derivative of the inner function 5x, which is just five times the rest of the stuff.
+I'll do a modest amount of simplification, maybe bring the constants out and combine any terms that I can.
+And that's the end of that complicated example.
+And the next example, we'll try to find the derivative of a composition at the value x equals one just based on a table of values.
+So the chain rule says that the derivative of f composed with g is just going to be f prime evaluated g of x times g prime evaluated x, but I want to do this whole process at x equals one.
+So that's just going to be f prime at g of one times g prime of one.
+Well, g of one is two.
+So I really want f prime at two, and f prime at two is 10.
+And g prime at one is negative five.
+So my answer is negative 50.
+I'm not going to give a rigorous proof of the chain rule.
+But I would like to give a more informal explanation based on the limit definition of derivative.
+So I'm going to write the derivative of f composed with g evaluated a point A, as the limit as x goes to a of f composed with g of x minus f composed with g of A divided by x minus a.
+I'll rewrite this slightly.
+And now we're going to multiply the top and the bottom by g of x minus g of a, that doesn't change the value of expression, provided that g of x minus g of A is not zero.
+That's the detail on sweeping under the rug here and why this is not a real proof, but just a more informal explanation.
+Now if I rearrange things, and rewrite the limit of the product as the product of the limits, my limit on the right here is just the derivative of g.
+for the limit on the left, notice that as x goes to a, g of x has to go to g of a, since G is differentiable on there for continuous function.
+So I can rewrite this and letting say u be equal to g of x, I can rewrite this as the limit as u goes to g of a of f of u minus f of g of A over u minus g of a.
+Now my expression on the left is just another way of writing the derivative of f evaluated at g of a.
+And I've arrived at the expression for the chain rule.
+Let me just emphasize again, this is just a pseudo proof, it's not quite airtight, because g of x minus g of a might be zero.
+In this video, we saw some more examples of the chain rule justification of it.
+And we saw that the derivative respect to x and multiply by that the derivative of the inner function here, which is cosine 5x.
+Again, I'm just going to carry the rest of the expression along with me for the ride for now.
+Now we're taking the derivative of cosine 5x, I think of cosine as the outer function.
+And five times x is the inner function.
+Similarly, down here, sign is the outer function, and 5x is the inner function.
+So I can complete my work by copying a lot of stuff down, and now taking the derivative of cosine, which is minus sine, evaluated at its inner function, times the derivative of the inner function 5x, which is just five.
+And I'm going to add to that the derivative of sine of 5x.
+Well, the derivative of sine is cosine, evaluated on its inner function times the derivative of the inner function 5x, which is just five times the rest of the stuff.
+I'll do a modest amount of simplification, maybe bring the constants out and combine any terms that I can.
+And that's the end of that complicated example.
+And the next example, we'll try to find the derivative of a composition at the value x equals one just based on a table of values.
+So the chain rule says that the derivative of f composed with g is just going to be f prime evaluated g of x times g prime evaluated x, but I want to do this whole process at x equals one.
+So that's just going to be f prime at g of one times g prime of one.
+Well, g of one is two.
+So I really want f prime at two, and f prime at two is 10.
+And g prime at one is negative five.
+So my answer is negative 50.
+I'm not going to give a rigorous proof of the chain rule.
+But I would like to give a more informal explanation based on the limit definition of derivative.
+So I'm going to write the derivative of f composed with g evaluated a point A, as the limit as x goes to a of f composed with g of x minus f composed with g of A divided by x minus a.
+I'll rewrite this slightly.
+And now we're going to multiply the top and the bottom by g of x minus g of a, that doesn't change the value of expression, provided that g of x minus g of A is not zero.
+That's the detail on sweeping under the rug here and why this is not a real proof, but just a more informal explanation.
+Now if I rearrange things, and rewrite the limit of the product as the product of the limits, my limit on the right here is just the derivative of g.
+for the limit on the left, notice that as x goes to a, g of x has to go to g of a, since G is differentiable on there for continuous function.
+So I can rewrite this and letting say u be equal to g of x, I can rewrite this as the limit as u goes to g of a of f of u minus f of g of A over u minus g of a.
+Now my expression on the left is just another way of writing the derivative of f evaluated at g of a.
+And I've arrived at the expression for the chain rule.
+Let me just emphasize again, this is just a pseudo proof, it's not quite airtight, because g of x minus g of a might be zero.
+In this video, we saw some more examples of the chain rule justification of it.
+And we saw that the derivative respect to x of A to the X is equal to ln of a times a to the x.
+This video gives an explanation for why the chain rule holds.
+of A to the X is equal to ln of a times a to the x.
+This video gives an explanation for why the chain rule holds.
+I'm not going to give a rigorous proof of the chain rule.
+But I would like to give a more informal explanation based on the limit definition of derivative.
+I'm not going to give a rigorous proof of the chain rule.
+But I would like to give a more informal explanation based on the limit definition of derivative.
+So I'm going to write the derivative of f composed with g evaluated a point A, as the limit as x goes to a of f composed with g of x minus f composed with g of A divided by x minus a.
+I'll rewrite this slightly.
+And now we're going to multiply the top and the bottom by g of x minus g of a, that doesn't change the value of expression, provided that g of x minus g of A is not zero.
+That's the detail on sweeping under the rug here and why this is not a real proof, but just a more informal explanation.
+Now if I rearrange things, and rewrite the limit of the product as the product of the limits, my limit on the right here is just the derivative of g.
+for the limit on the left, notice that as x goes to a, g of x has to go to G evey, since G is differentiable on there for a continuous function, so I can rewrite this and letting say u be equal to g of x, I can rewrite this as the limit as u goes to g of a of f of u minus f of g of A So I'm going to write the derivative of f composed with g evaluated a point A, as the limit as x goes to a of f composed with g of x minus f composed with g of A divided by x minus a.
+I'll rewrite this slightly.
+And now we're going to multiply the top and the bottom by g of x minus g of a, that doesn't change the value of expression, provided that g of x minus g of A is not zero.
+That's the detail on sweeping under the rug here and why this is not a real proof, but just a more informal explanation.
+Now if I rearrange things, and rewrite the limit of the product as the product of the limits, my limit on the right here is just the derivative of g.
+for the limit on the left, notice that as x goes to a, g of x has to go to G evey, since G is differentiable on there for a continuous function, so I can rewrite this and letting say u be equal to g of x, I can rewrite this as the limit as u goes to g of a of f of u minus f of g of A over over u minus g of a.
+Now my expression on the left is just another way of writing the derivative of f evaluated at G Ave.
+And I've arrived at the expression for the chain rule.
+Let me just emphasize again, this is just a pseudo proof it's not quite airtight because g of x minus g of a might be zero.
+That's all for the justification of the chain rule.
+For a complete proof.
+Please see the textbook implicit differentiation is a technique for finding the slopes of tangent lines for curves that are defined indirectly, and sometimes aren't even functions.
+So far, we've developed a lot of techniques for finding derivatives of functions defined explicitly, in terms of the equation y equals something.
+In this section, we'll consider curves that are defined implicitly, in terms of any equation involving x's and y's.
+So the points on this curve are the values of x and y that satisfy this equation.
+As you can see, when you have implicitly defined curves, they are not necessarily functions.
+And in fact, they can not only violate the vertical line test, but they can cross themselves, or be broken up into several pieces or look like really cool pictures like this flower.
+But small pieces of these curves do satisfy the vertical line test for small pieces, y is a function of x.
+And that allows us to use our calculus techniques, especially the chain rule, to compute derivatives for these implicitly defined curves.
+u minus g of a.
+Now my expression on the left is just another way of writing the derivative of f evaluated at G Ave.
+And I've arrived at the expression for the chain rule.
+Let me just emphasize again, this is just a pseudo proof it's not quite airtight because g of x minus g of a might be zero.
+That's all for the justification of the chain rule.
+For a complete proof.
+Please see the textbook implicit differentiation is a technique for finding the slopes of tangent lines for curves that are defined indirectly, and sometimes aren't even functions.
+So far, we've developed a lot of techniques for finding derivatives of functions defined explicitly, in terms of the equation y equals something.
+In this section, we'll consider curves that are defined implicitly, in terms of any equation involving x's and y's.
+So the points on this curve are the values of x and y that satisfy this equation.

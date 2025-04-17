@@ -1,0 +1,33 @@
+Proof of the Angle Sum Formulas.
+adding all those little chunks of work up.
+So the total work done is going to be the sum from i equals one to n, where n is the number of sub intervals of the work done on each sub interval, which is f of x sub i star times distance delta x.
+I should say this is approximately the total work, in order to get the actual total work, we'll need to take a limit as we use more and more skinnier and skinnier subintervals.
+So the limit as n goes to infinity of this Riemann sum, the limit of a Riemann sum is an integral.
+So we've got the integral of the force f of x, dx, and we'll integrate between the minimum x value of a and the maximum x value of b.
+And that's our formula for work.
+Let's look at a physical example.
+How much work is required to lift 1000 kilograms satellite from the Earth's surface to an altitude of two times 10 to the six meters above the Earth's surface.
+We're given that the gravitational force is F equals g times capital M times lowercase m divided by r squared, where m is the mass of the Earth, lowercase m is the mass of the satellite, r is the distance between the satellite and the center of the earth, and g is the gravitational constant.
+We're also given numbers for the radius of the Earth, the mass of the Earth, and the gravitational constant.
+This problem is different from the problem of lifting the calculus book.
+When we lifted a book over just a few meters, the force of gravity was essentially constant over such a small distance.
+So we could use the equation work equals force times distance.
+But in this problem, since we're moving the satellite a larger distance, the force of gravity changes with distance.
+And so we need to use work as the integral of this force with respect to distance.
+The distance variable in this problem is R.
+So I'll rewrite this using the equation for force and integrate with respect to Dr.
+Let's look at a physical example.
+How much work is required to lift 1000 kilograms satellite from the Earth's surface to an altitude of two times 10 to the six meters above the Earth's surface.
+We're given that the gravitational force is F equals g times capital M times lowercase m divided by r squared, where m is the mass of the Earth, lowercase m is the mass of the satellite, r is the distance between the satellite and the center of the earth, and g is the gravitational constant.
+We're also given numbers for the radius of the Earth, the mass of the Earth, and the gravitational constant.
+This problem is different from the problem of lifting the calculus book.
+When we lifted a book over just a few meters, the force of gravity was essentially constant over such a small distance.
+So we could use the equation work equals force times distance.
+But in this problem, since we're moving the satellite a larger distance, the force of gravity changes with distance.
+And so we need to use work as the integral of this force with respect to distance.
+The distance variable in this problem is R.
+So I'll rewrite this using the equation for force and integrate with respect to Dr.
+I'm starting at the Earth's surface.
+So that's a distance of 6.
+4 times 10 to the six meters from the center of the earth, since that's the earth radius.
+And I'm ending at a height

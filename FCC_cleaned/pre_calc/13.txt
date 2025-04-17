@@ -1,0 +1,33 @@
+Unit Circle Definition of Sine and Cosine.
+unit circle, a unit circle is a circle with radius one.
+Up to now we defined sine and cosine and tangent in terms of right triangles.
+For example, to find sine of 14 degrees in theory, you could draw a right triangle with an angle of 14 degrees and then calculate the sign as the length of the opposite side over the length of by partners.
+But if we use this method to try to compute sine of 120 degrees, things go horribly wrong.
+When we draw this 120 degree angle, and this right angle, there's no way to complete this picture to get a right triangle.
+So instead, we're going to use a unit circle that is a circle of radius one.
+The figure below illustrates how right triangles and a unit circle are related.
+If you draw right triangles with larger of hypotenuse one with larger and larger angles, then the top vertex sweeps out part of a unit circle.
+Let's look at this relationship in more detail.
+In this figure, I've drawn a right triangle inside a unit circle.
+The hypothesis of the triangle is the radius of the circle, which is one, one vertex of the right triangle is at the origin.
+And another vertex of the right triangle is at the edge of the circle, I'm going to call the coordinates of that vertex A, B.
+Now the base of this right triangle has length a, the x coordinate, and the height of the right triangle is B, the y coordinate.
+If I use the right triangle definition of sine and cosine of theta, this right here is the angle theta, then cosine of theta is adjacent over hypotenuse, so that's a over one, or a.
+Notice that a also represents the x coordinate of this point on the unit circle, at angle theta from the x axis, I'll write that down.
+For a sine of theta, if I use the right triangle definition, that's opposite overhead partners.
+So b over one, which is just B.
+But B also represents the y coordinate of this point in the on the unit circle at angle theta.
+For tangent theta, if we use the right side triangle definition, its opposite over adjacent.
+So that's B over A, I can think of that as the y coordinate of the point over the x coordinate of the point.
+Now for angles theta, that can't be part of a right triangle, because they're too big, they're bigger than 90 degrees, like now I'll call this angle here theta, I can still use this idea of x and y coordinates to calculate the sine and cosine of theta.
+So if I just mark this point, on the end of this line at angle theta, if I mark that to have coordinates x and y, then cosine theta, I'm still going to define as the x coordinate of this point, sine theta as the y coordinate, and tangent theta as the ratio of the y coordinate over the x coordinate.
+When we use this unit circle definition, we always draw theta starting from the positive x axis and going counterclockwise.
+Let's use this unit circle definition to calculate sine, cosine and tangent of this angle fee.
+In our figure, we have a unit circle.
+And these numbers are supposed to represent the x&y coordinates of this point on the unit circle at the endpoint of this line segment, that lies at angle fee for the positive x axis sign fee is equal to the y coordinate cosine fee is equal to the x coordinate.
+And tangent of fee is given by the ratio of the two, which works out to negative 0.
+3639 up to four decimal places.
+This video gives a method for calculating sine cosine and tangent in terms of the unit circle.
+Starting from the positive x axis, you draw the angle theta going counterclockwise.
+You look at the coordinates of the point on the unit circle where that angle ends.
+And cosine of that angle theta is the x coordinate, sine of theta is the y coordinate, and tangent of theta is the

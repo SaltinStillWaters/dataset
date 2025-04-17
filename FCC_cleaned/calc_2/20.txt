@@ -1,0 +1,46 @@
+Sequences - More Definitions.
+This video gives a geometric proof of those formulas.
+There are many great proofs of the angle some formulas, but I'd like to share with you one of my favorites for those who are interested.
+Alright, the angle some formulas up here, so we'll know what we're trying to prove.
+To prove these formulas, let me start by drawing an angle A and angle B on top of that.
+Next, I'm going to draw a line perpendicular to this middle line.
+And I'm going to extend the top line until it meets that perpendicular, making a right triangle.
+Finally, I'll draw a rectangle around that right triangle that just touches its vertices.
+My rectangle is now divided up into four right triangles.
+And I'm going to choose units of measurement, so that the high partners of my middle triangle has length one.
+Now let's stop for a minute to think about the angles of these other triangles.
+Since the top and the bottom edge of the rectangle are parallel lines, and this high partners is a transversal.
+This angle up here must have the same measure as a plus b down here.
+Also, this skinny angle here must have the same measure as a down here.
+Because this angle is 180 degrees, minus 90 degrees minus this angle here.
+And this angle A is also 180 degrees, the measure of the angles in a triangle minus 90 degrees minus that same angle.
+So I'll label this skinny angle with a.
+Next, let's figure out as many side lengths as we can.
+So I'll label this skinny angle with a.
+Next, let's figure out as many side lengths as we can.
+Based on the middle right triangle with high partners one, we know that this side length down here must be cosine of B, since adjacent over hypotenuse is cosine B.
+Similarly, this side length here must be sine of B.
+Since opposite of our hypothesis is sine of B, now we see that sine of B is the hypotenuse of this right triangle, which means that this little side here has measure sign a time sign B.
+That's because the opposite over the hypothesis of this angle has to equal sign a.
+A similar argument shows that this side has to have measure cosine A time sign B.
+Please pause the video and take a moment to fill in the side length of this right triangle.
+And this right triangle, you should be getting sine A cosine B cosine A cosine B sine of A plus B and cosine of A plus B.
+But remember, we have a rectangle here.
+So the opposite sides have equal length.
+This tells us that sine of A plus B has to equal sine of A cosine of B plus cosine of A sine of B, which is exactly the first angle sum formula.
+Also, cosine of A plus B, which is this side length, is exactly the difference of this side length cosine A cosine B minus this side length sine of A sine B.
+And that's the second angle sum formula.
+So I think that's a pretty great geometric proof of the angle some formulas.
+This video is about integrating trig functions that involve at least one odd power of sine or cosine.
+Let's start by evaluating the integral of sine to the fourth x times cosine x dx.
+This integral is a good candidate for u substitution.
+If we let u equal sine of x Then d u is equal to cosine of x dx.
+And we can rewrite the integral as the integral of u to the fourth do this integrates easily to 1/5 times u to the fifth plus C.
+And I can convert things back to x by plugging in sine of x for you, to get 1/5 sine to the fifth of x plus C.
+The next integral, the integral of sine to the fourth x times cosine cubed x dx can also be handled with a similar use of the tuition with a bit more work.
+First, I'm going to rewrite the integral as the integral of sine to the fourth x times cosine squared x times cosine of x dx.
+I'm rewriting the cosine cubed of x as cosine squared of x times cosine x in the hopes that I can use cosine of x dx as my d u, like I did in the previous problem.
+Now if we have d u, as cosine of x, dx, we're going to need you to be sine of x.
+But unlike the previous problem, I can't just replace sine of the fourth x with you to the fourth and cosine x dx with D, U and be done.
+Because I've got this cosine squared x hanging around that I need to deal with.
+I wish I didn't

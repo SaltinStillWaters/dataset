@@ -1,0 +1,22 @@
+Introduction to Quadratic Functions.
+a quadratic function is a function that can be written in the form f of x equals A x squared plus bx plus c, where a, b and c are real numbers.
+And a is not equal to zero.
+The reason we require that A is not equal to zero is because if a were equal to zero, we'd have f of x is equal to b x plus c, which is called a linear function.
+So by making sure that a is not zero, we make sure there's really an x squared term which is the hallmark of a quadratic function.
+Please pause the video for a moment and decide which of these equations represent quadratic functions.
+The first function can definitely be written in the form g of x equals A x squared plus bx plus c.
+fact it's already written in that form, where a is negative five, B is 10, and C is three.
+The second equation is also a quadratic function, because we can think of it as f of x equals one times x squared plus zero times x plus zero.
+So it is in the right form, where A is one, B is zero, and C is zero.
+It's perfectly fine for the coefficient of x and the constant term to be zero for a quadratic function, we just need the coefficient of x squared to be nonzero, so the x squared term is preserved.
+The third equation is not a quadratic function.
+It's a linear function, because there's no x squared term.
+The fourth function might not look like a quadratic function.
+But if we rewrite it by expanding out the X minus three squared, let's see what happens.
+We get y equals two times x minus three times x minus three plus four.
+So that's two times x squared minus 3x minus 3x, plus nine plus four, continuing, I get 2x squared, minus 12 access, plus 18 plus four, in other words, y equals 2x squared minus 12x plus 22.
+So in fact, our function can be written in the right form, and it is a quadratic function.
+A function that is already written in the form y equals A x squared plus bx plus c is said to be in standard form.
+So our first example g of x is in standard form a function that's written in the format of the last function that is in the form of y equals a times x minus h squared plus k for some numbers, a, h, and K.
+That said to be in vertex form, I'll talk more about standard form and vertex form in another video.
+In this video, we identified some quadratic functions, and talked about the difference between standard form and vertex form.

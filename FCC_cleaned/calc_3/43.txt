@@ -1,0 +1,122 @@
+Rectilinear Motion.
+sum of derivatives, and then use the constant multiplier rule to pull the constant of negative one out, and then we have exactly what we wanted to prove.
+So in this video, we gave the proof of the content multiple rule, the summon difference rules, and a proof of the power rule when n is a positive integer.
+This video gives rules for calculating derivatives of functions that are products, or quotients of other functions.
+In this video, you'll find statements of the product rule and the quotient rule, and some examples.
+But no proofs, proofs are in a separate video.
+Before we start, let's recall the Psalm and the difference rules.
+If f and g are differentiable functions, then the derivative of the psalm f of x plus g of x is just the sum of the derivatives.
+And a similar statement holds for differences.
+The derivative of the difference is the difference of the derivatives.
+So does the same sort of rule hold for products of functions, in other words, is the derivative of the product equal to the product of the derivatives?
+Let's look at a simple example.
+To find out.
+For example, if f of x is x, and g of x is x squared, then if we take the derivative of the product, x times x squared, well, that's just the derivative of x cubed.
+We know how to do that with the power rule.
+So it's 3x squared.
+On the other hand, if we look at the product of the derivatives, we get one times 2x or just 2x.
+And these two things are not equal.
+So unfortunately, the answer is no such a simple product rule does not hold.
+But not lose hope.
+There is a product rule, it's just a little more complicated than the sum and difference rule.
+The product rule says that if f and g are differentiable functions, then the derivative of the product f of x times g of x is equal to f of x times the derivative of g of x plus the derivative of f of x times g of x.
+In other words, to take the derivative of a product, we take the first function times the derivative of the second, plus the derivative of the first times the second.
+Let's use this in an example.
+To take the derivative of the square root of t times e to the t, we have to take the first function squared of t times the derivative of the second function, plus the derivative of the first function The difference rule can be proved just like the sum rule by writing out the definition of derivative and regrouping terms.
+Or we could use kind of a sneaky shortcut, and put together two of our previous roles.
+So if we think of f of x minus g of x as being f of x plus minus one times g of x, then we can use the sum rule to rewrite this as a sum of derivatives, and then use the constant multiplier rule to pull the constant of negative one out, and then we have exactly what we wanted to prove.
+So in this video, we gave the proof of the content multiple rule, the summon difference rules, and a proof of the power rule when n is a positive integer.
+This video gives rules for calculating derivatives of functions that are products, or quotients of other functions.
+In this video, you'll find statements of the product rule and the quotient rule, and some examples.
+But no proofs, proofs are in a separate video.
+Before we start, let's recall the Psalm and the difference rules.
+If f and g are differentiable functions, then the derivative of the psalm f of x plus g of x is just the sum of the derivatives.
+And a similar statement holds for differences.
+The derivative of the difference is the difference of the derivatives.
+So does the same sort of rule hold for products of functions, in other words, is the derivative of the product equal to the product of the derivatives?
+Let's look at a simple example.
+To find out.
+For example, if f of x is x, and g of x is x squared, then if we take the derivative of the product, x times x squared, well, that's just the derivative of x cubed.
+We know how to do that with the power rule.
+So it's 3x squared.
+On the other hand, if we look at the product of the derivatives, we get one times 2x or just 2x.
+And these two things are not equal.
+So unfortunately, the answer is no such a simple product rule does not hold.
+But not lose hope.
+There is a product rule, it's just a little more complicated than the sum and difference rule.
+The product rule says that if f and g are differentiable functions, then the derivative of the product f of x times g of x is equal to f of x times the derivative of g of x plus the derivative of f of x times g of x.
+In other words, to take the derivative of a product, we take the first function times the derivative of the second, plus the derivative of the first times the second.
+Let's use this in an example.
+To take the derivative of the square root of t times e to the t, we have to take the first function squared of t times the derivative of the second function, plus the derivative of the first function times the second function.
+So that's the square root of t times the derivative of e to the t is just e to the t.
+times the second function.
+So that's the square root of t times the derivative of e to the t is just e to the t.
+And to find the derivative of the square root of t, it's going to be easier to write it in exponential form.
+Now we can just use the power roll.
+Bring down the one half t to the one half minus one is negative one half and I found the derivative.
+I'm going to clean this up a little bit, and I'm done.
+quotient rule says that the derivative of a quotient of two functions And to find the derivative of the square root of t, it's going to be easier to write it in exponential form.
+Now we can just use the power roll.
+Bring down the one half t to the one half minus one is negative one half and I found the derivative.
+I'm going to clean this up a little bit, and I'm done.
+quotient rule says that the derivative of a quotient of two functions is given By this quotient on the denominator, we have the denominator function g of x squared.
+And on the numerator, we have g of x times the derivative is given By this quotient on the denominator, we have the denominator function g of x squared.
+And on the numerator, we have g of x times the derivative of f of x of f of x minus f of x times the derivative of g of x.
+The way I remember this is this chant.
+If you think of f of x as the high function, and g of x is a low function, you can say this is low D high minus high D low minus f of x times the derivative of g of x.
+The way I remember this is this chant.
+If you think of f of x as the high function, and g of x is a low function, you can say this is low D high minus high D low over low low, over low low, we're low low means the low function squared.
+Let's start with a pretty simple example.
+So this derivative, taking us back to z here, we're low low means the low function squared.
+Let's start with a pretty simple example.
+So this derivative, taking us back to z here, we put the low low on the bottom, and then we go low, we put the low low on the bottom, and then we go low, D high.
+D high.
+z squared is to z minus high, D low the derivative of Z's cubed plus one is three z squared plus zero, don't really need to write the zero there, I can simplify here a little bit to z to the fourth plus two z minus three z to the fourth, z squared is to z minus high, D low the derivative of Z's cubed plus one is three z squared plus zero, don't really need to write the zero there, I can simplify here a little bit to z to the fourth plus two z minus three z to the fourth, over, I'm over, I'm not going to bother multiplying out this denominator, I think it looks simpler with it factored.
+So when I cancel things on the numerator, I'm getting to z minus z to the fourth over z cubed plus one squared as the derivative of my quotient.
+So in this video, we saw the product rule and the quotient rule.
+I've written the rules here using the prime notation instead of the dy dx notation, but you should check that the formulas are really the same as before.
+For the proofs of these fabulously useful rules, you'll have to watch the next video.
+In this video, I'll prove the product rule and the quotient rule, along with one more related rule, called the reciprocal rule.
+First, the proof of the product rule.
+To find the derivative of the product, f of x times g of x, I'm going to start as usual with the limit definition of derivative.
+So the limit as h goes to zero of f of x plus h g of x plus h minus f of x g of x, Oliver H.
+Now I'd like to make this expression here look more like the expression above it, which is where I'm heading for.
+And to do this, I'm going to use a classic trick of adding zero to my expression and kind of a devious way.
+So I'm going to rewrite my expression, leaving the first term and the last term of the numerator as they are, but inserting two new terms that cancel.
+So I'm subtracting the term, f of x, g of x plus h, and then adding it back again.
+So they won't change the value of my expression.
+This is not as pointless as it seems, because now we can factor out the common factor of g of x plus h from the first two terms, and the common factor of f of x from the next two terms.
+So I'm going to do that.
+And now I'll rewrite again, splitting up my sum into two pieces here.
+You can use just algebra fractions to see that this expression here and this expression here are the same.
+Notice that I'm taking the limit of this entire expression here.
+Now my limit rules allow me to rewrite this limit as four separate limits, provided that these four limits do in fact exist, which that tell you show you in a moment that they do.
+So this first limit here is just equal to g of x, because G is a continuous function.
+G is continuous because by assumption it's differentiable, so it has to be continuous.
+This second limit here, you'll recognize as the definition of the derivative of f, so that limit exists at equals d dx of f of x.
+The third limit, well, f of x has nothing to do with age.
+So that limit is just f of x.
+And finally, the fourth limit is the derivative of g.
+And we've done it.
+Well, modulus some minor rearrangement, you'll see that this expression here, is exactly the same as this expression here, just with the order of the terms switched around.
+Before we go on to prove the quotient rule, it'll be really handy to prove the reciprocal rule, which states that the derivative of reciprocal, one over f of x is given by negative the derivative of f of x divided by f of x squared.
+So to prove this fact, let's start as usual, with the definition of derivative.
+The derivative of one over f of x is the limit as h goes to zero of one over f of not going to bother multiplying out this denominator, I think it looks simpler with it factored.
+So when I cancel things on the numerator, I'm getting to z minus z to the fourth over z cubed plus one squared as the derivative of my quotient.
+So in this video, we saw the product rule and the quotient rule.
+I've written the rules here using the prime notation instead of the dy dx notation, but you should check that the formulas are really the same as before.
+For the proofs of these fabulously useful rules, you'll have to watch the next video.
+In this video, I'll prove the product rule and the quotient rule, along with one more related rule, called the reciprocal rule.
+First, the proof of the product rule.
+To find the derivative of the product, f of x times g of x, I'm going to start as usual with the limit definition of derivative.
+So the limit as h goes to zero of f of x plus h g of x plus h minus f of x g of x, Oliver H.
+Now I'd like to make this expression here look more like the expression above it, which is where I'm heading for.
+And to do this, I'm going to use a classic trick of adding zero to my expression and kind of a devious way.
+So I'm going to rewrite my expression, leaving the first term and the last term of the numerator as they are, but inserting two new terms that cancel.
+So I'm subtracting the term, f of x, g of x plus h, and then adding it back again.
+So they won't change the value of my expression.
+This is not as pointless as it seems, because now we can factor out the common factor of g of x plus h from the first two terms, and the common factor of f of x from the next two terms.
+So I'm going to do that.
+And now I'll rewrite again, splitting up my sum into two pieces here.
+You can use just algebra fractions to see that this expression here and this expression here are the same.
+Notice that I'm taking the limit of this entire

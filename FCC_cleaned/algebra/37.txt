@@ -1,0 +1,141 @@
+Doubling Time and Half Life.
+In this video, we'll use exponential equations in some real life applications, like population growth and radioactive decay.
+I'll also introduce the ideas of half life and doubling time.
+In this first example, let's suppose we invest $1, 600 in a bank account that earns 6.
+5% annual interest compounded once a year.
+How many years will it take until the account has $2, 000 in it if you don't make any further deposits or withdrawals since our money is earning six point 5% interest each year, that means that every year the money gets multiplied by 1.
+065.
+So after t years, my 1600 gets multiplied by 1.
+065 to the t power.
+I'll write this in function notation as f of t equals 1600 times 1.
+065 to the T, where f of t is the amount of money after t years.
+Now we're trying to figure out how long it will take to get $2, 000 $2, 000 is a amount of money.
+So that's an amount for f of t.
+And we're trying to solve for T the amount of time.
+So let me write out my equation and make a note that I'm solving for t.
+Now to solve for t, I want to first isolate the tricky part.
+So I'm going to the tricky part is the part with the exponential in it.
+So I'm going to divide both sides by 1600.
+That gives me 2000 over 1600 equals 1.
+065.
+To the tee, I can simplify this a little bit further as five fourths.
+Now that I've isolated the tricky part, my next step is going to be to take the log of both sides.
+That's because I have a variable in the exponent.
+And I know that if I log take the log of both sides, I can use log roles to bring that exponent down where I can solve for it.
+I think I'll use log base e this time.
+So I have ln fi force equals ln of 1.
+065 to the T.
+Now by the power rule for logs, on the right side, I can bring that exponent t down and multiply it in the front.
+Now it's easy to isolate t just by dividing both sides by ln of 1.
+065.
+Typing that into my calculator, I get that t is approximately 3.
+54 years.
+And the next example, we have a population of bacteria that initially contains 1.
+5 million bacteria, and it's growing by 12% per day, we want to find the doubling time, the doubling time means the amount of time it takes for a quantity to double in size.
+For example, the amount of time it takes to get from the initial 1.
+5 million bacteria to 3 million bacteria would be the doubling time.
+Let's start by writing an equation for the amount of bacteria.
+So if say, P of t represents the number of bacteria in millions, then my equation and T represents time in days, then P of t is going to be given by the initial amount of bacteria times the growth factor 1.
+12 to the T.
+That's because my population of bacteria is growing by 12% per day.
+That means the number of bacteria gets multiplied by one point 12.
+Since we're looking for the doubling time, we're looking for the t value when P of D will be twice as big.
+So I can set P of t to be three and solve for t.
+As before, I'll start by isolating the tricky part, taking the log bringing the T down.
+And finally solving for T.
+Let's see three over 1.
+5 is two so I can write this as ln two over ln 1.
+12.
+Using my calculator, that's about 6.
+12 days.
+It's an interesting fact that doubling time only depends on the growth rate, that 12% growth, not the initial population.
+In fact, I could have figured out the doubling time without even knowing how many bacteria were in my initial population.
+Let me show you how that would work.
+If I didn't know how many I started with, I could still write P of t equals a times 1.
+12 to the t where a is our initial population that I don't know what it is.
+Then if I want to figure out how long it takes for my population, to double Well, if I start with a and double that I get to a.
+So I'll set my population equal to two a.
+And I'll solve for t.
+Notice that my A's cancel.
+And so when I take the log of both sides and bring the T down and solve for t, I get the exact same thing as before, it didn't matter what the initial population was, I didn't even have to know what it was.
+In this next example, we're told the initial population, and we're told the doubling time, we're not told by what percent the population increases each minute, or by what number, we're forced to multiply the population by each minute.
+So we're gonna have to solve for that, I do know that I want to use an equation of the form y equals a times b to the T, where T is going to be the number of minutes, and y is going to be the number of bacteria.
+And I know that my initial amount a is 350.
+So I can really write y equals 350 times b to the T.
+Now the doubling time tells me that when 15 minutes have elapsed, my population is going to be twice as big, or 700.
+plugging that into my equation, I have 700 equals 350 times b to the 15.
+Now I need to solve for b.
+Let me clean this up a little bit by dividing both sides by 350.
+That gives me 700 over 350 equals b to the 15th.
+In other words, two equals b to the 15th.
+To solve for B, I don't have to actually use logs here, because my variables in the base not in the exponent, so I don't need to bring that exponent down.
+Instead, the easiest way to solve this is just by taking the 15th root of both sides or equivalently.
+The 1/15 power.
+That's because if I take B to the 15th to the 1/15, I multiply by exponents, that gives me B to the one is equal to two to the 1/15.
+In other words, B is two to the 1/15, which as a decimal is approximately 1.
+047294.
+I like to use a lot of decimals if I'm doing a decimal approximation and these kind of problems to increase accuracy.
+But of course, the most accurate thing is just to leave B as it is.
+And I'll do that and rewrite my equation is y equals 350 times two to the 1/15 to the T.
+Now I'd like to work this problem one more time.
+And this time, I'm going to use the form of the equation y equals a times e to the RT.
+This is called a continuous growth model.
+It looks different, but it's actually an equivalent form to this growth model over here.
+And I'll say more about why these two forms are equivalent at the end, I can use the same general ideas to solve in this form.
+So I know that my initial amount is 350.
+And I know again that when t is 15, my Y is 700.
+So I plug in 700 here 350 e to the r times 15.
+And I solve for r.
+Again, I'm going to simplify things by dividing both sides by 350.
+That gives me two equals e to the r times 15.
+This time my variable does end up being in the exponent.
+So I do want to take the log of both sides, I'm going to use natural log, because I already have an E and my problem.
+So natural log and E are kind of more harmonious the other than then common log with base 10 and E.
+So I take the log of both sides.
+Now I can pull the exponent down.
+So that's our times 15 times ln of E.
+Well Elena V is just one, right?
+Because Elena V is asking what power do I raise E to to get e that's just one.
+And so I get 15 r equals ln two.
+So r is equal to ln two divided by 15.
+Let me plug that back in to my original equation as e to the ln two over 15 times t.
+Now I claimed that these two equations were actually the same thing just looking different.
+And the way to see that is if I start with this equation, and I rewrite as e to the ln two over 15 like that to the tee.
+Well, I claim that this quantity right here is the same thing as my two to the 1/15.
+And in fact One way to see that is e to the ln two already to the 115.
+The Right, that's the same, because every time I take a power to a power, I multiply exponents.
+But what's Ed Oh, and two, E and ln undo each other, so that's just 350 times two to the 1/15 to the T TA, the equations are really the same.
+And these, you'll always be able to find two different versions of an exponential equation, sort of the standard one, a times b to the T, or the continuous growth one, a times e to the RT.
+In this last example, we're going to work with half life, half life is pretty much like doubling time, it just means the amount of time that it takes for a quantity to decrease to half as much as we originally started with, we're told that the half life of radioactive carbon 14 is 5750 years.
+So that means it takes that long for a quantity of radioactive carbon 14 to decay, so that you just have half as much left and the rest is nonradioactive form.
+So we're told a sample of bone that originally contained 200 grams of radioactive carbon 14 now contains only 40 grams, we're supposed to find out how old the sample is, is called carbon dating.
+Let's use the continuous growth model this time.
+So our final amount, so this is our amount of radioactive c 14 is going to be the initial amount times e to the RT, we could have used the other model to we could have used f of t equals a times b to the T, but I just want to use the continuous model for practice.
+So we know that our half life is 5750.
+So what that means is when t is 5750, our amount is going to be one half of what we started with.
+Let me see if I can plug that into my equation and figure out use that to figure out what r is.
+That's ours called the continuous growth rate.
+So I plug in one half a for the final amount, a is still the initial amount, e to the r and I have 5750 I can cancel my A's.
+And now I want to solve for r, r is in my exponent.
+So I do need to take the log of both sides to solve for it.
+I'm going to use log base e since I already have an E and my problem, log base e is more compatible with E then log base 10 is okay.
+Now, on the left side, I still have log of one half and natural log of one half on the right side, ln n e to a power those undo each other.
+So I'm left with R times 5750.
+Now I can solve for r, it's ln one half over 5750 could work that as a decimal, but it's actually more accurate just to keep it in exact form.
+So now I can rewrite my equation, I have f of t equals a times e to the ln one half over five 750 t.
+Now I can use that to figure out my problem.
+And my problem the bone originally contained 200 grams, that's my a, I want to figure out when it's going to contain only 40 grams, that's my final amount.
+And so I need to solve for t.
+I'll clean things up by dividing both sides by 200.
+Let's say 40 over 200 is 1/5.
+Now I'm going to take the ln of both sides.
+And ln and e to the power undo each other.
+So I'm left with Elena 1/5 equals ln of one half divided by five 750 T.
+And finally I can solve for t but super messy but careful use of my calculator gives me an answer of 13, 351 years approximately.
+That kind of makes sense in terms of the half life because to get from 200 to 40 you have to decrease by half a little more than two times right or increasing by half once would get you to 100 decreasing to half again would get you to 50 a little more than 40 and two half lives is getting pretty close to 13, 000 years.
+This video introduced a lot of new things it introduced continue Less growth model, which is another equivalent way of writing an exponential function.
+The relationship is that the B in this example, is the same thing as EDR.
+In that version, it also introduced the ideas of doubling time.
+And HalfLife the amount of time it takes a quantity to double or decreased to half in an exponential growth model.
+Recall that a linear equation is equation like for example, 2x minus y equals one.
+It's

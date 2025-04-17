@@ -1,0 +1,431 @@
+Derivatives and the Shape of the Graph.
+f can tell us where the function is increasing and decreasing.
+In particular, if f prime of x is greater than zero for all x on an interval, then f is increasing on this interval.
+This makes sense, because f prime being greater than zero means the tangent line has positive slope.
+Similarly, if f prime of x is less than zero for all excellent interval, then f is decreasing on this interval.
+That's because a negative derivative means the tangent line has a negative slope.
+A precise proof of these facts can be found in the textbook, or in another video, we say that a function is concave up on an interval from a to b.
+If informally, it looks like a bowl that could hold water on that interval.
+More formally, the function is concave up on that interval.
+If all the tangent lines for the function on that interval, lie below the graph of the function.
+The function is concave down on the interval from a to b.
+If informally, it looks like an upside down ball that would spill water on that interval.
+Or more formally, the function is concave down.
+If all the tangent lines lie above the graph of the function on an interval.
+In this example, f is concave up around here.
+And again around here.
+On the left piece, it looks like part of a ball that could hold water.
+So we can say that f is concave up on the intervals from two to four, and the interval from eight to 11.
+f is concave down on this piece, and this piece and this piece, so we can say that f is concave down on the interval from zero to two, from four to eight, and from 11 to 12.
+The concavity of a function is related to its second derivative.
+Here, where the function is concave up, its derivative is going from essentially zero to larger positive values.
+So the first road was increasing, which means the second derivative is positive.
+On this section of the graph, which is also concave up, the driven is going from negative values to zero.
+That's an increase in the first derivative.
+So that means the second derivative here must be positive.
+And in this piece, where the first term is going from zero to positive values, the first derivative is also increasing, so the second derivative is also positive.
+On the parts of the function that are concave down, we can see that in this example, the second derivative is negative.
+Here, the first derivative is going from positive towards zero, that's a decrease in the first derivative or a negative second derivative.
+Here the first derivative is going from positive to zero to negative, that's also a decreasing first derivative or a negative second derivative.
+And the same thing happens on this section here.
+In general, we can use the second derivative to predict the concavity of a function.
+The concavity test says that if the second derivative is positive for all x on an interval, then the function f is concave up on that interval.
+Similarly, if the second derivative is negative for all x on the interval, then the function f is concave down on that interval.
+One way to remember the concavity test is that a positive second derivative gives us a happy face.
+So the smile is supposed to be a concave up function.
+And a negative second derivative gives us a sad face where the smile or the frown, I guess, is a concave down function.
+Next, let's talk about inflection points.
+A function has an inflection point at x equals C, if it's continuous at C, and it changes concavity at C.
+In other words, f has an inflection point at x equals C.
+If f changes from concave up to concave down at x equals C, or it changes from concave down to concave up.
+In this graph, if we draw the concavity regions again, we see that F has an inflection point at x equals two, where the function changes from concave down to concave up at x equals four, where the function changes from concave up to concave down at x equals eight, and again, at x equals 11.
+Since concavity, has to do with the second derivative being positive or negative, inflection points happen where the second derivative changes sign from positive to negative, or from negative to positive.
+And that's exactly what the inflection point test says.
+If f double prime of x changes sign at x equals C, then f has an inflection point at x equals C.
+Now in order to change from positive to negative or negative positive, f double prime has to go through zero, or go through a point where it doesn't exist.
+But you have to be careful, just because f double prime is zero, it doesn't exist, does not guarantee that you necessarily have an inflection point, because it could be zero and still be positive on both sides or negative on both sides.
+For example, if f of x is x to the fourth, then f prime of x is for x cubed, and f double prime of x is 12x squared.
+So f double prime at zero is certainly zero.
+But there is no inflection point at x equals zero.
+In fact, the graph of f of x equals x to the fourth looks kinda like a flattened quadratic, and so there's no change in calm cavity, f is concave up on both sides of x equals zero.
+In this video, without the first derivative can tell us where the function is increasing and decreasing, while the second derivative can tell us where the function is concave up and concave down.
+And the second derivative, changing sign from positive to negative or negative or positive can tell us where we have inflection points.
+Since lines are much easier to work with, and more complicated functions, it can be extremely useful to approximate a function near a particular value with its tangent line.
+That's the central idea of this video.
+Let's start with an example.
+Suppose that F of T is the temperature in degrees Fahrenheit at time t measured in hours, where t equals zero represents midnight.
+Suppose that f of six is 60 degrees, and the derivative f prime of six is three degrees per hour.
+What's your best estimate for the temperature at 7am and at 8am?
+Please pause the video for a moment to make your estimate.
+The temperature at 6am is 60 degrees.
+So the temperature at 7am, which we're calling F of seven is approximately 60 degrees.
+But we can do better than this.
+At 6am, the temperature is rising, in fact, it's rising at a rate of three degrees per hour.
+If this rate of change continues, then by 7am, the temperature will have risen three degrees and reached 63 degrees.
+And by 8am, the temperature will have had two hours to rise from 60 degrees by a rate at a rate of three degrees per hour.
+So f of eight should be about 60 degrees plus the three degrees per hour times two hours or 66 degrees.
+These estimates use all the information, we're given both the value of the temperature at six, and its rate of change.
+Let's see what these estimates mean graphically, in terms of the tangent line.
+I'll draw a rough graph of temperature over time.
+And I'll also draw in the tangent line at time six.
+At time six, the height of the function and the tangent line is equal to 60 degrees.
+The tangent line has slope three degrees per hour.
+So that's a rise of a run of three, which means that seven o'clock, which is one hour, after six o'clock, the tangent line has risen by three degrees.
+And at eight o'clock, the tangent line has risen by another three degrees.
+So at seven o'clock, our tangent line has had 63 degrees, and at eight o'clock, our tangent line has height 66 degrees.
+When making these estimates, here, we were actually using the tangent line to approximate our function.
+Our actual temperature function may be rising more steeply than the tangent line, or it possibly could be rising less steeply, like in this picture.
+But either way, the tangent line is a good approximation for our function.
+When time is near six o'clock.
+The idea of approximating a function with its tangent line is a very important idea that works for any differentiable function.
+Let f of x be any differentiable function and let A be an arbitrary x value.
+Let's suppose we know the value of f at a, we'll call it F of A.
+And let's say we want to find the value of f, add an x value near a, let's call it a plus delta x where delta x means a small number.
+If we can't compute f of a plus delta x directly, we can try to approximate it using the tangent line.
+We know that the tangent line has a slope given by f prime of a.
+And so when we go over by a run of delta x, the tangent line goes up by a rise of f prime of A times delta x.
+So the height of the tangent line is going to be f of a plus f prime of A times delta x.
+The linear approximation principle says that we can approximate our function with our tangent line.
+In other words, f of a plus delta x is approximately equal to f of a plus f prime of a delta x.
+Remember that delta x is supposed to be a small number, because if you get too far away from a, your tangent lines no longer going to be a good approximation of your function.
+But how small is small enough is sort of a judgment call.
+Sometimes the approximation principle is written with different symbols, if we let x equal a plus delta x, so x is a number close to a, then delta x is x minus a.
+And we can rewrite the approximation principle, as f of x is approximately f of a plus f prime of A times x minus a.
+The quantity on the right side here is sometimes referred to as l of x, and called the linearization of f at A.
+That is the linearization of f of a is l of x, which is equal to f of a plus f prime of A times x minus a.
+So the approximation principle can also be written as f of x is approximately equal to l of x.
+Let's look a little more closely at this linearization equation and what it has to do with the tangent line.
+Suppose we were going to try to write down the equation of the tangent line at x equals a, well, the equation for any line can be given in point slope form as y minus y naught equals the slope times x minus x naught.
+Since we're looking for the tangent line that goes through the point A f of a, we can set x naught equal to a and y naught equal to f of a.
+Also, the slope of the tangent line is just f prime of a.
+So we can rewrite this as y minus F of A equals f prime of A times x minus a solving for y, we get y equals f of a plus f prime of A times x minus a.
+So this equation for the tangent line is really just the equation that we have for the linearization.
+But linearization is really just a fancy word for the tangent line.
+There's a lot of notation and definitions on this page.
+But there's only one important principle that you need to remember.
+And that's the idea that you can approximate a function with its tangent line.
+If you can keep that idea and this picture in mind, then it's easy to come up with this approximation principle.
+And its alternative forms.
+Let's use the approximation principle in an example, the approximation principle tells us that f of a plus delta x is approximately equal to f of a plus f prime of A times delta x, we need to figure out what f should be what a should be, and what delta x should be.
+Since we're trying to figure out the square root of 59, it makes sense to make our function the square root function.
+For a, we'd like to pick something that is easy to compute f of a, well, what's the number close to 59, that is easy to compute the square root of 64 springs to mind.
+So let's set a equal to 64.
+Since we're trying to compute the square root of 59, we want a plus delta x to be 59.
+In other words, 64 plus delta x is 59.
+And so delta x should be negative five, it's fine to have a negative number for delta x.
+Now plugging into our approximation formula, we have f of 59 is approximately equal to f of 64, plus f prime of 64 times negative five.
+Since f of x is the square root of x, or in other words, x to the one half power, f prime of x is going to be one half x to the minus one half power, or one over two times the square root of x.
+So f prime of 64 is one over two times the square root of 64, which is 1/16.
+I can rewrite my red equation to say the square root of 59 is approximately the square root of 64 plus 1/16 times negative five, which is eight minus five sixteenths, or 7.
+6875.
+using a calculator, I can get a more exact value of the square to 59.
+my calculator says 7.
+68114575, up to eight decimal places.
+Let me draw the picture that goes along with this approximation.
+We have the square root function, and at x equals 64, we're looking at the tangent line.
+Our delta x here is a negative five, and gets us down to 59.
+So we're using the value of our tangent line right here to approximate our actual square root function right here.
+As you can see from the picture, it looks like the tangent line value should be slightly bigger than the actual value.
+And in fact, that's what we get.
+Then next example is very similar.
+We call it the linearization of a function is just the equation for its tangent line.
+Namely, the linearization at a is f of a plus f prime of A times x minus a.
+And the approximation principle says that f of x, the function is approximately equal to its linearization.
+Its tangent line, at least when x is near a.
+This is basically the same formula that we use in the last problem, we're just calling our value x this time instead of a plus delta x.
+Since we're trying to estimate sine of A value, it makes sense to let our function be sine of x.
+For a, we want to pick a number that's close to 33 degrees, for which it's easy to calculate sine of that number.
+Well, sine of 30 degrees is easy to calculate.
+So let's make a equal to 30 degrees, but let's put it in radians and call it pi over six.
+in calculus, we pretty much always want to use radians for sine and cosine especially when taking derivatives.
+Since the derivative formula, D sine x dx equals cosine of x only works when x is in radians, our x needs to be 33 degrees, since that's the value, we want to estimate the sine of, we need to multiply by pi over 180 degrees to convert it to radians.
+So that becomes 11 pi over 60 radians.
+Let's plug in for F and a first to get the linearization.
+And then we'll plug in for x next.
+So the linearization of our function is going to be sine of pi over six, plus the derivative of sine at pi over six times x minus pi over six.
+That is l of x is one half, since sine of pi over six is one half, plus cosine of pi over six times x minus pi over six, cosine of pi over six is the square root of three over two.
+So this is our equation for the tangent line, or the linearization of sine of x at pi over six.
+Now we know that sine of x is approximately equal to as linearisation, as long as x is near pi over six.
+So in particular, sine of our 33 degrees in radians, which is 11 pi over 60 is approximately equal to one half plus a square root of three over two times 11 pi over 60 minus pi over six.
+That simplifies to one half plus the square root of three over two times pi over 60.
+And now I'm going to cheat a little bit and use my calculator to get a decimal value for this of about 0.
+5453.
+Now if I use my calculator to find sine of 11 pi over 60, directly, remember, that's the same thing as sine of 33 degrees.
+my calculator tells me it is 0.
+5446, approximately.
+So you can see our approximation using the linearization is very close to the calculators, more accurate value.
+Notice that in this example, the approximate value based on the linearization is slightly higher than the actual value.
+And you can see why from a graph of sine.
+The tangent line at pi over six lies slightly above the graph of sine x.
+Therefore, the approximate value based on the linearization will be slightly bigger than the actual value of sine of 33 degrees.
+In this video, we use several formulas to express one key idea.
+The main formulas were the approximation principle, the linear approximation, and the linearization.
+The key idea is that a differentiable function can be approximated near a value x equals A by the tangent line at x equals a.
+The differential is a new vocabulary word wrapped around the familiar concept of approximating a function with its tangent line.
+This figure should look familiar from the previous video on linear approximation is the same picture.
+Suppose we have a differentiable function, f of x, and we know the value of f at some x value a.
+That is, we know the value of f evey, but we don't know the value of f at some nearby x value a plus delta x.
+That is we don't know f of a plus delta x.
+So we draw the tangent line to f of x at x equals a.
+And we use the tangent line at a plus delta x as an approximation for the function at a plus delta x.
+Since the tangent line has slope of f prime of a, the rise of a run is f prime of a.
+So if this run here is delta x, this rise has to be f prime of A times delta x.
+So the height of the tangent line here at a plus delta x is going to be f of a plus f prime of A times delta x.
+That's just the height here plus the extra height here.
+And since we're using that height to approximate In our function, we say that f of a plus delta x is approximately equal to f of a plus f prime of A times delta x equivalently.
+If I subtract F of A from both sides, I get f of a plus delta x minus f of a is approximately equal to f prime of A times delta x.
+This equation is just the approximation principle that we've seen before.
+And this is a very slight alteration of it.
+So there's nothing new yet.
+But now I'm going to wrap some new notation around this familiar concept.
+The differential dx is another way of writing delta x, you can think of it as a small change in the value of x.
+The differential df is defined as f prime of x dx, or equivalently f prime of x delta x.
+Sometimes this is written as d y instead, but d y just means the same thing here as df.
+Sometimes it's handy to specify the differential add a particular value of x, like a value of x equals a, and this is written df equals f prime of a dx, or f prime of a delta x.
+Notice that the value of a is not apparent when you just write down d f, or d y.
+Finally, the change in f, which is written delta f, is defined as f of x plus delta x minus f of x for some value of x, for example, f of a plus delta x minus f of a, this can also be written as the change in y.
+Using these new definitions, we can now rewrite our approximation principle to say, delta f is approximately equal to d f, the change in the function is approximately equal to the differential course this could also be written as the change in Y is approximately equal to d y.
+In the picture, we can now write d x for the run, and D, F, for the rise of the tangent line.
+Pause the video and take a moment to find delta f in this picture, though delta f is f of a plus delta x minus f of a, so that's this height here.
+I'll write that as delta f, or delta y.
+So the approximation principle, written in differential notation, is just saying that the rise of the function, delta f is approximated by the rise in the tangent line df.
+Let's use the differential and an example.
+For the function f of x equal to x times ln x.
+Let's first find the differential df.
+We know that df is equal to f prime of x dx.
+And f prime of x by the product rule is equal to x times the derivative of ln x, which is one over x plus the derivative of x, which is one times ln x.
+So in other words, one plus ln x.
+Therefore, df is equal to one plus ln x times dx.
+When x equals two, and delta x equals negative point three, well delta x is the same thing as dx, we can just plug in those values and get df is one plus ln of two times negative 0.
+3.
+as a decimal, that's approximately negative 0.
+5079.
+Now delta f is defined as f of x plus delta x minus f of x.
+So for our function, that's x plus delta x times ln of x plus delta x minus x ln x.
+Plugging in the given values for x and delta x, we get delta f is two minus 0.
+3 times ln of two minus 0.
+3 minus two ln two, which according to my calculator is negative zero.
+Point 4842.
+And we see that the change in the function between two and two minus point three is closely approximated by the change in the tangent line.
+As expected.
+The differential is often used to estimate error, as in this example, suppose that the radius of a sphere is measured as eight centimeters with a possible error of point five centimeters.
+So the sphere that we measure looks something like this, but the actual sphere might be slightly bigger, or slightly smaller, we want to use the differential to estimate the resulting error in computing the volume of the sphere.
+Well, the volume of a sphere is given by four thirds pi r cubed, where r is the radius.
+If our radius changes by point five centimeters, our volume will change by substantially more.
+And that change in volume is the error the resulting error in measuring volume.
+But instead of computing delta V directly, we're asked to approximate it using the differential.
+So we're going to use the fact that delta V is approximately equal to dv, which is easier to compute.
+By definition, dv is equal to the derivative of our function, I'll just call that v prime as a function of r times Dr.
+Now, v prime of r is equal to four pi r squared, just by taking the derivative.
+And here, we're interested in an R value of eight, and a value of Dr.
+Same as delta r of 0.
+5 centimeters.
+So dv is going to be four pi r squared Dr.
+And when I plug in R and D R, I get four pi times eight squared times 0.
+5, which is 128 pi, or as a decimal 402.
+1 centimeters.
+That's our error estimate, which seems quite a bit bigger than our original error of point five in measuring the radius.
+Now, the relative error of a function is its error over the original value of the function.
+So in our case, it's the change in volume over the actual volume.
+Since we're using the differential instead, we'll compute the relative error as dv over V.
+Now, the volume when r is eight centimeters, is four thirds times pi times eight cubed.
+And dv, we already saw was four pi times eight squared times 0.
+5.
+So dv divided by V is given by this ratio, which simplifies to 0.
+1875.
+So an 18.
+75% relative there.
+To me, the relative error gives a better sense for the error than the absolute error estimate above.
+This video introduced the idea of the differential, we said that we could think of dx as just being another way of writing delta x, but df represents the rise in the tangent line, and is equal to f prime of x times dx.
+Whereas delta f is the rise in the actual function F.
+And that's f of x plus delta x minus f of x.
+On the picture, dx is the run, df is the rise in the tangent line.
+And delta f is the rise in the actual function.
+In the language of differentials, we can restate the approximation principle to say that the change in f can be approximated by the differential.
+In the past, we've encountered limits, like the limit as x goes to two of x minus two over x squared minus four.
+We can't evaluate this limit just by plugging in two for x, because x minus two goes to zero, and x squared minus four goes to zero as x goes to two.
+This is known as a zero over zero indeterminate form.
+It's called indeterminate because we can't tell what the limit is going to be just by the fact that the numerator goes to zero and the denominator goes to zero.
+It depends on how fast the numerator and the denominator are going to zero compared to each other.
+And the final limit of the quotient could be any number at all, or it could be infinity or it could not even exist.
+In the past, we've been able to evaluate some limits in zero over zero indeterminate form by using algebraic tricks to rewrite the quotients.
+In this video, we'll introduce lopi talls rule, which is a very powerful technique for evaluating limits and indeterminate forms.
+A limited of the form the limit as x goes to a of f of x over g of x is called a zero over zero indeterminate form, if the limit as x goes to a of f of x is equal to zero, and the limit as x goes to a of g of x is equal to zero.
+A limit and this form is called an infinity over infinity and determinant form.
+If the limit as x goes to a of f of x is equal to infinity or minus infinity.
+And the limit as x goes to a of g of x is equal to infinity or minus infinity.
+We saw an example of a zero over zero indeterminate form in the introductory slide.
+One example of a infinity over infinity and determinant form is the limit as x goes to infinity of 3x squared minus 2x plus seven divided by negative 2x squared plus 16.
+Notice that as x goes to infinity, the numerator goes to infinity while the denominator goes to negative infinity.
+In these definitions of indeterminate form, it's possible for a to be negative infinity or infinity, like it is in this example, but it doesn't have to be loopy.
+talls rule can be applied when f and g are differentiable functions.
+And the derivative of g is nonzero in some open interval around a except possibly in a under these conditions, if the limit as x goes to a of f of x over g of x is zero over zero or infinity over infinity indeterminant form than the limit as x goes to a of f of x over g of x is the same thing as the limit as x goes to a of f prime of x over g prime of x, provided that the second limit exists, or as plus or minus infinity.
+Let's look at loopy tiles rule in action.
+In this example, as x goes to infinity, the numerator x goes to infinity and the denominator three to the x also goes to infinity.
+So we have an infinity over infinity indeterminate form.
+So let's try applying lopi tiles rule, our original limit should equal the limit as x goes to infinity of the derivative of the numerator, which is one divided by the derivative of the denominator, which is ln of three times three to the x, provided that the second limit exists or as infinity or negative infinity.
+In the second limit, the numerators just fixed at one.
+And the nominator goes to infinity as x goes to infinity.
+Therefore, the second limit is just zero.
+And so the original limit evaluates to zero as well.
+In this example, we have a zero over zero indeterminate form, because as x goes to zero, sine of x and x, both go to zero in the numerator, and sine of x cubed goes to zero in the denominator.
+So using low Patel's rule, I'll try to evaluate instead, the limit I get by taking the derivative of the numerator and the derivative of the denominator, the derivative of sine x minus x is cosine of x minus one, and the derivative of sine x cubed is three times sine x squared times cosine x using the chain rule.
+Now let me try to evaluate the limit again, as x goes to zero, cosine of x goes to one.
+So the numerator here goes to zero.
+As x goes to zero, sine of x goes to zero and cosine of x goes to one, so the denominator also goes to zero.
+So I still have a zero over zero indeterminate form.
+And I might as well try applying loopy toss rule again.
+But before I do, I want to point out that cosine of x is going to one.
+So the cosine of x here really isn't affecting my limit.
+And in fact, I could rewrite my limit of a product as a product of limits where the second limit is just one and can be ignored from here on out.
+Now apply lopatok rule on this first limit, which is a little bit easier to take the derivatives and so the derivative of the top is minus sine x.
+And the derivative of the bottom is six times sine x times cosine x.
+Now let's try to evaluate again, as x goes to zero, our numerator is going to zero, and our denominator is also going to zero.
+But hang on, we don't have to apply lobby towels rule again, because we can actually just simplify our expression, the sine x on the top cancels with the sine x on the bottom.
+And we can just rewrite our limit as the limit of negative one over six cosine of x, which evaluates easily to negative one, six.
+In this example, I want to emphasize that it's a good idea to simplify after each application of lopi talls rule.
+If you don't simplify, like we did here, then you might be tempted to apply loopy towels rule and additional time when you don't need to, which might make the problem more complicated.
+Instead of simpler to solve this video, we were able to evaluate zero over zero and infinity over infinity indeterminate forms by replacing the limit of f of x over g of x with the limit of f prime of x over g prime of x, provided that second limit exists.
+This trick is known as lopi tels rule.
+We've seen that lopatok rule can be used to evaluate limits of the form zero over zero, or infinity over infinity.
+In this video, we'll continue to use lopi towels rule to evaluate additional indeterminate forms, like zero times infinity, infinity to the 00 to the zero, and one to the infinity.
+In this example, we want to evaluate the limit of a product.
+Notice that as x goes to zero from the positive side, sine x goes to zero, and ln x goes to negative infinity.
+Remember the graph of y equals ln x.
+So this is actually a zero times infinity indeterminate form.
+Even though the second factor is going to negative infinity, we still call it a zero times infinity and indeterminate form, you can think of the Infinity here as standing for either positive or negative infinity.
+It it's indeterminant.
+Because as x goes to zero, the sine x factor is pulling the product towards zero, while the ln x factor is pulling the product towards large negative numbers.
+And it's hard to predict what the limit of the product will actually be.
+But the great thing is, I can actually rewrite this product to look like an infinity over infinity and determinant form, or a zero over zero and determinant form.
+Instead of sine x times ln x, I can rewrite the limit as ln x divided by one over sine x.
+Now as x goes to zero, my numerator is going to negative infinity.
+And since sine x is going to zero through positive numbers, my denominator one over sine x is going to positive infinity.
+So I have an infinity over infinity indeterminate form.
+Now, I could instead choose to leave the sine x in the numerator, and instead, put a one over ln x in the denominator.
+If I do this, then as x goes to zero through positive numbers, sine x goes to zero.
+And since ln x goes to negative infinity, one over ln x goes to zero.
+And so I have a zero over zero indeterminate form.
+Sometimes it can be difficult to decide which of these two ways to rewrite a product as a quotient.
+One rule of thumb is to take the version that makes it easier to take the derivative of the numerator and denominator.
+Another trick is just to try one of the ways and if you get stuck, go back and try the other.
+I'm going to use the first method of rewriting it because I recognize that one over sine x can be written as cosecant of x.
+And I know how to take the derivative of cosecant x.
+Using low Beatles rule on this infinity over infinity and determinant form, I can rewrite my limit as the limit of what I get when I take the derivative of the numerator, that's whenever x divided by the derivative of the denominator, that's negative cosecant x cotangent x.
+As always, I want to simplify my expression before going any further.
+I can rewrite my trig functions in the denominator in terms of sine and cosine.
+cosecant x is one over sine x cotangent x is cosine of x over sine of x.
+Now flipping and multiplying, I get the limit as x goes to zero plus of one over x times sine squared of x over negative cosine of x.
+In other words, the limit of negative sine squared x over x cosine x, we know that cosine of x goes to one as x goes to zero.
+So I can rewrite this as the limit of negative sine squared x over x times the limit of something that goes to one.
+So I once again have a zero over zero indeterminate form.
+And I can apply lopatok rule yet again, taking the derivative of the top, I get negative two, sine x, cosine of x.
+And the job of the bottom is just one.
+Now I'm in a good position just to evaluate the limit by plugging in zero for x in the numerator, I get negative two times zero times one, the denominator is just one, so my final limit is zero.
+In this limit, we have a battle of forces.
+As x is going to infinity, one over x is going to zero.
+So one plus one over x is going to one, but the exponent x is going to infinity, it's hard to tell what's going to happen here.
+If we had one, to any finite number, that would be one.
+But anything slightly bigger than one, as we raise it to a bigger and bigger powers, we would expect to get infinity.
+So our limit has an independent permanent form, it's hard to tell whether the answer is going to be one infinity, or maybe something in between.
+Whenever I see an expression with a variable in the base, and a variable in the exponent, I'm tempted to use logarithms.
+If we set y equal to one plus one over x to the x, then if I take the natural log of both sides, I can use my log roles to rewrite that by multiplying by x in the front.
+Now, if I wanted to take the limit as x goes to infinity of ln y, that would be the limit of this product, x times ln one plus one over x.
+As x goes to infinity, the first factor x goes to infinity.
+One plus one over x goes to just one and ln one is going to zero.
+So we have a infinity times zero indeterminate form, which we can try to rewrite as an infinity over infinity, or a zero over zero indeterminate form.
+Let's rewrite this as the limit of ln one plus one over x divided by one over x.
+This is indeed a zero over zero in determinant form.
+So we can use lobi tiles rule and take the derivative of the top and the bottom, the derivative of the top is one over one plus one over x times the derivative of the inside, which would be negative one over x squared.
+And the derivative on the bottom, the derivative of one over x is negative one over x squared, we can actually cancel out these two factors, and rewrite our limit as the limit as x goes to infinity of one over one plus one over x, which is just equal to one, since one over x is going to zero.
+So we found that the limit of ln y is equal to one, but we're really interested in finding the limit of y, which we can think of as e to the ln y.
+Since ln y is going to one, e to the ln y must be going to e to the one.
+In other words, E.
+So we found that our original limit is equal to E.
+And in fact, you may recognize that this limit is one of the ways of defining IE.
+In the previous example, we had a one to the internet Today in determinant form, and we took logs and use log roles to write that as an infinity times zero and determinant form.
+Well, the same thing can be done if we have an infinity to the zero indeterminate form, or a zero to the zero indeterminate form.
+So one to the infinity, infinity to the zero, and zero to the zero, are all indeterminate forms that can be handled using lobi toss rule.
+In this video, we saw that a zero times infinity indeterminate form could be converted to a zero over zero, or infinity over infinity indeterminate form by rewriting f of x times g of x as f of x divided by one over g of x, or as g of x divided by one over f of x.
+We also saw how to use lopi talls rule on these three sorts of indeterminate forms by taking the ln of y, where y is our f of x to the g of x that we want to take the limit of.
+This video is about Newton's method for finding the zeros of a function, f of x.
+In other words, the values of x that make f of x equal to zero.
+The zeros of a function can also be thought of as the x intercepts of its graph.
+Suppose we want to find a solution to the equation either the x equals 4x.
+This equation cannot be solved using standard algebraic methods.
+For example, taking the ln of both sides doesn't really help because we still get x equals ln of 4x, which is just as hard to solve.
+Instead, we can look for approximate solutions.
+Looking at the graph of y equals e to the x and y equals 4x, we see there should be two solutions, one at approximately x equals little more than two and the other around x equals maybe point three or point four.
+Newton's method will allow us to make much more accurate approximations to the solution of this equation, then we can do by just glancing at the graph.
+To use Newton's method, instead of looking at the equation, e to the x equals 4x.
+We'll look at the equation E to the X minus 4x equals zero.
+And in fact, we'll define the function f of x to be e to the x minus 4x.
+And look for zeros of that function.
+After all, finding a zero of this function is the same as finding a solution to our original equation.
+So now we're trying to solve the equivalent problem of finding the zero of the function f of x equals e to the x minus 4x.
+That's the function that's drawn below.
+I'm going to focus on this zero, the one near to, and I'm just going to make an initial guess anything reasonably close to the actual zero should do.
+So I'll just put an initial guess right here, and I'll call it x one.
+Now x one is not actually zero of my function, and I'll write the point on the graph above it as x one, f of x one.
+To get a better estimate for the zero of my function, I'm going to make use of the tangent line to my function that goes through this point.
+So the second step will be to find this tangent line.
+Since the tangent line is a reasonably good approximation to the function, the point where the tangent line crosses the x axis should be closer to the point where the function itself crosses the x axis, which is the point I'm looking for.
+So the third step will be to find the x intercept for the tangent line.
+I'll call this x intercept, x two.
+Now I'm just going to repeat this process.
+I'll use x two as my next guess.
+I'll follow it up to the function where I have the point x to f of x two, and then I'll draw a new tangent line and get a new intercept.
+I can repeat this process as often as I need to, to get a sufficiently accurate approximation to my actual zero of my function.
+Now that I've described the process graphically, let's find some equations that go along with this picture.
+If I start with the initial guess, of x one, then the tangent line through x one, f of x one is given by the x Bayesian y equals f of x one plus f prime of x one times x minus x one.
+You might remember this equation from a section on linearization.
+And it's really just comes from the formula y minus y one equals m x minus x one that holds for any line, where m here is the derivative at x one, and y one is f of x one.
+plugging into that equation, we have y minus f of x one equals f prime of x one times x minus x one, which simplifies to y equals f of x one plus f prime of x one times x minus x one.
+So that's where this linearization equation comes from.
+It's just the equation of the tangent line.
+Now, if we want to find the x intercept of the tangent line, we just said the tangent line equation equal to zeros, we have zero equals f of x one plus f prime of x one times x minus x one, and we solve for x.
+so this can subtract f of x one from each side, divided by f prime of x one and solve for x.
+We're calling this new x intercept x two.
+So x two is x one minus f of x one over f prime of x one.
+Now we have our second guess, x two, and we can again find the tangent line through x two, f of x two, that tangent line will be given by the same sort of equation.
+And if we then find the x intercept, the same algebraic steps, get us to the analogous equation x three equals x two minus f of x two over f prime of x two.
+And more generally, as we repeat this process over and over again, our n plus one guess is going to be given by x n plus one equals x n minus f of x n over f prime of x n.
+That's the J equation at the core of Newton's method.
+Now that we've got the theory down, let's grind through the problem at hand with some numbers.
+Our function has the equation f of x equals e to the x minus 4x.
+So f prime of x is e to the x minus four.
+So from Newton's methods equation, we have in general, X sub n plus one is X sub n minus e to the x sub n minus four times X sub n over e to the x sub n minus four.
+Let's start with for example, x sub one equals three, then x sub two is going to be three minus e cubed minus four times three over e cubed minus four.
+plugging this into a calculator, I get x sub two equals 2.
+4973, and so on.
+Now to cube compute x sub three, I have to take this whole number and plug that in to my formula.
+I've written it out as just 2.
+49.
+But for accuracy, when I actually computed my calculator, I'll use the entire number.
+my calculator gives me this answer for x of three and continue in this process, I can get x of 4x 5x sub six.
+If I compute one more, x of seven, I noticed that I have no change to my value in the number of digits that the calculator spits out.
+So at this point, my Newton's methods iterations have converged.
+And I have an answer that's accurate to about eight decimal places.
+I found one zero for my function.
+And if I wanted to find the second zero, the one over here, I would just need to start with an initial value that's close to this x coordinate, perhaps an initial value of zero might be good.
+In this video, we developed an algorithm for getting increasingly accurate approximations to the zero of a function.
+The central equation that we used was this one which tells us how to get from one approximation, X sub n to the next 1x sub n plus one.
+When we go from a function, say 3x plus sine x to its derivative, in this case, three plus cosine x, that's called differentiating, or finding a derivative.
+Anti differentiating, or finding an antiderivative, takes us the other direction, from a derivative to a function that has that as its derivative.
+For example, if g prime of x is 3x squared, that's the derivative.
+What could g of x the original function be?
+Well, g of x could be x cubed, since the derivative of x cubed is 3x squared.
+Or it could also be g of x equals x cubed plus seven, for example, or g of x equals x cubed plus any constant, where I write a general constant with a capital C.
+That's because the derivative of a constant zero, so the derivative of x cubed plus a constant is just going to be 3x squared, no matter what the constant is.
+A function capital F of X is called an antiderivative of lowercase F of X on an interval a, b, if the derivative, capital F prime of X is equal to lowercase F of X on that interval a b.
+In other words, we can think of little f as being the derivative of the function capital F.
+In the above example, x cubed is an antiderivative of 3x squared.
+And in fact, x cubed plus C for any constant C is also an antiderivative of 3x squared.
+When we add on a general constancy, that's sometimes referred to as a general antiderivative, we found a general family of anti derivatives for the function 3x squared.
+But could there be other anti derivatives, other functions whose derivative is 3x squared.
+In fact, there are no others.
+And one way to think about this intuitively, is if you have two functions with the same derivative, it's like having two runners in a race that always speed up and slow down at exactly the same times.
+If one of those runners starts ahead of the other, then the distance between them will always stay exactly the same.
+That's the vertical distance drawn here on the graph.
+And that's the constant C, that separates one antiderivative y equals x cubed from another y equals x cubed plus C.
+And in general, if capital F of X is an antiderivative for a little f of x, 

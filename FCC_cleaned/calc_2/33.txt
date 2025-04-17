@@ -1,0 +1,91 @@
+Series Convergence Test Strategy.
+with the square of three, so I'll write that as n plus two squared.
+The next sequence doesn't have a simple closed form formula, but I can describe it recursively by saying that a one is negative six, a two is five.
+And in general, a n is equal to the sum of the two previous terms, a sub n minus one, plus a sub n minus two.
+This sequence is closely related to the standard Fibonacci sequence, which has the same recursive formula, but different initial values.
+This video gave an introduction to sequences, including arithmetic sequences, geometric sequences, and recursively defined sequences.
+This video introduces the idea of a series and how to find it sum.
+For any sequence, a sub n for n equals one to infinity, the sum of its terms, a sub one plus a sub two plus a sub three, and so on, it's called a series.
+Often this series is written in sigma notation, as a sum from n equals one to infinity of a sub n.
+Let's look at the sequence one over two to the n for n equals one to infinity.
+If we add together all the terms, we get the series, the sum from n equals one to infinity of one over two to the N, that is the sum of one over two to the one, that's one half, plus one over two squared, that's 1/4, plus one over two cubed 1/8 plus 1/16, plus 1/32, and so on.
+But what does it really mean to add have infinitely many numbers?
+How can we figure out what this infinite song equals?
+Well, the start out, we could add up finitely, many at a time, may write down the first half dozen or so terms, that is the ace of ends.
+And I'll keep adding more and more of them together one more at a time.
+But just add the first term, well, that's just one half.
+Now add the next term on, that gives me a song of three fourths.
+If I add 1/8 to that, my son goes up to seven eights.
+And then I'll add the next one.
+I get 15 sixteenths, and so on just adding one more term each time.
+This process of repeated addition gives me a new sequence down at the bottom.
+That's called the sequence of partial sums.
+And it's usually denoted by s sub n.
+So the first term in the sequence of partial sums as S sub one, just adding together the first term, here's the second partial sum S sub two, adding together the first two terms.
+So three means add together, the first three terms, and so on.
+Let me contrast the sequence of partial sums with the sequence of terms that we started out with.
+Those are denoted a sub n.
+So here's a sub one, the first term, a sub two, the second term, and so on.
+Where k starts at one.
+Sometimes people like to write the negative one separately.
+The negative one to the power makes a series alternate between negative and positive terms.
+These three sequences are all examples of geometric sequences, which are key sequences where consecutive terms have the same common ratio.
+And in general, if A is the first term and RS, the common ratio than a geometric sequence can be written in the form of a times r to the n, where n starts at zero, or as a times r to the n minus one, where n starts at one.
+These next two sequences are neither arithmetic sequences nor geometric sequences.
+Since they're terms neither have common differences nor common ratios, but I can still figure out a formula for the nth term just by looking for the pattern.
+In this example, since the terms are alternating, if I start at n equals one, I know that 90 to negative one to the nth power to make it start with a negative and then alternate, positive, negative Again, the numerator looks like it's just twice n.
+And the denominator looks like it's always a perfect square, starting with the square of three, so I'll write that as n plus two squared.
+The next sequence doesn't have a simple closed form formula, but I can describe it recursively by saying that a one is negative six, a two is five.
+And in general, a n is equal to the sum of the two previous terms, a sub n minus one, plus a sub n minus two.
+This sequence is closely related to the standard Fibonacci sequence, which has the same recursive formula, but different initial values.
+This video gave an introduction to sequences, including arithmetic sequences, geometric sequences, and recursively defined sequences.
+This video introduces the idea of a series and how to find it sum.
+For any sequence, a sub n for n equals one to infinity, the sum of its terms, a sub one plus a sub two plus a sub three, and so on, it's called a series.
+Often this series is written in sigma notation, as a sum from n equals one to infinity of a sub n.
+Let's look at the sequence one over two to the n for n equals one to infinity.
+If we add together all the terms, we get the series, the sum from n equals one to infinity of one over two to the N, that is the sum of one over two to the one, that's one half, plus one over two squared, that's 1/4, plus one over two cubed 1/8 plus 1/16, plus 1/32, and so on.
+But what does it really mean to add have infinitely many numbers?
+How can we figure out what this infinite song equals?
+Well, the start out, we could add up finitely, many at a time, may write down the first half dozen or so terms, that is the ace of ends.
+And I'll keep adding more and more of them together one more at a time.
+But just add the first term, well, that's just one half.
+Now add the next term on, that gives me a song of three fourths.
+If I add 1/8 to that, my son goes up to seven eights.
+And then I'll add the next one.
+I get 15 sixteenths, and so on just adding one more term each time.
+This process of repeated addition gives me a new sequence down at the bottom.
+That's called the sequence of partial sums.
+And it's usually denoted by s sub n.
+So the first term in the sequence of partial sums as S sub one, just adding together the first term, here's the second partial sum S sub two, adding together the first two terms.
+So three means add together, the first three terms, and so on.
+Let me contrast the sequence of partial sums with the sequence of terms that we started out with.
+Those are denoted a sub n.
+So here's a sub one, the first term, a sub two, the second term, and so on.
+Although I can't physically add up infinitely many numbers, I can observe that as I add up more and more numbers, my partial sums are approaching the number one.
+That is the limit, as the number of terms I add up and goes to infinity of the nth partial sum is equal to one.
+So it makes sense that if I could add up all infinitely many numbers, I should get an exact sum of one, the sum of this infinite series is one.
+In fact, for this particular series, there's a nice way to see that the sum is one using geometry.
+If I draw a square with side length one and fill in half of the square, that gives me an area of one half.
+Now if I draw a line here, that gives me an additional area of 1/4.
+Here's an area of 1/8 1/16 and I keep spiraling in here.
+I keep adding areas that exactly match the terms of this series.
+In the limit, I'll have filled in the entire R square, which has an area of one.
+In this example, which found the sum of the series by evaluating the limit of the partial sums.
+And in general, this is how we find the sum of any series.
+For any series, the partial sums of the series are defined as the sequence s sub n, where S sub one is equal to just the first term, a sub one, a sub two is equal to the sum of the first two terms is a one plus a sub two, a sub three is a sum of the first three terms.
+And in general, s sub n is the sum of the first n terms.
+I can also write this in sigma notation, as the sum of say, k equals one to n of a sub k.
+I'm using a different letter K here as the index, just because I'm already using n to represent the number of terms that I'm adding up.
+That sum of a sub n is said to converge if this sequence of partial sums converges as a sequence.
+That is, if the limit as n goes to infinity of the sub ends, exists as a finite number.
+Otherwise, if the limit does not exist, or the limit is infinity or negative infinity, then the series is said to diverged.
+I want to emphasize that we're talking about the limit of the partial sums here, not the limit of the original terms as a bad, it's important to keep in mind when you're working with series that for any series, they're actually two sequences of interest.
+There's the sequence of terms, the ace of ends.
+And then there's the sequence of partial sums, the S events, it's the sequence of partial sums is telling us what the sum of our series is.
+So if the sequence of partial sums converges to a number L, then we say the cert series converges to L.
+Or in other words, the sum of the series is out.
+Let's look at the series The sum of one over n squared plus n, please pause the video and take a moment to write out the first four terms and the first four partial sums.
+The first four terms are a sub one, a sub two, a sub three and a sub four.
+So plugging in one for n, one over one squared plus one, so that's one half, a sub two is one over two squared plus two, that's one six, Ace of three ends up being 1/12.
+And a sub four is 1/20.
+Now S sub one is the sum of the first one terms, 

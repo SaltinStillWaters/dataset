@@ -1,0 +1,79 @@
+Solving Radical Equations.
+square root signs in them, or cube roots or any other kind of radical.
+When I see an equation with a square root in it, I really want to get rid of the square root.
+But it'll be easiest to get rid of the square root.
+If I first isolate the square root.
+In other words, I want to get the term with the square root and that on one side of the equation by itself, and everything else on the other side of the equation.
+If I start with my original equation, x plus the square root of x equals 12.
+And I subtract x from both sides, then that does isolate the square root term on the left side with everything else on the right.
+Once I've isolated the term with the square root, I want to get rid of the square root.
+And I'll do that by squaring both sides of my equation.
+So I'll take the square root of x equals 12 minus x and square both sides.
+Now the square root of x squared is just x, taking the square root and then squaring those operations undo each other to work out 12 minus x squared, write it out and distribute 12 times 12 is 144 12 times minus x is minus 12x.
+I get another minus 12x from here.
+And finally minus x times minus x is positive x squared.
+So I can combine my minus 12 x's, that's minus 24x.
+And now I can subtract x from both sides to get zero equals 144 minus 25x plus x squared.
+That's a quadratic equation, I'll rewrite it in a little bit more standard form here.
+So now I've got a familiar quadratic equation with no radical signs left in my equation, I'll just proceed to solve it like I usually do for a quadratic, I'll try to factor it.
+So I'm going to look for two numbers that multiply to 144 and add to minus 25.
+I know I'm going to need negative numbers to get to negative 25.
+And in fact, I'll need two negative numbers.
+So they still multiply to a positive number.
+So I'll start listing some factors of 144, I could have negative one and a negative 144, negative two, and negative 72, negative four, negative 36, and so on.
+Once I've listed out the possible factors, it's not hard to find the two that add to negative 25.
+So that's negative nine and negative 16.
+So now I can factor in my quadratic equation as x minus nine times x minus 16 equals zero, that means that x minus nine is zero or x minus 16 is zero.
+So x equals nine or x equals 16.
+I'm almost done.
+But there's one last very important step.
+And that's to check the Solutions so that we can eliminate any extraneous solutions and extraneous solution as a solution that we get that does not actually satisfy our original equation and extraneous solutions can happen when you're solving equations with radicals in them.
+So let's first check x equals nine.
+If we plug in to our original equation, we get nine plus a squared of nine and we want that to equal 12.
+Well, the square root of nine is three, and nine plus three does indeed equal 12.
+So that solution checks out.
+Now, let's try x equals 16.
+Plugging in, we get 16 plus a squared of 16.
+And that's supposed to equal 12.
+Well, that says 16 plus four is supposed to equal 12.
+But that most definitely is not true.
+And so x equals 16.
+Turns out to be extraneous solution, and our only solution is x equals nine This next equation might not look like an equation involving radicals.
+But in fact, we can think of a fractional exponent as being a radical in disguise.
+Let's start by doing the same thing we did on the previous problem by isolating This time, we'll isolate the part of the equation that involves the fractional exponent.
+So I'll start with the original equation, two times P to the four fifths equals 1/8.
+And I'll divide both sides by two or equivalently, I can multiply both sides by one half, that gives me p to the four fifths equals 1/16.
+And I've effectively isolated the part of the equation with the fractional exponent as much as possible.
+Now, in the previous example, the next step was to get rid of the radical.
+In this example, we're going to get rid of the fractional exponent.
+And I'm going to actually do this in two stages.
+First, I'm going to raise both sides to the fifth power.
+That's because when I take an exponent to an exponent, I'm multiply my exponents.
+And so that becomes just p to the fourth equals 1/16 to the fifth power.
+Now, I'm going to get rid of the fourth power by raising both sides to the 1/4 power, or by taking the fourth root, there's something that you need to be careful about though, when taking an even root, or the one over an even number power, you always have to consider plus or minus your answer.
+It's kind of like when you write x squared equals four, and you take the square root of both sides, x could equal plus or minus the square root of four, right, x could equal plus or minus two, since minus two squared is four, just as well as two squared.
+So that's why when you take an even root, or a one over an even power of both sides, you always need to include the plus or minus sign, when it's an odd root or one over an odd power, you don't need to do that.
+If you had something like x cubed equals negative eight, then x equals the cube root of negative eight, which is negative two would be your only solution, you don't need to do the plus or minus because positive two wouldn't work.
+So that aside, explains why we need this plus or minus power.
+And now p to the four to the 1/4.
+When I raise a power to a power, I multiply by exponents, so that's just p to the one, which is equal to plus or minus 1/16 to the fifth power to the 1/4 power.
+Now I just need to simplify this expression, I don't really want to raise 1/16 to the fifth power, because 16 to the fifth power is like a really huge number.
+So I think I'm actually going to rewrite this first as P equals plus or minus 1/16.
+I'll write it back as the 5/4 power again.
+And as I continue to solve using my exponent rules, I'm going to prefer to write this as 1/16 to the fourth root to the fifth power, because it's going to be easier to take the fourth root, let's see the fourth root of 1/16 is the same thing as the fourth root of one over the fourth root of 16.
+Raise all that to the fifth power.
+fourth root of one is just one and the fourth root of 16 is to raise that to the fifth power, that's just going to be one to the fifth over two to the fifth, which is plus or minus 130 seconds.
+The last step is to check answers.
+So I have the two answers p equals 130 seconds, and P equals minus 130 seconds.
+And if I plug those both in 1/32 to the fourth fifth power.
+That gives me two times one to the fourth power over 32 to the fourth power, which is two times one over 32/5 routed to the fourth power.
+fifth root of 32 is two Raisa to the fourth power, I get 16.
+So this is two times 1/16, which is 1/8, just as we wanted in the original equation up here.
+Similarly, we can check that the P equals negative 1/32 actually does satisfy the equation, I'll leave that step to the viewer.
+So our two solutions are p equals one over 32, and P equals minus one over 32.
+I do want to point out an alternate approach to getting rid of the fractional exponent, we could have gotten rid of it all in one fell swoop by raising both sides of our equation to the five fourths power.
+five fourths is the reciprocal of four fifths.
+So when I use my exponent rules, and say that when I raise the power to the power, I multiply my exponents, that gives me p to the four fifths times five fourths is plus or minus 1/16 to the five fourths, in other words, P to the One Power, which is just P is plus or minus 1/16, to the five fourths, so that's an alternate and possibly faster way to get the solution.
+Once again, the plus or minus comes from the fact that when we take the 5/4 power, we're really taking an even root a fourth root, and so we need to consider both positive and negative answers.
+This video is about solving radical equations, that is equations like this one that have square root signs in them, or cube roots or any other kind of radical.
+In this video, we solved radical equations by first isolating the radical sign, or the fractional exponent, and then removing the radical sine or the fractional exponent by either squaring both sides or taking the reciprocal power of both sides.

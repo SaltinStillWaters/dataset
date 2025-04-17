@@ -1,0 +1,34 @@
+Area under a Parametric Curve.
+But in any case, for either a sequence, the common ratio, R is negative B over three, and a sequence converges.
+Therefore, the final trick that I want to mention for deciding whether sequences converge or diverge is limit laws, the usual limit laws about addition, subtraction, and so on hold for sequences as well for functions.
+So for example, if the limit as n goes to infinity of a sub n is out, and the limit of b sub n is am than the limit of the sum, a sub n plus b sub n is going to be equal to L plus m.
+And the limit of a sub n times b sub n is L times M.
+And the limit of C times a sub n where C is some constant is going to be c times though similar roles holds for subtraction and division.
+I want to emphasize that these limit holds hold under the condition that the limits of the component sequences exist as finite numbers.
+I can use these limit laws to decide if this sequence converges, since the limit of the terms is equal to the difference of the limits, provided those limits exist.
+Now the first limit is zero, since the degree of the numerator is less than the degree of the denominator here, and the second limit is also zero.
+Since this is a geometric sequence, with ratio of four fifths, and four fifths is between zero and one.
+Therefore, the limit of our original sequence must be zero.
+In this video, we saw several ways to prove that a sequence converges.
+We saw that we could use calculus techniques like lopi taas rule.
+After replacing the sequence with its associated function defined on real numbers, we also saw that we could use the squeeze theorem.
+we noted that all sequences that are bounded and monotonic must converge.
+And we saw that geometric sequences always converge if r is bigger than negative one and less than or equal to one.
+Finally, we saw that we can use limit laws to handle sums and products and other conglomerations of sequences.
+This video is about geometric series, and when they converge, and when they diverged.
+A geometric sequence is a sequence of the form a a times r, a times r squared, a times r cubed, and so on.
+For some numbers a and r.
+this can be written in the wrapped up notation, a times r to the k, where k goes from zero to infinity.
+For example, if a is three, and r is one half, the sequence would be three, three halves, three fourths, three eighths, and so on, which could be written as three times one half to the k, where k ranges from zero to infinity.
+A geometric series is the series you get by adding all these numbers up.
+So that would be a plus a times r plus a times r squared, and so on, which can be written in summation notation is the sum from K equals zero to infinity of A times r to the K.
+For our example, our series would be the following, which could be written as the sum from K equals zero to infinity of three times one half to the K.
+Sometimes you might get a geometric series that's in disguise, like this one.
+If I write out the first few terms, notice that we're told to start with i equals two.
+So plugging in i equals two here, I get negative one, squared over three to the two times two minus three, that's one over three.
+If I plug in i equals three, I get negative one cubed, that's over three to the two times three minus three, or negative one over three cubed, negative 127.
+When I go four, I get one over 243.
+If I look at the ratio of consecutive terms, negative 127 divided by 1/3, is negative one night.
+Similarly, the ratio here is also negative one nights, suggesting that we might have a geometric series with ratio R of negative 1/9.
+And first term coming from here, of 1/3.
+But there's another way to see this that's less arithmetic

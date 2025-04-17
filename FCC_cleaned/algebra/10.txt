@@ -1,0 +1,58 @@
+Interval Notation.
+This video is about interval notation, and easy and well known way to record inequalities.
+Before dealing with interval notation, it is important to know how to deal with inequalities.
+Our first example of an inequality is written here, all numbers between one and three, not including one and three.
+First, we used to write down our variable x, that it is important to locate the key values for this problem that is one and three.
+Now here we see that x is between these two numbers, meaning we will have one inequality statement on each side of the variable.
+Here it says not including one and three, which means that we do not have an or equal to sign beneath each inequality.
+Here we will put one the lowest key value, and here we will put three the highest key value.
+Next, we're going to graph this inequality on a number line.
+Here we write our key values one, and three.
+Because it is not including one, and three, we have an empty circle around each number.
+Because it isn't the numbers between we have a line connecting them.
+The last step of this problem is writing this inequality in interval notation.
+writing things in interval notation is kind of like writing an ordered pair.
+Here we will put one and then here we will put three.
+Next we need to put brackets around these numbers.
+For this problem, it is not including one in three, which means we will use soft brackets.
+However, if it were including one and three, we will use hard brackets.
+It is important to note for interval notation, that the smallest value always goes on the left and the biggest value always goes on the right.
+You also include a comma between your two key values.
+Now let's work on problem B.
+Once again we write our variable x.
+Again it is between negative four and two but this time it is including a negative four into this requires us to have the or equal to assign below the inequality.
+Then we put our lowest key value here and their highest here.
+The number line graph for this problem is slightly different.
+We still have our key values negative four and two.
+But instead of an open circle, like we have right here, we instead use a closed circle, representing that it is including negative four and two, you complete this with a line in between.
+Last we write this in interval notation.
+In the last problem, I said that for numbers, including the outside values, we would use these hard brackets.
+Now we are actually using this.
+So we have or hard bracket on each side because isn't including foreign zoo, then we put our smallest value on the left, and our highest value on the right, with the comma in between.
+You now know how to correctly write these two types of intervals.
+Now we are going to practice transforming these from inequality notation to interval notation, and vice versa.
+This is slightly more difficult than our previous examples of having two soft brackets or two hard brackets, we'll have two different types.
+Now on the left side will have a hard bracket because it is including the three.
+However, on the right side, it is a soft bracket because it is it it is not including the one that we put a comma in the middle, a lower key value and our higher key value.
+For the next problem, we're taking an equation already written an interval notation and putting it back into inequality notation.
+For the second problem, we can see are key values as being five and negative infinity.
+Now, this sounds a little bit weird, but let's just set up or an equality, we have our variable x, which is less than because of the soft bracket five, and greater than without the or equal to because it has a soft bracket there to infinity.
+But because x is always greater than negative infinity, we can take out this part, leaving us with x is less than five.
+It is important to note that a soft bracket always accompanies infinity.
+This is because infinity is not a real number, so we cannot include it just go as far up to it as we can.
+The next problem is a little tricky, because we don't see another key value over here.
+But let's just start off the equation as a soft bracket on this side due to the absence of an order equal to sign.
+And negative 15 is the lower key value.
+On the other side, we put the highest possible number infinity, and then close it off with a soft bracket.
+We can see the relation of this to the previous problem.
+And how it goes into this problem when x is greater than a key value instead of less than a key value.
+Once again, we have our sauce bracket for infinity, which is always true.
+Part D brings up an important point about which number goes on the left.
+For all of our other problems, we have had the inequalities pointing left instead of rights.
+When seeing Part D, you might think oh, four is on the left, so it would go here, and zero is on the right who would go here.
+But that is not true.
+When writing inequalities, you must always have the lower value on the left, which for this problem is zero.
+To fix this, we can simply flip this inequality.
+So it reads like this, it is still identical just written in an easier form to transform it into interval notation, then we can see that zero has a soft bracket, because it is not including zero, but r comma four or other key value and a hard backup because it is or equal to four.
+For interval notation, you must always have the smaller number on the left side.
+This was our video on interval notation, an alternative way to write inequalities.

@@ -1,0 +1,89 @@
+Solving Log Equations.
+examples of equations with logs in them like this one.
+In order to solve the equations like this one, we have to free the variable from the log.
+And we'll do that using exponential functions.
+My first step in solving pretty much any kind of equation is to simplify it and isolate the tricky part.
+In this case, the tricky part is the part with the log in it.
+So I can isolate it by first adding three to both sides.
+That gives me two ln 2x plus five equals four, and then I can divide both sides by two.
+Now that I've isolated the tricky part, I still need to solve for x, but x is trapped inside the log function.
+to free it, I need to somehow undo the log function.
+Well log functions and exponential functions undo each other.
+And since this is a log base e, I need to use the exponential function base e also.
+So I'm going to take e to the power of both sides.
+In other words, I'll take e to the ln 2x plus five, and that's going to equal e to the power of two.
+Now e to the ln of anything, I'll just write a for anything.
+That means e to the log base e of a, that you the power and log base e undo each other.
+So we just get a, I'm going to use that principle over here, e to the ln of 2x plus five, the E and the log base e undo each other.
+And we're left with 2x plus five on the left side.
+So 2x plus five is equal to E squared.
+And from there, it's easy to finish the problem and solve for x by subtracting five from both sides and then dividing by two.
+So I'll just write the third step here is to just say finish solving for x.
+There's one last step we need to do when solving equations with logs in them.
+And that's to check our answers.
+Because we may get extraneous solutions.
+an extraneous solution is a solution that comes out of the solving process, but doesn't actually satisfy the original equation.
+And those can happen for equations with logs in them, because we might get a solution that makes the argument of the log negative or zero, and we can't take the log of a negative numbers zero.
+So let's check and plug in the solution of E squared minus five over two.
+We'll plug that in for x in our original equation and see if that works.
+So let's see the twos cancel here.
+So I get two ln e squared minus five plus five, minus three, I want that to equal one.
+And now my fives cancel.
+And so I have two ln e squared minus three that I want to equal one.
+Well, I think this is going to work out because let's see, ln is log base e.
+and log base e of E squared that's asking the question, What power do I raise e two to get e squared?
+Well, I have to raise it to the power of two to get e squared.
+So this becomes two times two minus three.
+And does that equal one, four minus three does equal one.
+So that all checks out.
+And we didn't have any problem with taking the log of negative numbers zero, we didn't get any extraneous solutions.
+So this is our solution.
+The second equation is a little bit trickier, because there's a log into places.
+Now notice that this is a log where there's no base written.
+So a base 10 is implied.
+So I'm already thinking in order to undo a log base 10, I'm going to want to take a 10 to the power of both sides.
+Of course, it's still a good idea to isolate the tricky part, but there's nothing really to isolate here.
+So I'm going to say, can't do it here.
+So we'll just jump right to straight step two, and take 10 to the power of both sides.
+Okay, so that's going to give me 10 to the whole thing, log x plus three plus log x, that whole thing is in the exponent equals 10 to the One Power.
+Well, I know what to do with the right side 10 to the one is just 10.
+But what do I do with the 10 to these two things added up Up, while remembering my exponent rules, I know that when you add up the exponent, that's what happens when you multiply two things.
+So this is the same thing as 10 to the log x plus three times 10 to the log x, right, because when you multiply two things, you add the exponent, so these are the same.
+Okay, now we're in business, because 10 to the log base 10, those undo each other.
+And so this whole expression here simplifies to x plus three.
+Similarly, 10 to the log base, 10 of x is just x.
+So I'm multiplying x plus three by x, that's equal to 10.
+Now I have an equation I can deal with, it's a quadratic, so I'm going to first multiply out to make it look more like a quadratic, get everything to one side.
+So is equal to zero.
+And, and now I can either factor or use the quadratic formula.
+I think this one factors, it looks like X plus five times x minus two, so I'm going to get x is negative five, or x is two.
+So that was all the third step to finish solving for x.
+Finally, we need to check our solutions to make sure we haven't gotten some extraneous ones.
+So let's see if x equals negative five.
+If I plug that into my original equation, that says, I'm checking that log of negative five plus three, plus log of negative five, checking that's equal to one.
+Well, this is giving me a queasy feeling.
+And I hope it's giving you a queasy feeling too, because log of negative two does not exist, right, you can't take the log of a negative number.
+Same thing with log of negative five.
+So x equals negative five is an extraneous solution, it doesn't actually solve our original equation.
+Let's check the other solution, x equals two.
+So now we're checking to see if log of two plus three plus log of two is equal to one.
+Since there's no problem with taking logs of negative numbers, or zero here, this should work out fine.
+And just to finish checking, we can see let's see this is log of five plus log of two, we want that equal one.
+But using my log rules, the sum of two logs is the log of the product.
+So log of five times two, we want that to equal one.
+And that's just log base 10 of 10.
+And that definitely equals one because log base 10 of 10 says, What power do I raise tend to to get 10.
+And that power is one.
+So the second solution x equals two does check out.
+And that's our final answer.
+Before I leave this problem, I do want to mention that some people have an alternative approach.
+Some people like to start with the original equation, and then use log roles to combine everything into one log expression.
+So since we have the sum of two logs, we know that's the same as the log of a product, right, so we can rewrite the left side as log of x plus three times x, that equals one, then we do the same trick of taking 10 to the power of both sides.
+And as before, the 10 to the power and the log base 10 undo each other, and we get x plus three times x equals 10, just like we did before.
+In the first solution, we ended up using exponent rules to rewrite things.
+In the second alternative method, we use log rules to rewrite things.
+So the methods are really pretty similar, pretty equivalent, and they certainly will get us to the same answer.
+So we've seen a couple examples of equations with logs in them and how to solve them.
+And the key step is to use exponential functions to undo the log.
+In other words, take e to the power of both sides to undo natural log, and take 10 to the power of both sides.
+To undo log base 10.

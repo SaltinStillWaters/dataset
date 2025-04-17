@@ -1,0 +1,77 @@
+Compound Linear Inequalities.
+This video is about solving linear inequalities.
+Those are inequalities like this one that involve a variable here x, but don't involve any x squared or other higher power terms.
+The good news is, we can solve linear inequalities, just like we solve linear equations by distributing, adding and subtracting terms to both sides and multiplying and dividing by numbers on both sides.
+The only thing that's different is that if you multiply or divide by a negative number, then you need to reverse the direction of the inequality.
+For example, if we had the inequality, negative x is less than negative five, and we wanted to multiply both sides by negative one to get rid of the negative signs, we'd have to also switch or reverse the inequality.
+With this caution in mind, let's look at our first example.
+Since our variable x is trapped in parentheses, I'll distribute the negative five to free it from the parentheses.
+That gives me negative 5x minus 10 plus three is greater than eight.
+Negative 10 plus three is negative seven, so I'll rewrite this as negative 5x minus seven is greater than eight.
+Now I'll add seven to both sides to get negative 5x is greater than 15.
+Now I'd like to divide both sides by negative five.
+Since negative five is a negative number that reverses the inequality.
+So I get x is less than 15 divided by negative five.
+In other words, x is less than negative three.
+If I wanted to graph this on a number line, I just need to put down a negative three, an open circle around it, and shade in to the left, I use an open circle, because x is strictly less than negative three and can't equal negative three.
+If I wanted to write this in interval notation, I've added a soft bracket negative infinity, negative three soft bracket.
+Again, the soft bracket is because the negative three is not included.
+This next example is an example of a compound inequality.
+It has two parts.
+Either this statement is true, or this statement is true.
+I want to find the values of x that satisfy either one.
+I'll solve this by working out each part separately, and then combining them at the end.
+For the inequality on the left, I'll copy it over here.
+I'm going to add four to both sides.
+then subtract x from both sides and then divide both sides by two.
+I didn't have to reverse the inequality sign because I divided by a positive number on the right side, I'll copy the equation over, subtract one from both sides, and divide both sides by 696 is the same as three halves.
+Now I'm looking for the x values that make this statement.
+row four, make this statement true.
+Let me graph this on a number line.
+x is less than or equal to negative two, means I put a filled in circle there and graph everything to the left.
+X is greater than three halves means I put a empty circle here and shaded and everything to the right.
+My final answer includes both of these pieces, which I'll reshade in green, because x is allowed to be an either one or the other.
+Finally, I can write this in interval notation.
+The first piece on the number line can be described as soft bracket negative infinity, negative two hard bracket.
+And the second piece can be described as soft bracket three halves, infinity soft bracket to indicate that x can be in either one of these pieces, I use the union side, which is a U.
+That means that my answer includes all x values in here together with all x values in here.
+This next example is also a compound inequality.
+This time I'm joined by an ad, the and means I'm looking for all y values that satisfy both this and this at the same time.
+Again, I can solve each piece separately on the left, to isolate the Y, I need to multiply by negative three halves on both sides.
+So that gives me Why is less than negative 12 times negative three halves, the greater than flip to a less than because I was multiplying by negative three halves, which is a negative number.
+By clean up the right side, I get why is less than 18.
+On the right side, I'll start by subtracting two from both sides.
+And now I'll divide by negative four, again, a negative number, so that flips the inequality.
+So that's why is less than three over negative four.
+In other words, y is less than negative three fourths.
+Again, I'm looking for the y values that make both of these statements true at the same time.
+Let me graph this on the number line, the Y is less than 18.
+I can graph that by drawing the number 18.
+I don't want to include it.
+So I use an empty circle and I shaded everything to the left the statement y is less than negative three fourths, I need to draw a negative three fourths.
+And again, I don't include it, but I do include everything on the left.
+Since I want the y values for which both of these statements are true, I need the y values that are in both colored blue and colored red.
+And so that would be this part right here.
+I'll just draw it above so you can see it easily.
+So that would be all the numbers from negative three fourths and lower, not including negative three, four, since those are the parts of the number line that have both red and blue colors on them.
+In interval notation, my final answer will be soft bracket negative infinity to negative three fourths soft bracket.
+As my final example, I have an inequality that has two inequality signs in it negative three is less than or equal to 6x minus two is less than 10.
+I can think of this as being a compound inequality with two parts, negative 3x is less than or equal to 6x minus two.
+And at the same time 6x minus two is less than 10.
+I could solve this into pieces as before.
+But instead, it's a little more efficient to just solve it all at once, by doing the same thing to all three sides.
+So as a first step, I'll add two to all three sides.
+That gives me negative one is less than or equal to 6x is less than 12.
+And now I'm going to divide all three sides by six to isolate the x.
+So that gives me negative one, six is less than or equal to x is less than two.
+If we solved it, instead, in two pieces above, we'd end up with the same thing because we get negative one six is less than or equal to x from this piece, and we'd get x is less than two on this piece.
+And because of the and statement, that's the same thing as saying negative one, six is less than or equal to x, which is less than two.
+Either way we do it.
+Let's see if what it looks like on the number line.
+So on the number line, we're looking for things that are between two and negative one six, including the negative one, six But not including the to interval notation, we can write this as hard bracket, negative 162 soft bracket.
+In this video, we solve linear inequalities, including some compound inequalities, joined by the conjunctions and, and or, remember when we're working with and we're looking for places on the number line where both statements are true.
+That is, we're looking for the overlap on the number line.
+In this case, the points on the number line that are colored both red and blue at the same time.
+When we're working with oral statements, we're looking for places where either one or the other statement is true or both on the number line, this corresponds to points that are colored either red or blue, or both.
+And in this picture, that will actually correspond to the entire number line.
+In this video, we'll solve inequalities involving polynomials like this one, and inequalities

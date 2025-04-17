@@ -1,0 +1,71 @@
+Ellipses.
+about ellipses.
+Recall that a circle can be defined as a set of points whose distance from a fixed point is a constant.
+And he lips can be defined as a set of points, such that the sum of the distances from two fixed points is a constant.
+The two fixed points are called focuses or foe sigh The sum of the distances to the to fo Sai is the total length of the string, which is held constant as I draw the ellipse.
+Let's examine the features of an ellipse in more detail.
+In these pictures, the two black dots are the focuses or fo sigh.
+The red line segment that cuts through the middle of the ellipse in the long direction and passes through this low sigh, it's called the major axis.
+The line segment that cuts through the middle of the ellipse in the shorter direction is called the minor axis.
+And the two points at the tips of the ellipse where the major axis actually touches the ellipse are called the vertices.
+And ellipse could be elongated in any direction, but will only consider ellipses that are elongated either in the horizontal direction, or the vertical direction.
+Let's find the equation of an ellipse whose fo cy are at negative c zero, and c zero, and whose vertices are at negative a zero and a zero.
+This will be an ellipse that's elongated in the horizontal direction.
+For any point x, y on the ellipse, the sum of the distance from x y to the first focus, plus its distance to the second focus has to be some constant.
+And in fact, it turns out that constant has to equal to a, I'll show you why.
+If you look at this point right here on the far right tip of the ellipse, its distance from the first focus is going to be to C plus a minus C.
+And as distance from the second focus is just going to be a minus say, if you add up c plus c plus a minus c plus a minus C, you get exactly to a.
+So let me write out my formulas for distances, the distance from a point x y to the first focus, the point negative c zero is going to be the square root of x minus negative c squared plus y minus zero squared.
+And the distance from x y to the second focus, the point c zero is going to be the square root of x minus c squared plus y minus zero squared.
+That Psalm needs to add up to two a, after a fair amount of algebra, this simplifies the expression a squared minus c squared x squared plus a squared y squared equals a squared times a squared minus c squared.
+If we let b squared equals a squared minus c squared, then we can rewrite this as b squared x squared plus a squared y squared equals a squared b squared, and dividing both sides by a squared b squared, this gives us the form of the equation for the ellipse x squared over a squared plus y squared over b squared equals one.
+Since we got b squared as a squared minus c squared, it follows that b is less than a.
+In fact, B is half the length of the minor axis.
+In other words, this point right here is the point zero, B, and this point is the point zero negative B.
+To see why this is true, let's draw these two right triangles.
+The sum of the side lengths that I've drawn has to be the total length of the string.
+So that equals to a, which means each of these side lengths must be a.
+Now the base of this triangle is C.
+So by the Pythagorean Theorem, this height squared must be a squared minus c squared.
+Since b squared is defined as a squared minus c squared, this height must be B.
+To summarize, for a number a bigger than B, the equation x squared over a squared plus y squared over b squared equals one represents any lips.
+That's elongated in the horizontal direction, whose major axis terminates in the points minus a zero, and a zero, and whose minor access terminates in the points zero B, and zero minus b.
+It's fo cy are at the points negative c zero, and c zero.
+And the relationship between a B and C is that b squared is a squared minus c squared equivalently.
+If we add c squared to both sides, and subtract b squared from both sides, we can write See squared equals a squared minus b squared.
+The way I remember this is that the biggest of the three numbers A, B, and C is definitely going to be a, since a is half the length of the major axis, which is bigger than half the length of the minor axis, and definitely bigger than the length between the origin and one of the focuses.
+Since a is the biggest, and we have a Pythagorean Theorem relationship between a, b and c, the equation must be b squared plus c squared equals a squared, which can be rearranged to either of these two equations.
+Now what happens instead, if we have a bigger than B still, but this time, we're dividing y squared by the bigger number squared, and x squared by the smaller number squared?
+Well, this basically reverses the roles of x and y in my equation.
+And so we end up with the major axis on the y axis stretching between the points, zero a, and zero negative a, whereas the minor axis is going to be along the x axis going in between negative b zero, and B zero, and the first side are going to be here on the y axis again.
+So in this case, my lives is elongated in the vertical direction.
+Our previous ellipses were centered at the origin.
+What if the ellipse is centered instead of an arbitrary point, HK, well, then we need to shift everything over by h in the horizontal direction, and K in the vertical direction.
+So instead of the equation, x squared over a squared plus y squared over b squared equals one, we're gonna have to have x minus h squared over a squared plus y minus k squared over b squared equals one, where A is bigger than B, that's for an ellipse elongated in the horizontal direction.
+If we want an ellipse elongated in the vertical direction, we'll still take a bigger than B, but we'll reverse the roles of x and y.
+So this becomes x squared over b squared plus y squared over a squared equals one for the center at the origin.
+And to shifted over, we get x minus h squared over b squared plus y minus k squared over a squared equals one.
+I'll draw some pictures below.
+With some thought we can label key points.
+For example, this vertex must be shifted over by an amount a, since a is half the length of the major axis.
+So it'll have coordinates H plus a, k was this vertex will be h minus A k.
+This point up here should be h, k plus b, and this one, h k minus b, the fo cy are it, H plus c, k, and H minus C.
+Okay.
+We can label the points on the ellipse that's elongated vertically.
+Similarly, let's write the equation of the ellipse drawn below, and then we'll find it so cy, its major axis is in the vertical direction, right here.
+Its top vertex is at the point four, three, as bottom vertex is at the point for negative nine.
+Its center is halfway between its two vertices, which is right here, at the point four, negative three.
+Finally, I can read off the points at the end of the minor axis.
+So this one is at nine, negative three, and this one is at negative one, negative three.
+Since my lips is elongated vertically, I know I have an equation of the form x minus h squared over b squared plus y minus k squared over a squared equals one with a bigger than be my center is my point h k.
+And that's equal to four negative three, a is half the length of the major axis.
+So that's the vertical distance between this point and this point, I can just take the difference of Y coordinates and see that a is equal to six.
+B is half the length of a minor axis.
+So looking at the difference in x coordinates of these two points, I see that b is equal to five.
+Throwing that all into my equation, I get that x minus four squared over five squared plus y plus three squared over six squared equals one, the fo cy are going to be somewhere along the major axis somewhere above and below the center.
+To figure out how far they are, I need to use the fact that c squared is equal to a squared minus b squared.
+So in this case, c squared is six squared minus five squared, which is 11.
+Which means that C is the square root of 11, which is a little bit bigger than three So, the two first sigh, our distance of squared of 11, above and below the center, and so they'll have coordinates of four, negative three plus a squared of 11 and four, negative three minus the square root of 11.
+This video detailed the anatomy of ellipse, including its major axis, its minor axis, its vertices, and its fossa.
+This video is about hyperbolas.
+You might recall that any lips is the set

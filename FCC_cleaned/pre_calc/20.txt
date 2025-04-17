@@ -1,0 +1,81 @@
+Solving Trig Equations that Require a Calculator.
+that can be solved using the unit circle.
+In this video, we'll solve trig equations that don't involve special values on the unit circle, and require a calculator instead to solve.
+Let's look at the equation two cosine t equals one minus cosine t.
+As usual, I'll start by simplifying and isolating cosine.
+Adding cosine to both sides, I get three cosine t equals one divided by three gives cosine t equals 1/3.
+Now 1/3 is not one of my special values on the unit circle, but I can locate it approximately cosine represents the x value of a point on the unit circle.
+So I'm looking for a point on the unit circle whose x coordinate is approximately 1/3.
+So maybe right here, and the symmetric angle right here, those are angles in the first and fourth quadrants.
+To get a decimal approximation for one of these angles, I can take arc cosine of both sides of my equation.
+This gives me t equals arc cosine of 1/3, which, using my calculator on radian mode, I get a decimal approximation of 1.
+2310.
+Up to four decimal places, it's important to use radian mode here.
+Since by convention, the answers to trig equations are expected to be in radians unless otherwise specified.
+It's also important to notice that these two equations are not precisely the same thing.
+Since cosine t equals 1/3, has infinitely many solutions if we don't restrict to a certain interval, and even if we restrict to the interval zero to two pi, it still has two different solutions.
+On the other hand, our T equals arc cosine of 1/3 has only one solution.
+And that solution lies between the angles of zero and pi.
+So this angle here, the 1.
+231, a radians must be giving us this angle, so there's got to be an angle between zero and pi.
+And to get the other angle this one, we can use the symmetry of the situation.
+This angle and this angle are the same size.
+So to get all the way around to here, we can go all the way to pi minus r 1.
+2312 radians.
+Using our calculator again, we can compute that two pi minus 1.
+2310 radians is equal to 5.
+05 to two radians.
+So our two solutions on our interval from zero to two pi, are given by 1.
+2310 and 5.
+05 to two radians.
+Let me emphasize that we found the second solution by taking two pi minus the first solution.
+Now it's straightforward to find all solutions, we can just take our two principal solutions and add multiples of two pi.
+It can be helpful to look at this solution graphically.
+To solve our equation, cosine t equals 1/3.
+We want to know where this graph of y equals cosine of t intersects the horizontal line at y equals 1/3.
+This intersection point here corresponds to our first solution of 1.
+2310 radiance.
+This intersection point here corresponds to our second solution.
+Notice that it occurs at a T value, that's two pi minus this T value here and all the other initial action points correspond to those first two intersection points shifted over by multiples of two pi.
+Next, let's look at the equation for sine x minus one equals two.
+I'll start by rewriting this as four sine x equals three, which is equivalent to sine x equals three fourths.
+Although three fourths is not a special value on the unit circle, we can still use the unit circle to get oriented and see how many solutions there should be in the interval from zero to two pi.
+Since sine represents the y coordinate of a point on the unit circle, we're looking for points on the unit circle whose y coordinate is three fourths.
+So that might be three fourths might be about here.
+So that would be an angle about right here.
+And about right here, so in the first and second quadrants, let's take the arc sine of both sides to find one of those angles.
+I'm getting one of the angles to be arc sine of three fourths, which my calculator says is 0.
+8481 radians, that must be this angle here.
+To get the other angle, I can use symmetry.
+Since this angle here, you can get by going up four pi minus my previous angle, pi minus 0.
+8481, is equal to 2.
+2935.
+So that's my second angle.
+Notice that this time, to get the second angle, we use pi minus the first angle, not to pi minus the first angle like we did for cosine.
+Once again, we can find all solutions simply by adding multiples of two pi, we can also locate the solutions on a graph of sine, we're looking for where the graph of y equals sine of x intersects with the horizontal line at y equals three fourths.
+And we can see that we have these two solutions where the second one, its x value is pi minus the x value this one, and then we have all these additional solutions that we can get by shifting over by positive and negative multiples of two pi from the first to finally, let's solve the equation 10x equals four.
+If we simply take x to be tan inverse of four, which is 1.
+3258 radians, we'll get a single solution.
+But thinking about the graph of tangent, and intersecting that graph with the horizontal line y equals four, we see that there should actually be two solutions in the interval from zero to two pi.
+This makes sense, because the period of tangent is pi.
+So any one solution will get repeated.
+By intervals of pi.
+It also makes sense by thinking about the unit circle.
+Tangent, which can be thought of as the slope of a line at angle theta takes on all positive real values, both in the first quadrant and the third quadrant.
+So there are going to be two places on the unit circle where the tangent is for.
+We've already found this one.
+To find the other one, we just need to add pi.
+This gives us our answer for the interval zero to two pi.
+And we can add multiples of two pi to get all other solutions.
+Or if we want to be more efficient, we can just write the first solution plus multiples of pi instead of two pi.
+Because these two solutions differ by exactly pi.
+Taking the first solution, and then adding multiples of pi will capture all solutions corresponding to both of these principal solutions.
+To summarize, to find our solutions to cosine t equals m, we need to find first cosine inverse of m.
+Then take two pi a minus this solution and add multiples of two pi to both of those.
+To find solutions to the equation, sine t equals n.
+We can start by taking sine inverse of n using pi minus this and adding multiples of to pi.
+To find our solutions to tangent t equals P, we can take t equal tan inverse of P, and tan inverse of p plus pi and add multiples of two pi.
+Or we can just take 10 inverse of P, and add multiples of pi.
+Although the examples that we saw were more simple than some, because for the examples, we saw, the inverse trig function always landed us in the first quadrant, these methods will work more generally.
+That's all for this video on solving trig equations that require a calculator.
+This video is about

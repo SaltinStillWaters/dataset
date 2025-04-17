@@ -1,0 +1,24 @@
+Justification of the Vertex Formula.
+you want to find where the vertex is, when you graph it.
+The vertex formula says that the x coordinate of this vertex is that negative B over two A, this video gives a justification for where that formula comes from.
+Let's start with a specific example.
+Suppose I wanted to find the x intercepts and the vertex for this quadratic function.
+To find the x intercepts, I would set y equal to zero and solve for x.
+So that's zero equals 3x squared plus 7x minus five.
+And to solve for x, I use the quadratic formula.
+So x is going to be negative seven plus or minus the square root of seven squared minus four times three times negative five, all over two times three.
+That simplifies to negative seven plus or minus a squared of 109 over six, we could, I could also write this as negative seven, six, plus the square root of 109 over six, or x equals negative seven, six minus the square root of 109 over six, since the square root of 109 is just a little bit bigger than 10, this can be approximated by negative seven six plus 10, six, and negative seven, six minus 10, six.
+So pretty close to, I guess about what half over here and pretty close to about negative three over here, I'm just going to estimate so that I can draw a picture of the function.
+Since the leading coefficient three is positive, I know my parabola is going to be opening up and the intercepts are somewhere around here and here.
+So roughly speaking, it's gonna look something like this.
+Now the vertex is going to be somewhere in between the 2x intercepts, in fact, it's going to be by symmetry, it'll be exactly halfway in between the 2x intercepts.
+Since the x intercepts are negative seven, six plus and minus 100 squared of 109 over six, the number halfway in between those is going to be exactly negative seven, six, right, because on the one hand, I have negative seven six plus something.
+And on the other hand, I have negative seven six minus that same thing.
+So negative seven, six will be exactly in the middle.
+So my x coordinate of my vertex will be at negative seven sex.
+Notice that I got that number from the quadratic formula.
+More generally, if I want to find the x intercepts for any quadratic function, I set y equal to zero and solve for x using the quadratic formula, negative b plus or minus the square root of b squared minus four AC Oliver to a, b, x intercepts will be at these two values, but the x coordinate of the vertex, which is exactly halfway in between the 2x intercepts will be at negative B over two A.
+That's where the vertex formula comes from.
+And it turns out that this formula works even when there are no x intercepts, even when the quadratic formula gives us no solutions.
+That vertex still has the x coordinate, negative B over two A.
+And that's the justification of the vertex formula.

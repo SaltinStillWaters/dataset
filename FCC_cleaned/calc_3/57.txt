@@ -1,0 +1,80 @@
+Inverse Trig Functions.
+the position is decreasing, so the particle is moving down.
+Of course, a velocity of zero means the particles at rest, at least for that instant.
+from physics, we know that force equals mass times acceleration.
+So if the acceleration is positive, then that means the force is in the positive direction, it's like the particle is being pulled up.
+If on the other hand, the acceleration is negative than the force is in the negative direction, and it's like the particle is being pulled down.
+an acceleration of zero means there's no force on the particle at that instant, and the velocity continues as is.
+Let's use these ideas about velocity acceleration.
+And the following table of values to describe the particles motion at time equals 1.
+5 seconds.
+At time 1.
+5 seconds, the position of the particle is positive, so that means the particle is above its Baseline Position of zero.
+its velocity is negative, so that means that its position is decreasing.
+In other words, the particle is moving down.
+Its acceleration is negative acceleration is the derivative of velocity.
+So a negative acceleration means the velocity is decreasing.
+Well, a negative velocity that's decreasing is getting more and more negative.
+So in fact, the particle is moving down faster and faster.
+This can be a little bit confusing, because even though the velocity is decreasing, it's getting more and more negative, the speed, which is the absolute value of velocity is increasing.
+We can also see what the particle is doing at 1.
+5 seconds by looking at this graph, where the time is drawn on the x axis and position s of t is on the y axis.
+From the graph, we can see that when t is zero, S of t is also zero.
+So the particle starts at its Baseline Position of zero.
+At time 1.
+5 seconds, the particle is above this starting position, but moving downwards.
+And since the slope of this graph is getting steeper and steeper, we can conclude that the speed of the particle is increasing.
+Same thing was we concluded from the table of values.
+Now let's do the same analysis when time is 2.
+5 seconds.
+s of 2.
+5 seconds is negative.
+So the particle is below its starting position.
+Velocity s prime of t is also negative.
+So the particle is still going down.
+But now the acceleration as double prime of t is positive.
+That means that the velocity Today is increasing, well, a negative velocity that's increasing is getting less negative closer to zero.
+So the particle must be slowing down.
+And in fact, the speed is decreasing.
+Again, the graph agrees with this reasoning, at 2.
+5 seconds, our position is way down here, our graph is decreasing, so the particles moving down, and the slope seems to be leveling off.
+So the particle speed is decreasing.
+Even though it's velocity, which you can think of as speed with direction is increasing, simply because it's a negative velocity that's getting less negative.
+Notice that in the first example, when velocity and acceleration are both in the same direction, that is, they're both negative the particle was speeding up.
+And the second example, were velocity and acceleration when the opposite directions one positive one negative, the particle is slowing down.
+which you can think of as speed with direction is increasing, simply because it's a negative velocity that's getting less negative.
+Notice that in the first example, when velocity and acceleration are both in the same direction, that is, they're both negative the particle was speeding up.
+And the second example, were velocity and acceleration when the opposite directions one positive one negative, the particle is slowing down.
+This is true in general, when velocity acceleration had the same sign, that as they're both positive or both negative, then the particle is speeding up.
+This is true in general, when velocity acceleration had the same sign, that as they're both positive or both negative, then the particle is speeding up.
+And when velocity acceleration have opposite signs, then the particle is slowing down.
+One way to think about this is in terms of force, forces in the same direction as acceleration.
+So if velocity acceleration have the same sign, that means force is the same direction as the particles already going, so it's making the particle speed up.
+But if velocity and acceleration have opposite signs, then the force is going against the way that particles moving, so it's causing it to slow down.
+Let's continue the same example with some more questions, it'll be helpful to write down the velocity and acceleration functions that we calculated earlier.
+I've also graphed position, velocity and acceleration here at the right.
+And before you go on, it's a fun exercise to figure out which one is which, without even looking at the equations just based on the shapes of the graphs.
+And where they're increasing where they're decreasing where they're positive and where they're negative.
+Velocity is the derivative of position.
+So velocity needs to be positive, where position is increasing.
+The only pairs of functions that have this property are the blue one, that's positive, when the red ones increasing, and the green function, which is positive, when the blue one is increasing.
+Now acceleration, which is the derivative of velocity also needs to be positive, when velocity is increasing.
+So the only way to correctly label the functions with both of these relationships is to make the red one be position, the blue one be velocity, and the green one be acceleration.
+This agrees with the equations that And when velocity acceleration have opposite signs, then the particle is slowing down.
+One way to think about this is in terms of force, forces in the same direction as acceleration.
+So if velocity acceleration have the same sign, that means force is the same direction as the particles already going, so it's making the particle speed up.
+But if velocity and acceleration have opposite signs, then the force is going against the way that particles moving, so it's causing it to slow down.
+Let's continue the same example with some more questions, it'll be helpful to write down the velocity and acceleration functions that we calculated earlier.
+I've also graphed position, velocity and acceleration here at the right.
+And before you go on, it's a fun exercise to figure out which one is which, without even looking at the equations just based on the shapes of the graphs.
+And where they're increasing where they're decreasing where they're positive and where they're negative.
+Velocity is the derivative of position.
+So velocity needs to be positive, where position is increasing.
+The only pairs of functions that have this property are the blue one, that's positive, when the red ones increasing, and the green function, which is positive, when the blue one is increasing.
+Now acceleration, which is the derivative of velocity also needs to be positive, when velocity is increasing.
+So the only way to correctly label the functions with both of these relationships is to make the red one be position, the blue one be velocity, and the green one be acceleration.
+This agrees with the equations that we have over here.
+we have over here.
+The first question asks, When is the particle at rest, the particle is temporarily at rest when the velocity is zero.
+In other words, S prime of t is zero.
+So plugging in the equation

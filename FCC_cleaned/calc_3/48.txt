@@ -1,0 +1,76 @@
+[Corequisite] Log Rules.
+of eight, eight is not on the table as an x value for the for the f function.
+And so there is no F of eight, this does not exist, we can say that six is not in the domain, for F composed with g.
+Even though it was in the domain of g, we couldn't follow all the way through and get a value for F composed with g of six.
+Next, let's turn our attention to the composition of functions that are given by equations.
+pause the video and take a moment to compute the next two examples.
+We can replace f composed with F of two by the equivalent expression, f of f of two.
+Working from the inside out, we know that f of two is three, and f of three is six.
+If we want to find f composed with g of six, rewrite that as f of g of six isn't the table for g, g of six is eight.
+But F of eight, eight is not on the table as an x value for the for the f function.
+And so there is no F of eight, this does not exist, we can say that six is not in the domain, for F composed with g.
+Even though it was in the domain of g, we couldn't follow all the way through and get a value for F composed with g of six.
+Next, let's turn our attention to the composition of functions that are given by equations.
+p of x is x squared plus x and q of x is negative 2x.
+We want to find q composed with P of one.
+p of x is x squared plus x and q of x is negative 2x.
+We want to find q composed with P of one.
+As usual, I can rewrite this as Q of P of one and work from the inside out.
+P of one is one squared plus one, so that's two.
+So this is the same thing as Q of two.
+But queue of two is negative two times two or negative four.
+So this evaluates to negative four.
+In this next example, we want to find q composed with P of some arbitrary x, or rewrite it as usual as Q of p of x and work from the inside out.
+Well, p of x, we know the formula for that, that's x squared plus x.
+So I can replace my P of x with that expression.
+Now, I'm stuck with evaluating q on x squared plus x.
+Well queue of anything is negative two times that thing.
+So q of x squared plus x is going to be negative two times the quantity x squared plus x, what I've done is I've substituted in the whole expression x squared plus x, where I saw the X in this formula for q of x, it's important to use the parentheses here, so that we'll be multiplying negative two by the whole expression and not just by the first piece, I can simplify this a bit as negative 2x squared minus 2x.
+And that's my expression for Q composed with p of x.
+Notice that if I wanted to compute q composed with P of one, which I already did in the first problem, I could just use this expression now, negative two times one squared minus two and I get negative four, just like I did before.
+Let's try another one.
+Let's try p composed with q of x.
+First I read right this P of q of x.
+Working from the inside out, I can replace q of x with negative 2x.
+So I need to compute P of negative 2x.
+Here's my formula for P.
+to compute P of this expression, I need to plug in this expression everywhere I see an x in the formula for P.
+So that means negative 2x squared plus negative 2x.
+Again, being careful to use parentheses to make sure I plug in the entire expression in for x.
+let me simplify.
+This is 4x squared minus 2x.
+Notice that I got different expressions for Q of p of x.
+And for P of q of x.
+Once again, we see that q composed with P is not necessarily equal to P composed with Q.
+Please pause the video and try this last example yourself rewriting and working from the inside out, we're going to replace p of x with its expression x squared plus x.
+And then we need to evaluate p on x squared As usual, I can rewrite this as Q of P of one and work from the inside out.
+P of one is one squared plus one, so that's two.
+So this is the same thing as Q of two.
+But queue of two is negative two times two or negative four.
+So this evaluates to negative four.
+In this next example, we want to find q composed with P of some arbitrary x, or rewrite it as usual as Q of p of x and work from the inside out.
+Well, p of x, we know the formula for that, that's x squared plus x.
+So I can replace my P of x with that expression.
+Now, I'm stuck with evaluating q on x squared plus x.
+Well queue of anything is negative two times that thing.
+So q of x squared plus x is going to be negative two times the quantity x squared plus x, what I've done is I've substituted in the whole expression x squared plus x, where I saw the X in this formula for q of x, it's important to use the parentheses here, so that we'll be multiplying negative two by the whole expression and not just by the first piece, I can simplify this a bit as negative 2x squared minus 2x.
+And that's my expression for Q composed with p of x.
+Notice that if I wanted to compute q composed with P of one, which I already did in the first problem, I could just use this expression now, negative two times one squared minus two and I get negative four, just like I did before.
+Let's try another one.
+Let's try p composed with q of x.
+First I read right this P of q of x.
+Working from the inside out, I can replace q of x with negative 2x.
+So I need to compute P of negative 2x.
+Here's my formula for P.
+to compute P of this expression, I need to plug in this expression everywhere I see an x in the formula for P.
+So that means negative 2x squared plus negative 2x.
+Again, being careful to use parentheses to make sure I plug in the entire expression in for x.
+let me simplify.
+This is 4x squared minus 2x.
+Notice that I got different expressions for Q of p of x.
+And for P of q of x.
+Once again, we see that q composed with P is not necessarily equal to P composed with Q.
+Please pause the video and try this last example yourself rewriting and working from the inside out, we're going to replace p of x with its expression x squared plus x.
+And then we need to evaluate p on x squared plus x.
+plus x.
+That means we plug in That means we plug in x squared plus x, x squared plus x, 

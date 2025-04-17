@@ -1,0 +1,47 @@
+Distance, Rate, and Time Problems.
+rate and time.
+The key relationship to keep in mind is that the rate of travel is the distance traveled divided by the time it takes to travel again.
+For example, if you're driving 60 miles an hour, that's your rate.
+And that's because you're going a distance of 60 miles in one hour.
+Sometimes it's handy to rewrite that relationship by multiplying both sides by T time.
+And that gives us that R times T is equal to D.
+In other words, distance is equal to rate times time.
+There's one more important principle to keep in mind.
+And that's the idea that rates add.
+For example, if you normally walk at three miles per hour, but you're walking on a moving sidewalk, that's going at a rate of two miles per hour, then your total speed of travel with respect to you know something stationary is going to be three plus two, or five miles per hour.
+All right, that is a formula as our one or the first rate per second rate is equal to the total rate.
+Let's use those two key ideas.
+distance equals rate times time, and rates add in the following problem.
+else's boat has a top speed of six miles per hour and still water.
+While traveling on a river at top speed.
+She went 10 miles upstream in the same amount of time she went 30 miles downstream, we're supposed to find the rate of the river currents.
+I'm going to organize the information in this problem into a chart.
+During the course of Elsa stay, there were two situations we need to keep in mind.
+For one period of time she was going upstream.
+And for another period of time she was going downstream.
+For each of those, I'm going to chart out the distance you traveled.
+The rate she went at and the time it took when she was going upstream.
+She went a total distance of 10 miles.
+When she was going downstream she went a longer distance of 30 miles.
+But the times to travel those two distances were the same.
+Since I don't know what that time was, I'll just give it a variable I'll call it T now Think about her rate of travel, the rate she traveled upstream was slower because she was going against the current and faster when she was going downstream with the current.
+We don't know what the speed of the current is, that's what we're trying to figure out.
+So maybe I'll give it a variable R.
+But we do know that in still water also can go six miles per hour.
+And when she's going downstream, since she's going with the direction of the current rates should add, and her rate downstream should be six plus R, that's her rate, and still water plus the rate of the current.
+On the other hand, when she's going upstream, then she's going against the current, so her rate of six miles per hour, we need to subtract the rate of the current from that.
+Now that we've charted out our information, we can turn it into equations using the fact that distance equals rate times time, we actually have two equations 10 equals six minus R times T, and 30 is equal to six plus R times T.
+Now that we've converted our situation into a system of equations, our next job is to solve the system of equations.
+In this example, I think the easiest way to proceed is to isolate t in each of the two equations.
+So in the first equation, I'll divide both sides by six minus r, and a second equation R divided by six plus R.
+That gives me 10 over six minus r equals T, and 30 over six plus r equals t.
+Now if I set my T variables equal to each other, I get, I get 10 over six minus r is equal to 30 over six plus R.
+I'm making progress because now I have a single equation, the single variable that I need to solve.
+Since the variable R is trapped in the denominator, I'm going to proceed by clearing the denominator.
+So I'm going to multiply both sides by the least common denominator, that is six minus r times six plus R.
+Once I cancel things out, I get that the six plus r times 10 is equal to 30 times six minus r, if I distribute, I'm going to get 60 plus xR equals 180 minus 30 ar, which I can now solve, let's see, that's going to be 40 r is equal to 120.
+So our, the speed of my current is going to be three miles per hour.
+This is all that the problem asked for the speed of the current.
+If I also wanted to solve for the other unknown time, I could do so by plugging in R into one of my equations and solving for T.
+In this video, I saw the distance rate and time problem by charting out my information for the two situations and my problem using the fact that rates add to fill in some of my boxes, and then using the formula distance equals rate times time to build a system of equations.
+In this video, I'll do a standard mixture problem in which

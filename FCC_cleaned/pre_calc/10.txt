@@ -1,0 +1,27 @@
+Linear and Radial Speed.
+linear and radial speed for a rotating circle, and explains how to convert between them.
+Consider a spinning wheel.
+The angular speed is the angle it goes through in a unit of time, I can write that as angle per time, the units will be something like radians per second if the angle is measured in radians, and the time is measured in seconds, or I guess we could do degrees per minute, etc.
+The linear speed is the speed of a point on the rim of the wheel.
+So that is the distance a point on the rim of the wheel travel travels in a unit of time.
+I can think of that as distance per time.
+And so it has units of something like meters per second for example, or it could be feet per minute, etc.
+Suppose we have a ferris wheel with radius 20 meters.
+That's making one revolution every two minutes, we want to find its angular speed and the linear speed of a point on its rim.
+Now the Ferris wheel is going one revolution every two minutes.
+So that's one half revolution per minute, I want to, I want to find the angular speed, which is the angle it goes through in a unit of time.
+I've already got a unit of time in the denominator minutes, but I've got to somehow convert revolutions to angle.
+So my angular speed, one half revolutions per minute, one revolution, but that on the bottom, so the units will cancel out.
+One revolution is going through an angle of two pi radians.
+That means my angular speed is going to be one half times two pi radians per minute, or pi radians per minute.
+The linear speed, the speed of a point on the rim, well, the wheel is going pi radians per minute, I got to somehow convert radians into distance.
+So I know that when I go to pi radians, so that's all the way around the circle, I'm going all the way around the circumference and distance, so that would be two pi times the radius, or two pi times 20 meters.
+The two PI's cancel as do the radians, and I'm left with 20 pi meters per minute.
+Let's review how we got from angular speed to linear speed in order to get a more general formula.
+I'll call the angular speed, omega looks like a W, I'll call the linear speed v.
+In the previous problem, we found the linear speed v, by starting with the angular speed omega, and multiplying it by the circumference divided by two pi.
+That's because the point on the rim travels the whole circumference as it goes through an angle of two pi all the way around the circle.
+So I'll write that down here, circumference over two pi.
+But since I know that my circumference is given by the formula two pi r, and the two PI's cancel, as they did in the previous problem, that shows that the linear speed is the angular speed times r, where r is the radius of the circle.
+In this video, we defined linear speed and radial speed, and found that linear speed was radial speed times the radius of the circle.
+This video introduces the trig

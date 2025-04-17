@@ -1,0 +1,62 @@
+Volumes of Solids of Revolution.
+a positive area.
+If instead, f of x is less than or equal to g of x, then you'll need to switch around your subtraction and take the integral of g of x minus f of x dx instead, in order to get a positive area.
+One way to remember what to do is just to write the integral as the integral from a to b of the top y value minus the bottom y value, dx.
+Remembering that you'll need to replace the top y value and the bottom y value with functions of x before you can integrate.
+Let's look at an example.
+We want to find the area between the curve y equals x squared plus x and y equals three minus x squared.
+x squared plus x is a parabola pointing upwards.
+So that must be the red curve here, while three minus x squared is a parabola pointing downwards.
+So that must be this blue curve.
+We know that area is given by the integral from our starting x value to our ending x value of our top y values minus our bottom y values, all integrated with respect to x, our top y values are given by the equation three minus x squared, and our bottom y values are given by the equation x squared plus x.
+Now we still need to figure out the values of a and b, the bounds of integration.
+And from the graph, it looks like a should be maybe about negative one and a half, and B should be about one, since that's where the green area starts and ends in the horizontal direction.
+But to find exact values of a and b, the easiest thing to do is to set these two equations equal to each other and solve for x.
+So I'll set three minus x squared equal to x squared plus x, I can add x squared to both sides to get to x squared plus x minus three equals zero.
+This factors into 2x plus three, and x minus one, and therefore x has to equal negative three halves and or x equals one, just like we thought from the graph.
+So we can finish doing our setup, our bounds of integration are from negative three halves to one, and I can simplify my integrand here.
+This is three minus x squared minus x squared minus x.
+Or in other words, the integral from negative three halves to one of minus 2x squared minus x plus three dx.
+This integrates to minus 2x cubed over three my minus x squared over two plus 3x, evaluated between one and negative three halves.
+Now I just need to plug in my bounds of integration and then simplify to get 125 20 fourths as the area.
+Let's look at an example.
+We want to find the area between the curve y equals x squared plus x and y equals three minus x squared.
+x squared plus x is a parabola pointing upwards.
+So that must be the red curve here, while three minus x squared is a parabola pointing downwards.
+So that must be this blue curve.
+We know that area is given by the integral from our starting x value to our ending x value of our top y values minus our bottom y values, all integrated with respect to x, our top y values are given by the equation three minus x squared, and our bottom y values are given by the equation x squared plus x.
+Now we still need to figure out the values of a and b, the bounds of integration.
+And from the graph, it looks like a should be maybe about negative one and a half, and B should be about one, since that's where the green area starts and ends in the horizontal direction.
+But to find exact values of a and b, the easiest thing to do is to set these two equations equal to each other and solve for x.
+So I'll set three minus x squared equal to x squared plus x, I can add x squared to both sides to get to x squared plus x minus three equals zero.
+This factors into 2x plus three, and x minus one, and therefore x has to equal negative three halves and or x equals one, just like we thought from the graph.
+So we can finish doing our setup, our bounds of integration are from negative three halves to one, and I can simplify my integrand here.
+This is three minus x squared minus x squared minus x.
+Or in other words, the integral from negative three halves to one of minus 2x squared minus x plus three dx.
+This integrates to minus 2x cubed over three my minus x squared over two plus 3x, evaluated between one and negative three halves.
+Now I just need to plug in my bounds of integration and then simplify to get 125 20 fourths as the area.
+In this video, we saw that the area between two curves in between the x values of a and b can be given by the integral from a to b have the top y values minus the bottom y values.
+dx, were the top y values and bottom y values are functions of x.
+More specifically, if the top curve is given by y equals f of x, and the bottom curve is y equals g of x, then this integral is the integral from a to b of f of x minus g of x, dx.
+In this video, we'll calculate the volumes of solids of revolution.
+A solid of revolution is a three dimensional object that can be formed by rotating a region of the plane around an axis.
+volumes formed by rotating a region of the plane around a line are called solids of revolution.
+In this figure on the left, this three dimensional object is formed by rotating a region of the plane shaped like this, around the x axis, the solid on the right can be formed by rotating a crescent shaped region of the plane like this, again, around the x axis.
+If we slice these two solids of revolution, using planes perpendicular to the x axis, on the left side, our cross sections look like disks.
+In this video, we saw that the area between two curves in between the x values of a and b can be given by the integral from a to b have the top y values minus the bottom y values.
+dx, were the top y values and bottom y values are functions of x.
+More specifically, if the top curve is given by y equals f of x, and the bottom curve is y equals g of x, then this integral is the integral from a to b of f of x minus g of x, dx.
+In this video, we'll calculate the volumes of solids of revolution.
+A solid of revolution is a three dimensional object that can be formed by rotating a region of the plane around an axis.
+volumes formed by rotating a region of the plane around a line are called solids of revolution.
+In this figure on the left, this three dimensional object is formed by rotating a region of the plane shaped like this, around the x axis, the solid on the right can be formed by rotating a crescent shaped region of the plane like this, again, around the x axis.
+If we slice these two solids of revolution, using planes perpendicular to the x axis, on the left side, our cross sections look like disks.
+A disc here means the inside of a circle.
+The figure on the right is different because it's hollow inside.
+And when we slice it by planes perpendicular to the x axis, we get cross sections that are shaped like washers.
+A washer here means the region in between two concentric circles.
+So for solids of revolution, the cross sections can have the shape of a disk, or the shape of a washer.
+The area of a disk is given by the familiar formula, pi r squared, where r is the radius.
+And the area of a washer can be written as pi times r outer squared minus pi times our inner squared, where our outer is the radius of the big circle, and our inner is the radius of the little circle.
+This formula works because the area of the washer is just the area of the larger circle minus the area of the inside smaller circle.
+Now we know that the volume of any solid that can be sliced into cross sections using planes perpendicular to the x axis is given by v is the integral from x equals a

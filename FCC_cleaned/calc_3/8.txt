@@ -1,0 +1,67 @@
+[Corequisite] Lines: Graphs and Equations.
+of lines.
+Here we're given the graph of a line, we want to find the equation, one standard format for the equation of a line is y equals mx plus b.
+here, m represents the slope, and B represents the y intercept, the y value, where the line crosses the y axis, the slope is equal to the rise over the run.
+Or sometimes this is written as the change in y values over the change in x values.
+Or in other words, y two minus y one over x two minus x one, where x one y one and x two y two are points on the line.
+While we could use any two points on the line, to find the slope, it's convenient to use points where the x and y coordinates are integers.
+That is points where the line passes through grid points.
+So here would be one convenient point to use.
+And here's another convenient point to use.
+The coordinates of the first point are one, two, and the next point this is let's say, five negative one.
+Now I can find this slope by looking at the rise over the run.
+So as I go through a run of this distance, I go through a rise of that distance, especially gonna be a negative rise or a fall because my line is pointing down.
+So let's see counting off squares, this is a run of 1234 squares and a rise of 123.
+So negative three, so my slope is going to be negative three, over four.
+I got that answer by counting squares.
+But I could have also gotten it by looking at the difference in my y values over the difference of my x values.
+That is, I could have done negative one minus two, that's from my difference in Y values, and divide that by my difference in x values, which is five minus one, that gives me negative three over four, as before, so my M is negative three fourths.
+Now I need to figure out the value of b, my y intercept, well, I could just read it off the graph, it looks like approximately 2.
+75.
+But if I want to be more accurate, I can again use a point that has integer coordinates that I know it's exact coordinates.
+So either this point or that point, let's try this point.
+And I can start off with my equation y equals mx plus b, that is y equals negative three fourths x plus b.
+And I can plug in the point one, two, for my x and y.
+So that gives me two equals negative three fourths times one plus b, solving for B.
+Let's see that two equals negative three fourths plus b.
+So add three fourths to both sides, that's two plus three fourths equals b.
+So b is eight fourths plus three fourths, which is 11 fourths, which is actually just what I eyeballed it today.
+So now I can write out my final equation for my line y equals negative three fourths x plus 11 fourths by plugging in for m and b.
+Next, let's find the equation for this horizontal line.
+a horizontal line has slope zero.
+So if we think of it as y equals mx plus b, m is going to be zero.
+In other words, it's just y equals b, y is some constant.
+So if we can figure out what that that constant y value is, it looks like it's to let's see, this three, three and a half, we can just write down the equation directly, y equals 3.
+5.
+For a vertical line, like this one, it doesn't really have a slope.
+I mean, if you tried to do the rise over the run, there's no run.
+So you'd I guess you'd be divided by zero and get an infinite slope.
+But But instead, we just think of it as an equation of the form x equals something.
+And in this case, x equals negative two, notice that all of the points on our line have the same x coordinate of negative two and the y coordinate can be anything.
+So this is how we write the equation for a vertical line.
+In this example, we're not shown a graph of the line, we're just get told that it goes through two points.
+But knowing that I go through two points is enough to find the equation for the line.
+First, we can find the slope by taking the difference in Y values over the difference in x values.
+So that's negative three minus two over four minus one, which is negative five thirds.
+So we can use the standard equation for the line, this is called the slope intercept form.
+And we can plug in negative five thirds.
+And we can use one point, either one will do will still get the same final answer.
+So let's use one two and plug that in to get two equals negative five thirds times one plus b.
+And so B is two plus five thirds, which is six thirds plus five thirds, which is 11 thirds.
+So our equation is y equals negative five thirds x plus 11 thirds.
+This is method one.
+method two uses a slightly different form of the equation.
+It's called the point slope form and it goes y minus y naught is equal to m times x minus x naught where x naught Why not is a point on the line, and again is the slope.
+So we calculate the slope the same way, by taking a difference in Y values over a difference in x values.
+But then we can simply plug in any point.
+For example, the point one, two will work, we can plug one in for x naught and two in for Y not in this point slope form, that gives us y minus two is equal to minus five thirds x minus one.
+Notice that these two equations, while they may look different, are actually equivalent.
+Because if I distribute the negative five thirds, and then add the two to both sides, I get the same equation as above.
+So we've seen two ways of finding the equation for the line is in the slope intercept form, and using the point slope form.
+In this video, we saw that you can find the equation for a line if you know the slope.
+And you know one point, you can also find the equation for the line if you know two points, because you can use the two points to get the slope and then plug in one of those points.
+To figure out the rest of the equation.
+We saw two standard forms for the equation of a line the slope intercept form y equals mx plus b, where m is the slope, and B is the y intercept.
+And the point slope form y minus y naught equals m times x minus x naught, where m again is the slope and x naught y naught is a point on the line.
+This video is about rational functions and their graphs.
+Recall that a

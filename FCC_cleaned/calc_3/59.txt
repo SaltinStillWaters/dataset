@@ -1,0 +1,56 @@
+Related Rates - Distances.
+total of 199 thirds, or 66.
+3 repeating millimeters, quite a bit more than the nine millimeter difference in position.
+This video gave an in depth analysis of a particle moving up and down along a straight and then use the quadratic equation to find the solution.
+Since this equation doesn't factor easily, this simplifies to four thirds plus or minus the square root of seven over three, which is approximately 0.
+45, and 2.
+22.
+Now I can build a similar sign chart for acceleration, mark the places where acceleration is zero.
+and plug in values of t, say t equals zero is the equation for acceleration, I get a positive answer here.
+When I plug in, say t equals one, I get a negative answer here.
+And when I plug in, say, t equals three, I get another positive answer here.
+Now, if I put this together with my velocity chart, which changed sign at 01, and three, and went from negative to positive, to negative to positive, I can try to figure out where velocity acceleration both have the same sign.
+It might be helpful actually to shade in where acceleration is positive.
+And separately shade in where velocity is positive.
+And then look for the places where both are shaded.
+So between zero and 4.
+5, and greater than three.
+And then I can also look where both are unshaded that looks like in between one and 2.
+22.
+So that's where they're both negative.
+And then I'll know that V of t and a of t have opposite signs everywhere else.
+A slightly better answer, we'll use exact values of four thirds plus or minus squared of seven thirds instead of these decimal approximations.
+So let me write that down.
+So here is where the particle speeding up.
+And here, it's where it's slowing down, we can check our work by looking at the graph of position, the particle speeding up with the position graph is getting steeper and steeper, that's the red graph is getting steeper and steeper here, here.
+And here, just like we found algebraically.
+As our final example, let's look at net change in position and distance traveled between one and four seconds for the same particle.
+At time, one second position is five thirds, or about 1.
+67 millimeters at time for its position is given by 32 thirds, or about 10.
+67 millimeters, all I'm doing is plugging one and four into this equation.
+So the net change in position is just the difference of these two numbers.
+As a four minus as of one, which is nine millimeters.
+At first glance, it might seem like the total distance traveled between one and four seconds should also be nine millimeters, but actually, it's a little more complicated.
+Because the particle switches direction during that time period, it doesn't go straight from its position at one second to its position at four seconds.
+Remember what the graph Position looked like the particle switches direction at one second and at three seconds.
+So to find the total distance, we need the distance of travels from one second to three seconds, plus the distance that travels from three seconds to four seconds.
+Another way of thinking about this is that we need the absolute value of s three minus s one, plus the absolute value of s four minus s three, we need these absolute value signs because this difference in position will be negative instead of positive when the particles moving down.
+Plugging in the t values into our equation, we get negative 27 minus five thirds, plus the absolute value of 32 thirds minus negative 27, which is a total of 199 thirds, or 66.
+3 repeating millimeters, quite a bit more than the nine millimeter difference in position.
+This video gave an in depth analysis of a particle moving up and down along a straight line.
+line.
+A similar analysis could be done for a particle moving left and right along a straight line, where a positive position means the particles on the right side, and a negative position means the particles on the left side of his Baseline Position.
+Of course, the same analysis can be done for other objects, not just particles.
+A typical application is to a ball being thrown straight up and then falling down again.
+This video will give an economic application of the derivative to a cost function.
+Suppose that the total cost of producing x tie dyed t shirts is C of x.
+A similar analysis could be done for a particle moving left and right along a straight line, where a positive position means the particles on the right side, and a negative position means the particles on the left side of his Baseline Position.
+Of course, the same analysis can be done for other objects, not just particles.
+A typical application is to a ball being thrown straight up and then falling down again.
+This video will give an economic application of the derivative to a cost function.
+Suppose that the total cost of producing x tie dyed t shirts is C of x.
+I'm going to sketch a few graphs, and you try to decide which graph is the most reasonable representation for C of x.
+Pause the video for a moment to think about it.
+All of these candidate graphs that I've drawn have a nonzero y intercept, that's meant to reflect the idea that there's some fixed startup cost and buying equipment before you can even get started.
+Now, I would like to suggest that C of x should be an increasing function of x, because it's going to cost more money to make more t shirts, you need more supplies and labor.
+So this

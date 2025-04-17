@@ -1,0 +1,27 @@
+Monotonic and Bounded Sequences Extra.
+have that cosine squared x, I wish everything else over here was just written in terms of sine.
+Now, as you might realize, it's not hard for me to get my wish.
+We know from the Pythagorean identity, that cosine squared of x plus sine squared of x is equal to one.
+So cosine squared of x can be written as one minus sine squared x.
+Making that substitution, I can now rewrite my integral entirely in terms of you.
+And do now if I multiply things out, this becomes easy to integrate, I get 1/5 u to the fifth minus 1/7 u to the seventh plus C.
+And I can rewrite this in terms of x.
+Based on the middle right triangle with high partners one, we know that this side length down here must be cosine of B, since adjacent over hypotenuse is cosine B.
+Similarly, this side length here must be sine of B.
+Since opposite of our hypothesis is sine of B, now we see that sine of B is the hypotenuse of this right triangle, which means that this little side here has measure sign a time sign B.
+That's because the opposite over the hypothesis of this angle has to equal sign a.
+A similar argument shows that this side has to have measure cosine A time sign B.
+Please pause the video and take a moment to fill in the side length of this right triangle.
+And this right triangle, you should be getting sine A cosine B cosine A cosine B sine of A plus B and cosine of A plus B.
+But remember, we have a rectangle here.
+So the opposite sides have equal length.
+This tells us that sine of A plus B has to equal sine of A cosine of B plus cosine of A sine of B, which is exactly the first angle sum formula.
+Also, cosine of A plus B, which is this side length, is exactly the difference of this side length cosine A cosine B minus this side length sine of A sine B.
+And that's the second angle sum formula.
+So I think that's a pretty great geometric proof of the angle some formulas.
+This video is about integrating trig functions that involve at least one odd power of sine or cosine.
+Let's start by evaluating the integral of sine to the fourth x times cosine x dx.
+This integral is a good candidate for u substitution.
+If we let u equal sine of x Then d u is equal to cosine of x dx.
+And we can rewrite the integral as the integral of u to the fourth do this integrates easily to 1/5 times u to the fifth plus C.
+And I can convert things back to x by plugging in sine of x for you, 

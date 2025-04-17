@@ -1,0 +1,51 @@
+Related Rates - Angle and Rotation.
+for making 204 t shirts instead of 200.
+In formula, you might think of that as the cost of making the last four t shirts.
+The ratio C of 200 for a minus C of 200 over four is the average rate of change of C of x.
+The units are units of cost, which is probably dollars per t shirt.
+And formula you might think of this as the additional cost per t shirt of making the last four t shirts.
+C prime of 200 is the instantaneous rate of change of C of x.
+c of x is known as the cost function.
+And C prime of x is called the marginal cost, which is the rate at which cost is increasing per additional t shirt made.
+It might seem a little bit weird to take the derivative of C of x since x can really only take on integer values.
+But we can always approximate C of x with a function whose domain is all real numbers.
+To make this a little more specific, let's use a cost function of C of x equals 500 plus 300 times the square root of x.
+In this example, x is supposed to be the number of iPads that are produced, and C of x is the cost of producing them in dollars.
+Then C of 401 minus C of 400.
+given by 500 plus 300, times the square root of 401 minus 500 plus 300 times the square root of 400.
+This simplifies to $7.
+50, rounded to the nearest cent.
+This means that it costs an additional $7.
+50 to go from producing 400 iPads to 401 iPad.
+In this fictitious example, if I want to compute C prime of 400, instead, I can see that C prime of x is equal to 300 times one half x to the minus one half.
+So C prime of 400 is going to be 300 times one half times 400 to the negative one half, which simplifies to 300 over two times the square root of 400, which is also 7.
+5, or $7.
+50.
+Per iPad.
+Up to rounding to the nearest cent, these two answers are equal.
+And it makes sense that C prime of 400 should equal approximately this difference.
+Since C prime of 400, the derivative is approximately equal to the average rate of change going from 400 to 401, which is just this difference, divided by one.
+Once again, C prime of 400 is called the marginal cost, and represents the rate at which the cost function is increasing with each additional item.
+This video gave an example of the cost function, and it's derivative, which is known as marginal cost.
+This video introduces logarithms.
+logarithms are a way of writing exponents.
+The expression log base a of B equals c means that a to the C equals b.
+In other words, log base a of B is the exponent that you raise a to to get be.
+The number A is called the base of the logarithm.
+It's also called the base when we write it in this exponential form.
+Some students find it helpful to remember this relationship, log base a of B equals c means a to the C equals b, by drawing arrows, if I want to compute C prime of 400, instead, I can see that C prime of x is equal to 300 times one half x to the minus one half.
+So C prime of 400 is going to be 300 times one half times 400 to the negative one half, which simplifies to 300 over two times the square root of 400, which is also 7.
+5, or $7.
+50.
+Per iPad.
+Up to rounding to the nearest cent, these two answers are equal.
+And it makes sense that C prime of 400 should equal approximately this difference.
+Since C prime of 400, the derivative is approximately equal to the average rate of change going from 400 to 401, which is just this difference, divided by one.
+Once again, C prime of 400 is called the marginal cost, and represents the rate at which the cost function is increasing with each additional item.
+This video gave an example of the cost function, and it's derivative, which is known as marginal cost.
+This video introduces logarithms.
+logarithms are a way of writing exponents.
+The expression log base a of B equals c means that a to the C equals b.
+In other words, log base a of B is the exponent that you raise a to to get be.
+The number A is called the base of the logarithm.
+It's also called the

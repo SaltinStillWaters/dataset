@@ -1,0 +1,87 @@
+Work as an Integral.
+terms of y, we have y equals the cube root of x means that x is equal to y cubed.
+And so our inner is equal to y cubed as a function of y.
+putting this all together, we have an equation for volume.
+We can simplify this and integrate to get an answer of 512 pi over 21.
+In this video, we calculated the volumes of solids of revolution, using the disk and the washer methods, and the following formulas.
+One way to calculate the volume of a loaf of bread is to slice it into slices, and calculate the volume of each slice separately.
+That's the idea to keep in mind as we cover this topic, on volumes using cross sections.
+A lot of three dimensional objects are kind of like loaves of bread, and can be naturally sliced into slabs or slices like this.
+Let's suppose we've sliced our object into n slabs, we'll call them s one s two through sn in this picture, and is seven, here's s one, here's s two, here's s3, and so on, we'll assume we've sliced in such a way that each slice is the same thickness, we'll call that thickness delta x.
+Well, the volume of the solid is just the sum of the volumes of the slices.
+And sigma notation, we can write this as the sum from i equals one to n, the number of slabs volume of s by the I slab.
+Now the volume of the slab is approximately its cross sectional area times its width.
+By cross sectional area of the slab, I mean the area of the front or the back part of the slice, where you might spread peanut butter.
+Well, now, as you've noticed from making peanut butter sandwiches, the area of the front of the slice might be slightly different from the area of the back of the slice.
+So what we'll do is for each interval, I, each slab will just pick a sample point x vystar, that's in that I've interval, it could be on the left endpoint, or it could be on the right endpoint, or it could be in the middle somewhere.
+And we'll just look at the cross sectional area, I'll call it a at x, y star that represents the area if I were to go karate chop right at that x y star and figure out the cross sectional area at that point.
+Now we can go back and write our volume as the cross sectional area at x star times delta x the thickness of the slice.
+Now this is just an approximation of volume, because this expression here gives you the volume as if the slices are very regular, and have the same area from one side to the other.
+But it's a good approximation if the slices are thin.
+And in fact, we can calculate the exact volume by taking the limit as the slices get thinner and thinner.
+Or in other words, as the number of slices goes to infinity.
+What we have here is the limit of a Riemann sum.
+And therefore, we can rewrite it as an integral where the x i star becomes our variable x and the delta x becomes r dx.
+For the bounds of integration, we'll just use the abstract x values of a and b for a real problem.
+We would fill these in based on In the context of the problem, this gives us an abstract expression for the volume of a three dimensional object.
+But in practice, in order to compute volumes like this, we'll first need a formula for a of x, the cross sectional area as a function of x.
+As an example, let's try to find the volume of a solid whose base is an ellipse given by this equation, and whose cross sections perpendicular to the x axis are squares.
+First, let me graph the base, it looks like an ellipse that's thinner in the extraction than in the y direction.
+So something like this.
+Now sitting above this base, are a bunch of squares.
+And the squares are oriented in such a way that they're perpendicular to the x axis.
+So they're oriented sort of like this, I'll try to draw a square here, that's supposed to be coming out of the picture here.
+And here's another square, again, coming out of the picture.
+Here's a slightly better picture that I drew using Mathematica.
+It's tilted.
+So we're looking at it from below, where you can see the ellipse here.
+And you can see the square cross sections, the x axis is going in this direction, that's x and the y axis is in that direction.
+This picture is actually an approximation of the solid, where they're only about eight or 10 slices, each one's kind of sick and has the same area on the front and the back.
+better picture of the solid is this one.
+Here, the slices are infinitely thin, but they're still square shaped.
+And they're still oriented in such a way that they're perpendicular to the x axis.
+Now we know that volume is given by the integral from a to b of area as a function of x dx.
+On our lips, the minimum x value is negative two, and the maximum x value is two.
+So I can write those in for my bounds of integration.
+Also, I know that the area of a square is just the side length squared.
+So I can write my cross sectional area as s of x squared, where s of x is the side length of the square as a function of x.
+Notice that for different x values, my side lengths are different.
+But my side length is always twice the y value twice the distance from the x axis to the y value on the ellipse.
+So I'll rewrite my formula as two times y as a function of x squared.
+I can simplify this a little bit as the integral of four times y of x squared, dx.
+Now all I need to do is find a formula for y as a function of x.
+And since I've got this equation up here, relating y and x, all I have to do is solve for y in terms of x.
+In fact, I can get by solving for y squared, since I've really got y squared in my formula.
+solving for y squared, I have y squared over nine is equal to one minus x squared over four, which means that y squared is equal to nine times one minus x squared Now we can go back and write our volume as the cross sectional area at x star times delta x the thickness of the slice.
+Now this is just an approximation of volume, because this expression here gives you the volume as if the slices are very regular, and have the same area from one side to the other.
+But it's a good approximation if the slices are thin.
+And in fact, we can calculate the exact volume by taking the limit as the slices get thinner and thinner.
+Or in other words, as the number of slices goes to infinity.
+What we have here is the limit of a Riemann sum.
+And therefore, we can rewrite it as an integral where the x i star becomes our variable x and the delta x becomes r dx.
+For the bounds of integration, we'll just use the abstract x values of a and b for a real problem.
+We would fill these in based on In the context of the problem, this gives us an abstract expression for the volume of a three dimensional object.
+But in practice, in order to compute volumes like this, we'll first need a formula for a of x, the cross sectional area as a function of x.
+As an example, let's try to find the volume of a solid whose base is an ellipse given by this equation, and whose cross sections perpendicular to the x axis are squares.
+First, let me graph the base, it looks like an ellipse that's thinner in the extraction than in the y direction.
+So something like this.
+Now sitting above this base, are a bunch of squares.
+And the squares are oriented in such a way that they're perpendicular to the x axis.
+So they're oriented sort of like this, I'll try to draw a square here, that's supposed to be coming out of the picture here.
+And here's another square, again, coming out of the picture.
+Here's a slightly better picture that I drew using Mathematica.
+It's tilted.
+So we're looking at it from below, where you can see the ellipse here.
+And you can see the square cross sections, the x axis is going in this direction, that's x and the y axis is in that direction.
+This picture is actually an approximation of the solid, where they're only about eight or 10 slices, each one's kind of sick and has the same area on the front and the back.
+better picture of the solid is this one.
+Here, the slices are infinitely thin, but they're still square shaped.
+And they're still oriented in such a way that they're perpendicular to the x axis.
+Now we know that volume is given by the integral from a to b of area as a function of x dx.
+On our lips, the minimum x value is negative two, and the maximum x value is two.
+So I can write those in for my bounds of integration.
+Also, I know that the area of a square is just the side length squared.
+So I can write my cross sectional area as s of x squared, where s of x is the side length of the square as a function of x.
+Notice that for different x values, my side lengths are different.
+But my side length is always twice the y value twice the distance from the x axis to the y value on the ellipse.
+So I'll rewrite my formula as two times y as a function

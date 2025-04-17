@@ -1,0 +1,40 @@
+Absolute Value Equations.
+This video is about solving equations with absolute values in them.
+Recall that the absolute value of a positive number is just the number, but the absolute value of a negative number is its opposite.
+In general, I think of the absolute value of a number as representing its distance from zero on the number line, the number four, and the number of negative four are both at distance for from zero, and so the absolute value of both of them is four.
+Similarly, if I write the equation, the absolute value of x is three, that means that x has to be three units away from zero on the number line.
+And so X would have to be either negative three, or three.
+Let's start with the equation three times the absolute value of x plus two equals four.
+I'd like to isolate the absolute value part of the equation, I can do this by starting with my original equation, subtracting two from both sides and dividing both sides by three.
+Now I'll think in terms of distance on a number line, the absolute value of x is two thirds means that x is two thirds away from zero.
+So x could be here for here at negative two thirds or two thirds.
+And the answer to my equation is x is negative two thirds, or two thirds, I can check my answers by plugging in three times the added value of negative two thirds plus two, I need to check it that equals four.
+Well, the absolute value of negative two thirds is just two thirds.
+So this is three times two thirds plus two, which works out to four.
+Similarly, if I plug in positive two thirds, it also works out to give me the correct answer.
+The second example is a little different, because the opposite value sign is around a more complicated expression, not just around the X.
+I would start by isolating the absolute value part.
+But it's already isolated.
+So I'll just go ahead and jump to thinking about distance on the number line.
+So on my number line, the whole expression 3x plus two is supposed to be at a distance of four from zero.
+So that means that 3x plus two is here at four or 3x plus two though is it negative four, all right, those as equations 3x plus two equals four, or 3x plus two is minus four.
+And then I can solve.
+So this becomes 3x equals two, or x equals two thirds.
+And over here, I get 3x equals minus six, or x equals minus two.
+Finally, I'll check my answers.
+I'll leave it to you to verify that they both work.
+A common mistake on absolute value equations is to get rid of the absolute value signs like we did here, and then just solve for one answer, instead of solving for both answers.
+Another mistake sometimes people make is, once they get the first answer, they just assume that the negative of that works also.
+But that doesn't always work.
+In the first example, our two answers were both the negatives of each other.
+But in our second examples, or two answers, were not just the opposites of each other one was two thirds and the other was negative two.
+In this third example, let's again, isolate the absolute value part of the equation.
+So starting with our original equation, we can subtract 16 from both sides, and divide both sides by five or equivalently, multiply by 1/5.
+Now let's think about distance on the number line, we have an absolute value needs to equal negative three.
+So that means whatever is inside the absolute value sign needs to be at distance negative three from zero, well, you can't be at distance negative three from zero.
+Another way of thinking about this is you can't have the absolute value of something and end up with a negative number if the value is always positive, or zero.
+So this equation doesn't actually make sense, and there are no solutions to this equation.
+In this video, we solved absolute value equations.
+In many cases, an absolute value equation will have two solutions.
+But in some cases, it'll have no solutions.
+And occasionally, it'll have just one solution.

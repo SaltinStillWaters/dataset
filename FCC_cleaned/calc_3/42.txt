@@ -1,0 +1,45 @@
+Proof of Trigonometric Limits and Derivatives.
+terms.
+And canceling the H's, notice that the X to the ends can So notice that all of the remaining terms have an H in them.
+So if we factor out that H, we get an x to the n minus one, plus a bunch of other terms.
+And canceling the H's, we get we get one term that doesn't have any ages in it, and another bunch of terms that all have H's in them, as h goes to zero, all these other terms drop out because they go to zero.
+And what we're left with is simply n times x to the n minus one, which is exactly what we want for the power role.
+I think that's a pretty good proof if you're comfortable with the binomial formula.
+But if you haven't seen the binomial formula before, that might leave you feeling a little cold.
+So I'm going to offer you another proof using the other form of the limit definition of derivative.
+So let me clear some space here.
+And I'll start over using this definition, f prime at a is the limit as x goes to a of our function evaluated at x.
+So that's x to the n minus our function evaluated at a, that's a to the n over x minus a.
+Again, I'm going to need to rewrite things in order to evaluate this limit, since it's currently in a zero over zero and determinant form.
+So I'm going to rewrite the top by factoring out a copy of x minus a, which gives me x to the n minus one plus x to the n minus two A plus x to the n minus three A squared, you see the pattern here.
+And I keep going until I get to x a to the n minus two and finally a to the n minus one, that's still over x minus a, you can verify this factoring formula, simply by multiplying out and checking that you In fact, do get x to the n minus a to the n, after all your intermediate terms cancel.
+Now that I've factored, I can cancel my x minus a, and simply evaluate my limit by plugging in x equal to A to get a to the n minus one plus a to the n minus two A plus, and so on each of these terms is equal to a to the n minus one.
+And there are a total of n terms, since we got them from the terms above that started with x to the n minus one and did with x to the zero.
+So that's n terms.
+So that means we've got a final sum of n times a to the n minus one for a derivative f prime of A, which is exactly what we wanted to show.
+Next, I'll prove the constant multiple rule that says that if c is a real number constant, and f is a differentiable function, then the derivative of a constant times f is just the constant times the derivative of f.
+Starting with the limit definition of derivative, I have that the derivative of C times f of x is the limit as h goes to zero of C times f of x plus h minus c times f of x over h.
+Now if I factor out the constant C, from both of these terms, and actually I can pull it all the way out of the limit side, since the constant has nothing to do with h.
+So now I get that was equal to the constant times the limit as h goes to zero of f of x plus h minus f of x over h, which is just a constant times the derivative of f, which is what we wanted to prove.
+one term that doesn't have any ages in it, and another bunch of terms that all have H's in them, as h goes to zero, all these other terms drop out because they go to zero.
+And what we're left with is simply n times x to the n minus one, which is exactly what we want for the power role.
+I think that's a pretty good proof if you're comfortable with the binomial formula.
+But if you haven't seen the binomial formula before, that might leave you feeling a little cold.
+So I'm going to offer you another proof using the other form of the limit definition of derivative.
+So let me clear some space here.
+And I'll start over using this definition, f prime at a is the limit as x goes to a of our function evaluated at x.
+So that's x to the n minus our function evaluated at a, that's a to the n over x minus a.
+Again, I'm going to need to rewrite things in order to evaluate this limit, since it's currently in a zero over zero and determinant form.
+So I'm going to rewrite the top by factoring out a copy of x minus a, which gives me x to the n minus one plus x to the n minus two A plus x to the n minus three A squared, you see the pattern here.
+And I keep going until I get to x a to the n minus two and finally a to the n minus one, that's still over x minus a, you can verify this factoring formula, simply by multiplying out and checking that you In fact, do get x to the n minus a to the n, after all your intermediate terms cancel.
+Now that I've factored, I can cancel my x minus a, and simply evaluate my limit by plugging in x equal to A to get a to the n minus one plus a to the n minus two A plus, and so on each of these terms is equal to a to the n minus one.
+And there are a total of n terms, since we got them from the terms above that started with x to the n minus one and did with x to the zero.
+So that's n terms.
+So that means we've got a final sum of n times a to the n minus one for a derivative f prime of A, which is exactly what we wanted to show.
+Next, I'll prove the constant multiple rule that says that if c is a real number constant, and f is a differentiable function, then the derivative of a constant times f is just the constant times the derivative of f.
+Starting with the limit definition of derivative, I have that the derivative of C times f of x is the limit as h goes to zero of C times f of x plus h minus c times f of x over h.
+Now if I factor out the constant C, from both of these terms, and actually I can pull it all the way out of the limit side, since the constant has nothing to do with h.
+So now I get that was equal to the constant times the limit as h goes to zero of f of x plus h minus f of x over h, which is just a constant times the derivative of f, which is what we wanted to prove.
+The difference rule can be proved just like the sum rule by writing out the definition of derivative and regrouping terms.
+Or we could use kind of a sneaky shortcut, and put together two of our previous roles.
+So if we think of f of x minus g of x as being f of x plus minus one times g of x, then we can use the sum rule to rewrite this as a

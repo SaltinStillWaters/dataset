@@ -1,0 +1,39 @@
+Proofs of Facts about Convergence of Power Series.
+this first limit, which is a little bit easier to take the derivatives.
+And so the derivative of the top is minus sine x.
+And the derivative of the bottom is six times sine x times cosine x.
+Now let's try to evaluate again, as x goes to zero, our numerator is going to zero and our denominator is also going to zero.
+But hang on, we don't have to apply lobby towels rule again, because we can actually just simplify our expression, the sine x on the top cancels with the sine x on the bottom.
+And we can just rewrite our limit as the limit of negative one over six cosine of x, which evaluates easily to negative one, six.
+In this example, I want to emphasize that it's a good idea to simplify after each application of lopi talls rule.
+If you don't simplify, like we did here, then you might be tempted to apply lopatok rule and additional time when you don't need to, which might make the problem more complicated.
+Instead of simpler to solve this video, we were able to evaluate zero over zero and infinity over infinity indeterminate forms by replacing the limit of f of x over g of x with the limit of f prime of x over g prime of x, provided that second limit exists.
+This trick is known as lopi tels rule.
+We've seen that lopatok rule can be used to evaluate limits of the form zero over zero, or infinity over infinity.
+In this video, we'll continue to use loopy towels rule to evaluate additional indeterminate forms, like zero times infinity, infinity to the 00 to the zero, and one to the infinity.
+In this example, we want to evaluate the limit of a product.
+Notice that as x goes to zero from the positive side, sine x goes to zero, and ln x goes to negative infinity.
+Remember the graph of y equals ln x.
+So this is actually a zero times infinity indeterminate form.
+Even though the second factor is going to negative infinity, we still call it a zero times infinity and indeterminate form, you can think of the Infinity here as standing for either positive or negative infinity.
+It's indeterminate.
+Because as x goes to zero, the sine x factor is pulling the product towards zero, while the ln x factor is pulling the product towards large negative numbers.
+And it's hard to predict what the limit of the product will actually be.
+But the great thing is, I can actually rewrite this product to look like an infinity over infinity and determinant form, or a zero over zero and determinant form.
+Instead of sine x times ln x, I can rewrite the limit as ln x divided by one over sine x.
+Now as x goes to zero, my numerator is going to negative infinity.
+And since sine x is going to zero through positive numbers, my denominator one over sine x is going to positive infinity.
+So I have an infinity over infinity indeterminate form.
+Now, I could instead choose to leave the sine x in the numerator, and instead, put a one over ln x in the denominator.
+If I do this, then as x goes to zero through positive numbers, sine x goes to zero.
+And since ln x goes to negative infinity, one over ln x goes to zero, and so I have a zero over zero indeterminate form.
+Sometimes it can be difficult to decide which of these two ways to rewrite a product as a quotient.
+One rule of thumb is to take the version that makes it easier to take the derivative of the numerator and denominator.
+Another trick is just to try one of the ways and if you get stuck, go back and try the other.
+I'm going to use the first method of rewriting it because I recognize that one over sine x can be written as cosecant of x and I know how to take the derivative of cosecant x using lopi towels rule On this infinity over infinity indeterminate form, I can rewrite my limit as the limit of what I get when I take the derivative of the numerator, that's one over x divided by the derivative of the denominator, that's negative cosecant x cotangent x.
+As always, I want to simplify my expression before going any further, I can rewrite my trig functions in the denominator in terms of sine and cosine.
+cosecant x is one over sine x.
+and cotangent x is cosine of x over sine of x.
+Now flipping and multiplying, I get the limit as x goes to zero plus of one over x times the sine squared of x over negative cosine of x.
+In other words, the limit of negative sine squared x over x cosine x, we know that cosine of x goes to one as x goes to zero.
+So I can rewrite this as the limit of negative sine

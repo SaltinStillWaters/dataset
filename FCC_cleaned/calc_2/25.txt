@@ -1,0 +1,97 @@
+Geometric Series.
+made, or this equivalent forms a little easier to use.
+So since sine theta is x over seven, if I label one of my angles as theta, then the opposite side needs to have a measure of x, and I have partners should have a measure of seven.
+You can check that by the Pythagorean Theorem, that means that this bottom side needs to have a measure of the square root of 49 minus x squared.
+Notice that that's exactly the same expression that was in our original integrand.
+Once we have the triangle labeled, we can use it to find expressions for sine of theta and cosine of theta in terms of x.
+So Sine of theta is opposite of our hypothesis.
+So that's x over seven.
+Well, we already knew that.
+But now cosine of theta is adjacent over hypotenuse.
+So that's the square root of 49 minus x squared over seven.
+We can use these two equations to substitute in for sine theta and cosine theta.
+And to get rid of the, this naked theta here, we'll still have to use the fact that theta is inverse sine of x over seven.
+Those substitutions lead us to this answer.
+And a little bit of simplification leads us to the same answer that Wolfram Alpha gave us.
+This was a complicated problem.
+But the key step was to use this trig substitution.
+And then, that allowed us to use a trig identity in order to rewrite our square root and get rid of the square root.
+After that, it was a fairly routine integration problem, until we got to the point where we had to substitute back in for theta, and then drawing the right triangle helped us figure out what to do.
+In this video, we use two trig substitution to evaluate an integral with a square root and that This video introduces the method of partial fractions as a way to integrate many rational functions.
+Recall that a rational function is a function of the form a polynomial divided by another polynomial.
+Let's work out the integral of 3x plus two divided by x squared plus 2x minus three.
+According to Wolfram Alpha, the integral evaluates to this expression involving the log of x minus one and the log of x plus three.
+So what do x minus one and x plus three have to do with our original rational function, I challenge you to pause the video for a moment and try to figure this out.
+You might have noticed that the denominator x squared plus 2x minus three factors into x minus one times x plus three.
+Let's look at what happens if I take two separate fractions, one with denominator x minus one and one with denominator x plus three and add them up.
+The common denominator of these two fractions is x minus one times x plus three.
+So when I add these fractions together using standard algebra, I should get a fraction with common denominator, x minus one times x plus three.
+Well, my original rational function was just such a fraction.
+So it seems plausible, that I might be able to find numbers, a and b, so that these two partial fractions add up to this original fraction.
+Let's figure out what numbers a and b might make this work.
+To solve for A and B, I'm going to clear the denominator by multiplying both sides of my equation by this least common denominator, x minus 1x plus three.
+When I distribute on the left side, I get x plus three times a plus x minus one times B.
+And on the right side, my x minus one and x plus three cancel out to give me 3x plus two.
+I'll distribute the left side a little further.
+And I'm going to group the terms that involve x and the terms that don't involve x.
+If I want this equation to hold true for all values of x, then I need the coefficients of x to be the same on the left and the right.
+Now there's one more trick we need to use.
+And that trick is to draw a right triangle.
+I'm going to label the sides of that triangle using the equation for the substitution we made, or this equivalent forms a little easier to use.
+So since sine theta is x over seven, if I label one of my angles as theta, then the opposite side needs to have a measure of x, and I have partners should have a measure of seven.
+You can check that by the Pythagorean Theorem, that means that this bottom side needs to have a measure of the square root of 49 minus x squared.
+Notice that that's exactly the same expression that was in our original integrand.
+Once we have the triangle labeled, we can use it to find expressions for sine of theta and cosine of theta in terms of x.
+So Sine of theta is opposite of our hypothesis.
+So that's x over seven.
+Well, we already knew that.
+But now cosine of theta is adjacent over hypotenuse.
+So that's the square root of 49 minus x squared over seven.
+We can use these two equations to substitute in for sine theta and cosine theta.
+And to get rid of the, this naked theta here, we'll still have to use the fact that theta is inverse sine of x over seven.
+Those substitutions lead us to this answer.
+And a little bit of simplification leads us to the same answer that Wolfram Alpha gave us.
+This was a complicated problem.
+But the key step was to use this trig substitution.
+And then, that allowed us to use a trig identity in order to rewrite our square root and get rid of the square root.
+After that, it was a fairly routine integration problem, until we got to the point where we had to substitute back in for theta, and then drawing the right triangle helped us figure out what to do.
+In this video, we use two trig substitution to evaluate an integral with a square root and that This video introduces the method of partial fractions as a way to integrate many rational functions.
+Recall that a rational function is a function of the form a polynomial divided by another polynomial.
+Let's work out the integral of 3x plus two divided by x squared plus 2x minus three.
+According to Wolfram Alpha, the integral evaluates to this expression involving the log of x minus one and the log of x plus three.
+So what do x minus one and x plus three have to do with our original rational function, I challenge you to pause the video for a moment and try to figure this out.
+You might have noticed that the denominator x squared plus 2x minus three factors into x minus one times x plus three.
+Let's look at what happens if I take two separate fractions, one with denominator x minus one and one with denominator x plus three and add them up.
+The common denominator of these two fractions is x minus one times x plus three.
+So when I add these fractions together using standard algebra, I should get a fraction with common denominator, x minus one times x plus three.
+Well, my original rational function was just such a fraction.
+So it seems plausible, that I might be able to find numbers, a and b, so that these two partial fractions add up to this original fraction.
+Let's figure out what numbers a and b might make this work.
+To solve for A and B, I'm going to clear the denominator by multiplying both sides of my equation by this least common denominator, x minus 1x plus three.
+When I distribute on the left side, I get x plus three times a plus x minus one times B.
+And on the right side, my x minus one and x plus three cancel out to give me 3x plus two.
+I'll distribute the left side a little further.
+And I'm going to group the terms that involve x and the terms that don't involve x.
+If I want this equation to hold true for all values of x, then I need the coefficients of x to be the same on the left and the right.
+So I need a plus b to equal three.
+Similarly, I need the constant term to be the same on the left and the right.
+So I need three A minus B to equal two.
+I now have two linear equations in the two unknowns, a and b.
+So I can use standard algebra to solve these equations for A and B.
+For example, if I add the two equations together, the B and negative b cancel out to give me four A equals five, and so a equals five fourths.
+And then I can substitute in this five fourths into either one of my equations and solve for b.
+So I was able to find an a value of a and b that let me rewrite the original fraction as to partial fractions.
+Let me fill those values of a and b in here.
+Now to calculate the integral of my original expression, I can calculate the integral of my partial fractions.
+Instead, I split up my integrals here.
+Now the integral of one over x minus one is natural log of absolute value of x minus one, you can check this by taking the derivative.
+Or you can do a simple use of the tuition where you as x minus one to compute this integral.
+Similarly, the integral of one over x plus three is natural log of absolute value of x plus three.
+This completes the computation of the integral using the method of partial fractions.
+Recall that after factoring our denominator, the key step in this process was finding numbers a and b that made this equation hold.
+And you might wonder, Well, yeah, it work this time.
+But can we always find numbers a and b that will work like that?
+What if our numerator had been something different?
+What if our numerator had been instead something like, say 7x minus 15?
+Could we have still found an A and B that worked?
+Well, yes, because we still would have gotten two linear equations in two unknowns down here, and we would have been able to solve them, we'd get different values of a and b, but we still would have

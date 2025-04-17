@@ -1,0 +1,40 @@
+Power Rule and Other Rules for Derivatives.
+limit was just zero.
+So my limit on the left is equal to zero.
+And now I'm so close, I'd like to apply five the limit rule to this difference to break it up into a difference of limits, but I can't quite do that, because I'm not sure yet that the limit, as x goes to a of f of x exists, that's sort of part of what I'm trying to prove as far as continuity.
+So instead, I think I'm gonna add to both sides, a limit that I do know exists.
+And that's the limit And now I'm so close, I'd like to apply five the limit rule to this difference to break it up into a difference of limits, but I can't quite do that, because I'm not sure yet that the limit, as x goes to a of f of x exists, that's sort of part of what I'm trying to prove as far as continuity.
+So instead, I think I'm gonna add to both sides, a limit that I do know exists.
+And that's the limit of f of a.
+of f of a.
+Now, I do know that both of these two limits on the left side exists, so I can use the limit rule about sums to rewrite this limit.
+Now, I do know that both of these two limits on the left side exists, so I can use the limit rule about sums to rewrite this limit.
+Now, on the left side, I can cancel out my copies of f of a, whatever number that is, and I get that the limit as x goes to a of f of x which has to exist by the the limit rule for psalms that I applied Now, on the left side, I can cancel out my copies of f of a, whatever number that is, and I get that the limit as x goes to a of f of x which has to exist by the the limit rule for psalms that I applied above.
+above.
+That limit their past to equal the limit as x goes to a of f of a, well, f of a is just some number, doesn't matter what X is doing f of a is it's just f of a, whatever that is.
+So this limit on the right is just f of a, and look at that.
+That's exactly what it means for a function to be continuous at x equals a, the limit as x goes to a of f of x equals f of a.
+So f is continuous at x equals a, hella proof is complete.
+In this video, we prove that if f is differentiable at x equals a, then f is continuous at x equals a.
+This statement is equivalent to another statement known in logic as its contrapositive, which says that if f is not continuous, at x equals a, then f is not differentiable at x equals a.
+In this video, we'll learn a few rules for calculating derivatives, namely, the power role, and the derivatives of sums, differences and constant multiples.
+These rules will give us shortcuts for finding derivatives quickly, without needing to resort to the old limit definition of derivative.
+In this video, we'll only do statements of the rules and some examples, there won't be any proofs or justification for why the rules hold.
+Instead, these proofs will be in a separate later video.
+Let's start with some basics.
+First of all, if we have a constant C, and we will have the function f of x equals C.
+So if I graph that, it's just going to be a straight horizontal line.
+That limit their past to equal the limit as x goes to a of f of a, well, f of a is just some number, doesn't matter what X is doing f of a is it's just f of a, whatever that is.
+So this limit on the right is just f of a, and look at that.
+That's exactly what it means for a function to be continuous at x equals a, the limit as x goes to a of f of x equals f of a.
+So f is continuous at x equals a, hella proof is complete.
+In this video, we prove that if f is differentiable at x equals a, then f is continuous at x equals a.
+This statement is equivalent to another statement known in logic as its contrapositive, which says that if f is not continuous, at x equals a, then f is not differentiable at x equals a.
+In this video, we'll learn a few rules for calculating derivatives, namely, the power role, and the derivatives of sums, differences and constant multiples.
+These rules will give us shortcuts for finding derivatives quickly, without needing to resort to the old limit definition of derivative.
+In this video, we'll only do statements of the rules and some examples, there won't be any proofs or justification for why the rules hold.
+Instead, these proofs will be in a separate later video.
+Let's start with some basics.
+First of all, if we have a constant C, and we will have the function f of x equals C.
+So if I graph that, it's just going to be a straight horizontal line.
+So the derivative So the derivative df dx, ought to be zero, because the slope of the tangent line of this straight line

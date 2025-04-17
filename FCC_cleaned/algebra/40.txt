@@ -1,0 +1,62 @@
+Mixture Problems.
+we have to figure out what quantity of two solutions to mix together.
+household bleach contains 6% sodium hypochlorite.
+The other 94% is water.
+How much household bleach should be combined with 70 liters of a weaker 1% hypochlorite solution in order to form a solution, that's 2.
+5% sodium hypochlorite.
+I want to turn this problem into a system of equations.
+So I'm asking myself what quantities are going to be equal to each other?
+Well, the total amount of sodium hypochlorite that has symbol and a co o before mixing, it should equal the total amount of sodium hypochlorite after mixing.
+Also, the total amount of water before mixing should equal the total amount of water after.
+And finally, there's just the total amount of solution.
+In my two jugs, sodium hypochlorite together with water should equal the total amount of solution after that gives me a hint for what I'm looking for.
+But before I start reading out equations, I find it very helpful to chart out my quantities.
+So I've got the 6% solution.
+The household leech, I've got the 1% solution.
+And I've got my Desired Ending 2.
+5% solution.
+Now on each of those solutions, I've got a certain volume of sodium hypochlorite.
+I've also got a volume of water.
+And I've got a total volume of solution.
+Let me see which of these boxes I can actually fill in, I know that I'm adding 70 liters of the 1% solution.
+So I can put a 70 in the total volume of solution here.
+I don't know what volume of the household bleach, I want to add, that's what I'm trying to find out.
+So I'm going to just call that volume x.
+Now since my 2.
+5% solution is made by combining my other two solutions, I know its volume is going to be the sum of these two volumes, so I'll write 70 plus x in this box.
+Now, the 6% solution means that whatever the volume of solution is, 6% of that is the sodium hypochlorite.
+So the volume of the sodium hypochlorite is going to be 0.
+06 times x, the volume of water and that solution is whatever's left, so that's going to be x minus 0.
+06x, or point nine four times X with the following the same reasoning for the 1% solution 1% of the 70 liters is a sodium hypochlorite.
+So that's going to be 0.
+01 times 70.
+Or point seven, the volume of water and that solution is going to be 99% or point nine, nine times seven day.
+That works out to 69.
+3.
+Finally, for the 2.
+5% solution, the volume of the sodium hypochlorite is going to be 0.
+0 to five times the volume of solution 70 plus x and the volume of water is going to be the remainder.
+So that's 0.
+975 times 70 plus x.
+Now I've already used the fact that the volume of solutions before added up is the volume of solution after in writing a 70 plus x in this box.
+But I haven't yet used the fact that the volume of the sodium hypochlorite is preserved before and after.
+So I can write that down as an equation.
+So that means 0.
+06x plus 0.
+7 is equal to 0.
+025 times 70 plus x.
+Now I've got an equation with a variable.
+I'll try to solve it.
+Since I don't like all these decimals, I'm going to multiply both sides of my equation by let's see, 1000 should get rid of all the decimals.
+After distributing, I get 60x plus 700 equals 25 times 70 plus x.
+Distributing some more, I get 60x plus 700 is equal to 1750 plus 25x.
+So let's see 60 minus 25 is 35x is equal to 1050.
+Which gives me that x equals 30 liters of the household bleach.
+Notice that I never actually had to use the fact that the water quantity of water before mixing is equal to the quantity of water after that is I never use the information in this column.
+In fact, that information is redundant.
+Once I know that the quantities of sodium hypochlorite add up, and the total volume of solutions add up.
+The fact that that volume of waters add up is just redundant information.
+The techniques to use to solve this equation involving solutions can be used to solve many many other equations involving mixtures of items.
+My favorite method is to first make a chart involving the types of mixtures and the types of items in your mixture.
+Fill in as many boxes size I can and then use the fact that the quantities add.
+This video is about rational functions and their graphs.

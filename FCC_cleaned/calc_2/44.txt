@@ -1,0 +1,39 @@
+Slopes of Parametric Curves.
+of interesting to note that we could also rewrite this geometric sequence if we wanted to, using an index and going from zero to infinity.
+And one way to figure out how to do that the are the common ratio stays the same as negative e over three.
+But since this version starts at t equals three, the first term here is really minus e over three cubed times one over three squared E.
+And that becomes our value of A.
+Notice that when n is zero here, I get this value.
+And when t is three, here, I get the same value for this sequence.
+So these sequences are equivalent.
+But in any case, for either a sequence, the common ratio, R is negative B over three, and a sequence converges.
+Therefore, the final trick that I want to mention for deciding whether sequences converge or diverge is limit laws, the usual limit laws about addition, subtraction, and so on hold for sequences as well for functions.
+So for example, if the limit as n goes to infinity of a sub n is out, and the limit of b sub n is am than the limit of the sum, a sub n plus b sub n is going to be equal to L plus m.
+And the limit of a sub n times b sub n is L times M.
+And the limit of C times a sub n where C is some constant is going to be c times though similar roles holds for subtraction and division.
+I want to emphasize that these limit holds hold under the condition that the limits of the component sequences exist as finite numbers.
+I can use these limit laws to decide if this sequence converges, since the limit of the terms is equal to the difference of the limits, provided those limits exist.
+Now the first limit is zero, since the degree of the numerator is less than the degree of the denominator here, and the second limit is also zero.
+Since this is a geometric sequence, with ratio of four fifths, and four fifths is between zero and one.
+Therefore, the limit of our original sequence must be zero.
+In this video, we saw several ways to prove that a sequence converges.
+We saw that we could use calculus techniques like lopi taas rule.
+After replacing the sequence with its associated function defined on real numbers, we also saw that we could use the squeeze theorem.
+we noted that all sequences that are bounded and monotonic must converge.
+And we saw that geometric sequences always converge if r is bigger than negative one and less than or equal to one.
+Finally, we saw that we can use limit laws to handle sums and products and other conglomerations of sequences.
+This video is about geometric series, and when they converge, and when they diverged.
+you can know that it converges if r is bigger than negative one and less than or equal to one.
+This sequence here, although it looks really complicated, it's really a geometric sequence in disguise.
+One way to see this is by simplifying the form of the terms, so this is negative one to the t, e to the t times e to the minus one over three to the T times three squared.
+This is the same thing as negative e over three to the T times one over three squared times E.
+Now this is looking like the tail end of a geometric sequence, where A is one over three squared times E, and R, the common ratio is minus e over three, say the tail end, because we have T starting at three instead of zero.
+Now since he is less than three, the magnitude of our is got to be smaller than one.
+In other words, our as a negative number, that's between negative one and zero, and therefore, the tail end of this geometric sequence converges.
+It's kind of interesting to note that we could also rewrite this geometric sequence if we wanted to, using an index and going from zero to infinity.
+And one way to figure out how to do that the are the common ratio stays the same as negative e over three.
+But since this version starts at t equals three, the first term here is really minus e over three cubed times one over three squared E.
+And that becomes our value of A.
+Notice that when n is zero here, I get this value.
+And when t is three, here, I get the same value for this sequence.
+So these sequences are equivalent.

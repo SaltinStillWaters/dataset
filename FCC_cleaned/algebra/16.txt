@@ -1,0 +1,59 @@
+Circles: Graphs and Equations.
+video is about graphs and equations of circles.
+Suppose we want to find the equation of a circle of radius five, centered at the point three, two will look something like this.
+For any point, x, y on the circle, we know that the distance of that point xy from the center is equal to the radius that is five from the distance formula, that distance of five is equal to the square root of the difference of the x coordinates.
+That's x minus three squared plus the difference of the y coordinates, that's y minus two squared.
+And if I square both sides of that equation, I get five squared is this square root squared.
+In other words, 25 is equal to x minus three squared plus y minus two squared.
+Since the square root and the squared undo each other.
+A lot of times people will write the X minus three squared plus y minus two squared on the left side of the equation and the 25 on the right side of the equation.
+This is the standard form for the equation of the circle.
+The same reasoning can be generalized Find the general equation for a circle with radius R centered at a point HK.
+For any point with coordinates, x, y on the circle, the distance between the point with coordinates x, y and the point with coordinates HK is equal to the radius r.
+So we have that the distance is equal to r, but by the distance formula, that's the square root of the difference between the x coordinates x minus h squared plus the difference in the y coordinates y minus k squared.
+squaring both sides as before, we get r squared is the square root squared, canceling the square root and the squared, and rearranging the equation, that gives us x minus h squared plus y minus k squared equals r squared.
+That's the general formula for a circle with radius r, and center HK.
+Notice that the coordinates h and k are subtracted here, the two squares are added because they are in the distance formula, and the radius is squared on the other side, if you remember this general formula, that makes it easy to write down the equation for a circle, for example, if we want the equation for a circle, of radius six, and center at zero, negative three, then we have our equal six, and h k is our zero negative three.
+So plugging into the formula, we get x minus zero squared, plus y minus negative three squared equals six squared, or simplified this is x squared plus y plus three squared equals 36.
+Suppose we're given an equation like this one, and we want to decide if it's the equation of a circle, and if so what's the center was the radius.
+Well, this equation matches the form for a circle, x minus h squared plus y minus k squared equals r squared.
+If we let h, b five, Why be negative sex since that way, subtracting a negative six is like adding a six, five must be our r squared.
+So that means that R is the square root of five.
+So this is our radius.
+And our center is the point five, negative six.
+And this is indeed the equation for a circle, which we could then graph by putting down the center and estimating the radius, which is a little bit more than two.
+This equation might not look like the equation of a circle, but it actually can be transformed.
+To look like the equation of a circle, we're trying to make it look like something of the form x minus h squared plus y minus k squared equals r squared.
+First, I'd like to get rid of the coefficients in front of the x squared and the y squared, so I'm going to divide everything by nine.
+This gives me x squared plus y squared plus 8x minus two y plus four equals zero.
+Next, I'm going to group the x terms together the x squared and the 8x.
+So write x squared plus 8x.
+I'll group the y terms together the Y squared minus two y.
+And I'll subtract the four over to the other side.
+This still doesn't look much like the equation of a circle.
+But as the next step, I'm going to do something called completing the square, I'm going to take this coefficient of x eight divided by two and then square it.
+In other words, eight over two squared, that's four squared, which is 16.
+I'm going to add 16 to both sides of my equation.
+So the 16 here, and on the other side, now I'm going to do the same thing to the coefficient of y, negative two divided by two is negative one, square that and I get one.
+So now I'm going to add a one to both sides, but I'll put it near the y terms.
+So add a one there.
+And then to keep things balanced, I have to add it to the other side.
+On the right side, I have the number 13.
+On the left side, I can wrap up this expression x squared plus 8x plus 16 into x plus four squared.
+To convince you, that's correct.
+If we multiply out x plus four times x plus four, we get x squared plus 4x plus 4x plus 16, or x squared plus 8x plus 16, the same thing we have right here.
+Similarly, we can wrap up y squared minus two y plus one as y minus one squared.
+Again, I'll work out the distribution down here, that's y squared minus y minus y plus one, or y squared minus two y plus one, just like we have up here.
+If you're wondering how I knew to use four and minus one, the four came from taking half of eight, and the minus one came from taking half the negative two.
+Now we have an equation for a circle and standard form.
+And we can read off the center, which is negative four, negative one, and the radius, which is the square root of 13.
+It might seem like magic that this trick of taking half of this coefficient and squaring it and adding it to both sides lets us wrap up this expression into this expression a perfect square.
+But to see why that works, let's take a look at what happens if we expand out x minus h squared, the thing that we're trying to get to.
+So if we expand that out, x minus h squared, which is x minus h times x minus h is, which multiplies out to x squared minus HX minus h x plus h squared, or x squared minus two h x plus h squared.
+Now if we start out with this part, with some x squared term and some coefficient of x, we're trying to decide what to add on in order to wrap it up into x minus h squared.
+The thing to add on is h squared here, which comes from half of this coefficient squared, right, because half of negative two H is a negative H, square that you get the H squared.
+And then when we do wrap it up, it's half of this coefficient of x, that appears right here.
+This trick of completing the square is really handy for turning an equation for a circle in disguise, into the standard equation for the circle.
+In this video, we found the standard equation for a circle x minus h squared plus y minus k squared equals r squared, where r is the radius, and h k is the center.
+We also showed a method of completing the square.
+When you have an equation for a circle in disguise, completing the square will help you rewrite it into the standard form.

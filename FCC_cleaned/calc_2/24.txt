@@ -1,0 +1,190 @@
+Convergence of Sequences.
+one half x plus 1/4 sine of 2x plus C.
+This is the same answer that we can find using the integral table in the back of the book.
+Please pause the video for a minute and try to compute the integral of sine squared x dx.
+Using a similar technique.
+You'll want to use the identity sine squared of x is equal to one half minus one Half cosine of 2x.
+If you rewrite the integral, you can integrate like before, and get an answer of one half x minus 1/4 sine of 2x plus C, the same technique can be used to evaluate a lot of other integrals involving even powers of sine and cosine, often with a lot more effort.
+Let's try evaluating the integral of sine to the sixth x dx.
+We know that sine squared of x is equal to one half minus one half cosine of 2x.
+And since six is an even power, we know we can rewrite sine to the sixth as sine squared to the x raised to a power, in this case, the power of three.
+Now let's substitute in our identity.
+I think I'm going to factor out the one half.
+One half cubed is 1/8.
+So I'll pull the one eight out of the integral side and multiply out.
+Now let me divide up my integral into pieces.
+And I'll try to handle each piece separately.
+The integral of one dx, that's easy, that's x, and the integral of cosine of 2x, that's going to be one half times sine of 2x, like before.
+Now to integrate cosine squared of 2x, we can use the same trick we used to integrate cosine squared of x, cosine squared of 2x is going to be one half, plus one half cosine of two times 2x.
+So that's 4x.
+And finally, to integrate cosine cubed of 2x, well, cosine cubed is an odd power, so we can use our odd power trick and save aside one copy of cosine, and turn the remaining cosine squared into one minus sine squared.
+So that looks like this.
+Notice we have one minus sine squared of 2x.
+Because we're replacing a cosine squared of 2x.
+I'll copy the first part down.
+Now integrate one half to get one half x, and I'll integrate one half cosine of forex.
+To get one half times 1/4 sine of forex, we need the 1/4.
+To counteract the four that we get by taking the derivative of sine of 4x.
+And using the chain rule, we can finish off the integration by using a use substitution here where u is sine of 2x.
+And so d u is two cosine of 2x.
+So we can replace this integral here with minus the integral of one minus us squared times, one half do I'll copy the first part down again.
+and integrate that last part, I'll pull out the negative a half, and I get you minus 1/3 u cubed, I need a plus C.
+Now.
+I'll plug back in for you and simplify a little bit.
+And I get a final answer of five sixteenths x minus one for sine of 2x plus 360 fourths sine of 4x plus 148, sine cubed of 2x.
+Oh, and we need a plus C here.
+That's a complicated answer.
+And it was a complicated computation.
+But it was all based on the same sort of tricks as before, using identities like this one, to handle even powers of sine and cosine, and using the Pythagorean identity to handle odd powers.
+In this video, we use these last two identities to rewrite even powers of cosine and sine in terms of lower powers of cosine.
+This trick can be used to compute the integrals of complicated even powers of sine and cosine, provided that you have a lot of time and patience on hand.
+This video is about some special trig integrals, namely, the integral of tangent squared of x and the integral of secant of x.
+these integrals are special only in the sense that there's some special tricks required to integrate them.
+When I come across the integral of tangent squared X, I find myself wishing that I could integrate secant squared x instead, because integrating secant squared x is easy.
+It's just tangent x plus c since the derivative of a tangent secant squared.
+But happily, I know how to rewrite tangent squared in terms of secant, because tangent squared is secant squared minus one.
+So I'll just rewrite this integral as the integral of secant squared minus one.
+And that integrates easily to tangent of x minus x plus C.
+The same sort of trick works to integrate cotangent squared of x, since there's a similar identity, relating cotangent and cosecant every now and then, you have to integrate secant of x.
+There's several possible tricks that can be used to do this.
+One of them is to multiply secant x by secant x plus tangent x in the numerator and denominator.
+Now distributing, we get seacon squared x plus seek index tangent x in the numerator, and secant x plus tangent x in the denominator.
+Since secant squared is the derivative of tangent, and secant tangent is the root of a secant.
+We can say u equal to secant x plus tangent x and have d u, sitting right where we want it in the integrand.
+And finally, to integrate cosine cubed of 2x, well, cosine cubed is an odd power, so we can use our odd power trick and save aside one copy of cosine, and turn the remaining cosine squared into one minus sine squared.
+So that looks like this.
+Notice we have one minus sine squared of 2x.
+Because we're replacing a cosine squared of 2x.
+I'll copy the first part down.
+Now integrate one half to get one half x, and I'll integrate one half cosine of forex.
+To get one half times 1/4 sine of forex, we need the 1/4.
+To counteract the four that we get by taking the derivative of sine of 4x.
+And using the chain rule, we can finish off the integration by using a use substitution here where u is sine of 2x.
+And so d u is two cosine of 2x.
+So we can replace this integral here with minus the integral of one minus us squared times, one half do I'll copy the first part down again.
+and integrate that last part, I'll pull out the negative a half, and I get you minus 1/3 u cubed, I need a plus C.
+Now.
+I'll plug back in for you and simplify a little bit.
+And I get a final answer of five sixteenths x minus one for sine of 2x plus 360 fourths sine of 4x plus 148, sine cubed of 2x.
+Oh, and we need a plus C here.
+That's a complicated answer.
+And it was a complicated computation.
+But it was all based on the same sort of tricks as before, using identities like this one, to handle even powers of sine and cosine, and using the Pythagorean identity to handle odd powers.
+In this video, we use these last two identities to rewrite even powers of cosine and sine in terms of lower powers of cosine.
+This trick can be used to compute the integrals of complicated even powers of sine and cosine, provided that you have a lot of time and patience on hand.
+This video is about some special trig integrals, namely, the integral of tangent squared of x and the integral of secant of x.
+these integrals are special only in the sense that there's some special tricks required to integrate them.
+When I come across the integral of tangent squared X, I find myself wishing that I could integrate secant squared x instead, because integrating secant squared x is easy.
+It's just tangent x plus c since the derivative of a tangent secant squared.
+But happily, I know how to rewrite tangent squared in terms of secant, because tangent squared is secant squared minus one.
+So I'll just rewrite this integral as the integral of secant squared minus one.
+And that integrates easily to tangent of x minus x plus C.
+The same sort of trick works to integrate cotangent squared of x, since there's a similar identity, relating cotangent and cosecant every now and then, you have to integrate secant of x.
+There's several possible tricks that can be used to do this.
+One of them is to multiply secant x by secant x plus tangent x in the numerator and denominator.
+Now distributing, we get seacon squared x plus seek index tangent x in the numerator, and secant x plus tangent x in the denominator.
+Since secant squared is the derivative of tangent, and secant tangent is the root of a secant.
+We can say u equal to secant x plus tangent x and have d u, sitting right where we want it in the integrand.
+So now we just have to integrate one over u d u, which is the ln of u plus C.
+And now plugging back in for you, we get that our original integral of seeking dx evaluates to the natural log of secant x plus tangent x plus a constant.
+A similar trick can be used to evaluate the integral of cosecant x.
+And that's all for the integral of tangent squared, and the integral of secant.
+This video introduces the technique of trig substitution to evaluate integrals involving square root signs like this one.
+There are a few trig identities that are especially useful for this technique.
+The first one's the Pythagorean identity.
+And the second is the related identity that involves tangent and secant.
+There's also a third related identity that involves cotangent cosecant.
+This one could also be used in the method of tree substitution, although it doesn't come up as often as the first two.
+As our first example, let's look at the integral of x squared over the square root of 49 minus x squared.
+According to Wolfram Alpha, this integral evaluates to this expression involving a square root expression kind of an as expected and a sine inverse, which just sort of come seems to come out of the blue here.
+Let's see where this answer comes from.
+Using a trig substitution.
+The inverse sine function in the answer gives us a hint that we may want to substitute in something related to sign, I'm going to substitute in x equals seven sine theta.
+If x is seven sine theta, then dx is going to be seven cosine theta d theta.
+Now I'll substitute in for x and dx in my integral to get the integral of seven sine theta squared over the square root of 49 minus seven sine theta squared times seven cosine theta d theta.
+let me simplify a little.
+I have a seven cubed in the numerator times sine squared theta cosine theta.
+And the nominator I have 49 minus 49 sine squared theta.
+I'll factor out the 49 here.
+And since the square root of 49 is seven, I can pull a seven out of the square root sign.
+Now here is where a little bit of magic occurs.
+I know that one minus sine squared theta is equal to cosine squared The data by the Pythagorean identity, and the square root of cosine squared theta is equal to cosine theta, well, actually, it's equal to the absolute value of cosine theta, which is the same thing as cosine theta, if cosine theta is positive.
+Or in other words, if theta is between pi over two, and negative pi over two, for example, I would really like to replace my square root of one minus sine squared theta by just cosine theta, not the absolute value of cosine theta.
+So I'm just going to assume that theta is between negative pi over two and pi over two when I make my substitution.
+This might seem like cheating, but it's actually legit.
+Because if you think about the unit circle, as theta ranges from negative pi over two to pi over two, well, cosine is always positive like we want it to be.
+But sine is ranging all the way from negative one to one.
+And so we can actually achieve all of the x values between negative seven and seven this way, which are the only x values in the domain of our function anyway.
+Now if we go back to our integral, we can actually replace the square root of one minus sine squared theta with a simple cosine theta, with success successfully gotten rid of this tricky square root sign, which is the whole point behind trig substitution.
+Now, if we simplify, we just have to integrate seven squared sine squared theta, d theta.
+And this is a familiar problem that we can solve using another trig identity.
+So now we just have to integrate one over u d u, which is the ln of u plus C.
+And now plugging back in for you, we get that our original integral of seeking dx evaluates to the natural log of secant x plus tangent x plus a constant.
+A similar trick can be used to evaluate the integral of cosecant x.
+And that's all for the integral of tangent squared, and the integral of secant.
+This video introduces the technique of trig substitution to evaluate integrals involving square root signs like this one.
+There are a few trig identities that are especially useful for this technique.
+The first one's the Pythagorean identity.
+And the second is the related identity that involves tangent and secant.
+There's also a third related identity that involves cotangent cosecant.
+This one could also be used in the method of tree substitution, although it doesn't come up as often as the first two.
+As our first example, let's look at the integral of x squared over the square root of 49 minus x squared.
+According to Wolfram Alpha, this integral evaluates to this expression involving a square root expression kind of an as expected and a sine inverse, which just sort of come seems to come out of the blue here.
+Let's see where this answer comes from.
+Using a trig substitution.
+The inverse sine function in the answer gives us a hint that we may want to substitute in something related to sign, I'm going to substitute in x equals seven sine theta.
+If x is seven sine theta, then dx is going to be seven cosine theta d theta.
+Now I'll substitute in for x and dx in my integral to get the integral of seven sine theta squared over the square root of 49 minus seven sine theta squared times seven cosine theta d theta.
+let me simplify a little.
+I have a seven cubed in the numerator times sine squared theta cosine theta.
+And the nominator I have 49 minus 49 sine squared theta.
+I'll factor out the 49 here.
+And since the square root of 49 is seven, I can pull a seven out of the square root sign.
+Now here is where a little bit of magic occurs.
+I know that one minus sine squared theta is equal to cosine squared The data by the Pythagorean identity, and the square root of cosine squared theta is equal to cosine theta, well, actually, it's equal to the absolute value of cosine theta, which is the same thing as cosine theta, if cosine theta is positive.
+Or in other words, if theta is between pi over two, and negative pi over two, for example, I would really like to replace my square root of one minus sine squared theta by just cosine theta, not the absolute value of cosine theta.
+So I'm just going to assume that theta is between negative pi over two and pi over two when I make my substitution.
+This might seem like cheating, but it's actually legit.
+Because if you think about the unit circle, as theta ranges from negative pi over two to pi over two, well, cosine is always positive like we want it to be.
+But sine is ranging all the way from negative one to one.
+And so we can actually achieve all of the x values between negative seven and seven this way, which are the only x values in the domain of our function anyway.
+Now if we go back to our integral, we can actually replace the square root of one minus sine squared theta with a simple cosine theta, with success successfully gotten rid of this tricky square root sign, which is the whole point behind trig substitution.
+Now, if we simplify, we just have to integrate seven squared sine squared theta, d theta.
+And this is a familiar problem that we can solve using another trig identity.
+Now we've got an integral we can compute.
+So the integral of one half is one half theta, and the integral of cosine of two theta is one half sine of two theta.
+So let me add my constant of integration.
+And I'm almost done, almost, but not quite.
+Because this answer is in terms of theta, and my original problem was in terms of x.
+Now I know that x and theta are related, according to this equation here.
+So if I solve for theta, I get sine theta is equal to x over seven.
+So theta is inverse sine or arc sine of x over seven.
+So I could just plug in for theta here and get seven squared, that's 49 times one half sine inverse x over seven minus one half times one half is 1/4.
+sine of two times sine inverse x over seven plus C.
+This is a correct answer.
+But it's very awkward looking sine of twice sine inverse x over seven, there's got to be a way to simplify this.
+Unfortunately, we can't just pull the two out and cancel the sign with a sine inverse, because sine does work that way.
+But instead, we can use the double angle formula.
+So we can rewrite sine of two theta as twice sine theta cosine theta.
+So let me ignore this line for now.
+And I'll rewrite the above line as 49 times one half theta, minus 1/4 times twice sine theta, cosine theta Now we've got an integral we can compute.
+So the integral of one half is one half theta, and the integral of cosine of two theta is one half sine of two theta.
+So let me add my constant of integration.
+And I'm almost done, almost, but not quite.
+Because this answer is in terms of theta, and my original problem was in terms of x.
+Now I know that x and theta are related, according to this equation here.
+So if I solve for theta, I get sine theta is equal to x over seven.
+So theta is inverse sine or arc sine of x over seven.
+So I could just plug in for theta here and get seven squared, that's 49 times one half sine inverse x over seven minus one half times one half is 1/4.
+sine of two times sine inverse x over seven plus C.
+This is a correct answer.
+But it's very awkward looking sine of twice sine inverse x over seven, there's got to be a way to simplify this.
+Unfortunately, we can't just pull the two out and cancel the sign with a sine inverse, because sine does work that way.
+But instead, we can use the double angle formula.
+So we can rewrite sine of two theta as twice sine theta cosine theta.
+So let me ignore this line for now.
+And I'll rewrite the above line as 49 times one half theta, minus 1/4 times twice sine theta, cosine theta plus C.
+plus C.
+Now there's one more trick we need to use.
+And that trick is to draw a right triangle.
+I'm going to label the sides of that triangle using the equation for the substitution we

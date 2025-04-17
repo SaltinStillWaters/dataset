@@ -1,0 +1,97 @@
+Derivatives as Functions and Graphs of Derivatives.
+of a function as being a function in itself, we relate the graph of a function to the graph of its derivative, and we'll talk about where the derivative does not exist.
+We've seen that for a function f of x and a number A, the derivative of f of x at x equals A is given by this formula.
+But what if we let a very, if we compute f prime of a lots of different values of a, we can think of the derivative of f prime as itself being a function, I'm going to rewrite this definition of derivative with x in the place of a just to make it look a little more like standard function notation.
+So f prime as a function of x is the limit as h goes to zero of f of x plus h minus f of x over h.
+This isn't anything substantially different from what we've been doing before, it's just a difference in perspective.
+So let's do one more example of computing the derivative by hand using the definition, but a general number x instead of a specific value, the function we're going to use is f of x equals one over x.
+And first, let's just write down the definition of derivative in general.
+So f prime of x is given by this formula.
+And using the fact that f of x is one over x, I can rewrite this as one over x plus h minus one over x all over h.
+So as usual, this is a zero over zero indeterminate form.
+If I plug in zero for H, I'm just going to get one over x minus one over x on the numerator, which is zero.
+and plugging in zero for H gives me zero on the denominator two.
+So I'll need to use some algebra to rewrite things to get an A form that I can evaluate it.
+Let's add together our fractions in the numerator here.
+The common denominator I need to use is x plus h times x.
+So I multiply this fraction by x over x and the next fraction by x plus h over x plus h.
+All that's over h.
+And now continuing, I get x minus x plus h over x plus h times X and instead of dividing the whole thing by h here, multiply by one over h to get the limit have x minus x minus h over x plus h times x times h.
+Now I can subtract off my x's here.
+And after I do that, I can divide my minus h by my H, to get just a minus one on the numerator here.
+So that's just the limit of negative one over x plus h times x.
+And now I'm in a good position because I can plug in H equals zero and get something that makes sense.
+Namely, I'm getting a limit of negative one over x plus zero times x or negative one over x squared as my derivative.
+In this example, we're given the graph of a function that's supposed to represent the height of an alien spaceship above the Earth's surface, we want to graph the rate of change.
+The rate of change means the derivative of our function, but we're not given an equation to work with.
+So we'll just have to estimate the derivative based on the shape of the graph by thinking about slopes of tangent lines.
+I'll start by drawing a new set of axes where I can graph my derivative.
+And I'll consider my original function, which I'll call g of x, piece by piece.
+For x values between zero and two, my original function g of x looks like a line, it has slope negative one, since the rise is negative two, while the run is two, for any point on the straight line segment, the tangent line will also be a straight line with slope negative one, and therefore, the derivative will be negative one.
+For x values between zero and two, I'm going to ignore the time being what happens when x is exactly zero or exactly two, and just look at the interval of X values between two and three.
+Here, g of x is completely flat.
+So tangent lines at any of these points will have slope zero.
+And I'll draw a derivative of zero.
+When x is between two and three, I'll postpone worrying about the derivative when x is exactly three.
+And just think about the derivative when x is between three and five, where g of x is flat again, so it's tangent lines will have slopes of zero.
+And I'll draw again, a derivative is zero when x is between three and five.
+Now things get a little more interesting.
+As x increases from five to about seven, g of x is an increasing function.
+The slope of tangent lines here are positive, starting at about, say, a slope of three, and decreasing to a slope of zero, when x is seven, I can draw that down here.
+As x increases from seven, the tangent lines now have negative slopes, going to a maximum negative slope of about negative one here, and then heading towards a slope of zero, when x is just shy of 10.
+My estimates of three and negative one for the slopes of my tangent lines are just rough estimates based on approximating the rise over the run.
+As x increases from 10, the tangent line slope is positive, and getting steeper and steeper, so my derivative is going to be positive and increasing.
+That's the basic shape of the derivative.
+Now let's see what happens at these special points like 235 and zero.
+To figure out the derivative at x equals two, let's go back to the definition of derivative as the limit of the slopes of the secant lines.
+If I draw a secant line, using a point on the left, I'll just get this line that lines up with this line and has a slope of negative one.
+But if I compute the slope of a secant line, using a point on the right, I'll get a slope of zero.
+So the limit from the left and the limit from the right of the slopes of my secret lines will be different.
+And so my limit does not exist and my derivative does not exist.
+And so I'll just draw this as an open circle at x equals two.
+Next, let's look at the derivative when x equals three.
+Remember that the derivative at three is the limit as h goes to zero, of g of three plus h minus g of three over eight.
+Well, if H is bigger than zero, then g of three plus H is going to be about a half, because three plus H is to the right of three.
+On the other hand, if H is less than zero, g of three, plus H is two, because three plus H is actually a number less than three, g of three itself is equal to one half, based on the filled in bubble here.
+so if we calculate the limit, as h goes to zero from the positive side, we get the limit of one half minus one half over age, which is just the limit of zeros, so that's zero.
+On the other hand, if we compute the limit from the left, we get the limit of two minus a half over eight, which is the limit of three halves over h.
+And as h goes to zero, that limit is negative infinity.
+So once again, the left limit and write limit are not equal.
+And so the limit of the slopes of the secant lines does not exist, and there's no derivative at x equals three.
+And I'll draw an open circle there to add x equals five, again, we have a corner.
+And by the same sort of argument, we can conclude that the derivative does not exist.
+And finally, when x equals zero, we can only have a limit from the right not the left.
+And so by that sort of technical reason, we don't have a derivative at that left endpoint either.
+So we've drawn a rough graph of the rate of change of the height of our alien spaceship, as it comes closer to Earth beams down to pick up Earthlings and then makes us escape up to the mothership.
+It's interesting to observe that the domain of the original function g of x is from zero to infinity, but the domain of g prime is somewhat smaller, and just goes from zero to two, then from two to three, then from three to five, and finally, from five to infinity, missing some places where the function originally existed.
+We saw in the previous example, that the derivative doesn't necessarily exist at all the x values where the original function exists.
+Please pause the video for a moment and try to come up with as many different ways as you can, that a derivative can fail to exist at an x value x equals a.
+Well, one kind of boring way that a function can fail to have a derivative at x equals A is if f of x itself fails to exist.
+at x equals a, for example, if it has a hole, like in this picture, we saw in the previous example, with the alien spacecraft, that a derivative can fail to exist when the function turns a corner.
+When we tried to evaluate the derivative in that example, by taking the limit of the slope of the secant lines, the limit from the left, and a limit from the right did not agree.
+A famous example of a function that turns a corner is the absolute value function.
+For the absolute value function, f prime of x is negative one, since the slope here is negative one, when x is less than zero, and it's positive one when x is greater than zero, but f prime of zero itself does not exist.
+A function with a casp also fails to have a derivative at the cusp.
+In the alien spaceship example, we also saw that F can fail to have a derivative at a discontinuity.
+But there's another way that a derivative can fail to exist, even when f has no cost per corner discontinuity.
+Let's look at the function f of x equals x to the 1/3 graphed here, what's going on at x equals zero.
+At that instant, the tangent line is a vertical with a slope that's infinite or undefined.
+So the limit of the slopes of the secant lines will fail to exist because it'll be infinite.
+A function is called differentiable at x equals a, if the derivative exists at a function is differentiable on an open interval, if f is differentiable at every point in that interval.
+So all of the examples on the previous slides are examples of places where a function is not differentiable.
+All of these examples are important.
+But I'm going to focus on the example involving discontinuity.
+In general, if f of x is not continuous at x equals a, then f is not differentiable at x equals a.
+This is what we saw in the example involving the jump discontinuity.
+an equivalent way of saying the same thing is that f is differentiable at x equals a, then f has to be continuous at x previous slides are examples of places where a function is not differentiable.
+All of these examples are important.
+But I'm going to focus on the example involving discontinuity.
+In general, if f of x is not continuous at x equals a, then f is not differentiable at x equals a.
+This is what we saw in the example involving the jump discontinuity.
+an equivalent way of saying the same thing is that f is differentiable at x equals a, then f has to be continuous at x equals a.
+equals a.
+However, if all we know is that f is continuous at x equals a, then we can't conclude anything about whether or not is differentiable there, f may or may not be differentiable at x equals a.
+Remember the square root example, the square root of x is continuous at x equals zero, but it's not differentiable there because of the corner.
+In this video, we related the graph of a function to the graph of its derivative.
+By thinking about the slopes of tangent lines, we also looked at several ways that a derivative can fail to exist at a point and noted that if a function is differentiable, it has to be continuous.
+This video gives a proof that

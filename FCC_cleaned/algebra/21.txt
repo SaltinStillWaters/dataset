@@ -1,0 +1,84 @@
+Transformations of Functions.
+in predictable ways.
+This video gives some rules and examples for transformations of functions.
+To get the most out of this video, it's helpful if you're already familiar with the graph of some typical functions, I call them toolkit functions like y equals square root of x, y equals x squared, y equals the absolute value of x and so on.
+If you're not familiar with those graphs, I encourage you to watch my video called toolkit functions first, before watching this one.
+I want to start by reviewing function notation.
+If g of x represents the function, the square root of x, then we can rewrite these expressions in terms of square roots.
+For example, g of x minus two is the same thing as the square root of x minus two.
+g of quantity x minus two means we plug in x minus two, everywhere we see an x, so that would be the same thing as the square root of quantity x minus two.
+In this second example, I say that we're subtracting two on the inside of the function, because we're subtracting two before we apply the square root function.
+Whereas on the first example, I say that the minus two is on the outside of the function, we're doing the square root function first and then subtracting two.
+In this third example, g of 3x, we're multiplying by three on the inside of the function.
+To evaluate this in terms of square root, we plug in the entire 3x for x and the square root function.
+That gives us the square root of 3x.
+In the next example, we're multiplying by three on the outside of the function.
+This is just three times the square root of x.
+Finally, g of minus x means the square root of minus x.
+Now, this might look a little odd because we're not used to taking the square root of a negative number.
+But remember that if x itself is negative, like negative to the negative x will be negative negative two or positive two.
+So we're really be taking the square root of a positive number in that case, let me record which of these are inside and which of these are outside of my function.
+In this next set of examples, we're using the same function g of x squared of x.
+But this time, we're starting with an expression with square roots in it, and trying to write it in terms of g of x.
+So the first example, the plus 17 is on the outside of my function, because I'm taking the square root of x first, and then adding 17.
+So I can write this as g of x plus 17.
+In the second example, I'm taking x and adding 12 first, then I take the square root of the whole thing.
+Since I'm adding the 12 to x first that's on the inside of my function.
+So I write that as g of the quantity x plus 12.
+Remember that this notation means I plug in the entire x plus 12, into the square root sign, which gives me exactly square root of x plus 12.
+And this next example, undoing the square root first and then multiplying by negative 36.
+So i minus 36, multiplications, outside my function, I can rewrite this as minus 36 times g of x.
+Finally, in this last example, I take x multiplied by a fourth and then apply the square root of x.
+So that's the same thing as g of 1/4 X, my 1/4 X is on the inside of my function.
+In other words, it's inside the parentheses when I use function notation.
+Let's graph the square root of x and two transformations have this function, y equals the square root of x goes to the point 0011.
+And for two, since the square root of four is two, it looks something like this.
+In order to graph y equals the square root of x minus two, notice that the minus two is on the outside of the function, that means we're going to take the square root of x first and then subtract two.
+So for example, if we start with the x value of zero, and compute the square root of zero, that's zero, then we subtract two to give us a y value of negative two, an x value of one, which under the square root function had a y value of one now has a y value that's decreased by two, one minus two is negative one.
+And finally, an x value of four, which under the square root function had a y value of two now has a y value of two minus two or zero, its y value is also decreased by two.
+If I plot these new points, zero goes with negative two, one goes with negative one, and four goes with zero, I have my transformed graph.
+Because I subtracted two on the outside of my function, my y values were decreased by two, which brought my graph down by two units.
+Next, let's look at y equals the square root of quantity x minus two.
+Now we're subtracting two on the inside of our function, which means we subtract two from x first and then take the square root.
+In order to get the same y value of zero as we had in our blue graph, we need our x minus two to be zero, so we need our original x to be two.
+In order to get the y value of one that we had in our blue graph, we need to be taking the square root of one, so we need x minus two to be one, which means that we need to start with an x value of three.
+And in order to reproduce our y value of two from our original graph, we need the square root of x minus two to be two, which means we need to start out by taking the square root of four, which means our x minus two is four, so our x should be up there at six.
+If I plot my x values, with my corresponding y values of square root of x minus two, I get the following graph.
+Notice that the graph has moved horizontally to the right by two units.
+To me, moving down by two units, makes sense because we're subtracting two, so we're decreasing y's by two units, but the minus two on the inside that kind of does the opposite of what I expect, I might expected to to move the graph left, I might expect the x values to be going down by two units, but instead, it moves the graph to the right, because the x units have to go up by two units in order to get the right square root when I then subtract two units again, the observations we made for these transformations of functions hold in general, according to the following rules.
+First of all, numbers on the outside of the function like In our example, y equals a squared of x minus two, those numbers affect the y values.
+And a result in vertical motions, like we saw, these motions are in the direction you expect.
+So subtracting two was just down by two.
+If we were adding two instead, that would move us up by two numbers on the inside of the function.
+That's like our example, y equals the square root of quantity x minus two, those affect the x values and results in a horizontal motion, these motions go in the opposite direction from what you expect.
+Remember, the minus two on the inside actually shifted our graph to the right, if it had had a plus two on the inside, that would actually shift our graph to the left.
+Adding results in a shift those are called translations, but multiplying like something like y equals three times the square root of x, that would result in a stretch or shrink.
+In other words, if I start with the square root of x, and then when I graph y equals three times the square root of x, that stretches my graph vertically by a factor of three.
+Like this, if I want to graph y equals 1/3, times the square root of x, that shrinks my graph vertically by a factor of 1/3.
+Finally, a negative sign results in reflection.
+For example, if I start with the graph of y equals the square root of x, and then when I graph y equals the square root of negative x, that's going to do a reflection in the horizontal direction because the negative is on the inside of the square root sign.
+A reflection in the horizontal direction means a reflection across the y axis.
+If instead, I want to graph y equals negative A squared of x, that negative sign on the outside means a vertical reflection, a reflection across the x axis.
+Pause the video for a moment and see if you could describe what happens in these four transformations.
+In the first example, we're subtracting four on the outside of the function.
+adding or subtracting means a translation or shift.
+And since we're on the outside of the function affects the y value, so that's moving us vertically.
+So this transformation should take the square root of graph and move it down by four units, that would look something like this.
+In the next example, we're adding 12 on the inside, that's still a translation.
+But now we're moving horizontally.
+And so since we go the opposite direction, we expect we are going to go to the left by 12 units, that's going to look something like this.
+And the next example, we're multiplying by three and introducing a negative sign both on the outside of our function outside our function means we're affecting the y values.
+So in multiplication means we're stretching by a factor of three, the negative sign means we reflect in the vertical direction, here's stretching by a factor of three vertically, before I apply the minus sign, and now the minus sign reflects in the vertical direction.
+Finally, in this last example, we're multiplying by one quarter on the inside of our function, we know that multiplication means stretch or shrink.
+And since we're on the inside, it's a horizontal motion, and it does the opposite of what we expect.
+So instead of shrinking by a factor of 1/4, horizontally, it's actually going to stretch by the reciprocal, a factor of four horizontally.
+that'll look something like this.
+Notice that stretching horizontally by a factor of four looks kind of like shrinking vertically by a factor of one half.
+And that's actually borne out by the algebra, because the square root of 1/4 x is the same thing as the square root of 1/4 times the square root of x, which is the same thing as one half times the square root of x.
+And so now we can see algebraically that vertical shrink by a factor of one half is the same as a horizontal stretch by a factor of four, at least for this function, the square root function.
+This video gives some rules for transformations of functions, which I'll repeat below.
+numbers on the outside correspond to changes in the y values, or vertical motions.
+numbers on the inside of the function, affect the x values, and result in horizontal motions.
+Adding and subtracting corresponds to translations or shifts.
+multiplying and dividing by numbers corresponds to stretches and shrinks and putting in a negative sign.
+corresponds to a reflection, horizontal reflection, if the negative sign is on the inside, and a vertical reflection, if the negative sign is on the outside, knowing these basic rules about transformations empowers you to be able to sketch graphs of much more complicated functions, like y equals three times the square root of x plus two, by simply considering the transformations, one at a time.

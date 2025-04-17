@@ -1,0 +1,52 @@
+Polar Coordinates.
+Polar Coordinates give an alternative way of describing the location of points on the plane.
+Instead of describing a point in terms of its x and y coordinates, those are the Cartesian coordinates of the point.
+When using polar coordinates, we instead describe the point in terms of radius r, and an angle theta.
+r is the distance of the point from the origin and theta is the angle that radius line makes with the positive x axis.
+Let's plot these points given in polar coordinates.
+So the eight here is the value of the radius, and the negative two thirds pi is the value of the angle theta.
+The negative angle means that I need to go clockwise from the positive x axis, instead of counterclockwise, like I normally would for a positive angle.
+So here, a negative two thirds pi means that I need to go to this line right here.
+And the eight of for the radius means I need to go eight lines out from the origin.
+So my point should be around right here.
+The next point has a radius of five and an angle of three pi.
+The angle of positive three pi means that I go counterclockwise starting at the positive x axis, here, I've gone around by two pi.
+And here, I've got an extra pi to make three pi.
+Now the radius of five means I need to go five units out from the origin.
+So that puts me about right here.
+Notice that I could have also labeled this point with the polar coordinates of five Pi, there's more than one way to assign polar coordinates to a point.
+The next point has an angle of pi over four, and a radius of negative 12.
+The negative radius means that I need to jump to the other side of the circle before I plot the point.
+In other words, instead of plotting the point at an angle of pi over four and a radius of 12, which would be about right here, I go to the opposite side of the circle, and plotted at the same distance from the origin, but 180 degrees or pi radians around the circle over here.
+Now I could have also labeled this point using a positive radius of 12.
+And using an angle of pi over four plus pi, or five pi over four.
+And in general, a point with polar coordinates of negative r theta means the same point as the point with polar coordinates r, theta plus pi, adding pi just makes us jump around to the opposite side of the circle.
+To convert between polar and Cartesian coordinates, it's handy to use the following equations.
+First, x is equal to r cosine theta, y is equal to r sine theta r squared is equal to x squared plus y squared, which means that R is plus or minus the square root of x squared plus y squared.
+And tangent theta is equal to y divided by x.
+Let's see where these equations come from.
+If we draw a point with coordinates, x, y, and draw lines to make a right triangle, the height of that triangle is y, the length of the base is x.
+And the high partners has length r, theta is the measure of this interior angle.
+From trig, we know that cosine theta is equal to adjacent over high partners.
+So that's x over r, which means that x is equal to r cosine theta.
+Similarly, sine theta is opposite over hypotenuse, that's y over r, which means that y is equal to r sine theta.
+That gives us the first two equations.
+The Pythagorean Theorem tells us that x squared plus y squared is equal to r squared.
+And that gives us the third equation.
+Finally, tangent theta is opposite over adjacent.
+So that's y over x, which is the fourth equation.
+To convert five, negative pi over six from polar to Cartesian coordinates, we just use the fact that x equals r cosine theta, and y equals r sine theta.
+So in this case, x is equal to five times cosine of negative pi over six, that's five times square root of three over two, and y is equal to five sine negative pi over six.
+So that's equal to negative five halves to convert negative one, negative one From Cartesian to polar coordinates, we know that negative one and negative one are x and y values.
+So we need to use the fact that r squared is x squared plus y squared, that is r squared is negative one squared plus negative one squared are two.
+Also, tangent theta is y over x, so that's negative one over negative one, or one.
+Now there's several values of r and theta that satisfy these equations are could be squared of two, or negative the square root of two, and theta could be Pi over four, or five pi over four.
+Or we could add multiples of two pi to either of these answers.
+But not all combinations of r and theta, get us to the right point.
+The point with Cartesian coordinates negative one negative one lies in the third quadrant.
+But if we use a theta value of say, pi over four and an R value of square root of two, that would get us to the first quadrant.
+So instead, we need to use the polar coordinates of square root of two and five pi over four.
+Or if we prefer, negative square root of two, and pi over four.
+We could also add any multiple of two pi to either of these values of theta, and get yet another way of representing the point and polar coordinates.
+This video talked about polar coordinates, and converting between Cartesian coordinates and polar coordinates, using some familiar equations from trig.
+This

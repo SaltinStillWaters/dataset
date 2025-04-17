@@ -1,0 +1,34 @@
+Combining Functions.
+This video is about combining functions by adding them subtracting them multiplying and dividing them.
+Suppose we have two functions, f of x equals x plus one and g of x equals x squared.
+One way to combine them is by adding them together.
+This notation, f plus g of x means the function defined by taking f of x and adding it to g of x.
+So for our functions, that means we take x plus one and add x squared, I can rearrange that as the function x squared plus x plus one.
+So f plus g evaluated on x means x squared plus x plus one.
+And if I wanted to evaluate f plus g, on the number two, that would be two squared plus two plus one, or seven.
+Similarly, the notation f minus g of x means the function we get by taking f of x and subtracting g of x.
+So that would be x plus one minus x squared.
+And if I wanted to take f minus g evaluated at one, that would be one plus one minus one squared, or one, the notation F dot g of x, which is sometimes also written just as f g of x.
+That means we take f of x times g of x.
+In other words, x plus one times x squared, which could be simplified as x cubed plus x squared.
+The notation f divided by g of x means I take f of x and divided by g of x.
+So that would be x plus one divided by x squared.
+In this figure, the blue graph represents h of x.
+And the red graph represents the function p of x, we're asked to find h minus p of zero.
+We don't have any equations to work with, but that's okay.
+We know that for any x, h minus p of x is defined as h of x minus p of x.
+So for x equals zero, H minus p of zero is going to be h of zero minus p of zero.
+Using the graph, we can find h of zero by finding the value of zero on the x axis, and finding the corresponding y value for the function h of x.
+So that's about 1.
+8.
+Now P of zero, we can find similarly by looking for zero on the x axis, and finding the corresponding y value for the function p of x, and that's a y value of one 1.
+8 minus one is 0.
+8.
+So that's our approximate value for H minus p of zero.
+If we want to find P times h of negative three, again, we can rewrite that as P of negative three times h of negative three.
+And using the graphs, we see that for an x value of negative three, the y value for P is two.
+And the x value of negative three corresponds to a y value of negative two for H.
+Two times negative two is negative four.
+So that's our value for P times h of negative three.
+In this video, we saw how to add two functions, subtract two functions, multiply two functions, and divide two functions in the following way.
+When you compose two functions, you apply

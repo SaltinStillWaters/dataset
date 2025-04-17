@@ -1,0 +1,40 @@
+Related Rates - Volume and Flow.
+function is out.
+Now it's somewhat reasonable, I think that C of x might be a linear function of x like it is here, if you've got the same cost per t shirt, whether you make 10 t shirts, or 1000 t shirts, the slope in that case would represent the cost per t shirt.
+And the linear function would mean that cost per t shirt is constant, no matter how many t shirts you're making.
+But in reality, it's probably going to be cheaper to make 1000 t shirts than it is to make just a few t shirts.
+And therefore the cost per t shirt, sure slope should be going down as x increases.
+So this function right here is the one whose slope is going down for larger access.
+And so I would say that this is the most reasonable representation for C of x as a function of x.
+In other words, C of x should be an increasing function, but C prime of x should be decreasing.
+C of 204 minus C of 200 represents the additional cost for making 204 t shirts instead of 200.
+In formula, you might think of that as the cost of making the last four t shirts.
+The ratio C of 200 for a minus C of 200 over four is the average rate of change of C of x.
+The units are units of cost, which is probably dollars per t shirt.
+And formula you might think of this as the additional cost per t shirt of making the last four t shirts.
+C prime of 200 is the instantaneous rate of change of C of x.
+c of x is known as the cost function.
+And C prime of x is called the marginal cost, which is the rate at which cost is increasing per additional t shirt made.
+It might seem a little bit weird to take the derivative of C of x since x can really only take on integer values.
+But we can always approximate C of x with a function whose domain is all real numbers.
+To make this a little more specific, let's use a cost function of C of x equals 500 plus 300 times the square root of x.
+In this example, x is supposed to be the number of iPads that are produced, and C of x is the cost of producing them in dollars.
+Then C of 401 minus C of 400.
+given by 500 plus 300, times the square root of 401 minus 500 plus 300 times the square root of 400.
+This simplifies to $7.
+50, rounded to the nearest cent.
+This means that it costs an additional $7.
+50 to go from producing 400 iPads to 401 iPad.
+In this fictitious example, I'm going to sketch a few graphs, and you try to decide which graph is the most reasonable representation for C of x.
+Pause the video for a moment to think about it.
+All of these candidate graphs that I've drawn have a nonzero y intercept, that's meant to reflect the idea that there's some fixed startup cost and buying equipment before you can even get started.
+Now, I would like to suggest that C of x should be an increasing function of x, because it's going to cost more money to make more t shirts, you need more supplies and labor.
+So this function is out.
+Now it's somewhat reasonable, I think that C of x might be a linear function of x like it is here, if you've got the same cost per t shirt, whether you make 10 t shirts, or 1000 t shirts, the slope in that case would represent the cost per t shirt.
+And the linear function would mean that cost per t shirt is constant, no matter how many t shirts you're making.
+But in reality, it's probably going to be cheaper to make 1000 t shirts than it is to make just a few t shirts.
+And therefore the cost per t shirt, sure slope should be going down as x increases.
+So this function right here is the one whose slope is going down for larger access.
+And so I would say that this is the most reasonable representation for C of x as a function of x.
+In other words, C of x should be an increasing function, but C prime of x should be decreasing.
+C of 204 minus C of 200 represents the additional cost

@@ -1,0 +1,1725 @@
+Polar Coordinates.here, that A is not equal zero, since otherwise,
+we'd have a very boring though convergent sequence of all zeros. I want to restate this
+convergence criteria in limit form, since we'll use it later. But it's saying is that
+when r is between negative one and one, the limit, as K goes to infinity of A times r
+to the K is zero, that's what it means to converge to zero. when r is equal to one,
+that limit is equal to A. And when r is less than or equal to negative one or greater than
+one, that limit does not exist as a finite number. Now I'd like to find similar rules
+in terms of r for when a geometric series converges or diverges. Again, we'll assume
+that a is not equal to zero. Since otherwise, I just have a sum of a bunch of zeros, a boring
+series that would converge to zero. Our strategy is going to be to find a formula for the nth
+partial sum of the series, and then take the limit of partial sums. Since by definition,
+that limit tells us whether the series converges or diverges. Before we carry out that strategy,
+I want to consider one special case, when r is equal to one, then the series is just
+a plus a plus a, and so that diverges to infinity if A is positive, or to negative infinity,
+if a is negative, remember, we're assuming that A is not zero. so far is one our series
+diverges. And from now on, we'll assume that R is not equal to one. Let's look at a few
+partial sums. The first partial sum S sub one, just the first term A, S sub two is a
+plus a times R, and so on. In general, the nth partial sum s sub n is a plus a times
+r plus a times r squared. And I continue until let's see, the last term will be a times r
+to the n minus one, the second last term will be a times r to the n minus two. Notice that
+the nth partial sum only goes up to A times r to the n minus one. Since we're starting
+at a which is a 10 to the zero. I'd like to write the partial sum in a nicer form, so
+I don't have to write all those dots. And to do that, I'm going to use a trick, I'm
+going to multiply both sides of this equation by R. So on the left, I get r times s sub
+n. And on the right, I'm going to multiply each term by R. So the first term becomes
+a times R, the second term A times r squared, a times r cubed, and so on, the second to
+last term becomes a times r to the n minus one, and the last term becomes a times r to
+the n. Notice that this equation, and the equation under it have a lot of terms in common,
+they match up along the diagonals. So if I subtract the second equation from the first,
+on the left side, I'm going to get s sub n minus r times s sub n. But on the right side,
+a lot of my terms will cancel, this term will cancel the next one, this one cancels with
+the previous one. And what I'm left with is just a minus a times r to the n, I get a minus
+sign here, because I'm subtracting the whole equation. Now I can solve for a sub n, I can
+factor it out. I'll factor out the A also just to keep things tidy. And then I get that
+s sub n is a times one minus r to the n over one minus R. I don't have to worry about dividing
+by one minus r that can't be zero, because remember, I'm assuming that R is not one.
+Now that I have a nice tidy formula for s sub n, I can proceed to take the limit as
+n goes to infinity and see if my sequence of partial sums converges or diverges sets
+the limit of my formula. And notice that the only part of this formula that depends on
+n is the art of the N, a one one minus are all constants as far as n is concerned. So
+we can use limit rurals. To take those out of the limit, I can rewrite the limit as a
+over one minus r times the limit of one minus r to the n or even better as a over one minus
+r times one minus the limit of r to the n. Now this limit I've seen before, right on
+this page, is the same as the limit I was considering when I was looking at convergence
+of sequences, where I use the same R, and my A is equal to one. So we know that this
+limit goes to zero, when r is between negative one and one, and does not exist as a finite
+number. when r is less than or equal to negative one, or r is greater than one. Therefore,
+the limit of the partial sums is going to equal a over one minus r times one minus zero,
+which is just a over one minus r, when r is between negative one and one, and that limit,
+will not exist as a finite number. when r is less than or equal to negative one, or
+r is greater than one. Since the limit also doesn't exist as a finite number, when r is
+one, I can add a little equality sign. And now I've got all this cases for our covered
+me write this down as a conclusion. The geometric series converges to a over one minus R. As you may know, a geometric sequence converges
+to zero, when the common ratio R is between negative one and one, it converges to a, when
+r is equal to one, and it diverges. Otherwise, when r is less than or equal to negative one,
+or when r is greater than one. We're assuming here, that A is not equal zero, since otherwise,
+we'd have a very boring though convergent sequence of all zeros. I want to restate this
+convergence criteria in limit form, since we'll use it later. But it's saying is that
+when r is between negative one and one, the limit, as K goes to infinity of A times r
+to the K is zero, that's what it means to converge to zero. when r is equal to one,
+that limit is equal to A. And when r is less than or equal to negative one or greater than
+one, that limit does not exist as a finite number. Now I'd like to find similar rules
+in terms of r for when a geometric series converges or diverges. Again, we'll assume
+that a is not equal to zero. Since otherwise, I just have a sum of a bunch of zeros, a boring
+series that would converge to zero. Our strategy is going to be to find a formula for the nth
+partial sum of the series, and then take the limit of partial sums. Since by definition,
+that limit tells us whether the series converges or diverges. Before we carry out that strategy,
+I want to consider one special case, when r is equal to one, then the series is just
+a plus a plus a, and so that diverges to infinity if A is positive, or to negative infinity,
+if a is negative, remember, we're assuming that A is not zero. so far is one our series
+diverges. And from now on, we'll assume that R is not equal to one. Let's look at a few
+partial sums. The first partial sum S sub one, just the first term A, S sub two is a
+plus a times R, and so on. In general, the nth partial sum s sub n is a plus a times
+r plus a times r squared. And I continue until let's see, the last term will be a times r
+to the n minus one, the second last term will be a times r to the n minus two. Notice that
+the nth partial sum only goes up to A times r to the n minus one. Since we're starting
+at a which is a 10 to the zero. I'd like to write the partial sum in a nicer form, so
+I don't have to write all those dots. And to do that, I'm going to use a trick, I'm
+going to multiply both sides of this equation by R. So on the left, I get r times s sub
+n. And on the right, I'm going to multiply each term by R. So the first term becomes
+a times R, the second term A times r squared, a times r cubed, and so on, the second to
+last term becomes a times r to the n minus one, and the last term becomes a times r to
+the n. Notice that this equation, and the equation under it have a lot of terms in common,
+they match up along the diagonals. So if I subtract the second equation from the first,
+on the left side, I'm going to get s sub n minus r times s sub n. But on the right side,
+a lot of my terms will cancel, this term will cancel the next one, this one cancels with
+the previous one. And what I'm left with is just a minus a times r to the n, I get a minus
+sign here, because I'm subtracting the whole equation. Now I can solve for a sub n, I can
+factor it out. I'll factor out the A also just to keep things tidy. And then I get that
+s sub n is a times one minus r to the n over one minus R. I don't have to worry about dividing
+by one minus r that can't be zero, because remember, I'm assuming that R is not one.
+Now that I have a nice tidy formula for s sub n, I can proceed to take the limit as
+n goes to infinity and see if my sequence of partial sums converges or diverges sets
+the limit of my formula. And notice that the only part of this formula that depends on
+n is the art of the N, a one one minus are all constants as far as n is concerned. So
+we can use limit rurals. To take those out of the limit, I can rewrite the limit as a
+over one minus r times the limit of one minus r to the n or even better as a over one minus
+r times one minus the limit of r to the n. Now this limit I've seen before, right on
+this page, is the same as the limit I was considering when I was looking at convergence
+of sequences, where I use the same R, and my A is equal to one. So we know that this
+limit goes to zero, when r is between negative one and one, and does not exist as a finite
+number. when r is less than or equal to negative one, or r is greater than one. Therefore,
+the limit of the partial sums is going to equal a over one minus r times one minus zero,
+which is just a over one minus r, when r is between negative one and one, and that limit,
+will not exist as a finite number. when r is less than or equal to negative one, or
+r is greater than one. Since the limit also doesn't exist as a finite number, when r is
+one, I can add a little equality sign. And now I've got all this cases for our covered
+me write this down as a conclusion. The geometric series converges to a over one minus R. For For r between negative one and one, I can also
+say that's the absolute value of r less than one, and it diverges for the absolute value
+of r greater than or equal to one. Let's use this fact in this example. Remember that we
+decided that this was a geometric series with a common ratio r equal to negative one night,
+and we found the first term a by plugging in i equals two, and I got that first term
+of 1/3. Since the absolute value of our sales value of negative 1/9 is 1/9, which is less
+than one, we know that the series converges, and it converges to a over one minus r, so
+that's 1/3 over one minus negative one nights, which is 1/3 over one plus one night, that's
+1/3 over 10 nights, which simplifies to three tenths. In this video, we looked at geometric
+series, with first term a common ratio R, we saw that a geometric series will converge
+if the absolute value of r is less than one. And they'll diverged if the absolute value
+of r is greater than or equal to one. In the case that it converges, it converges to a
+over one minus r, where A is the first term, and r is the common ratio. This video explains
+how to determine whether a series converges or diverges using an integral. Let's start
+with the series, the sum of one over n squared. Please pause the video for a moment and think
+about why this might converge or diverge. The sum from n equals one to infinity of one
+over n squared is closely related to the integral from one to infinity of one over x squared
+dx. Let me show you what I mean. In this picture, I've graphed the function y equals one over
+x squared in blue. in green, I've drawn a bunch of rectangles, I've divided the x axis
+into sub intervals of length one, and so each rectangle has a base of length one, and a
+height given by my functions value on the right endpoint of the sub interval. So the
+first rectangle has a base of one and a height of one, so it has an area of one, the second
+rectangle has a base of one and a height of one over two squared, so that's 1/4. So the
+area here is 1/4. The next rectangle base of one again, and a height of 1/9, and so
+on. The area of each rectangle is just the same as its height, and its height is just
+given by one over n squared for the appropriate value of n In other words, if I write out
+the first few terms of this series, it's exactly the same as the areas of my rectangles. And
+the sum of my series is just going to be the total green area. Now my integral can also
+be thought of in terms of area, this integral represents the area from one to infinity.
+Under my blue curve, we know that this area is finite, because we know that this integral
+converges by the P test where p is two. Now if I just look at the rectangles, starting
+with the second rectangle on, all of those rectangles will lie below the blue curve,
+and to the right of the line x equals one, so they will have a smaller area, and therefore
+the area of these rectangles from the second one on has to converge to a finite number.
+That is, the sum from n equals two to infinity of one over n squared converges. We're interested
+in the sum from one to infinity. But that's just the area of this single rectangle plus
+the area of all these rectangles with just one more than this sum here. So it also converges
+to a finite number. To recap, the chain of logic goes like this. First, we solve the
+integral represents a finite area, because of the P test. From that, we can conclude
+that the sum from n equals two to infinity of one over n squared represents a smaller
+and also finite area. And from that, we can figure out that the sum from n equals one
+to infinity has to represent a finite area. So our series converges to a finite number.
+Let's look at another example. The sum from n equals one to infinity of one over the square
+root of n. r between negative one and one, I can also
+say that's the absolute value of r less than one, and it diverges for the absolute value
+of r greater than or equal to one. Let's use this fact in this example. Remember that we
+decided that this was a geometric series with a common ratio r equal to negative one night,
+and we found the first term a by plugging in i equals two, and I got that first term
+of 1/3. Since the absolute value of our sales value of negative 1/9 is 1/9, which is less
+than one, we know that the series converges, and it converges to a over one minus r, so
+that's 1/3 over one minus negative one nights, which is 1/3 over one plus one night, that's
+1/3 over 10 nights, which simplifies to three tenths. In this video, we looked at geometric
+series, with first term a common ratio R, we saw that a geometric series will converge
+if the absolute value of r is less than one. And they'll diverged if the absolute value
+of r is greater than or equal to one. In the case that it converges, it converges to a
+over one minus r, where A is the first term, and r is the common ratio. This video explains
+how to determine whether a series converges or diverges using an integral. Let's start
+with the series, the sum of one over n squared. Please pause the video for a moment and think
+about why this might converge or diverge. The sum from n equals one to infinity of one
+over n squared is closely related to the integral from one to infinity of one over x squared
+dx. Let me show you what I mean. In this picture, I've graphed the function y equals one over
+x squared in blue. in green, I've drawn a bunch of rectangles, I've divided the x axis
+into sub intervals of length one, and so each rectangle has a base of length one, and a
+height given by my functions value on the right endpoint of the sub interval. So the
+first rectangle has a base of one and a height of one, so it has an area of one, the second
+rectangle has a base of one and a height of one over two squared, so that's 1/4. So the
+area here is 1/4. The next rectangle base of one again, and a height of 1/9, and so
+on. The area of each rectangle is just the same as its height, and its height is just
+given by one over n squared for the appropriate value of n In other words, if I write out
+the first few terms of this series, it's exactly the same as the areas of my rectangles. And
+the sum of my series is just going to be the total green area. Now my integral can also
+be thought of in terms of area, this integral represents the area from one to infinity.
+Under my blue curve, we know that this area is finite, because we know that this integral
+converges by the P test where p is two. Now if I just look at the rectangles, starting
+with the second rectangle on, all of those rectangles will lie below the blue curve,
+and to the right of the line x equals one, so they will have a smaller area, and therefore
+the area of these rectangles from the second one on has to converge to a finite number.
+That is, the sum from n equals two to infinity of one over n squared converges. We're interested
+in the sum from one to infinity. But that's just the area of this single rectangle plus
+the area of all these rectangles with just one more than this sum here. So it also converges
+to a finite number. To recap, the chain of logic goes like this. First, we solve the
+integral represents a finite area, because of the P test. From that, we can conclude
+that the sum from n equals two to infinity of one over n squared represents a smaller
+and also finite area. And from that, we can figure out that the sum from n equals one
+to infinity has to represent a finite area. So our series converges to a finite number.
+Let's look at another example. The sum from n equals one to infinity of one over the square
+root of n. Please pause the video for a moment and think
+about how you might use an integral to decide if this series converges or diverges. A natural
+integral to consider is the integral from one to infinity of one over the square root
+of x dx. This integral diverges by the P test, where p is equal to one half, which is less
+than one. Let's look at a picture to compare areas. The blue curve here is the graph of
+the function y equals one over the square root of x. And here, once again, I've drawn
+green rectangles using the right endpoints to get the heights of the rectangles. So the
+areas of my rectangles are the same as the terms in my series. As in the previous problem,
+if I ignore the first rectangle, then all the rest of the rectangles have an area that's
+less than the area under my curve from one to infinity. But there's a serious problem
+here, the integral from one to infinity of one over the square root of x dx diverges
+to infinity, the area of my rectangles from the second one on might be less than my area
+under the blue curve. But being less than something that diverges to infinity, it tells
+us nothing, this series could converge or it could diverged. But don't give up hope.
+If we just tweak this picture a little bit, we'll be able to get something that we can
+use here. In this second picture, I've used left endpoints instead of right endpoints
+for the heights of my rectangles. Because my function y equals one over the square root
+of x is a decreasing function. Using left endpoints, makes my rectangles have a larger
+area than the area under the corresponding section of the curve. let me label the rectangles
+with their areas. The areas of these rectangles correspond to the terms in my series. But
+now we have that the area of the green rectangles, that total area, that total area is bigger
+than the integral from one to infinity of one over x squared of x dx. Please pause the video for a moment and think
+about how you might use an integral to decide if this series converges or diverges. A natural
+integral to consider is the integral from one to infinity of one over the square root
+of x dx. This integral diverges by the P test, where p is equal to one half, which is less
+than one. Let's look at a picture to compare areas. The blue curve here is the graph of
+the function y equals one over the square root of x. And here, once again, I've drawn
+green rectangles using the right endpoints to get the heights of the rectangles. So the
+areas of my rectangles are the same as the terms in my series. As in the previous problem,
+if I ignore the first rectangle, then all the rest of the rectangles have an area that's
+less than the area under my curve from one to infinity. But there's a serious problem
+here, the integral from one to infinity of one over the square root of x dx diverges
+to infinity, the area of my rectangles from the second one on might be less than my area
+under the blue curve. But being less than something that diverges to infinity, it tells
+us nothing, this series could converge or it could diverged. But don't give up hope.
+If we just tweak this picture a little bit, we'll be able to get something that we can
+use here. In this second picture, I've used left endpoints instead of right endpoints
+for the heights of my rectangles. Because my function y equals one over the square root
+of x is a decreasing function. Using left endpoints, makes my rectangles have a larger
+area than the area under the corresponding section of the curve. let me label the rectangles
+with their areas. The areas of these rectangles correspond to the terms in my series. But
+now we have that the area of the green rectangles, that total area, that total area is bigger
+than the integral from one to infinity of one over x squared of x dx. Since this integral diverges, and this series
+is larger, it must diverged also. This method of comparing a series to an integral is a
+very general method for showing convergence. It's known as the interval test. The integral
+test says that if f is a continuous positive and decreasing function on the interval from
+one to infinity, and our terms a sub n are equal to f evaluated at n, then if the integral
+from one to infinity of f of x dx converges, the series from one to infinity of a sub n
+converges. And if the integral from one to infinity of f of x dx diverges, then the series
+diverges. Although I won't give a formal proof of this theorem, the logic behind is the same
+logic we used in the previous two examples. If the interval converges, we use the picture
+here, using write endpoints to draw rectangles. The area of each rectangle is the same as
+its height, since the rectangle has base one, and the height of each rectangle is just f
+sub n. So the area of the first rectangle is just f sub one, which is a sub one, the
+area the second rectangle is F sub two, which is a sub two, and so on. If we focus on the
+second rectangle onwards, then the combined area of those rectangles is less than the
+area represented by the integral. So we can say the sum from n equals two to infinity
+of a sub n is less than or equal to the integral. So the integral converges by assumption, this
+series here has to converge, and therefore, our original series from n equals one to infinity
+must also converge. If instead, our integral diverges, then we use the other picture, and
+we use left endpoints for our rectangles, the areas of the rectangles are still given
+by a sub one, a sub two, and so on. But this time, the combined area of the green rectangles,
+that area is now greater than or equal to the integral of our function. Since this integral
+diverges, the larger area must diverged as well. That's the idea behind the integral
+test. And to apply it, we just need to be able to integrate the function that corresponds
+to our terms, and check that that function is continuous, positive and decreasing. Actually,
+it's enough to check that the function is eventually continuous, positive and decreasing.
+By eventually I mean that it has these properties on some interval from R to infinity for some
+number R. This is good enough, because then I can always draw the same pictures, just
+starting with R instead of one in my picture, and get the integral converges if and only
+if the series starting at our converges by the same arguments we use before, but the
+series starting at our converges if and only if the series starting at one converges, since
+adding on Finally, many extra terms to my series doesn't affect whether it converges
+or not. And the integral from R to infinity converges if and only if the integral from
+one to infinity converges, because similarly, adding on a finite little piece of area from
+one to R, doesn't change the convergent status of the integral. So by this chain of logic,
+it's okay if our function starts out increasing for a while, as long as it's eventually positive,
+continuous and decreasing. Here's an example of the integral test and action. We want to
+know if the sum from n equals one to infinity of ln n over n, converges or diverges. So
+let's look instead at the integral from one to infinity of ln of x Since this integral diverges, and this series
+is larger, it must diverged also. This method of comparing a series to an integral is a
+very general method for showing convergence. It's known as the interval test. The integral
+test says that if f is a continuous positive and decreasing function on the interval from
+one to infinity, and our terms a sub n are equal to f evaluated at n, then if the integral
+from one to infinity of f of x dx converges, the series from one to infinity of a sub n
+converges. And if the integral from one to infinity of f of x dx diverges, then the series
+diverges. Although I won't give a formal proof of this theorem, the logic behind is the same
+logic we used in the previous two examples. If the interval converges, we use the picture
+here, using write endpoints to draw rectangles. The area of each rectangle is the same as
+its height, since the rectangle has base one, and the height of each rectangle is just f
+sub n. So the area of the first rectangle is just f sub one, which is a sub one, the
+area the second rectangle is F sub two, which is a sub two, and so on. If we focus on the
+second rectangle onwards, then the combined area of those rectangles is less than the
+area represented by the integral. So we can say the sum from n equals two to infinity
+of a sub n is less than or equal to the integral. So the integral converges by assumption, this
+series here has to converge, and therefore, our original series from n equals one to infinity
+must also converge. If instead, our integral diverges, then we use the other picture, and
+we use left endpoints for our rectangles, the areas of the rectangles are still given
+by a sub one, a sub two, and so on. But this time, the combined area of the green rectangles,
+that area is now greater than or equal to the integral of our function. Since this integral
+diverges, the larger area must diverged as well. That's the idea behind the integral
+test. And to apply it, we just need to be able to integrate the function that corresponds
+to our terms, and check that that function is continuous, positive and decreasing. Actually,
+it's enough to check that the function is eventually continuous, positive and decreasing.
+By eventually I mean that it has these properties on some interval from R to infinity for some
+number R. This is good enough, because then I can always draw the same pictures, just
+starting with R instead of one in my picture, and get the integral converges if and only
+if the series starting at our converges by the same arguments we use before, but the
+series starting at our converges if and only if the series starting at one converges, since
+adding on Finally, many extra terms to my series doesn't affect whether it converges
+or not. And the integral from R to infinity converges if and only if the integral from
+one to infinity converges, because similarly, adding on a finite little piece of area from
+one to R, doesn't change the convergent status of the integral. So by this chain of logic,
+it's okay if our function starts out increasing for a while, as long as it's eventually positive,
+continuous and decreasing. Here's an example of the integral test and action. We want to
+know if the sum from n equals one to infinity of ln n over n, converges or diverges. So
+let's look instead at the integral from one to infinity of ln of x over x. over x. This is a continuous function, because it's
+the quotient of two continuous functions, and we're starting at an x value of one, so
+we don't have to worry about the denominator being zero. It's also a positive function.
+Since we know that ln of x is greater than zero for x bigger than one, and therefore
+this quotient is greater than This is a continuous function, because it's
+the quotient of two continuous functions, and we're starting at an x value of one, so
+we don't have to worry about the denominator being zero. It's also a positive function.
+Since we know that ln of x is greater than zero for x bigger than one, and therefore
+this quotient is greater than zero also. zero also. Finally, let's check if our function is decreasing.
+One way to do that is to look at the derivative. If f of x is ln x over x, then f prime of
+x by the quotient rule is x times one over x minus ln x times one over x squared. This
+simplifies to one minus ln x over x squared, which is negative when one minus ln x is less
+than zero, that is one is less than our an x, that is E is less than x. So the function
+has a negative derivative and is decreasing whenever x is bigger than E, so it's eventually
+decreasing the three conditions Finally, let's check if our function is decreasing.
+One way to do that is to look at the derivative. If f of x is ln x over x, then f prime of
+x by the quotient rule is x times one over x minus ln x times one over x squared. This
+simplifies to one minus ln x over x squared, which is negative when one minus ln x is less
+than zero, that is one is less than our an x, that is E is less than x. So the function
+has a negative derivative and is decreasing whenever x is bigger than E, so it's eventually
+decreasing the three conditions They're met, so we can apply the integral
+test. Next, we need to figure out if this integral converges or diverges. This is an improper integral. So by definition,
+it's the limit as t goes to infinity of the integral from one to T of ln x over x. We
+can use use of the tuition to evaluate it, where u is equal to ln x, d u is equal to
+one over x dx. And when x is equal to one, u is equal to ln of one, that's zero, when
+x is equal to t, u is equal to ln of t. Substituting in, we get the integral from zero to ln T
+of you do this integrates to use squared over two evaluated between ln T and zero. Substituting in our bounds of integration,
+we get the limit as t goes to infinity of ln t squared over two minus zero. Now as t
+goes to infinity, ln of T also goes to infinity. So ln t squared over two goes to infinity,
+therefore, the integral diverges. And so by the integral test, the series also diverges.
+In this video, we saw that a series converges if and only if the corresponding integral
+converges, provided that the corresponding function is eventually continuous, positive
+and decreasing. In this video, we'll determine whether series converge or diverge by comparing
+them to more familiar series. Suppose that the sum of a sub n and the sum of b sub n
+are series. And suppose that the terms of the series are always greater than or equal
+to zero, and that a sub n is less than or equal to b sub n for all n. In the pictures
+below, the heights of the blue bars are supposed to represent the ACE events, and the heights
+of the green bars are supposed to represent the base events. If we put the pictures together,
+we see that the heights of the blue bars are less than the heights of the green bars. So
+we have the inequality, zero is less than or equal to a sub n is less than or equal
+to b sub n. Since the base of each bar has length one, the height of each bar is the
+same number as its area. So when we write the sum from n equals one to infinity, of
+a sub n, this represents the area of all the blue rectangles added up the total blue area.
+And when we write sum from n equals one to infinity of b sub n, this represents the area
+of all the green rectangles, the total green area. Because the blue bars have a smaller
+area than the green bars, we can make some conclusions. First of all, if the total green
+area is finite, then so is the total blue area. In other words, if the sum of the b
+sub n converges, then so does the sum of the A sub N. Furthermore, if the total blue area
+is infinite, then so is the total green area. So we can also say, if the sum of the ace
+of ends diverges, then so does the sum of the base events. These facts are known as
+the comparison test for series and are very useful in establishing convergence. But we
+have to be careful not to take the conclusions too far. In particular, if the smaller series
+of Ace events converges, then we really can't say anything about the larger series of these
+events. The some of the big events could converge, red could diverge. Also, if the larger series
+of B sub ends diverges, then we can't conclude anything about the smaller series of Ace events,
+the sum of the ACE events could converge or could diverged. When using the comparison
+test to establish convergence or divergence, it's handy to compare your unfamiliar series
+to a familiar series that you already know converges or diverges. The following series
+are especially handy when making these comparisons. First, the geometric series Sum of A times
+r to the n, which converges when the absolute value of r is less than one. And second, the
+P series, one over n to the P, which converges when p is greater than one. Let's use a comparison
+theorem to determine whether the sum of three to the n over five to the n plus n squared
+converges or diverges. What matters most as far as whether a series converges or diverges
+is the behavior of the terms, when n gets close to infinity, the behavior of the terms
+when n is small, the behavior the first few terms doesn't make any difference as far as
+whether that series converges or diverges. So I'm going to focus on what happens to these
+terms, as n goes to infinity, well, three to the n goes to infinity, and five to the
+n goes to infinity, and n squared also goes to infinity. But between five to the n and n squared, five
+to the n is going to infinity much faster. So I'm going to say that this five to the
+n term dominates the denominator, it's more important. And for that reason, the behavior
+of the series we're given should be similar to the behavior of the series, three to the
+n, over five to the n, where I've just left out the n squared term, which is insignificant
+compared to five to the n when n is large. So I'm going to compare our given series to
+this other series, which is a geometric series. In fact, the second series we know converges, because
+it has a common ratio of three fifths, and the absolute value of three fifths is less
+than one. In order to use the comparison theorem, I'm going to need to compare the terms of
+this series to the terms of this series. And I want to show that these terms are less than
+or equal to those terms, because being smaller than a convergent series will guarantee convergence
+is clear that everything's positive, so we don't have to worry about that. And it's also
+clear that five to the n plus n squared is bigger than or equal to five to the n. When
+you divide by a bigger number, you get a smaller ratio. So three to the n over five to the
+n plus n squared is therefore less than or equal to three to the n over five to the n,
+we've shown that the inequality we need holds. And so by the comparison theorem, since the
+sum of three to the n over five to the n converges, so does our original series. We've established
+convergence using the comparison test. This video was about the comparison test,
+the fact that if we have zero less than or equal to A ad less than or equal to bn, and
+the sum of the bands converges, then the sum of the smaller series A ends converges. And
+if the sum of the ends diverges, then the sum of the larger series diverges. The limit
+comparison test gives an alternative to the regular ordinary comparison test for series.
+In the previous video, we looked at the series the sum from n equals one to infinity of three
+to the n over five to the n plus n squared. And we use the ordinary comparison test and
+compare it to the series, the sum of three to the n over five to the n. This worked out
+pretty nicely, because the terms here are less than the terms here. And this series
+converges. being less than a convergent series ensures convergence. But if we change the
+problem very slightly, and look instead at the sum of three to the n over five to the
+n minus n squared, look how things start to go wrong. If we now try to compare to the
+same series, then we get the inequality five to the n minus n squared is less than or equal
+to five to the n, and therefore, three to the n over five to the n minus n squared is
+greater than or equal to three to the n over five to the n. Since dividing by a smaller
+number gives a larger fraction, but this inequality unfortunately, is not useful to us, being
+greater than a convergence series doesn't guarantee convergence or divergence. So we
+can't conclude anything Based on this inequality, the limit comparison test gives us one way
+around this. The limit comparison test says the following. Suppose that sum of a n and
+the sum of bn are series with positive terms. If the limit as n goes to infinity of the
+ratio of a n over bn, is a number L, where L is a finite number that's bigger than zero,
+then either a both series converge, or both diverge, so they have the same convergence
+status. Let's try the limit comparison test on the problem we were just working on. We
+still want to compare to the same series, three to the n over five to the n. But this time, we're going to try a limit
+comparison. So we're going to take the limit, as n goes to infinity of the ratio of terms,
+three to the n over five to the n, divided by three to the n over five to the n minus
+n squared, it doesn't actually matter which term goes on the top and which goes on the
+bottom, we could instead take the ratio the other way, whatever limit we get, when we
+do the ratio, this way, will just be the reciprocal of the limit, we get When do the ratio this
+way. So if this ratio is a finite number that's bigger than zero, this ratio is reciprocal
+will also be a finite number that's bigger than zero. So I'll just stick with the first
+computation. let me simplify by flipping and multiplying, I can cancel my three to the
+ends. And now I can actually rewrite this as the limit of one minus n squared over five
+to the n. By breaking out my limit, this is the same as one minus the limit of n squared
+over a five to the n. And the second limit is an infinity over infinity form. So using
+lopi talls rule, carry the one over, I get and get the limit of what I get when I take
+the derivative of the numerator and the derivative of the denominator, I've still got an infinity
+over infinity and determinant form. So I'll use Libby toss rule again, the derivative
+of two n is two, and the derivative of the denominator is ln five times ln five times
+five to the n. Now the numerator is fixed at two, while the denominator goes to infinity
+as n goes to infinity, therefore this fraction goes to zero. And my final limit is one. Since
+one is bigger than zero, and it's finite, it's less than infinity. The limit comparison
+test tells me that my original series and my comparison series, either both converge,
+or both diverged. But my comparison series is a geometric series with ratio three fifths,
+so it definitely converges. Therefore, by the limit comparison test, our given series
+also converge us. That's the Limit Comparison theorem in action. The limit comparison test
+tells us that for two series with positive terms, if the limit of the ratio of the terms
+is some number, which is bigger than zero and less than infinity, then the two theories
+have the same convergence status. That is, they either both converge or both diverged.
+The limit comparison test is especially handy when the ordinary comparison test doesn't
+seem to work when we know what we want to compare to, but we can't get the inequality
+to go the right direction. In this video, I'll prove that the limit comparison test
+works. The limit comparison test says that if the sum of the ACE events, and the sum
+of the B sub ends are two series with positive terms. And if the limit as n goes to infinity
+of the ratio, a sub n over B sub n is equal to L, where L is a finite number that's bigger
+than zero, then either both series converge or both series diverged. To prove this theorem,
+let's start by assuming that all the hypotheses are true. That is, we'll assume all the stuff
+in brackets here is true. The limit as n goes to infinity of a sub n over B sub n equals
+L means that if I plot the numbers, 123, and so on, on the x axis, so those are the values
+of n, and I plot the ratios, a sub n over B sub n, on the y axis, those ratios are going
+to settle down to a value of L, as n goes to infinity. Using more technical mathematical
+language, it means that for any small number, epsilon that's bigger than zero, we
+can trap the ratios within epsilon of L, as long as we go out far enough for our values
+of n. That is, there exists a number capital N, such that n over bn is between L plus epsilon.
+And l minus epsilon for little n bigger than or equal to capital N. In the picture here,
+value for capital N of three would work, because for all little ends bigger than or equal to
+three, my ratios are trapped in between r minus epsilon, which is right here, and l
+plus epsilon, which is that upper bound here. Let's pick a small enough epsilon. So this
+interval here doesn't extend all the way down to zero through zero on the y axis, it just
+extends through through positive numbers near owl. Recall that that l itself is a positive
+number, so it's possible to trap it in a little interval. That's all positive numbers. For
+example, we could pick epsilon to be equal to L over two, for example, that way, the interval that I'm drawing here
+would extend down to l minus l over two, which is equal to L over two, and our extend up
+to l plus l over two, which is three L over two. So we have that l over two is less than
+a n over bn is less than three L over two, four little n bigger than or equal to our
+capital N that works for that value of epsilon. Now, I'm going to multiply all three sides
+of this inequality by b sub n, recall that b sub n is a positive number, all the series
+terms are positive, so that doesn't change around the inequalities at all. So we get
+L over two times b sub n is less than a sub n is less than three L over two times b sub
+n. And remember that everything here is bigger than zero, since all the ACE events and B
+sub ends are positive. Let's think about what this inequality tells us. First of all, if
+the sum of the beast events converges, then so does the sum of three L over two times
+b sub n, because I'm just multiplying that series by a constant still convergent. But
+now my a sub n terms are less than the terms of a convergent series. So by the ordinary
+comparison test, we know that the sum of the ACE events converges also. Furthermore, if
+the sum of the base events diverges, then we can focus on this part of the inequality,
+we know that l over two times b sub n diverges also. And so here we have the ace of ends are bigger than the terms
+of a Divergent series, so the sum of the AC bands must diverged, just using the ordinary
+comparison test. Now, you might be worried about the fact that this inequality only holds
+for little n bigger than or equal to some capital N. So we could rewrite this argument
+a little bit to say, if the sum from n equals one to infinity of the base events converges,
+then so does the sum from n equals capital n to infinity of b sub n, because adding or
+subtracting finitely many terms off the front never changes the convergence status of a
+series. After that, we can say well, then so does the sum from n equals capital n to
+infinity. Three L over two times b sub n. And so then by the ordinary comparison test,
+since this inequality does hold for our little n bigger than or equal to capital N, we can
+conclude that the sum from little n equals capital n to infinity of a sub n converges.
+And so the sum from n equals one to infinity of a sub n converges Also, since again, adding
+or subtracting Finally, many terms from the beginning of a series doesn't change anything
+about convergence. We could similarly rewrite the second part of the argument using precise
+indices as well. We've shown that the sum of the B ends and the sum of the A ends either
+both converge, or both diverged. And that completes the proof of the theorem. In this
+video, we prove the limit comparison test using the ordinary comparison test. This video
+defines absolute convergence and how it's related to convergence for a series. A series
+is called absolutely convergent. If the series of absolute values of the terms converges.
+Please pause the video for a moment and try to decide which of the following series are
+convergent, and which ones are absolutely convergent. The first series is convergent,
+because it's a geometric series with ratio r equal to negative 0.8. It's also absolutely
+convergent, because if I take the series of absolute values, that's the same thing as
+the series, the geometric series with a ratio of 0.8, which is also convergent. The second
+series, the sum of one over the square root of k is not convergent, we can see this by
+the P test. Since p is equal to one half, which is less than one. It's also not absolutely
+convergent. In this case, the sum of the absolute values of the terms is just the same as the
+sum of the original terms, which we already said diverges. The third series is the sum
+of negative one to the J times one over j. This is a convergent series by the alternating
+series test. In fact, this is the alternating harmonic series. What about absolute convergence?
+If we look at the sum of the absolute values of the terms, that's just the same thing as
+the regular harmonic series, which diverges. So this series is not absolutely convergent.
+Here's a question for you. Is it possible to have a series that's convergent, but not
+absolutely convergent? Please pause the video for a moment and try to answer this question.
+The answer is yes. We just saw us an example of such a series, the alternating harmonic
+series. There are many other examples of such theories. And in fact, there's a special name
+for them, they're called conditionally convergent. A series is called conditionally convergent
+if it is convergent, but not absolutely convergent. In symbols, that is, the sum of the a ns converges,
+but the sum of the absolute values of the a ns diverges. Next question for you. Is it
+possible to have a series that's absolutely convergent, but not convergent? This is a
+little trickier. But please pause the video for a moment and think about your answer. The answer to this one is no. It's a fact
+that every absolutely convergent series is convergent. Let me prove to you why that's
+true. Let's suppose that we have a series that's absolutely convergent. That is the
+sum of the absolute value of the A ends convergence. We know that the A ends might be positive
+or negative, but they do have to lie in between the absolute value of a n and the negative
+absolute value of a n. Actually, it's true that a sub n is either equal to its absolute
+value or its negative absolute value, but I'm ready This way with inequalities to help
+set the mood for using the comparison test. Now, I can't quite use a comparison test here
+to prove that the series of Ace events converges, because even though the ace of ends are less
+than or equal to the terms of a convergent series, they're not necessarily positive or
+greater than equals zero. And the can parison test only applies to series whose terms are
+all greater than equal to or equal to zero. But there's a nice trick to get around that
+difficulty. And that trick is to add the absolute value of a sub n to all the sides of the inequality.
+So then I get zero is less than or equal to a sub n plus the absolute value of a sub n,
+which is less than or equal to twice the absolute value of a sub n. Now, since this sum of the
+absolute value of f sub n converges, so does the sum of twice the absolute value of a sub
+n, since it's just a constant multiple. Based on this inequality, which now does involve
+terms that are greater than or equal to zero, I can conclude that the sum of a sub n plus
+the absolute value of a sub n converges based on the ordinary comparison test. But now,
+the series that we want, the sum of the ace of ends can be written as a difference. And
+we know that a series formed by subtracting the terms of two convergent series itself
+converges. So this converges, in fact, to the difference of the sobs. We've proved that
+if our series is absolutely convergent, then it must be convergent. The fact that absolute
+convergence implies convergence can come in handy when you're trying to prove that a series
+converges, as in the following example. In this example, we want to prove that this series
+is convergent or divergent, but the cosine and sine make things a little bit tricky.
+My intuition here is that this series should converge since cosine and sine are bounded.
+And so this essentially should behave something like the sum of one over n cubed, which converges
+because of the P test. But we can't just compare our series to the
+sum of one over n cubed and use the ordinary comparison test like we've done in similar
+problems in the past. What's different here is that our terms are not always going to
+be positive, because sine and cosine can be positive and negative. And so can there's
+some to help us out of this pickle. Let's think about absolute convergence instead.
+If we look at the sum of the absolute values, which is the same as the sum of the absolute
+value of the numerator, divided by m cubed. Since cosine of n is between one and negative
+one, and sine of n is also in between one and negative one, we know that the som cosine
+n plus sine of n has to be less than or equal to two and bigger than or equal to negative
+two. In fact, it can't even get all the way to two or all the way down to negative two,
+we could find that tighter bound if we tried, but this is good enough for our purposes,
+this inequality can be rewritten as the absolute value of cosine n plus sine of n is less than
+or equal to two. And if I divide both sides here by n cubed, I have an inequality involving
+positive terms. So since we know the sum of one over n cubed converges by the P test,
+that implies that the sum of two over n cubed also converges. It's just a constant multiple.
+And that implies that the sum of my absolute value of cosine n plus sine n over n cubed
+converges by the comparison test. Therefore, we know that our series is absolutely convergent.
+And therefore, it must be convergent. Since an absolutely convergent series is always
+convergent. We've shown that our original series converges. In this video, we saw that
+if a series is absolutely convergent, then it has to be convergent But not vice versa.
+This video is about the ratio test, a test that can be used to prove that a series converges
+or diverges. The ratio test is all about looking at the ratio of consecutive terms. To figure
+out how it works, it can be helpful to think about geometric series first, recall it for
+a geometric series, the ratio of consecutive terms is given by this number R. And if R
+has absolute value less than one, the series converges. Why while if R has absolute value
+greater than one, it diverges. For more general series, the ratio of consecutive terms is
+not necessarily a constant. But if we look at the limit as n goes to infinity, of the
+absolute value of the ratio of consecutive terms, and if we get a limit of L, which is
+less than one, then the series converges, just like a geometric series. In fact, the
+series is absolutely convergent, meaning the sum of the absolute values of the a ns converges,
+and therefore, the sum of the a ns converges also, if instead, the limit as n goes to infinity
+of the absolute value of the ratio of consecutive terms, is a number l that's greater than one.
+Or if that limit is infinity, then just like a geometric series, the series diverges. Finally,
+if the limit of the absolute value of the ratio of consecutive terms is exactly equal
+to one, or if the limit doesn't exist, then the ratio test is inconclusive. That is, the
+sum of the ace of ends may converge. Or it may diverge. And to figure out, which will
+have to use a different test or a different argument, let's apply the ratio test to this
+series, we'll need to compute the limit as n goes to infinity of the absolute value of
+the ratio of consecutive terms. In this case, that's the limit as n goes to infinity, have
+the absolute value of n plus one squared times negative 10 to the n plus one divided
+by n plus one factorial, all of our n squared times negative 10 to the n over n factorial.
+I've just plugged in n plus one for n in this formula to get the a sub n plus one term.
+I can simplify this by flipping and multiplying. And I'm going to rearrange my factors. This
+expression is equivalent to the previous one, I've just arranged factors so that similar
+factors are on top of each other, this will make it easier to cancel things. Now, n factorial
+means n times n minus one times n minus two and so on. And n plus one factorial means
+n plus one, times n times n minus one, and so on. So if I divide n factorial by n plus
+one factorial, all my factors from the numerator will cancel with factors from the denominator.
+And I'll just be left with one over n plus one. Also, negative 10 to the n plus one over
+negative 10 to the n cancels out to just negative 10 to the One Power, so I can rewrite my limit
+as N plus one squared over n squared times negative 10 times one over n plus one, I'm
+going to divide my limit of a product into a product of limits. Now as n goes to infinity,
+n plus one over n goes to one. So this expression, which is equivalent to the square of n plus
+one over N, also goes to one. The limit of the absolute value of negative 10 is just
+10. And the limit as n goes to infinity of one over n plus one is zero. Therefore our
+limit is one times 10 times zero, which is zero. And since zero is less than one by the
+ratio test, we know that our series converges absolutely. This video was about the ratio
+test, which focuses on the limit as n goes to infinity of the absolute value of the ratio
+of consecutive terms. Depending on whether this limit is less than one greater than one,
+or equal to one, we can determine whether the series converges or diverges. Or if we
+need to try another test. In this video, I prove the ratio test for convergence and divergence
+of series. The ratio test says that for a series, if
+the limit of the absolute value of the ratio of consecutive terms is equal to a number
+L, that's less than one, then the series is absolutely convergent, and therefore convergent.
+If however, the limit of the absolute value of the ratio of consecutive terms is a number
+L, that's bigger than one, or is equal to infinity, then the series is divergent. Although
+I didn't write it here, if the limit is equal to one exactly, or if the limit doesn't exist,
+then the ratio test is inconclusive and can't be used to establish convergence or divergence.
+To prove that the ratio test works, let's first assume that the limit is less than one.
+This means that if I graph n on the x axis, and my absolute value of the ratio of consecutive
+terms, on my Y axis, I get a bunch of dots that settle at a value of L. and this number
+L is less than one. Let's pick a tiny number epsilon, so that when I add epsilon to L,
+I'm still less than one. So pick epsilon greater than zero, such that
+l plus epsilon is less than one. By the definition of limit, if I go far enough to the right
+on the x axis, all of my red dots are going to be trapped in between this epsilon interval
+around L. In mathematical symbols, this means there exists a number capital N, such that
+the absolute value of ratios, the thing that's a limiting to L is between L plus epsilon.
+And minus epsilon, for all little n bigger than or equal to capital that I'm going to multiply all three sides of this
+inequality by the absolute value of a sub little m, I'm going to focus on the right
+end of the inequality, because ultimately, I want to prove that my series is absolutely
+convergent. So it's going to be more useful to show that my terms are smaller than things
+than to show that my terms are bigger than things. This inequality is true for all values
+of little n that are bigger than or equal to capital N. So in particular, it's true
+when little n equals capital N. The inequalities also true when little n is equal to capital
+N plus one. Here, I've just plugged in capital N plus one for a little n here. And when I
+plug it in here, I end up with capital N plus one plus one, which is capital N plus two.
+Now if I string these two inequalities together, essentially, I'm substituting in this inequality,
+right here, I get the following inequality, which simplifies to give me the absolute value
+of a sub capital N plus two is less than l plus epsilon squared times the absolute value
+of a sub capital N. Let's try this one more time. Going back to my original inequality
+here, I'm going to plug in capital N plus two for lowercase n. And stringing these two
+inequalities together, I get that this is less than l plus epsilon cube times the absolute
+value of a piece of capital N. And in general, the same reasoning shows that the absolute
+value of a sub capital N plus i is less than l plus epsilon to the i times the asset value
+of a sub capital N. For any I. With all these inequalities, I'm gradually building up to
+series. The first series is the series, the sum of the absolute value of a sub capital
+N plus i. Let's start that from i equals one to infinity. And the second series is the
+sum of L plus epsilon to the i times the absolute value of a so capital that again, let's start
+from equals one to infinity. Now the second series is a geometric series, where r is equal
+to L plus epsilon, which is less than one, because remember, we chose epsilon to make
+sure that was less than one. Therefore, this series converges. But that's
+great news. Because now looking at this inequality, we can show that series one converges, just
+using the ordinary comparison test, and recognizing that these terms are bigger than or equal
+to zero. So series one converges by the comparison test. But series one is just the tail end
+of the series, the sum from n equals one to infinity absolute value of a sub little n.
+So this series converges, because it's just finally many terms added on to a convergent
+series. And so we've shown that our original series converges absolutely. This proves the
+first part of the ratio test. Now let's prove the second part. And let's start by assuming
+that the limit is greater than one. This time, since l is bigger than one, we can pick a
+tiny number epsilon, so that when we go down from L by epsilon, we don't go as far as the
+number one. So we're going to pick an epsilon greater than zero, such that l minus epsilon
+is still greater than one. As before, we can use the definition of limit and a little algebra
+to get the same inequality as we got before. This time, I'm going to focus on the left
+side of the inequality though. Since l minus epsilon is greater than one. This tells me
+in particular, that the absolute value of a sub n plus one is always bigger than the
+absolute value of as little n for little n bigger than or equal to capital N. This means
+that the absolute value of Ace of capital n is less than the absolute value of a sub
+capital N plus one, which is less than the absolute value of capital A sub capital N
+plus two, and so on. And so my sequence of terms is actually ultimately an increasing
+sequence of positive numbers. So my sequence of terms cannot converge to zero, limit as
+little n goes to infinity as the value of a sub little n cannot be zero. And so the
+limit as little n goes to infinity of a sub little n cannot be zero either. But that means
+that my original series cannot converge, it has to diverged by the divergence test, we
+still have one detail that consider the possibility that the limit of the absolute value of ratios
+is infinity. In this case, the argument that we just used, works almost exactly the same.
+If we assume that the limit is infinity, then we can skip this part here. And here, and just note that there exists
+some capital n such that the ratios are always bigger than say to for all little n bigger
+than or equal to capital N. Since if the ratios are heading towards infinity, they're certainly
+going to be bigger than two, eventually. This gives us the same inequality that we need,
+I just read a two there. And now as before, we can conclude that a sub n plus one is absolute
+value is strictly greater than a sub n is absolute value. In fact, it's greater than
+twice of it for all little n bigger than equal to capital N. And we can make the same conclusion
+about an increasing sequence of positive terms. That so that the terms can't go to zero, and
+the series has to diverge by the divergence test. This concludes the proof of the ratio
+test. In this video, we prove the convergent part of the ratio test by comparing our series
+to a convergent geometric series, and we prove the divergent part of the ratio test using
+the divergence test. This video is a review of all the convergence tests we've talked
+about in class. I'll list the test roughly in the order that I would try to apply them.
+I like to start with the divergence test. Usually it's pretty easy to check if the limit
+as n goes to infinity of the terms is equal to zero. And if not, you're done because the
+series diverges. Be careful though. The divergence test can only be used to check for divergence,
+it cannot be used to prove convergence, because if the limits of the terms is equal to zero,
+the series may converge, but it may still diverge. The next thing I do is to check if
+the series is a simple p series, or a geometric series. Remember, a p series is a series of
+the form one over n to the p n is our indexing variable P is some number like two or 5.8.
+And this is easy to test for convergence since it converges. If p is greater than one and
+it diverges, otherwise, a geometric series this is the kind of the form a times r to
+the n, where A is the first term, and they start at zero here. So it's the really the
+first term and r is the common ratio. And this one's easy to check to because it converges
+if the absolute value of r is less than one and diverges otherwise. If the series happens
+to be alternating, than the alternating test is a good one to apply next. Be careful, this
+test can only be used to prove convergence. If the series is actually alternating. And
+this what I call this step size, that's the absolute value of the terms is going to zero
+and decreasing, then we can conclude that the series converges. But if some of those
+conditions are not satisfied, we can't automatically assume that the series diverges. Well, not
+at least by the alternating test, if the step size doesn't go to zero, then we should have
+already figured out the series diverges by the divergence test were really, really applying
+the divergence test there. And if the step size is not decreasing, not even ultimately
+decreasing, then the alternating test is just inconclusive. It doesn't apply, we don't know
+yet, whether it diverges or converges, and we have to look for another test. Now if the
+series is not one of these nice p series geometric or alternating series, my go to test is going
+to be the ratio test. The ratio test is especially good for series with n factorials in them or two to the ends and things with sort of geometric
+pieces that are not strictly geometric are good candidates for the ratio test. But be
+careful, the ratio test will be inconclusive for like all p like series, so series that
+just have you know things like ends and, and maybe the square roots of ends and things
+that can be easily compared to a p series are not good candidates for the ratio test.
+So if you happen to remember that you can save some time by not trying the ratio test
+on those. If the ratio test is not a good candidate or ends up being inconclusive, what
+I might try next is one of the comparison tests. So that would be like what I call the ordinary
+or the limit comparison test. We generally want to compare two series that we know a
+lot about that we know the convergence status of so we would generally want to compare to
+either p series or geometric series. The comparison tests are especially good for p like series
+that the ratio test is inconclusive for. And to figure out what to compare to it's a good
+rule of thumb to consider the dominant or highest power terms. One thing you need to
+be aware of when applying the comparison test is that it only applies to series with positive
+terms. Of course, the first few terms never matter for series convergence. So it's okay
+to apply it if you have eventually positive terms. But if the terms never become always
+positive, and they're not strictly alternating, so the alternating test doesn't apply. We
+don't have to give up hope we can use the fact that absolute convergence implies convergence.
+That's what I try and sort of mine since my seventh test to try. So you can just take
+the absolute values of your terms and then maybe use the comparison test. And if that
+works to prove convergence, then your original series will converge also. Another method
+I haven't mentioned before is to use limit laws to split up the series. So if you have
+the sum of two series, say a p series and a geometric series, then a natural thing to
+do is to split this up as the sum of two series and use a different method for each piece.
+If both pieces converge, like they do in this situation, then the psalm also converges.
+Also, if one piece happens to converge on the other diverges, then the sun will diverged.
+The only thing to be careful of is that if both pieces diverged, then the psalm may still
+diverged. But it may converge because there might be cancellation, one piece might be
+diverted into infinity and one piece may be diverging to negative infinity. And that's
+an indeterminate kind of form. If none of this stuff has worked so far, I might look
+to try the integral test and compare my series to an integral. This is especially handy in
+my experience four series with logs in them. So something and also it has to be a series
+where the integral of easy compute so you know, something like ln n over n, if you instead
+look at the integral of ln x over x, that's pretty easy to compute using use substitution.
+And so that would be a good candidate for the integral test. Be aware that the integral
+test can only be used when the series terms can be thought of as the functions values
+at integers for a function that is positive, continuous, and decreasing. Last on my list
+is the method of telescoping series. I put it last only because it's kind of a hassle
+to work with telescoping series, but it does have some good points. First of all, using
+the method of telescoping series, you can actually compute the sum rather than just
+tell if it converges or diverges. The only other tool on this list that will actually
+compute the sum of an infinite series is the geometric series test where we have a formula
+for the sum provided it converges. Another reason to use the telescoping series is if
+you happen to notice that your terms are the difference of related expressions. So something
+like the sum of e to the one over n plus one minus e to the one over N might be a good
+candidate for telescoping series. Something like the sum of one over n squared minus one
+would also be a reasonable candidate, because you can rewrite it using the method of partial
+fractions. And using that method well, and the telescoping series stuff will help you
+find an actual song. But if you just want to know convergence, it'll be a lot easier
+just to use comparison to a p series whenever n squared for this one. So that's pretty much
+everything I know about convergence tests for series. If you want to keep watching,
+I'll take a look at some examples on the next page. Before you keep watching, please take
+a moment to look at these six examples and decide which convergence or divergence test
+you might try. Please be aware that for many of these series, there
+are lots of tests that will work. So just because you pick a different one than I do
+doesn't mean that yours is wrong. I think this first example can be conquered using
+the divergence test. My hunch is if we took that limit and use lopi talls rule, we get
+a limit of infinity not zero. An alternative though would be to use the ratio test. Because
+this is a term that is has a geometric piece as well
+as some other stuff. The second example is an alternating series. So my first try is
+going to be the alternating series test. And my recollection is it does work to prove convergence
+in this case. For this third one, this is the kind that I call a p like series, because
+if I just look at the the dominant terms, the highest power terms, I could compare to
+the P series, which is one over and squared cubed rooted or in other words, one over n
+to the two thirds power. Since this one diverges, I'm gonna expect my original one also diverged,
+I probably need to use the limit comparison test because I don't think the inequalities
+will go the right direction for the ordinary comparison test. This next one's a perfect
+candidate for splitting up into two pieces. This one, the second piece, I could use the
+geometric series test to show convergence. And this first one says it has an n factorial
+that's a great candidate for the ratio test. This next one's kind of tricky for me. At
+first glance, I almost thought it would be a candidate for the integral test. If this
+had just been an N instead of an n squared, I might be able to integrate using use substitution.
+But because it's an n squared, the integral test would be more tricky to do or I might
+have to do integration by parts or something. So I'm gonna stay away from that. And I'm
+going to start by trying the ratio test because this does have a geometric kind of like piece
+to it. And this last example, I'm going to use the integral test here because I know
+like To integrate one over x ln x dx, using the use substitution u equals ln x, apply
+and converge, the divergence test is something that takes practice, the more you do it, the
+better you'll be at recognizing which tests might apply. But a lot of times, there's no
+substitute for just trying the test. And if it doesn't work, it's where it's inconclusive.
+Just try something else. Good luck, and see you in class. This video introduces some of
+the ideas and key formulas of Taylor series. One of the main ideas behind Taylor series,
+the idea of approximating functions with polynomials. So suppose we have some function f of x, we
+want to approximate this function with a polynomial, and we'd like the approximation to be good
+near x equals zero. And we're going to assume that f prime of zero exists, and f double
+prime of zero exists, and F third derivative exists at zero, all of its derivatives, we're
+gonna assume exists at x equals zero. Now, if we just want to get F value, right at zero, we can approximate F with the constant function,
+y equals f of zero, we can think of this constant function as being a degrees zero polynomial
+approximation. But it's a pretty lousy approximation, we can do much better than that, in fact,
+we can do a lot better even if we just use a degree one polynomial, that's a linear function.
+As you know, the tangent line at x equals zero is a linear function that provides a
+pretty good approximation for the actual function when x is near zero least that's the best
+approximation you can hope for out of a linear function. The equation for the tangent line
+is given by y equals f of zero, plus f prime of zero times x. This comes straight from
+the point slope form for a line where m is the slope of the tangent line, that's the
+derivative at zero, and the point x one y one is just the point zero, f of zero. So
+we get y minus f of zero is f prime of zero times x minus zero, which simplifies to that
+equation for the tangent line right there. Notice that the tangent line has the same
+value as f of x at x equals zero, and it has the same slope as f of x at x equals zero.
+But I'd like to do a little better than this, I'd like to approximate my function f of x
+with a polynomial that has the same value, the same slope or first derivative, and the
+same second derivative as f of x at x equals zero. It turns out, I can do this with a degree
+two polynomial. And I'll show you how, in general, a degree two polynomial, also called
+a quadratic is a polynomial of the form P of x equals c sub zero, plus c sub one times
+x, plus c sub two times x squared. And I just have to figure out what values of the constants
+C sub zero, c sub one, c sub two, will make my polynomial, agree with my function in its
+value, first derivative and second derivative. Well, if I want P of zero to equal f of zero,
+and that means I want c sub zero plus c sub one times zero plus c sub two times zero squared
+to equal s value at zero. In other words, c sub zero had better be equal to f of zero.
+But now I also want p prime of zero to equal f prime of zero. P prime of x is equal to
+c sub one plus two times c sub 2x. I'm just using my derivative rules on the equation
+for p remembering that my C's are constants. Therefore, to evaluate p prime of zero, I
+just plug in zero for x, and I get c sub one, but this needs to equal f prime of zero, and
+therefore c sub one is equal to f prime of zero. Finally, I want p double prime of zero
+to equal f double prime at zero, I can find p double prime of x by taking the derivative
+of my derivative, so that gives me two times C two, but that needs to equal f double prime
+of zero means that C two had better equal f double prime of zero divided by two. So
+now let's look what happened, requiring that P has the same value as zero as f forces c
+sub zero to have the value of f of zero, requiring that the polynomial and F had the same first
+derivative zero, forces the value of CS of one, two equal f prime of zero, and requiring
+that the polynomial and the function have the same second derivative at zero forces
+the value of c two to be f double prime of zero divided by two. So we've shown that there
+is a secondary polynomial that has the same value first derivative, the second derivative
+as F at X equals zero, and there's a unique such polynomial, and it's given by p of x
+equals f of zero, plus f prime of zero times x, plus f double
+prime of zero over two times x squared. Visually, that second degree polynomials going
+to look like a parabola, it might look something like this. Let's play this game again. But
+this time, I want to find a degree three polynomial p of x, such that P of zero is the same as
+f of zero, p prime of zero is the same thing as f prime of zero, p double prime of zero
+is equal to f double prime of zero, and peas, third derivative at zero is the same as F,
+third derivative at zero. Graphically, that's going to be a cubic polynomial
+that approximates my function, and it's going to be a pretty close approximation. We know
+that a three three polynomial in general has the form c sub zero plus c sub 1x, plus c
+sub 2x squared plus c sub 3x cubed. And we need to find the values of all the constant
+C's. Please pause the video and see if you can figure out the values of those constants,
+especially the value of c sub three in terms of the value of f and its derivatives at zero.
+If we write down the derivatives of P, we get the following expressions. And if we evaluate
+these expressions at x equals zero, all the terms with x's in them vanish. So we get these
+expressions. Now, because we want our polynomials value, and its derivatives to match the value
+and derivatives of our function, we get these equations from which we can solve for our
+constants, c sub zero is f of zero, c sub one is f prime of zero, c sub two is f double
+prime of zero over two, and c sub three is the third derivative of f at zero divided
+by six. Notice that that number six came from multiplying three times two, and that three
+and that two came from bringing down my success of exponents, when I took derivatives, we
+can keep track of this process by rewriting c sub three is the third derivative of f of
+zero divided by three times two or three factorial. So the third degree polynomial that approximates
+our function is p of x, which is f of zero, plus f prime of zero times x plus f double
+prime of zero over two times x squared, plus f third derivative at zero over three factorial
+times x cubed. I'll write this as P sub three to remember it's the third degree polynomial.
+We can repeat this process to get a fourth degree polynomial whose value add zero is
+the same as f of zero, and whose first four derivatives at zero are the same as f first
+for derivatives at zero. Please pause the video and either work out expressions for
+the coefficients of peace and four, or else make an educated guess what those coefficients
+should be based on the patterns you say. You should get the fourth degree polynomial has
+the same first terms as a third degree polynomial and has a final term of f, fourth derivative
+at zero over four factorial times x to the fourth. If we continue this process forever
+Finding polynomials of higher and higher degree that match more and more derivatives of f.
+Then in the limit, we'll have infinitely many terms that look like this. This is an infinite
+series, and it can be written in summation notation as the sum from n equals zero to
+infinity of the nth derivative of f at zero, divided by n factorial times x to the nth
+power. This works as long as we use the conventions, that the zeroeth derivative means just the
+function that zero factorial is equal to one, and that x to the zero is just equal to one,
+even if x is zero. This infinite series is called the Maclaurin series for f of x. And
+it's also called the Taylor series for f of x centered at x equals zero. Now, so far,
+we've been focusing on the value of f and its derivatives at x equals zero. What if
+we wanted to approximate f of x near x equals a, please pause the video and write down what
+you think the Taylor series centered at x equals A should look like. This is a series
+I'll call it T of x, that we want to match F's value at A. and we want all of its derivatives to match
+f derivatives at a, it makes sense that this series should have a formula similar to the
+formula we just found. But it should involve derivatives at a instead of derivatives at
+zero. In addition, the formula needs to involve powers of x minus a, instead of powers of
+x. I'll leave you to think about the details. And to verify that this series really does
+have the derivatives that we wanted to have. In this video, we tried to approximate a function
+by polynomials that had the same value and derivatives at x equals zero. And we ended
+up with a formula for a Taylor series at x equals zero, which we generalized to a Taylor
+series centered at x equals a. This video defines power series. informally, a power
+series is a series with a variable in it, often the letter X, and it looks like a polynomial
+with infinitely many terms. For example, if we look at the series, the sum from n equals
+zero to infinity of two n plus one times x to the n over three to the n minus one, that's
+a power series with variable x. If we expand that out by plugging in values of n, we get
+one n equals 01 times x to the zero over three to the minus 1x to the zero is one and three
+to the minus one on the denominator is the same as three on the numerator. So we can
+rewrite this term as just three. The next term, when n equals one, is three times x
+to the one over three to the zero, we can rewrite this as 3x, since three to the zero
+is one. The next term is 5x squared over three, and we can continue like this. I want to point
+out that when working with power series, x to the zero is always taken to be one, even
+though there's a possibility that x could end up being zero, and zero to the zero is
+considered undefined in other contexts. When working with power series, x to the zero for
+any value of x is one. The next series expands out to one plus five times x minus six, and
+so on. This is an example of a power series centered at six because of all the factors
+of x minus six. In general, a power series centered at a is a series of the form the
+sum from n equals zero to infinity of c sub n times x minus a to the n, where x is the
+variable. The cease events are real numbers, they're constants, called the coefficients,
+and a is also a real number a constant that's called the center. If I expand out the power
+series and read out the first few terms that looks like this, where c sub zero is the constant
+term, notice that x minus A to the zero is taken to be one, even when x equals a. If
+the power series is centered at zero, then we just set a equal to zero, we can write
+this a little more efficiently in the following form. Sometimes you might see a power series
+that starts with index of one instead of zero. That's perfectly legit. It just means there's
+no constant term. Or if you prefer, you can think of the constant term as being zero.
+It's also fun for the index to start at some other positive number. But it's not considered a power series if
+the index starts at a negative number, resulting in x's in the denominator. That's all for
+the definition of power series. Recall that a power series is a series with a variable
+in it. In this example, the C sub n and the A are supposed to be real numbers that are
+held constant, so the only variable is x. That's the only place where I can plug in
+different values at different times. This video explores the question of for what values
+of the variable x does the power series converge, and for what values of x does it diverged.
+Let's look at a few examples. First, for what values of x does this power series converge.
+There's one value of x that I know for sure it converges for, please pause the video for
+a moment and try to guess which value of x I'm thinking of the series definitely converges
+when x equals three. If I expand out the first few terms of the series, I get this expression.
+then plugging in three 4x, all of my terms vanish to zero, except for my constant term
+of one. So at x equals three, the series converges to its constant turn. And in fact, this is
+true of any power series all power series converge at their center. But let's see what
+other values of exit converges for. Although we have many tests for convergence in our
+toolkit, the ratio test is usually the best test to use to determine where of power series
+converges. For the ratio test, we need to take the limit as n goes to infinity of the
+absolute value of the ratio of consecutive terms. For our example, this is n plus one
+factorial times x minus three to the n plus one divided by n factorial times x minus three
+to the N. Let's simplify by canceling things. We get n plus one, times x minus three. Now
+x minus three is some number. And I'll assume it's a nonzero number, since I already dealt
+with the case when x equals three, so I have a nonzero number that stays fixed as n goes
+to infinity times a number that's going to infinity. So the absolute value of the product
+has to go to infinity, no matter what x value we have, other than the x value of three.
+The ratio test says that if this limit is infinity, the series diverges. Therefore,
+the power series diverges for all values of x except for three. The only place where it
+converges is at the center of three. In this next example, the center of this series is
+negative four. So the series definitely converges when x equals negative four. Let's use the
+ratio test to figure out what other values of x make it converge. So we'll take the limit
+as n goes to infinity of the absolute value of a sub n plus one over a sub n. This works
+out to the limit the absolute value of negative two to the n plus one times x plus four to
+the n plus one divided by n plus one factorial, all over negative two to the n x plus four
+to the n over n factorial. Let's simplify by flipping and multiplying and rearranging
+a little. After canceling, we get the limit of the opposite value of negative two times
+x plus four divided by n plus one. The numerator of this expression doesn't depend on an n,
+so it stays fixed as n goes to infinity, but the denominator goes to infinity. Therefore,
+we're dividing some fixed constant by larger and larger numbers, and so this limit is equal
+to zero. Once again, the limit doesn't depend on x as value It's always zero no matter what
+axis. So by the ratio test zero is less than one, the series converges for all values of
+x. Here's our third and last example, in this
+example, it's a little trickier to figure out what the center is, one thing we can do
+is to rewrite the series in a more standard form by factoring out the negative five, then
+we get negative five times x minus two fifths, all raised to the nth power over N, I can
+rewrite this again as negative five to the n times x minus two fifths to the n over n.
+And in this more standard form, it's easy to recognize that the center is two fifths.
+Another way to find the center is just to figure out the value of x, that makes terms
+go to zero. So in our case, if we want negative 5x plus two, two equals zero, we need X to
+equal two fifths. And therefore, two fifths must be the center, like we found before.
+In any case, our series converges for x equals two fifths, for sure, but it might converge
+for other values of x. So let's use the ratio test. To find other values of x that make
+the series converge. We start off the same way as usual, by taking a limit of a ratio
+of the n plus one than n terms. And then we simplify by flipping and multiplying. And
+after canceling, we get the limit of negative 5x plus two times n over n plus one as n goes
+to infinity, and over n plus one goes to one. And negative 5x plus two doesn't depend on
+n. So this final limit is just the absolute value of negative 5x plus two. So by the ratio
+test, our series converges when this limit is less than one, and it diverges when the
+limit is greater than one, the ratio test is inconclusive when the absolute value of
+negative 5x plus two is exactly equal to one, so we'll worry about that case later. Let's
+solve the first absolute value inequality. When the absolute value of something is less
+than one, that means that the quantity inside the absolute value sign has to be between
+one and negative one. So we can rewrite the absolute value inequality as negative one
+is less than negative 5x plus two, which is less than one, we can solve this for x by
+subtracting two and dividing by negative five. dividing by a negative number reverses the
+direction of the inequality signs. So we have that our series converges for these values
+of x. Now let's solve the second absolute value and equality. The one that tells us
+where the power series diverges, the series diverges when the absolute value of negative
+5x plus two is greater than one. When the absolute value of something is greater than
+one, that means that whatever is inside the absolute value sign has to either be less
+than negative one or greater than one. So we can replace our absolute value in equality
+with two inequalities. Negative 5x plus two is less than negative one, or negative 5x
+plus two is greater than one. Let's solve these inequalities by subtracting two and
+dividing by negative five. And similarly on the other side. So our series diverges when
+x is greater than three fifths or less than 1/5. That makes sense, it's kind of the opposite
+of where it converges because we're solving an absolute value inequality with the opposite
+inequality side. Putting all this information together, we see that our series converges
+when x is between 1/5 and three fifths and divert On either side of this interval, we still don't know what happens when x is
+exactly equal to 1/5, or exactly equal to three fifths, since those values correspond
+to the case when the ratio test is inconclusive. So let's turn our attention to the x values
+of 1/5 and three fifths Next, let me write down our original power series, it was the
+sum from n equals one to infinity of negative 5x plus two to the n over n. If we want to know if this power series converges
+at x equals 1/5, let's just plug in x equals 1/5. This simplifies to the sum of one to
+the n over n, which is just the regular harmonic series, which diverges. If we plug in x equals
+three fifths, we get this series, which simplifies to the alternating harmonic series. So it
+converges. So now we know that the series converges when x equals three fifths and diverges
+when x equals 1/5. And our final answer is that the power series converges on the interval
+from 1/5 to three fifths, where we use an open bracket, to denote that we exclude the
+endpoint 1/5, because the series diverges there, and the closed bracket, square bracket
+means that we include the endpoint of three fifths where the series does converge. I want
+to make one more observation. Before we leave this example. Notice that the midpoint of
+this interval is the number 2/5. Remember, at the beginning of the problem, we calculated
+the center of the power series, and it was also two fifths. We'll see in a moment that
+this is no coincidence. In fact, the interval of convergence is always centered at the center
+of the power series. And we could in fact, describe the interior of this interval of
+convergence as the x values for which x minus that center is less than 1/5. Bet is all x
+values within a distance of 1/5. From the interval center. We've seen three examples
+of power series, and each one converge in a very different way. In general, it turns
+out that there are only these three different types of convergence that we've already seen.
+It's possible, like we saw on the first example, that a series might converge only at its center.
+It's also possible that a power series could converge for all values of x. This is what
+happened in our second example. But if neither of these two cases hold, then the only other
+possibility is that there exists a number R, such that R is series converges anytime,
+where within our units from the center a and the power series diverges for any x values
+that are more than our units from the center array. In symbols, I can right there exists
+a number are such that the power series converges when the absolute value of x minus a is less
+than R, and diverges when the absolute value of x minus a is greater than R, since the
+absolute value of x minus a represents the distance between x and a. This was a situation
+we saw in our third example. Now in the first case, we say that the radius of convergence
+of the power series is zero. In the second example, we say the radius of convergence
+is infinity. And in the third example, we say the radius of convergence is our since
+our represents the distance from the center of the interval, sort of like the radius of
+a circle represents the circles distance from the center. Now the interval of convergence
+is the interval of all x values for which the power series converges. So in our first
+situation, the interval of convergence is just the number a it's not really an interval,
+just a single number, but we call it the interval of convergence anyway, in the second situation,
+our interval of convergence is the interval from now negative infinity to infinity. And
+then the third situation, the interval of convergence includes this entire interval
+here that extends from the number A minus r to the number A plus R. So our interval could be the open interval,
+a minus r to a plus R. But it could also include one or more endpoints, so it could be the
+closed interval, or it could just include the left endpoint, or just the right endpoint.
+In this video, I worked out some examples using the ratio test to figure out what x
+values make a power series converge. I also stated the fact that there are only three
+options for convergence of a power series, convergence at the center only convergence
+for all real numbers and convergence on some finite interval centered at the center of
+the power series. This video gives an example of computing the interval of convergence and
+the radius of convergence for a power series. To compute the radius of convergence and interval
+of convergence for this power series, we start by using the ratio test. So we need to find
+the limit as n goes to infinity of the absolute value of a sub n plus one over a sub n, where
+the a sub ns are the terms for this power series, we can compute a sub n plus one, by
+just plugging in n plus one everywhere we see an N in this expression. So that's negative
+four to the n plus one, times x minus eight to the two times quantity and plus one divided
+by n plus one. We divide all that by the A sub N term, which is just negative four to
+the n x minus eight to the to n over n, which I've just copied from the formula here. Now
+I'm going to simplify, flip and multiply. And now I'm going to rearrange terms so that
+corresponding terms are on top of each other. So I'm going to write negative four to the
+n plus one over negative four to the n times x minus eight to the to quantity n plus one, that's the same thing
+as two n plus two, over x minus eight to the two n. And then I'll write the N and N plus
+one. So that's n over n plus one. Once I cancel terms, I get the limit of negative four times
+x minus eight squared times n over n plus one. Now, as n goes to infinity, n over n
+plus one is going to one, and the absolute value of negative four is just four. And the
+absolute value of x minus eight squared is just going to be x minus eight squared, since
+this expression is always positive, so we have our limit. And the ratio test says the
+series will converge where this limit is less than one. So next, let's set four times x
+minus eight squared to be less than one and solve for x. In other words, x minus a squared
+is less than 1/4. Now we can't solve this quadratic inequality by taking the square
+root of both sides, that would lead to something like x minus eight is less than plus or minus
+the square root of 1/4, which doesn't even make any sense. And it's not true. What we
+can do instead is solve the quadratic equation, x minus eight squared is equal to 1/4. And
+then use some logic to figure out the inequality. So now that we have an equation sign, we can
+take the square root of both sides to get x minus eight is is equal to plus or minus
+the square root of 1/4. In other words, x minus eight is plus or minus one half. So
+in other words, x is equal to eight plus one half, or eight minus one half. That's either
+17 halves, or 15 halves. Now let's go back to the inequality that we're interested in.
+Since we know that x minus eight squared is equal to 1/4. At x values of 15 halves and
+17 halves, we can test to see whether x minus eight squared is bigger or smaller than 1/4.
+by plugging in values in between these numbers, so when x is less than 15, half just by plugging
+in a sample value like zero, we can see that x minus eight squared will be bigger than
+1/4. Well, when x is between 15 halves and 17 halves, say the value of eight, the plug
+in eight and 4x, and see that eight minus eight squared, which is zero, is going to
+be less than 1/4. And finally, plugging in a value of x over here, maybe something like
+10 for x, we're going to get a value of x minus eight squared, that is, again, bigger
+than 1/4. So putting this together, we can see that x minus eight squared is less than
+1/4. When x is between 15 halves, and 17 halves. So by the ratio test, our series converges.
+For x between 15 halves, and 17 halves the ratio test also tells us the series diverges.
+When this expression is greater than one in order other words, x minus eight squared is
+greater than 1/4. In other words, for x values less than 15 halves are greater than 17 halves.
+Now the only thing we still need to figure out is what happens at the endpoints of the
+interval 15 halves to 17 half's recall that our series was given by this formula. So when
+x is equal to 15 halves, we have negative four to the n 15 halves minus eight to the
+to n over n, which is equal to negative four to the n, negative one half to the two n over
+n, which I can rewrite as negative one to the n times four to the n times negative one
+to the two N over two to the to n divided by n, which is the same thing as negative
+one to the n four to the n, negative one to the two n divided by n times two squared to
+the N. Since two n is always even negative one to the two, n is always equal to one.
+And since two squared is four, this four to the n on the denominator cancels with the
+four to the n on the numerator. So I'm left with the alternating harmonic series, which
+we know converges. So the series converges for x equal to 15 halves. Now at x equals
+17 halves, we can go through the same computation, just using 17 halves in place of 15 halves,
+that changes the negative one half here to a positive one half. And now we have a positive
+one to the two n, which is still always one, everything else works the same. And so we
+still have a conversion series. So going back up to the top, we know that the series actually
+converges for x greater than or equal to 15 halves and less than or equal to 17 halves.
+That is our interval of convergence. closed bracket 50 and a half to 17 halves close bracket.
+That is that the interval of convergence has length one, because 17 halves minus 15 halves,
+the difference of the two endpoints is two halves, which is one also, the interval of
+convergence has center of eight because the average of the endpoints 17 halves plus 15
+halves over two is equal to eight. This should come as no
+surprise, because our original series was centered at eight. So if we draw our interval
+of convergence on the number line, it's centered at eight, and extends out a total distance
+of one unit. In other words, it extends out by half a unit on either side. And so the
+radius of convergence is the length of the interval divided by two, or one half. So we
+found the radius of convergence. And we found the interval of convergence, which was this
+closed interval here. And so that completes the problem. In this video, I'll prove some
+of the key facts about convergence of power series. My ultimate goal is to prove that
+there are only three possible options for convergence, a power series could converge
+only at its center, it could converge for all real numbers. And if these two options
+don't hold, then there must exist a number are such that the power series converges for all
+x, within our units away from the center a and the power series diverges. for all x, his distance from a is greater than our first
+I'll prove some preliminary facts. I'll start with this one. If a power series converges
+when x is equal to b, for some nonzero number B, then it also converges for any x whose
+absolute value is less than the absolute value of b. To prove this fact, let's assume that
+the power series converges when x is equal to b, that is, the sum of c sub n times beats
+to the n converges. If a series converges, then the limit of its
+terms has to equal zero. Since if the limit of the terms is not equal to zero, the series
+would have to diverged by the divergence test. Therefore, by the definition of limit, for
+any epsilon, there exists a number capital N, such that c sub n times b to the n is between
+zero plus epsilon, and zero minus epsilon for little n bigger than or equal to capital
+N. In particular, if we pick epsilon equal to one, this says there exists a capital n
+such that negative one is less than c sub n times b to the n is less than one for little
+n bigger than or equal to capital N, I can rewrite this statement as the absolute value
+of c sub n times b to the n is less than one for little n bigger than or equal to capital
+N. Now, if x is any number, with absolute value less than the absolute value of b, we
+can write the absolute value of c sub n times x to the n as the absolute value of c sub
+n times b to the n times x over a b to the n, just using algebra, I can rewrite this
+as c sub as the value of c sub n times b to the n times the absolute value of x over b to the n. For little n bigger than or equal to capital
+N, we know that the opposite value of c sub n times b to the n is less than one. So this expression has to be less than the
+absolute value of x over b to the n. Now if the absolute value of x is less than the absolute
+value of b, this means that the absolute value of x over b is less than one. So the series
+The sum of X absolute value of x over b to the n is a geometric series, whose ratio has
+absolute value less than one, so it's a convergent series. Now, the ordinary comparison test
+tells us that the sum of the absolute value of c sub n, x to the n also converges, because
+we know that the terms of that series are less than the terms of our convergent geometric
+series. Therefore, our original series The sum of c sub n, x to the n converges absolutely,
+and therefore converges. So we've proved the first statement. The second statement says
+that if the power series diverges when x is equal to d for some nonzero number D, then
+it also diverges. Whenever we have an x whose absolute value is greater than the absolute
+value of D. The statement follows directly from the first statement, because suppose
+we have the sum of c sub n times d to the n diverges. If the absolute value of x is
+bigger than the absolute value of d, and the sum of c sub n x to the n converged, then
+by part one, the sum of c sub n, d to the n would have to converge, since the absolute
+value of d is less than the absolute value of x. But this contradicts the assumption
+that the sum of c sub n times d to the n diverges. And therefore, we know that the sum of c sub
+n times x to the n must diverged after all. That's all for the proof of facts about convergence
+of series. In this video, we'll talk about power series as functions. Consider the function
+defined by f of x is equal to the sum from n equals zero to infinity of x to the n. This
+can also be written as one plus x plus x squared, and so on. When we think of this as a function,
+the variable x becomes our independent variable, or input variable. So to figure out the values
+of f, we can plug in numbers for x and evaluate. Please pause the video and calculate F of
+1/3. f of 1/3 is equal to one plus a third plus a third squared, and so on, this is a
+geometric series. So it adds up to the first term one divided by one minus the ratio of
+1/3. And that simplifies to three halfs. Next question, what's the domain of f of x, we
+can think of the domain of a function as the values of the input variable x, that give
+us a real number as output? Please pause the video to write down your answer for the domain
+of f of x. The series, the sum of x to the n converges when x is between negative one
+and one. So for these values of x, we get a finite real number as our answer for f of
+x. Also, the series diverges for other values of x. So we don't get a real number answer
+when we plug in values of x less than or equal to negative one or greater than or equal to
+one. Therefore, the domain of f of x is the set of X values for which negative one is
+less than x is less than one, or an interval notation, we can write this as the interval
+from negative one to one. And in general, the domain of a power series
+is exactly the set of values where it converges. By a closed form expression for f of x, I
+mean an expression that doesn't involve a summation sign, I can write the sum of X to the N, without
+the summation sign by using the geometric series formula, first term is one divided
+by one minus the common ratio of x. This holds for all x values between negative one and
+one as usual, where the geometric series converges. Therefore, I can write f of x as one over
+one minus x for x values in that interval. Notice that if I just looked at the function,
+g of x equals one over one minus x out of context, it would have domain spanning from
+negative infinity to one together with the interval one to infinity. Because this function
+g of x is defined for all x values that are not equal to one. So f of x and g of x are
+not exactly the same function. They have different domains, but they are exactly equal on the
+interval from negative one to one. And we say that the function g of x is represented
+by the power series, the sum from n equals zero to infinity of x to the n. If we want
+to be more precise, we can say it's represented by this power series 4x between negative one
+and one. We can think of the partial sums of this series sum of x to the n as a way
+to approximate the function, one over one minus x with polynomials. Please pause the
+video and write out the first few partial sums, your answers should have Xs. S sub zero
+is just the zeroeth term one, S sub one is one plus x, and so on. s sub n is one plus
+x plus all the way up through x to the n, an nth degree polynomial. In this figure,
+I've drawn the function one over one minus x in blue. And I've drawn the first partial
+sum the linear function one plus x in orange. Notice that these two functions are close
+to each other when x equals zero, but get farther away from each other when x is far
+from zero. In this graph, I've added the next partial sum s two, which is a degree two polynomial,
+a quadratic. Here I've got partial sums through s four. And here I've got partial sums through
+about s 12. The original function one over one minus x is here in blue on mark over Ed. And you can see that these partial sums are
+becoming very good approximations to that original function on the interval from negative
+one to one. Now outside that interval, for example, for x values below negative one, our partial sums deviate wildly from our original
+function. I want to show one more graph. In this graph, the function one over one minus
+x is shown in blue. And the graph of the power series, the sum of X to the N is shown in
+orange, the blue function is actually obscured by
+the orange function because the two functions are identical for values of x between negative
+one and one. The only difference between these two functions, as discussed before, is that
+the function one over one minus x is defined for all x values except for the x value of
+one. And that's why we can see the blue graph even when x values are less than negative
+one. However, the function given by this power series has domain in between negative one
+and one, and so it only exists here in between those x values. In this video, I talked about
+representing the function one over one minus x with the power series, the sum from n equals
+zero to infinity of x to the n. These two progressions are equal for x values between
+negative one where the power series converges. I also used a graph to give an idea of what
+this equation means. The partial sums drawn in various colors give excellent approximations
+to the original function drawn in blue on the interval of X values between negative
+one and one. Since the partial sums are polynomials, this gives us a way to approximate this rational
+function with simple polynomial equations. The idea of approximating functions with polynomials
+is a very important idea that we'll see again and again. This video is about rewriting functions
+in terms of power series. All the examples that we'll do in this section will be based
+on the formula for the geometric series, the fact that the sum from n equals zero to infinity
+of x to the n is equal to one over one minus x. For x between negative one and one. We
+want to express the function two over x minus three as a power series. And we want to do
+this by using the geometric sum formula. The trick here is going to be to rewrite to over
+x minus three, so it looks more like one over one minus something, then we can treat whatever
+that something is as x and plug into the formula to get a power series. So that's the idea.
+Now I'm starting with two over x minus three. And I don't really like the X minus three,
+I'd rather This was three minus x because that reminds me more of one minus
+x. So I could rewrite it like this, but my two expressions now are equal. This one's
+the negative of this one, so I can fix that by just sticking a negative sign out in front.
+Now my two expressions are equal, because I've just multiplied my first expression by
+negative one over negative one. To get this expression, but I still don't really like
+the three minus x, I wish that were one minus x, it'd be nice if I could just divide the
+three by three to get one. But in order to leave the expression on change, I'm going
+to need to divide everything by three, both the top and the bottom. This gives me negative
+two thirds, divided by three minus x over three, which I can also write as negative
+two thirds times one minus x over three. Now if I bring the negative two thirds out front,
+I have negative two thirds times one over one minus x over three. Using my geometric
+sum formula, this is the same as negative two thirds times the sum from n equals zero
+to infinity of x over three to the n, I'm just plugging in x over three 4x. In this
+formula, I've now found a power series representation. But I'm going to clean it up a little bit
+and make it look more standard, bring the negative two thirds into the summation sign
+and distributed my exponent to get x to the n over three to the N. And now I can rewrite
+this as negative two over three to the n plus one, times x to the n. To figure out the interval
+of convergence for this power series, there are two different approaches that I could
+take. First, I could do a standard computation using the ratio test. I'll let you work out
+the details yourself. But you should get that the radius of convergence is three, and the
+interval of convergence is from negative three to three. A second approach to finding the interval
+of convergence is to look at the history of how we made the power series. Our basic template power series was the sum
+from n equals zero to infinity of x to the n, which converges when x is between negative
+one and one. We then plugged in x over three for x. Well, this good should converge when
+x over three is between one and negative one. In other words, when x is between three and
+negative three, finally, we multiplied that series by negative two thirds. This doesn't
+change the interval of convergence. So the interval of convergence for our final power
+series is the interval between negative three and three, just like you could have gotten
+from the ratio test. As a second example, let's find a power series representation of
+x over one plus 5x squared. Again, we want to use the geometric series summation formula.
+So we want to make this expression look more like one over one minus something. Well, one
+plus 5x squared is the same thing as one minus minus 5x squared. So if I just wanted a power
+series for one over one plus 5x squared, I could do that easily by using the geometric
+sum formula, and getting the sum from n equals zero to infinity of minus 5x squared to the
+N. All I'm doing here is plugging in negative 5x squared for x in this formula. Since I
+want a power series for x over one plus 5x squared, instead, I can just multiply everything
+by x. Again, I'd like to clean things up and make this expression look more like a standard
+power series. So I'll drag the x inside the summation sign, I can do that because the
+summation is over n, which has nothing to do with x. Now I can use my laws of exponents
+to rewrite this as negative one to the n five to the n times x to the two n. Now, x times
+x to the two n is equal to x to the two n plus one. And so this gives me a good power
+series representation for my function. Although the problem didn't explicitly ask for it,
+it's a good idea to compute the interval of convergence to see for what values of x this equation actually holds. I'll use the
+history approach. We started with our old familiar power series, which converges when
+x is between one and negative one with plugged in net Get a 5x squared for x.
+So that converges when negative one is less than negative 5x squared is less than one,
+which is equivalent to the inequality 1/5 is greater than x squared, which is greater
+than negative 1/5. Notice that I had to flip around the inequality signs when i divided
+by negative five. Looking at a graph of y equals x squared, I can see that x squared
+is between negative 1/5 and 1/5. For x values corresponding to this section of the graph
+that I'm drawing here in green, or this interval of X values on the x axis that I'm drawing
+in pink. To find the endpoints of this pink interval, I just need to find where x squared
+is exactly equal to 1/5, which is when x is equal to plus or minus the square root of
+1/5. So the x values that satisfy me and equality are the x values in between these two values,
+I have negative the square root of 1/5 is less than x is less than the square root of
+1/5. Now the last step in my history is when I multiplied everything by x, this doesn't
+change my interval of convergence, which remains this interval here. In this video, I represented
+several functions with power series using the geometric series summation formula. Although
+only a limited class of functions can be handled using this formula, some of the techniques
+that I used in the process, like multiplying my whole power series by x or plugging in
+an expression for x, some of those techniques can be used in a much broader context to represent
+many different kinds of functions as power series. As we'll see. Up to now, we've only
+been able to calculate the sum of a few various specific series like geometric series and
+some telescoping series. In this video, we'll see how to use Taylor series to find the sums
+of other series. Let's start by finding the Taylor series for arc tan of x centered at
+x equals zero. Since arc tan of x is equal to the integral of one over one plus x squared,
+one easy way to find the Taylor series for arc tan of x is to build it up, starting with
+the formula for a geometric series, one over one minus x is the sum from n equals zero
+to infinity of x to the n. Now, one over one plus x squared is equal to one over one minus
+negative x squared. So I can plug negative x squared in for x in this power series. And
+I get the sum from n equals zero to infinity of negative x squared to the n, which simplifies
+to the sum from n equals zero to infinity, negative one to the n x to the two n. Therefore,
+arc tan of x, which is the integral of one over one plus x squared dx is going to be
+equal to the integral of this power series, at least up to a constant, I can integrate
+this power series term by term to get the sum of negative one to the n, x to the two
+n plus one divided by two n plus one plus a constant. To figure out the constant C,
+I can plug zero in for x on both sides of my equation. Since all of my powers of x involve
+a positive power of x, even when n equals zero, I've got x to the one, so there's always
+at least one copy of x there. So if I plug in x equals zero, all of these terms go to
+zero, and arc tan of zero is also zero. So plugging in x equals zero gives me zero equals
+the sum of a bunch of zeros plus C. In other words, the constant is zero. Therefore, this
+expression right here gives me a Taylor series representation of arc tan. Let's take a moment
+to figure out which x values this equation is actually true for. We know that the geometric
+series formula holds for x values between negative one and one not including the endpoints.
+Therefore, when I plug in negative x squared for x, I get In the equation that holds for
+negative x squared between one and negative one, which is equivalent to saying that x
+is between one and negative one. And when I take the integral of both sides,
+I still get an equation that holds true for x between negative one and one. So I'm guaranteed
+that this equation up here holds for x values between negative one and one. But in fact,
+it's not hard to check that this series actually converges at the endpoints of negative one
+and one. This follows from the alternating series test sets when we plug in x equals
+negative one, or x equals one. Either way, we get an alternating series that converges.
+So this series converges on the closed interval from negative one to one, and it's equal to
+arc tan on that open interval. In fact, it turns out that is equal to our tan even on the closed interval. In particular,
+the equation holds for x equal to one. When x is equal to one, that I plug into the equation
+to get the arc tan of one is equal to the sum from n equals zero to infinity, negative
+one to the n times one to the two n plus one, that's just one over two n plus one, I can rewrite that. Now, arc tan of one is
+the angle whose tangent is one. So arc tan of one is going to be pi over four. In other
+words, I now have a series that sums to pi over four, let's write out the first few terms
+of this series and see what it looks like. The first term is one, the next term minus
+a third, plus a fifth minus a seventh plus a ninth, and so on. In other words, multiplying
+both sides by four, we get that pi is equal to four minus four thirds plus four fifths
+minus four sevenths, plus four ninths, minus 4/11, and so on, if you've ever wondered how
+to generate digits for pi, here's one way we found the sum of kind of a natural series
+to look at. And we found a beautiful formula for pi. For the next example, let's start by finding
+the Taylor series for f of x equals ln x centered at x equals one, we can write out the pattern
+of the function and its derivatives. And we soon notice that the nth derivative will have
+negative one to the n minus one times n minus one factorial times x to the n. Since we're
+centering at x equals one, we'll plug in one and get the nth derivative of f at one is
+equal to negative one to the n minus one times n minus one factorial. Therefore, the Taylor
+series for ln of x will be the sum from n equals zero to infinity of f to the n at one
+over n factorial, times x minus one to the n. Since this pattern for the nth derivative
+of f really only works, starting with the first derivative, not with the zeroeth derivative,
+I'm going to split out the first term, which is just going to be ln of one, which is actually
+zero. And then all the other terms follow the same pattern. And we have negative one
+to the n minus one, times n minus one factorial divided by the n factorial times x minus one
+to the n. This simplifies to ln of x is equal to the sum from n equals one to infinity of
+negative one to the n minus one times x minus one to the n over n. Since the n minus one
+factorial cancels with almost all the n factorial leaving just the factor and in the denominator,
+so I now have a formula for the Taylor series for ln of x. It's easy to check using the
+ratio test that this power series has a radius of a convergence of one and so it converges
+when x minus one is between one and negative one. It other words when x is between zero,
+and two. And although I won't prove it here, it turns out that this Taylor series really
+does converge to its function ln of x. And in fact, it converges to ln x on the interval
+for x greater than zero and less than or equal to two. Now, if I plug in x equal to two into
+my equation, I get something interesting. I get that ln of two is equal to the sum from
+n equals one to infinity of negative one to the n minus one of two minus one to the n,
+well, that's just one to the n, which is just one. And so I get ln f two is equal to the
+sum of negative one to the n minus one over n. That should be looking familiar to you.
+And yes, it's true. This is just the alternating harmonic
+series, one minus one half, plus 1/3, minus 1/4, and so on. So Taylor series has given
+us the sum of the alternating harmonic series, and it is ln of two. In this video, we use
+Taylor series to find the sum of the alternating harmonic series. We also used Taylor series for arc tangent,
+to find that the sum of a different series is actually equal to pi. As you get more familiar
+with Taylor series, you'll be able to calculate the sum of other series by recognizing
+them as the series that you get by plugging in a certain value of x into the Taylor series
+of a particular function. For example, if you see the series one, plus one over two,
+plus one over three factorial, plus one over four factorial, and so on, you might recognize
+that as the number one plugged into the formula for the Taylor series of either dx, in other
+words, this series is equal to either the one which is e. for any function f of x, whose
+derivatives all exist, we can write down the Taylor series for f of x centered at x equals
+a, by using this formula. But just because we can write the Taylor series down, doesn't
+guarantee that the Taylor series actually converges to the function we started with.
+In this video, we'll address the questions of When can we be sure that the Taylor series
+converges to its function? And when the Taylor series does converge? How good is the approximation
+by taylor polynomials? or partial sums? In other words, how big is the remainder? The
+answer to the question, does the Taylor series always converge to the function that's made
+from is unfortunately, no. Sometimes the radius of convergence is zero. And sometimes, even
+though the radius of convergence is large, or even infinite, the Taylor series converges,
+but it converges to the wrong function. Here's an example of the second situation. If we
+look at this piecewise defined function, g of x is defined as e to the minus one over
+x squared, if x is not zero, and is defined so that it's continuous at zero to be zero,
+when x equals zero, it's possible to work out the value of g prime is zero, using the
+limit definition of derivative, g prime of zero is the limit as h goes to zero of g of
+zero plus h minus g of zero over h, which is the limit as h goes to zero of e to the minus one over h squared minus
+zero over h. I'll rewrite this as the limit as h goes to zero of one over h divided by e to the one over h squared. as
+h goes to zero from the positive side, this is an infinity over infinity indeterminate
+form. And as h goes to zero from the negative side, is a negative infinity over infinity
+indeterminate form. In either case, we can use loopy talls rule to replace this limit
+with the limit of the derivatives, which simplifies to a zero over infinity kind of limit, which is equal to zero. In a similar way, it's possible to prove that
+the second derivative of g zero is also zero, and so is the third derivative, and so are
+all the derivatives of G at zero. Therefore, if we write out The Taylor series is just
+the sum of a bunch of zeros or the zero function. Certainly this Taylor series converges for
+all x, but it converges to the constant zero function. And that's different from the function
+that we started with. In fact, the function that we started with g of x is not zero for
+any x, except x equals zero. So the Taylor series
+only matches the function at the single point x equals zero and nowhere else. We found an
+example where the Taylor series converges, but not to its function g of x. Fortunately,
+this behavior doesn't happen for most of the functions that we typically deal with. To
+understand better, which Taylor series are guaranteed to converge to their functions,
+let's take a look at the idea of remainders. For a function f of x as Taylor series T of
+x, the remainder is written r sub n of x equals f of x minus T sub n of x, where T sub n of
+x is the nth degree Taylor polynomial. This can be expanded out as follows. Previously,
+when we looked at remainders for series, we wrote that the remainder was the infinite
+sum, which I'll call s infinity, minus the nth partial sum. The analogous expression
+for Taylor series might be the entire Taylor series, minus the first terms up through the
+degree and term. But that's not what we define the remainder to be for Taylor series. Instead,
+the remainder for Taylor series is the difference between the function and the first terms up
+to the degree and term. The reason it's defined a little bit differently is because for Taylor
+series, we're super interested in the Taylor series converging to its function. And it's
+of less interest whether or not the Taylor series happens to converge to its infinite
+sum. Because we define the remainder as the difference between the function and its Taylor
+polynomial, it follows directly that the Taylor series for f of x converges to f of x and
+an interval around a if and only if the limit of the remainders is zero in this interval,
+to see this, just note that the limit as n goes to infinity of the Taylor series equals
+f of x, that's what it means to converge to f of x. If and only if f of x minus this limit
+is equal to zero. We can rewrite this as the limit as n goes to infinity of f of x minus
+the limit as n goes to infinity of T n of x equals zero. Since the limit as n goes to
+infinity of f of x is just f of x, there's no ends in this expression. Using limit laws,
+we can rewrite this again, as the limit of the quantity f of x minus t and f of x equals
+zero. But that's just the same thing as saying that the limit of the remainders is zero by
+definition of remainders. So we restated the question about when does a Taylor series converge
+to its function? As a question about when does the limit of the remainders equals zero? tailors in equality gives us a bound on these
+remainders that can help us answer the question of when the remainders limit to zero. This
+bound can also be a useful way to answer the question of how close is the approximation
+when we use taylor polynomials to approximate a function. Here's some details about when
+this bound holds. Suppose there's a number capital N, such that the n plus one derivative
+of X has magnitude less than or equal to capital N, for all X's within a distance d of the
+center a as a graph, this means that there's a number capital M. And for all X's within
+a distance d of the center a, the graph of the n plus one derivative of f lies between negative m and m. So if such
+a number M exists, then the remainder r sub n of x of the Taylor series satisfies the
+inequality that the magnitude of r sub n of x is less than or equal to this bound capital
+M divided by n one plus one factorial times the absolute value of x minus a to the n plus
+one to power for all x's in this interval. of length two D that we're talking about.
+Now, in the statement of Taylor's inequality, the number m can be chosen just to work for
+a particular derivative. But really nice things can happen if we are able to choose the same
+number of M to work for all derivatives for our values of little n. In fact, if all derivatives
+are bounded by the same value capital M, then we can guarantee that the Taylor series converges
+to the function. That gives us a nice practical convergence criterion that I'll show you on
+the next slide. The practical convergence condition says that if there's a number capital
+M, such that the magnitude of the nth derivative at x is less than capital M, for all numbers,
+x and a certain interval around the center. And for all numbers, and then the Taylor series
+for f of x converges to f of x 4x is in that interval. I represent the convergence condition
+visually. This time, we're agreeing that all the derivatives are within this bound. So
+the original function lies within this bound, and its derivative lies within this bound,
+and the second derivative lies within this bound. These are not necessarily accurate
+representations of the derivatives. But that's the idea. So as long as the bound holds for
+all the derivatives, then the Taylor series converges to the function. And it's not too
+hard to prove this practical convergence criteria. From Taylor's inequality. Remember that Taylor's
+inequality says that, because of this bound, the nth remainder is bounded by M over n plus
+one factorial times the absolute value of x minus a to the n plus one. But it's a fact
+that the limit as n goes to infinity of M over n plus one factorial, times the absolute
+value of x minus a to the n plus one is equal to zero. And it's not hard to prove this fact,
+by looking at the series. And using the ratio test, to show that the
+series converges, I'll leave that as an exercise for the viewer. Therefore, by the divergence
+test, we know that the limit of the terms has to be zero, which is what we want. Now, because the limit of this expression
+is zero, by the squeeze theorem, the limit of the our ends has to be zero as well, which
+means that the Taylor series converge to the function. This practical convergence criterion
+is a very good way to show that Taylor series converges to their function. But even if it
+doesn't hold, it's still possible that the Taylor series may converge to its function,
+or in some cases, it may not. Let's use this practical convergence condition to prove the
+Taylor series for sine x converges to sine x. Recall the Taylor series for sine x is
+given by this equation. And recall also that any nth derivative of x for f of x equals
+sine x will have to be of the form sine x, or negative sine x, or cosine of x, or negative
+cosine of x. That's simply because when we take repeated derivatives of sine and cosine,
+the values cycle around in between those four possible answers. Now, since the absolute
+value of sine x is always less than one, or equal to one and same thing for cosine, we
+know that the nth derivative of our function has to be bounded by one, so we'll let m be
+one. And this bound holds for all x values, all real numbers. Therefore, we know that
+the Taylor series converges to the function sine of x. for all values of x. We've used
+the practical convergence condition with M equals one to prove this. In this video, we
+defined the nth remainder for a Taylor series as a difference between the function and its
+nth Taylor polynomial. We also gave a bound on the size of the nth remainder. It's always
+less than or equal to M over n plus one factorial times the value of x minus a to the n plus
+one where M is a bound on the size of the n plus ones. derivative of x for x within
+some distance d of a. Because of this formula for the remainder known as Taylor's inequality,
+we can show that if the nth derivative of x is always bounded by the
+same M for all x within a certain interval around a, and for all values of n, then the
+Taylor series converge to its function. This video introduces the idea of parametric equations,
+instead of describing a curve as y equals f of x, we can describe the x coordinates
+and y coordinates separately in terms of a third variable t, usually thought of as time.
+so we can write x as a function of t and y as a separate function of t. This is especially
+useful as a way to describe curves that don't satisfy the vertical line test, and therefore
+can't be described traditionally as functions of y in terms of x. A Cartesian equation for
+a curve is an equation in terms of x and y only. parametric equations for a curve give
+both x and y as functions of a third variable, usually T. The third variable is called the
+parameter. That's our first example, let's graph the parametric equations given here
+on an x y coordinate axis. We'll do this by finding x and y coordinates that correspond
+to the same value of t. For example, when t is negative two, you can calculate that
+x, I plug in negative two for t gives you five and y, when you plug in negative two
+for t gives you eight. Please pause the video for a moment and fill in some additional values
+of x and y. For some additional values of t. Your chart should look like this. And when
+we plot the XY pairs and connect the dots, we get something like this. It says this point
+over here corresponds to a T value of negative two. And this point over here corresponds
+to the t value of two. So if we think of t as time, we're traversing the curve in this
+direction, to find a Cartesian equation for this curve, we need to eliminate the variable
+t from these equations. One way to do this is to solve for t and one equation, say the
+first equation. So two t is equal to one minus x, which means that t is one half minus x
+over two, then we can plug that expression for t into the second equation and get y equals
+one half minus x over two squared plus four, which simplifies to the quadratic equation,
+y equals 1/4 X squared minus one half x plus 17 fourths. Let's try some more examples.
+A table of values for the first example helps us draw the familiar graph of a circle of
+radius one. This should come as no surprise, since the equations x equals cosine t and
+y equals sine t, are familiar from trig as a way of describing the x and y coordinates
+of a point on the unit circle. Notice that when t equals zero, our curve lies on the
+positive x axis. And as t increases from zero to two pi, we traverse the curve once in the
+counterclockwise direction. A Cartesian equation for this unit circle is given by the equation
+x squared plus y squared equals one. This follows from the trig identity cosine squared
+t plus sine squared t equals one by substituting in X for cosine t, and y for sine t. Please
+pause the video for a moment to graph the second curve and rewrite it as a Cartesian
+equation. The table of values should help you see that the graph is again a unit circle.
+But this time, as t increases from zero to two pi, we actually traverse the circle
+twice in the clockwise direction. I'll draw this with a double arrow going clockwise The
+Cartesian equation for this graph is still x squared plus y squared equals one. And so
+we found two different parameterizations. For the same graph on the x, y axis. Let's take a look
+at the third equation. There's no interval value specified for t here. So let's just
+assume that t can be any real number. Now as T ranges from negative infinity to
+infinity, our Y values, which are given by cosine t, oscillate between one and negative
+one, our x values are always the square of our Y values. So the graph of this curve has
+to lie on the graph of x equals y squared, which is a sideways parabola. But a parametrically
+defined curve doesn't cover this whole parabola. Remember that y is given by cosine of t. So
+y can only range between negative one and one. And so we're only getting the portion
+of the parabola that I shade in here. As t varies from say, zero to pi, I traverse this
+parabola one time. And then as t goes from pi to two pi, I go back again in the other
+direction. And as T continues to increase, I traverse this parabola infinitely many times.
+The Cartesian equation for this curve is the equation x equals y squared, with the restriction
+that y is between negative one and one. We've seen several examples where we went from parametric
+equations to Cartesian equations. Now let's start with a Cartesian equation and rewrite
+it as a parametric equation. In this example, y is already given as a function of x. So
+an easy way to parameterize. This curve is to just let x equal t. And then y is equal
+to the square root of t squared minus t, substituting in T for x, the domain restriction in terms
+of x just translates into a restriction in terms of t. I call this the copycat parameterization.
+Since we have successfully introduced the new variable t, but T just copies, whatever
+x does. In the second example, we could try setting x equal to t, then we get 25 t squared
+plus 36, y squared is equal to 900. and solving for y, we'd have y squared equals 900 minus
+25 t squared over 36. So y is plus or minus the square root of this quantity. This is
+a very awkward looking expression. And fact, why is that even a function of t here because
+of the plus and minus signs. So let's look for a better way to parameterize this curve.
+Because of the x squared and the y squared, this equation is a good candidate for parameterizing
+using sine and cosine. In fact, if we divide both sides of the equation by 900, we get
+25x squared over 900 plus 36, y squared over 900 is equal to one, which simplifies to x
+squared over 36 plus y squared over 25 is equal to one. If I rewrite this as x over
+six squared plus Y over five squared equals one, then I can set x over six equal to cosine
+of t, and y over five equal to sine of t. And I can see that for any value of t x over
+six and y over five will satisfy this equation simply because cosine squared plus sine squared
+equals one. This gives me the parameterization x equals six cosine of t, y equals five sine
+of t, which is a handy way to describe an ellipse. As a final example, let's describe
+a general circle of radius r, and center HK. For any point, x, y on the circle, we know
+that the distance from that point x y to the center of the circle is equal to r. So using
+the distance formula, we know that the square root of x minus h squared plus y minus k squared
+has to equal Are squaring both sides. This gives us the equation for the circle in Cartesian
+coordinates. So for example, if our circle has radius five, and has Center at the point
+negative 317, then its equation would be x minus negative three, that's x plus three
+squared plus y minus 17 squared is equal to 25. One way to find the equation of a general
+circle in parametric equations, is to start with the unit circle and work our way up.
+We know that the unit circle with radius one centered at the origin is given by the equation
+x equals cosine t, and y equals sine t. If we want a circle of radius r centered around
+the origin instead, then we need to expand everything by a factor of R. So we multiply
+our x and y coordinates by R. If we now want the center to be at HK instead of at the origin,
+then we need to add h to our x coordinates and add K to all our Y coordinates. This gives
+us the general equation for a circle in parametric equations. to match the Cartesian equation
+above, we can write our same example circle and parametric equations
+as x equals five cosine t minus three, y equals five sine t plus 17. In this video, we translated
+back and forth in between Cartesian equations and parametric equations
+with a special emphasis on the equations for circles. This video is about finding the slopes
+of tangent lines, for curves to find parametrically. To find
+the slope of the tangent line, for a curve y equals p of x, given an ordinary Cartesian
+coordinates, we just take dydx or equivalently, we calculate
+p prime of x. If the curve is defined parametrically by the equations, x equals f of t, y equals
+g of t. To find the slope of the tangent line, we still want to find dydx. But since our
+curve is given parametrically, we don't have ready access to the y dx. Instead, we'll need
+to calculate it from the Y DT and dx dt, which are easy to get from our parametric equations.
+to relate dydx to d y DT and dx dt, we just need to use the chain rule. Recall that the
+chain rule says that d y dt is equal to d y dx times dx dt. So rearranging, we know
+that dou y dx is equal to d y DT divided by dx dt. And that's how we'll calculate the
+slope of our tangent line, we can write this formula equivalently as d y dx is equal to
+g prime of t over f prime of t. Now let's use these formulas in an example. For the
+list as you figure given by these equations, and drawn below, let's find the slopes of
+the tangent lines at the center point with x&y coordinates of zero. And let's find the
+way the tangent line is horizontal. The slope of the tangent line is given by dy dx, which
+is d y DT divided by dx dt. Now d y dt is going to be cosine of two t times two and
+dx dt is going to be negative sine of t. Taking the ratio, we see that dydx is twice cosine
+of two t over negative sine of t. Now we want to calculate this slope not when t is zero,
+but when x and y are 0x is 01. cosine of t is zero, which is when t is
+pi over two and three pi over two. Those are the only two values that work in the interval
+of t values that we're interested in. And it's easy to check that when T has these values,
+then y, which is sine of two t, is also going to be zero. So we want to calculate d y DT
+at t equals pi over two, and at t equals three pi over two. plugging into our formula for
+dydx, we get twice cosine of pi divided by negative sine of pi over two, which simplifies
+to positive two. And when t is three pi over two, we get twice cosine of three Pi over
+negative sine three pi over two, which simplifies to negative two. So our tangent lines at the
+origin have slopes positive two, and negative two. Next, let's find where the tangent line
+is horizontal. From the figure, there should be four places. If we set d y dx equals zero,
+we get that two cosine of two t over negative sine of t needs to be zero, which means that
+we need cosine of two t t equals zero, or two t, two equal pi over two, plus some multiple
+of pi. Solving for T, we get that T has to equal pi over four, plus some multiple of
+pi over two. There are indeed four such values of t in the interval from zero to two pi.
+And those are pi over four, three Pi over four, five pi over four, and seven pi over
+four, we can find the x and y coordinates of these points simply by plugging in these
+values of t into our original equations. Here are the XY coordinates of those four points.
+In this video, we saw that for a curve given by parametric equations, the slope of the
+tangent line is given by D y dX, which is d y d t, divided by dx dt. In this video,
+we'll find the area under a curve defined parametrically. Recall that the area under
+a curve y equals p of x defined in usual Cartesian coordinates is just the integral from x equals
+a to x equals b of y dx. Or, in other words, the integral from a to b of p of x dx. If
+instead, the curve is given by the parametric equations, x equals f of t and y equals g
+of t, the area is still going to be the integral of y dx. But now y can be written as g of
+t, and dx is going to be f prime of t dt using differential notation. Therefore, the area is going to be the integral
+of g of t, f prime of t, dt. And since we're integrating with respect to t, now, our bounds
+of integration have to also be t values, I'll still call
+them a and b, but I want them to represent t values here. It's important to note that
+this is still the area under a curve. In other words, in between the curve and the x axis.
+Let's use this formula to find the area enclosed by this list as you figure given by these
+equations. by symmetry, it's enough to compute the area under one segment of the lisu curve,
+and then multiply that area, which I'll call a bye for now, a is equal to the integral
+of y dx. And using our parametric equations, we know that y is sine of two t, and dx is
+the derivative of cosine. So that's negative sine of t dt. the rightmost point of the section
+of curve that we're interested in Then right here happens when x is one and y equals zero,
+it's easy to check that that occurs when t equals zero. The leftmost point of the section
+of curve occurs when x and y are both zero, setting both our equations equal to zero and
+solving for T, we see this happens when t is pi over two, plus any multiple of pi. So the first time
+we reach this point, after the t value of zero is when t is simply pi over two. So we'll set our bounds of integration as
+from t equals zero to t equals pi over two. plugging this information into our equation,
+we get that the area is the integral from zero to pi over two of sine of two t times
+negative sine of t dt. Let's pull the negative sign out and use the double angle formula
+to rewrite sine of two t as two sine t cosine t, multiply that by the sine t dt, we can pull the two out and rewrite this as
+sine squared of t cosine t dt. And then I use substitution will allow us to compute
+the integral we get negative two times the integral from
+u equals zero to one of u squared d u, which integrates to negative two u cubed over three,
+evaluate between one and zero, which is negative two thirds. Notice I get a negative answer
+here. And that's because I accidentally integrated from right and point to the left endpoint
+instead of from the left to the right, I accidentally followed the t values in increasing order
+when I should have integrated in the other order in order to make the x values in increasing
+order. In any case, I can correct this by switching my bounds of integration, or more
+quickly just by sticking a negative sign in front and changing my sign. Now I can figure
+out the total area inside the list of geo figure just by multiplying by four. In this
+video, we saw that the area underneath the curve given in parametric equations, is given
+by the integral of y dx, which if x is f of t and y is g of t, this is just the integral
+of g of t times f prime of t dt, our bounds of integration need to be t values. In this video, we'll calculate the length
+of curves given by parametric equations. As a warm up, let's calculate the length of this
+curve graph below. Since it's piecewise, linear, we can just calculate the length of each linear
+piece using the distance formula. For example, the length of the first segment
+is given by the square root of y two minus y one squared, that's three minus two squared
+plus x two minus x one squared, that's two minus one squared, which gives us the square
+root of two. Similarly, the second piece has length given by the square root of five minus
+three squared plus three minus two squared, which is the square root of five, we can make
+similar calculations for the length of the third segment and the fourth segment. adding
+these together, we get a total length of twice the square root of five plus the square root
+of two plus two. We can use the same process to approximate the length of any curve by
+dividing it up into and small pieces, approximating each piece with a straight line and using
+the distance formula to find the length of the line segments. If the curve is given by
+the parametric equations, x equals f of t and y equals g of t. Then we can write each
+of these points along the line in terms of f and g. For example, P of i minus one, we
+can write as the x coordinate F. Have t minus one and the y coordinate g of t minus one.
+And similarly, p II is going to be x coordinate f of t AI, y coordinate g of t AI. If we think
+of t as time, then this is just saying that T sub i is the time at which we get to point
+a piece of AI. Now, the distance formula tells us that the length of the line segment from
+P sub i minus one to P sub i is going to be given by the square root of x two minus x
+one squared. That's f of t sub i minus f of t sub i minus one squared plus y two minus
+y one, that's g of t sub i minus g of t sub i minus one squared. Now, the total length of the curve, which
+is called the arc length, is going to be approximately equal to the sum of the length of these segments.
+This is starting to look a bit like a Riemann sum, but it's missing the delta t. So I'll
+fix that by multiplying the numerator and the denominator by delta t. If I suck the
+delta t from the denominator, inside the square root sign, it needs to become a delta t squared,
+and I get the following expression. If I break up my fractions, I can rewrite this. Now there's
+something kind of exciting going on this quotient here looks a lot like a slope. In fact, it's
+exactly the expression for the slope of the secant line for the function f that we get
+if we were calculating the derivative of f with respect to t. And similarly, this expression,
+and here is exactly the expression for the slope of the secant line, we'd get if we were
+calculating the derivative of g with respect to t. Because these quotients here, are approximately
+equal to f prime and g prime, or more rigorously, because of the mean value theorem, I can replace
+my expression with f prime of t i star squared, and g prime of t star squared, where ti star
+is some time in the if time interval. Now exact arc length is going to be the limit
+of this expression, as the number of intervals goes to infinity. As usual, I can replace
+the limit of this Riemann sum with an integral where the bounds of integration are the t
+values that get me from the start of the curve to the end of the curve. This arc length formula
+has an alternative form, which is the integral from a to b of the square root of dx dt squared
+plus d y dt squared, dt. And these are my two versions of this very useful formula for arc length. Now let's use this
+formula to set up an integral to express the arc length of this list as you figure since dx dt is given by negative sine of t.
+And the Y dt is given by two cosine of two t, our Clank is given by the integral of the
+square root of sine of t squared plus two cosine of two t squared dt, we do still need
+to figure out the bounds of integration in terms of t. That will make us wrap around
+this curve exactly one time. It's easy to check that when t equals 0x is equal to one
+and y is equal to zero. So we're at this point right here. The next time that we get to this point, with
+an x coordinate of one, we need x equal cosine t to equal one. So the next time will be when
+t equals two pi. Therefore, our bounds of integration are going
+to be from zero to two pi. It's easy to set up This integral, but it would be very difficult
+to actually integrate it. And that's often the case with our clients. But we could use
+a calculator or a computer to get a numerical approximation of about 9.4. In this video,
+we derive an equation for arc length. This video introduces the idea of polar coordinates.
+Polar Coordinates give an alternative way of describing the location of points on the
+plane. Instead of describing a point, in terms of its x and y coordinates, those are the
+Cartesian coordinates of the point. When using polar coordinates, we instead describe the
+point in terms of radius r, and an angle theta, r is the distance of the point from the origin,
+and theta is the angle that radius line makes with the positive x axis. Let's plot these
+points given in polar coordinates. So the eight here is the value of the radius, and
+the negative two thirds pi is the value of the angle theta. The negative angle means
+that I need to go clockwise from the positive x axis, instead of counterclockwise like I
+normally would for a positive angle. So here, a negative two thirds pi means that I need
+to go to this line right here. And the eight of for the radius means I need to go eight
+lines out from the origin. So my point should be around right here. The next point has a
+radius of five and an angle of three pi. The angle of positive three pi means that I go
+counterclockwise starting at the positive x axis, here, I've gone around by two pi.
+And here, I've got an extra pi to make three pi. Now the radius of five means I need to
+go five units out from the origin. So that puts me about right here. Notice that I could
+have also labeled this point with the polar coordinates of five Pi, there's more than one way to assign
+polar coordinates to a point. The next point has an angle of pi over four,
+and a radius of negative 12. The negative radius means that I need to jump to the other
+side of the circle before I plot the point. In other words, instead of plotting the point
+at an angle of pi over four and a radius of 12, which would be about right here, I go
+to the opposite side of the circle, and plotted at the same distance from the origin, but
+180 degrees or pi radians around the circle over here. Now I could have also labeled this
+point using a positive radius of 12. And using an angle of pi over four plus pi, or five
+pi over four. And in general, a point with polar coordinates of negative r theta means
+the same point as the point with polar coordinates r, theta plus pi. Adding pi just makes us
+jump around to the opposite side of the circle. To convert between polar and Cartesian coordinates,
+it's handy to use the following equations. First, x is equal to r cosine theta, y is
+equal to r sine theta r squared is equal to x squared plus y squared, which means that
+R is plus or minus the square root of x squared plus y squared. And tangent theta is equal
+to y divided by x. Let's see where these equations come from. If we draw a point with coordinates,
+x, y, and draw lines to make a right triangle, the height of that triangle is y. The length
+of the base is x. And the high partners has length R. Theta is the measure of this interior
+angle. From trig, we know that cosine theta is equal to adjacent over hypotenuse, so that's
+x over r, which means that x is equal to r cosine theta. Similarly, sine theta is opposite
+over hypotenuse. That's why over R, which means that y is equal to r sine theta. That
+gives us the first two equations the batang orien theorem tells us that x squared plus
+y squared is equal to r squared. And that gives us the third equation. Finally, tangent
+theta is opposite over adjacent. So that's y over x, which is the fourth equation. To convert five, negative pi over six, from
+polar to Cartesian coordinates, we just use the fact that x equals r cosine theta, and
+y equals r sine theta. So in this case, x is equal to five times cosine of negative
+pi over six, that's five times square root of three over two, and y is equal to five,
+sine negative pi over six. So that's equal to negative five halves, did convert negative
+one negative one from Cartesian to polar coordinates, we know that negative one and negative one
+are x and y values. So we need to use the fact that r squared is x squared plus y squared,
+that is r squared is negative one squared plus negative one squared, or two. Also, tangent
+theta is y over x, so that's negative one over negative one, or one. Now there's several
+values of r and theta that satisfy these equations are could be squared of two, or negative the
+square root of two, and theta could be Pi over four, or five pi over four. Or we could
+add multiples of two pi to either of these answers. But not all combinations of r and
+theta, get us to the right point. The point with Cartesian coordinates negative one negative
+one lies in the third quadrant. But if we use a theta value of say pi over four and
+an R value of square root of two, that would get us to the first quadrant. So instead,
+we need to use the polar coordinates of square root of two and five pi over four. Or if we prefer, negative
+square root of two, and pi over four. We could also add any multiple of two pi to either
+of these values of theta, and get yet another way of representing the point and polar coordinates.
+This video talked about polar coordinates and converting in between Cartesian coordinates
+and polar coordinates using some familiar equations from trig.

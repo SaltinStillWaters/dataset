@@ -1,0 +1,63 @@
+Angles and Their Measures.
+how to convert between them.
+angles are commonly measured using either degrees or radians.
+If we're talking about degrees, then a full circle, by convention is 360 degrees.
+A half circle then would be 180 degrees.
+And if I wanted to do say, a third of a circle, that would be a third of 360 degrees or 120 degrees.
+If we're using radians instead, then going all the way around the circle is called two pi radians.
+The two pi was chosen because that's the circumference of a circle with a radius of one, a half circle is then half of two pi radians, which is pi radians.
+And if I wanted to do say, a quarter of a circle, that would be a quarter of my two pi radians, a quarter of two pi is pi over two.
+To convert between degrees and radians is handed to us the fact that 180 degrees corresponds to pi radians.
+Both of these represent half of a circle.
+Let's convert negative 135 degrees to radians.
+Now, you might be wondering, what does a negative angle even mean?
+Well, by convention, if we go in the counterclockwise direction, that's considered a positive angle.
+And if we go in the clockwise direction, that's considered a negative angle.
+To convert negative 135 degrees to radians, I could multiply by pi radians per 180 degrees.
+Notice that the degrees cancel here, and I end up with negative 135 pi over 180 radians.
+That simplifies to negative three Pi over four radians.
+Or if I convert pi to a decimal, that's negative 2.
+3562 radians, up to four decimal places.
+But usually, if the answer is a simple fraction times pi, it's better to leave it in that form.
+Rather than convert it to a decimal.
+I can also go the other direction and convert radians to degrees, five pi over four radians.
+Now again, I we need to use the fact that pi radians is 180 degrees.
+But if I write it like this, with radians on the top and degrees on the bottom, then the radians won't cancel.
+So that doesn't work.
+Instead, so instead, I need to find by the 180 degrees over hi radians, so they got cancel the radians that way left radio cancel, and I get five pi times 180 over four pi degrees.
+Now the PI's also cancel, and this simplifies to 225 degrees.
+Converting seven radians to degrees is similar, I need to multiply by 180 degrees over pi radians.
+If I work out seven times 180 over pi on my calculator, I get 401 point O seven degrees up to two decimal places.
+Notice that my answer a little more than 400 is more than 360 degrees, so this is more than a full circle.
+That makes sense since seven radians is more than two pi radians.
+Since pi is itself a little more than three.
+Sometimes angles are given in terms of degrees, minutes and seconds, as in 32 degrees, 17 minutes, and 25 seconds.
+A minute is defined as 1/60 of a degree.
+A second is defined as 1/60 of a minute, but since a minute is itself 1/60 of a degree This is 1/60 of 1/60 of a degree, or one over 3600 of a degree.
+You can also think of this by saying that they're 60 minutes in one degree and they're 3600 seconds in one degree.
+Let's convert this number of degrees minutes and seconds to a decimal number of degrees.
+We know that we have 32 degrees plus 17 minutes plus 25 seconds.
+I'm going to copy down the 32 degrees, but I need to convert the minutes to degrees.
+I know that there's 60 minutes in one degree If I want the unit's to cancel, I better put the degrees on the top, so one degree corresponds to 60 minutes.
+Similarly, if I want to convert seconds to degrees 25 seconds, I know that there are 3600 seconds in one degree, I want the degrees to end up on the top, and I want the seconds on the bottom to cancel with a 25 seconds.
+So I need to write it this way.
+Okay, now I can write this as 32 degrees plus 17 over 60 degrees plus 25 over 3600 degrees.
+And because the minutes cancelled, and the seconds cancelled, if I add this all up on my calculator, I get 32.
+2903 degrees up to four decimal places, I can also go the other direction, and convert a decimal number of degrees into degrees, minutes and seconds.
+I'm starting out with 247 degrees plus a decimal number of degrees leftover.
+If I want to convert 0.
+3486 degrees, two minutes, well, I know that I have 60 minutes in one degree, this time, I want the minutes on the top and the degrees on the bottom, so that my degrees will cancel.
+So I just multiply my decimal by 60.
+And I end up with 20.
+916 minutes.
+Let me copy this down.
+And now I'm going to take the 0.
+916 minutes and convert those two seconds.
+So I know that they're 60 seconds in one minute.
+So canceling my units again, I just multiply by 60, which gives me 54.
+96 minutes, I can copy this down as is.
+Or I can round off my seconds and get 247 degrees, 20 minutes, and 55 seconds.
+converting between different ways of measuring angles is all about unit conversion.
+To convert between radians and degrees, we use the fact that pi radians corresponds to 180 degrees.
+To convert between minutes and seconds and degrees, we use the fact that 60 minutes corresponds to one degree, and 60 seconds corresponds to one minute.
+If you have a circle, a piece of the circumference

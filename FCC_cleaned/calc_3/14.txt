@@ -1,0 +1,25 @@
+Intermediate Value Theorem.
+theorem says that if f is a continuous function, on the closed interval a b and if n is any number, in between F of A and F of Bay, n f has to achieve that value and somewhere.
+In other words, if n is a number between F of A and F of b, then there has to be a number c in the interval a, b, such that f of c equals n.
+In our example, there are three such possible values for C, it could be right here, since f of that number equals n, or it could be here, or here, I'll just mark the middle one.
+The intermediate value theorem can only be applied to continuous functions.
+If the function is not continuous, then it might jump over and, and never achieve that value.
+When application of the intermediate value theorem is to prove the existence of roots or zeros of equations, we call that a real root of p of x is a real number c, such that P of C is zero, we're going to want to apply the intermediate value theorem with n equal to zero.
+Our polynomial is defined on the whole real line, not just an interval.
+But the trick here is to pick an interval a b, so that P of A is negative, and P of B is positive, or vice versa.
+So that the intermediate value theorem will tell us that P has to pass through zero in between.
+I'm just going to use trial and error here and calculate a few values of p.
+So P of zero is easy to calculate, P of zero is just seven.
+P of one is going to be five minus three minus 12 plus seven, which equals negative three.
+So in this very lucky example, the first two numbers that we pick will work for our A and B, so we can just let A be equal 01.
+Because P of zero is a positive number, and P of one is a negative number.
+So actually, the graph should look a little different.
+The graph looks more like this.
+But in any case, by the intermediate value theorem, there has to be a number c, in between, in this case, zero and one, where our polynomial p achieves this intermediate value of zero.
+And that number See, we don't know what it is, but we know it somewhere in the interval zero to one, that value c gives us a real root for our polynomial.
+There may be other real roots, but we've proved there exists at least one.
+The intermediate value theorem has lots of other applications besides finding roots.
+For example, suppose you have a wall that runs in a circle around the castle, and the height of the wall varies continuously as a function of the angle.
+Surprisingly, the intermediate value theorem can be used to show there must be somewhere two diametrically opposite places on the wall with exactly the same height.
+So if you can figure out a way to show this in this video, we stated the intermediate value theorem, which holds for continuous functions, and talked about a couple of applications.
+This video introduces the

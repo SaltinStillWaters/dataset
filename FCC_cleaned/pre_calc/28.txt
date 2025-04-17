@@ -1,0 +1,80 @@
+Law of Cosines.
+means finding all the lengths of the sides and all the measures of the angles from partial information.
+The Law of Cosines is a tool that can help us solve triangles that are not necessarily right triangles.
+Recall that the Pythagorean theorem says that for a right triangle, like this one, the length of the hypothesis is related to the lengths of the sides by the formula c squared equals a squared plus b squared.
+I like to think of the law of cosines.
+As a generalization of the Pythagorean Theorem, two triangles that are not necessarily right triangles.
+loosely speaking, the Law of Cosines says that c squared is equal to a squared plus b squared plus a correction factor where the correction factor depends on the size of the angle, that's opposite to side C.
+For this first triangle, on the left, the angle that's opposite to side C is exactly a right angle.
+So we know that c squared is exactly equal to a squared plus b squared.
+But in this next triangle, the angle opposite decides C prime is a little bit less than a right angle.
+So we expect the side length C prime should be a little bit shorter than the side length C in the previous triangle that had the same side length A and B for its legs.
+Therefore, C prime squared should be less than a squared plus b squared, or in other words, C prime squared should equal a squared plus b squared minus a little bit.
+In this third triangle, the angle opposite C double prime is a little bigger than 90 degrees.
+So this side length C double prime should be a little bit longer than the side length C in the right triangle with the same size legs.
+So C double prime squared should be bigger than a squared plus b squared, we can write this as C double prime squared is equal to a squared plus b squared plus a little bit.
+The Law of Cosines says precisely what this little correction factor is.
+It says that for any triangle with sides, a B and C, and angle capital C, opposite side C, side c squared is equal to a squared plus b squared minus two A B, cosine angle C.
+Let's analyze what happens with this equation when angle C is equal to 90 degrees less than 90 degrees and greater than 90 degrees.
+If angle C is equal to 90 degrees, then cosine of angle C is equal to zero.
+So we have that c squared is equal to a squared plus b squared, the ordinary Pythagorean Theorem.
+If on the other hand, angle C is less than 90 degrees, then from the unit circle, we know that cosine of C is positive.
+So to a B, cosine C is a positive number, and we'll be subtracting a little bit from our A squared plus B squared, just like we saw in the picture.
+Finally, if angle C is bigger than 90 degrees, then we can see from the unit circle that cosine FC is negative.
+So to a B, cosine capital C is going to be less than zero.
+And we're going to be subtracting a negative number, which means we're actually adding a little bit, just like we saw in the third picture.
+When labeling a triangle, the convention is to use capital letters for the angles and lowercase letters for the side lengths.
+And to put side A opposite angle A, and so on.
+When we wrote the law of cosines, on the previous page, we wrote c squared equals a squared plus b squared minus two A B, cosine angle C.
+But it doesn't matter which side we call a, which side we call B, and which side we call C.
+All that matters is that this angle is opposite to the side and between these two sides.
+So we could have just as easily written a squared is equal to b squared plus c squared minus two B, C, cosine A.
+all we've done is replace C with A, A with B, and B with C and our labeling scheme.
+Or instead, we could put the B squared on the left side and right b squared equals a squared plus c squared minus two a C, cosine B, we can use whichever of these three forms is most convenient for the problem at hand.
+Let's use the law of cosines.
+To find all the side lengths and angles in this triangle.
+By convention, I'll call the side opposite to angle A little a and the side opposite angle B, little B.
+Notice that we know two side lengths and the angle between them.
+So that's an S, a s, side angle side triangle.
+If we write down the law of cosines, with the unknown side, c squared on the left side, then we have all the values for the variables on the right side.
+So let's plug them in.
+I'll use a calculator in degree mode to find that c squared is equal to 44.
+44.
+taking the square root, I get that c is equal to 6.
+67.
+Next, I'll use the law of cosines.
+To find the angle B, I'll need to use a version of the Law of Cosines that has cosine be right here.
+That's the version that has little b squared on the left side and goes b squared equals a squared plus c squared minus two a C, cosine B.
+I can plug in values for all my side lengths.
+And now I can solve for cosine B.
+To do that, I'll subtract eight squared and 6.
+67 squared from both sides.
+And now I'll divide both sides by negative two times eight times 6.
+67.
+using a calculator, this gives me that cosine of B is equal to negative 0.
+1172.
+The negative value of cosine indicates that my angle B must be greater than 90 degrees, which agrees with the figure.
+Next, I can take cosine inverse of both sides to get that b is equal to cosine inverse negative 0.
+1172, which works out to 96.
+73 degrees.
+The last thing I need to do is solve for angle A, I could use the Law of Cosines again, and work out angle A just like I worked out angle B here.
+But a simpler thing to do is to use the fact that the sum of the three angles equals 180 degrees.
+In other words, a plus 37 degrees plus 96.
+73 degrees equals 180 degrees.
+So A is going to be 180 minus 37 minus 96.
+73, which works out to 46.
+27 degrees.
+In the previous example, we were given two sides, and the angle between them.
+In this example, instead, we're given three side lengths.
+So I'll call this and s, s, s, side side side triangle, we need to find all three angles.
+Although there are a lot of computations involved, the ideas are the same as in the previous problem.
+Defined angle capital C, we need the form of the Law of Cosines That has cosine of C on the right side, and little C on the left side.
+To find angle A, we need the form of the Law of Cosines that has cosine A on the right side and little a on the left side.
+And to find angle B, we need the form of the Law of Cosines that has cosine of B on the right side, and little b squared on the left side.
+For each of these three equations, I'll plug in the side lengths.
+So for the cosines and use inverse cosine to find my angles.
+Notice that my three angles 60 degrees, 32 point 20 degrees, and 87.
+79 degrees add up to just almost 180 degrees, the difference is just around off error.
+In fact, I could have saved myself some work by just finding the measure of angle C, and the measure of angle A, and then subtracting them from 180 degrees to get the measure of angle B.
+In this video, we stated the law of cosines and used it to solve some triangles.
+The Law of Cosines can be thought of as the Pythagorean Theorem, with the correction factor to account for triangles that aren't right triangles.

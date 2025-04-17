@@ -1,0 +1,59 @@
+Integrals Involving Odd Powers of Sine and Cosine.
+of two times 10 to the six meters above the Earth's surface.
+So that's a distance r of 6.
+4 plus two, or 8.
+4 times 10 to the six meters from the earth center.
+My only variable for this integral is R.
+So let me pull out the constants.
+And I'll rewrite the one over r squared as r to the minus two.
+Now I can integrate an R to the minus two becomes r to the minus one over minus one Rewrite one more time and substitute in for R to get a preliminary answer of negative GE, capital M lowercase n times negative 3.
+72024 times 10 to the minus eight.
+Now I still need to plug in for capital G, capital M and lowercase m, my negatives cancel here.
+And I have G is 6.
+67 times 10 to the minus 11.
+capital M, the mass of the Earth is six times 10 to the 24, and lowercase and the mass the satellite was 1000 kilograms.
+Multiplying all these numbers together, gives us a final answer of approximately 1.
+5 times 10 to the 10th.
+jewels.
+To put this number in perspective, this is about the same amount of work done by a car in a year, or by the human heart beating for about 400 years.
+In this video, we saw that for a constant force work is just equal to the force times distance.
+But for a variable force work is equal to the integral of force with respect to distance.
+This video introduces the idea of an average value of a function.
+To take the average of a finite list of numbers, we just add the numbers up and divide by n, the number of numbers.
+In summation notation, we write the sum from i equals one to n of Q i all divided by n.
+But defining the average value of a continuous function is a little different.
+Because a function can take on infinitely many values on an interval from a to be, we could estimate the average value of the function by sampling it at a finite Li many evenly spaced x values.
+I'll call them x one through x n.
+And let's assume that they're spaced a distance of delta x apart, then the average value of f at these sample points is just the sum of the values of f divided by n, the number of values are in summation notation, the sum from i equals one to n of f of x i all divided by n.
+This is an approximate average value of f, since we're just using n sample points.
+But the approximation gets better as the number of sample points n gets bigger and bigger.
+So we could define the average as the limit as n goes to infinity of the sample average.
+I'd like to make this look more like a Riemann sum.
+So I need to get delta x in there.
+So I'm just going to multiply the top and the bottom by delta x.
+And notice that n times delta x is just the length of the interval b minus a.
+Now as the number of sample points goes to infinity, delta x, the distance between them goes to zero.
+So I can rewrite my limit as the limit as delta x goes to zero of the sum of FX II times delta x divided by b minus a.
+Now the limit of this Riemann sum in the numerator is just the integral from a to b of f of x dx.
+And so the average value of the function is given by the integral on the interval from a to b divided by the length of the interval.
+I'm starting at the Earth's surface.
+So that's a distance of 6.
+4 times 10 to the six meters from the center of the earth, since that's the earth radius.
+And I'm ending at a height of two times 10 to the six meters above the Earth's surface.
+So that's a distance r of 6.
+4 plus two, or 8.
+4 times 10 to the six meters from the earth center.
+My only variable for this integral is R.
+So let me pull out the constants.
+And I'll rewrite the one over r squared as r to the minus two.
+Now I can integrate an R to the minus two becomes r to the minus one over minus one Rewrite one more time and substitute in for R to get a preliminary answer of negative GE, capital M lowercase n times negative 3.
+72024 times 10 to the minus eight.
+Now I still need to plug in for capital G, capital M and lowercase m, my negatives cancel here.
+And I have G is 6.
+67 times 10 to the minus 11.
+capital M, the mass of the Earth is six times 10 to the 24, and lowercase and the mass the satellite was 1000 kilograms.
+Multiplying all these numbers together, gives us a final answer of approximately 1.
+5 times 10 to the 10th.
+jewels.
+To put this number in perspective, this is about the same amount of work done by a car in a year, or by the human heart beating for about 400 years.
+In

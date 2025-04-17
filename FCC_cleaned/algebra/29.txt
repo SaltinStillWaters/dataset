@@ -1,0 +1,83 @@
+Exponential Functions Interpretations.
+An antique car is worth $50, 000 now, and its value increases by 7%.
+Each year, let's write an equation to model its value x years from now.
+After one year, it's value is the 50, 000 plus 0.
+07 times the 50, 000.
+That's because its value has grown by 7% or point oh seven times 50, 000.
+this can be written as 50, 000 times one plus point O seven.
+Notice that adding 7% to the original value is the same as multiplying the original value by one plus point oh seven or by 1.
+07.
+After two years, the value will be 50, 000 times one plus 0.
+07 squared, or 50, 000 times 1.
+07 squared.
+That's because the previous year's value is multiplied again by 1.
+7.
+In general, after x years We have x, the antique cars value will be 50, 000 times 1.
+07 to the x.
+That's because the original value of 50, 000 gets multiplied by 1.
+07x times one time for each year.
+If we dissect this equation, we see that the number of 50, 000 comes from the original value of the car.
+The one point is seven, which I call the growth factor comes from one plus point 707.
+The point O seven being the, the percent increase written as a decimal.
+So the form of this equation is an exponential equation, V of x equals a times b to the x, where A is the initial value, and B is the growth factor.
+But we could also write this as a times one plus r to the x, where A is still the initial value, but R is the percent increase written as a decimal.
+This same equation will come up in the next example, here, my Toyota Prius is worth only 3000.
+Now, and its value is decreasing by 5% each year.
+So after one year, its value will be 3000 minus 0.
+05 times 3000.
+That is 3000 times one minus 0.
+05.
+I can also write that as 3000 times 0.
+95.
+Decreasing the value by 5% is like multiplying the value by one minus point oh five, or by point nine, five.
+After two years, the value will be multiplied by point nine five again.
+So the value will be 3000 times point nine, five squared.
+And after x years, the value will be 3000 times point nine five to the x.
+So my equation for the value is 3000 times point nine five to the x.
+This is again, an equation of the form V of x equals a times b to the x, where here, a is 3000, the initial value, and B is point nine, five, I'll still call that the growth factor, even though we're actually declining value not growing.
+Now remember where this point nine five came from, it came from taking one and subtracting point 05, because of the 5%, decrease in value, so I can again, write my equation in the form a times well, this time times one minus r to the x, where R is our point 05.
+That's our percent decrease written as a decimal.
+Please take a moment to study this equation and the previous one.
+They say that when you have an exponential function, the number here is the initial value.
+If it's written in this form, B is your growth factor.
+But you can think of B as being either one minus r, where r is the percent decrease, or one plus r, where r is the percent increase.
+In this example, we're given a function f of x to model the number of bacteria in a petri dish x hours after 12 o'clock noon, we want to know what was the number of bacteria at noon, and by what percent, the number of bacteria is increasing every hour, we can see from the equation that the number of bacteria is increasing and not decreasing, because the base of the exponential function 1.
+45 is bigger than one.
+Notice that our equation f of x equals 12 times 1.
+45 to the X has the form of a times b to the x, or we can think of it as a times one plus r to the x.
+Here a is 12, b is 1.
+45 and r is 0.
+45.
+Based on this familiar form, we can recognize that the initial amount of bacteria is going to be 12 12, 000.
+Since those are our units and this value 1.
+45 is our growth factor.
+What the number of bacteria is multiplied by each hour?
+Well are the point four five is the the rate of increase, in other words, a 45% increase each hour.
+So our answers to the questions are 12, 045%.
+In this example, the population of salamanders is modeled by this exponential function, where x is the number of years since 2015.
+Notice that the number of salamanders is decreasing, because the base of our exponential function point seven, eight is less than one.
+So if we recognize the form of our exponential function, a times b to the x, or we can think of this as a times one minus r to the x, where A is our initial value, and r is our percent decrease written as a decimal.
+Our initial value is 3000.
+So that's the number of salamanders zero years after 2015.
+Our growth factor B is 0.
+78.
+But if I write that as one minus r, I see that R has to be one minus 0.
+78, or 0.
+22.
+In other words, our population is decreasing by 22% each year.
+In this video, we saw that exponential functions can be written in the form f of x equals a times b to the x, where A is the initial value.
+And B is the growth factor.
+We also saw that they can be written in the form a times one plus r to the x when the amount is increasing.
+And as a times one minus r to the x when the amount is decreasing.
+In this format, R is the percent increase or the percent decrease written as a decimal.
+So 15% increase will be an R value of 0.
+15 and a growth factor B of 1.
+15.
+Whereas a 12% decrease will be an R value of point one, two, and a B value of one minus point one, two, or 0.
+7.
+Sorry, 0.
+88.
+These observations help us quickly interpret exponential functions.
+For example, here, we have an initial value of 100 and a 15% increase.
+And here, we have an initial value of 50 and a 40%.
+decrease.

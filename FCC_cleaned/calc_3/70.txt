@@ -1,0 +1,651 @@
+Linear Approximation.then all other anti derivatives can be written
+in the form capital F of x plus C for some constancy. A more rigorous justification of
+this fact, can be proved using the mean value theorem, as I'll do in a separate video. If
+you know the derivatives for some standard functions, then it's pretty easy to get some
+anti derivatives. For example, the antiderivative of one is x. Since the derivative of x is
+one, if we want to make that a general antiderivative, we can add a constant C, the antiderivative
+of x is x squared over two because when I take the derivative of x squared over two,
+the two that I pulled down and multiply cancels with the two in the denominator, leaving me
+x. Again, I can make this a more general antiderivative by adding a constant C. More generally, the
+antiderivative of x to the n for any and that's not equal to negative one is given by x to
+the n plus one divided by n plus one plus a constant C. I can check this by taking the
+derivative of x to the n plus one over n plus one. The n here is just a constant. So using
+the power rule, I get n plus one times x to the n divided by n plus one that yields x
+to the n, which is what I want it. We can think of this rule as the power rule for anti
+differentiating since it's closely related to the power rule for differentiating. Now,
+this rule doesn't apply when n equals negative one. Notice that we'd be dividing by zero
+if n were negative one but we can handle the case when n equals negative one separately,
+since x to the negative one is one of our x, we recognize that the antiderivative of
+one of our x is just ln of the absolute value of x plus C. Since the derivative of ln of
+the absolute value of x is one over x, please pause the video and see how many more anti
+derivatives you can fill in in this table. You should get all of these formulas based
+on the analogous formulas for differentiating, notice that the antiderivative of sine x is
+negative cosine x not cosine x, because the derivative of cosine x is negative sine x.
+If I have a constant times x to the n, I'm going to call the constant a instead of C,
+since I've already got some C's floating around. If I want the antiderivative of A times x
+to the n, that's just going to be a times the antiderivative of x to the n, which is
+x to the n plus one over n plus one plus a constant say that's because when I take the
+derivative of a constant times a function, I can just pull the constant out. More generally,
+the antiderivative of a constant A times any function, little f of x is just going to equal
+A times the antiderivative of little f of x, which I'll denote with capital F of X,
+plus a constant C. The antiderivative of f of x plus g of x is capital F of X, plus capital
+G of x plus c, where capital F and capital G are the antiderivative of lowercase F and
+lowercase J. This is because the derivative of a sum is equal to the sum of the derivatives.
+Let's use this information to compute the antiderivative for f of x equals five over
+one plus x squared minus one over two times the square root of x. First, I'm going to
+rewrite f of x as five times one over one plus x squared minus one half times x to the
+minus one half. I know that the antiderivative of one over one plus x squared is arctangent
+of x. And by the power rule for anti differentiating the antiderivative of x to the minus one half,
+I get by raising the exponent by one, negative one half plus one is positive one half, and
+then dividing by the new exponent by my constant multiplication rules, I can just multiply
+by my constants. And that's my antiderivative capital F of X, I've have to remember the
+plus C for the general antiderivative, I can simplify a little bit by canceling these one
+halves. And I get a final answer of five times arc tan of x minus a squared of x plus C.
+In this video, we introduced anti derivatives and build a table of anti derivatives based
+on our knowledge of derivatives. In this video, we'll solve problems where we're given an
+equation for the derivative of the function. And we're given an initial condition, something
+like f of one equals seven. And we have to find the function f of x. In this first example,
+suppose g prime of x is e to the x minus three times sine x. and g of two pi is five, we
+need to find g of x. Well, g of x is an antiderivative of e to the x minus three sine x. So g of
+x is of the form e to the x plus three cosine of x plus a constant C. That's because the
+derivative of e to the x is e to the x, the derivative of cosine x is minus sine x, and
+the derivative of a constant is just zero. Now I need to find the value of the constant
+C that makes this initial condition come true. If I plug in two pi for x, I get e to the
+two pi plus three times cosine of two pi plus C, and that needs to equal five. Since cosine
+of two pi is one, I have that e to the two pi plus three plus c equals five. And so C
+is equal to two minus e to the two pi. So my function g of x is equal to either the
+x plus three cosine x Plus two minus e to the two pi. In this example, we're given the
+second derivative of f. And we're given two initial conditions, f of one is zero, and
+f of zero is two. To start, I'm going to rewrite f double prime
+of x in a more manageable form. by distributing, I get the square root of x times x minus the
+square root of x over x. and rewriting with exponents, we get x to the three halves minus
+x to the minus one half. Next, I'm going to find f prime of x, which is the antiderivative
+of f double prime of x. So f prime of x, using the power rule for anti derivatives, I raised
+the exponent of three halves by one to get five halves, and then divide by the new exponent
+five halves. Similarly, I raised negative one half by one to get one half and divide
+by the new exponent one half. And I'll add on a constant see, let me simplify a little
+here, instead of dividing by five halves, multiply by two fifths, and instead of dividing
+by one half, multiply by two. Now I've got an expression for f prime of x, but I need
+an expression for f of x, which is the antiderivative of f prime, and so all anti differentiate
+again. So now I have two fifths times x to the seven halves over seven halves minus two
+times x to the three halves over three halves, the antiderivative of a constant C is C times
+x, and then I'll add on a new constant D. After simplifying a bit, I'm ready to use
+my initial conditions, in order to solve for my constant C and D. When I plug in zero for
+x, all my x terms vanish, I'm just left with D, so d has to equal two. So I can rewrite
+my function, setting D equal to two. And now my second condition says that f of one equals
+zero. So plugging in one for x, I get 430 fifths minus four thirds plus c plus two,
+and that has to equal zero, which means that c is negative two, minus 430 fifths, plus
+four thirds, which simplifies to minus 80 to 100, and fifths. If we plug that in for
+C, we get a final answer for f of x. And that finishes the problem. In this final example,
+we're not given any equations, so we have to make them up ourself, we're told that we're
+standing at the edge of a cliff, at height 30 meters, with throw a tomato up in the air
+at an initial velocity of 20 meters per second. The tomato then falls down to the ground due
+to gravity. And we want to find how long that takes and what its velocity is at impact.
+We know that the acceleration due to gravity is negative 9.8 meters per second squared.
+If we're working in metric units. The similar figure if we're working in units of feet,
+is negative 32 feet per second squared. The negative sign is because gravity is pulling
+objects down towards the ground in the negative direction. We're also given the initial condition,
+that velocity at time zero is 20 meters per second. That's a positive velocity because
+we're throwing the tomato up. And we're told that the initial position s of zero is 30
+meters. So let's start with the equation that acceleration is negative 9.8. In other words,
+S double prime of t is negative 9.8. Therefore, S prime of t is negative 9.8 t plus a constant
+c one. And from my initial condition about velocity, I know that s prime of zero is 20.
+So in other words, S prime of zero is negative 9.8 times zero plus c one that has to equal
+20. Which means that c one is equal to 20. Substituting in 20 for C one, I can rewrite
+s prime of t Now I can find f of t, the antiderivative of S prime. And that's going to be negative
+9.8 times t squared over two plus 20 t plus a second constant C two. Using my second initial condition, f of zero
+equals 30. I can plug in zero for t, and get an expression that equals 30. Since all the
+terms drop out, besides the C two, that tells me that C two is 30. And so I can find my
+equation position by substituting 34 c two. Now I want to find out how long it takes the
+tomato to hit the ground. So that's going to be the time when s of t equals zero. Setting
+zero equal to my expression for S of t, I can use the quadratic formula to solve for
+t, and I get t equals approximately negative 1.17, or 5.25. The negative time doesn't make
+sense for the problem. So I'm left with a time of impact of 5.25 seconds. Now to find
+the velocity of the impact, I need to plug that time into my velocity equation. In other
+words, my equation for S prime. So s prime of 5.25, is 9.8 times 5.25, plus 20, which
+simplifies to negative 31.45 meters per second, probably enough to squash the tomato. And
+that's all for this video on finding anti derivatives using initial conditions. In this
+video, I'll use the mean value theorem to show that the antiderivative zero has to be
+a constant. And then any two anti derivatives of the same function have to differ by a constant.
+In a previous video, I stated the fact that if f of x is one antiderivative of a function,
+little f of x, than any other antiderivative of that same function can be written in the
+form capital F of x plus C for some constant C. In other words, any two antiderivative
+of the same function have to differ by a constant. To prove this fact, let's first note that
+if the derivative of a function, g prime of x is equal to zero on an interval than the
+original function, g of x must equal C for some constant C. This statement follows from
+the mean value theorem, because the mean value theorem tells us that for any x one and x
+two in our interval, the average rate of change between x one and x two is equal to the derivative
+at some number x three in between x one and x two. But by assumption, g prime is zero
+everywhere on the interval, so g prime of x three must be equal to zero. This means
+that our numerator, g of x want to minus g of x one has to equal zero. In other words,
+g of x two is equal to g of x one, but that's true for any x one and x two. So all the values
+of G are equal, and G must be a constant. The second observation that I want to make
+is that if G one and G two are two functions, which have the same derivative, then g one
+of x must equal g two of x plus C for some constant C. This statement follows from the
+previous statement, because if G one prime of x is equal to g two prime of x, then g
+one prime of x minus g two prime of x must equal zero. But that means if I look at the
+function g one of x minus g two of x, and take its derivative, that has to equal zero,
+since the derivative The difference is the difference of the derivatives. Now our previous
+statement tells us that if the derivative of a function is zero, the function must be
+a constant, and therefore, g one of x minus g two of x equals C for some constant C, which
+means that g one of x is equal to g two of x plus C, which is what we wanted to prove.
+So we've proved that any two functions with the same derivative have to differ by a constant
+or in other words, If capital F of X is one antiderivative of a function than any other
+antiderivative must be of the form capital F of x plus C. This concludes the proof that
+any two anti derivatives of a particular function must differ by a constant. This video will
+review summation notation, that is, the sigma notation used to write a song. In this expression, using the greek capital
+letter sigma, the letter I is called the index. The number one is called the lower limit of
+summation, or the starting index. And the number five is called the upper limit of summation,
+or the ending index, we evaluate this expression by summing up to the I, for all values of
+i starting from one and ending at five and stepping through the integers. In other words,
+we start with i equals one and take two to the one. And then we add to it two to the
+two, two to the Three, two to the four, and two to the five. If we do the arithmetic,
+this comes out to 62. In the second expression, our index is J, and we start with J equals
+three and go up to J equals seven, once again, stepping through integer values. So we have
+to add up 1/3 plus 1/4, plus 1/5, plus one, six, and then our last term is one seven.
+This sum is equal to 153, over 140. When we're given a psalm like this one, it can be handy
+to write it in sigma notation, because it's more compact. But to do so, we have to look
+for the pattern between the terms. In this case, the terms all differ by three. So I
+can think of nine as being six plus three, and 12, as being six plus twice, three, and
+15 as being six plus three times three, and so on. In fact, we can even think of six itself
+as being six plus zero times three to fit this pattern. Now we can write the sum as
+sigma of six plus i times three, where I ranges from zero to four. Here, we're thinking of
+six plus three as six plus one times three. Now, there are other ways to write this sum
+and sigma notation. For example, we could notice that each of the terms is a multiple
+of three. And in fact, six is three times two, nine is three times three, and so on.
+And so we could write our sum as sigma of three times n, where n ranges from two to
+six. The choice of the letter we use for the index doesn't matter at all. For example,
+we could also write this as sigma from K equals two to six of three times k. Here, k and n
+play the same role. Please pause the video for a moment and try to write this next example
+in sigma notation. Since the denominators are powers of two, we could write the denominators
+as two to the i, where i ranges from two to five. The numerators are one less than the
+denominators, so we can write the numerators as two to the i minus one was we're adding
+these terms up, we write sigma, and we I go from two to five. In this video, we reviewed
+summation notation, or sigma notation for writing sums. In this video, we'll approximate
+the area under a curve using tall skinny rectangles, this will introduce the idea of an integral.
+Let's start by approximating the area under this curve y equals x squared in between x
+equals zero, and x equals three by approximating it with six rectangles. There's several ways to do this. For example,
+I could draw rectangles for the right side of each rectangle is as tall as the curve.
+We'll call this using write endpoints. Alternatively, we could line up our rectangles, so the left
+side of each rectangle is as high as the curve. We'll call this use Left endpoints. Notice
+that the leftmost rectangle in this picture is degenerate and has height zero. If we're
+using the picture with the right endpoints, then the base of each rectangle has size one
+half. And the height of each rectangle is given by the value of our function, y equals
+x squared on the right side of the rectangle. So for example, the area of the first rectangle
+is its base times its height, which is point five times 0.5 squared. The 0.5 squared comes
+from me evaluating the function at this point 0.5 to get the height. Similarly, the area
+of the second rectangle is going to be also base times height basis, still point five,
+and now the height is going to be one squared, or one. If we continue like this, and add
+up all our areas, we get the area of all six rectangles is given by this expression. Notice
+that there are six terms here, one for each rectangle, each rectangle has base of point
+five, and has height given by the right endpoint, we can write this in sigma notation as the
+sum of 0.5 times 0.5 times i squared, where I ranges from one to six. This works because
+the numbers in parentheses here are all multiples of point five. The first one is point five
+times one, and the last one, three is point five times six. Now if we compute the sum,
+we get 91 eighths, which is 11.375. Notice from the picture, that the sum of areas of
+rectangles is an over estimate for the area under the curve, we can do the same sort of
+computation for this green picture using left endpoints, and we'll get an under estimate
+for the area under the curve, I invite you to try it for yourself before going on with
+the video. For the green rectangles, the first rectangle has area zero, the second rectangle
+has area given by its base of 0.5 times its height of 0.5 squared. And if we compute all
+six areas and add them up, we get a similar expression to the previous one, only this
+time, we end with a 2.5 squared, which is the height of our last rectangle. One way
+to write this in sigma notation, is still starting with i equals one for the first rectangle
+to six for the last one, we use the base. And then for the height, we use 0.5 times
+I minus one, squared. This works because when I is one, i minus
+one is zero, so we start with a height of zero like we should. And when I is six, we
+get point five times six minus one, which is point five times five, or 2.5, just like
+we want it to be, if we add up the sum, we get an answer of 55 eighths, which is equal
+to 6.875, which is an underestimate for the true area under the curve. Now there's a big
+gap between 6.875 and 11.375. So it'd be nice to get tighter bounds on the area. One way
+to do this is by using more rectangles, for example, 12 rectangles instead of six. Again,
+we could choose to use right endpoints, which gives us an over estimate of area in this
+case, or we could use left endpoints, which gives us an under estimate. The area of the
+eyes rectangle is given by the base times the height, and the base is going to be in
+this case 0.25. While the height is given by the functions value on the right endpoint,
+the right endpoint of the eyes rectangle is going to be 0.25 times I and the function
+is the squaring function. So that height will be given by point two, five i squared. The
+area of all the rectangles can then be given by the sum from i equals one to 12 for the
+12 rectangles of 0.25 times 0.25 i squared. If we work out that sum, it comes to 10.156.
+Again, we can do the same thing with left endpoints. Now the area of the eye, the rectangle,
+is given by base times height, which is point two, five. And now the height is given by
+the value of the function on the left endpoint. So that's going to be 0.25 times I minus one.
+And we need to square that, since our function y equals x squared is giving the height of
+my rectangles. So the area of all the rectangles together is going to be the sum from the first
+rectangle to the 12th rectangle of 0.25 times 0.25, times I minus one squared. That works out to 7.906. So we're honing in
+on the actual area under the curve. Now it's somewhere between about eight and about 10,
+we can keep getting better and better estimates of area by using more and more rectangles.
+For example, if we want to use 100 rectangles, then our area of all rectangles using right
+endpoints is going to be given by the sum from i equals one to 100 of the basis times
+the heights. Now the base of each rectangle will be 100 of the length here from zero to
+three. In other words, the base will be three over 100. The eyes right endpoint, which I'll
+call X sub i, is going to be just three over 100 times I, since you get to the right eye
+threat endpoint by taking I copies of a rectangle of width three one hundredths. Therefore,
+the eyes height is going to be given by this is right endpoint squared, or three one hundredths
+times i squared. So we can write our sum of areas as sigma from i equals one to 100 of
+three one hundredths times three one hundredths times i squared. The formula using left endpoints
+is similar. The if left endpoint is going to be three one hundredths, times I minus
+one, since if we're using left endpoints, we only have to travel through i minus one
+rectangles to get to the left endpoint of the rectangle. So our area for the left endpoints
+becomes the sum from i equals one to 100 of three over 100 times three over 100 times
+I minus one squared. These two psalms work out to be 9.1435 and 8.8654. At this point,
+you might be willing to wager a guess that our exact area under the curve is probably
+going to be nine. But to determine the exact area for sure, let's do this process of dividing
+into rectangles one more time. And this time, we'll just use an rectangles where n is some
+big number. Since we're dividing an interval of length three into n little pieces, the
+width of each sub interval, in other words, the base of each rectangle, we'll be given
+by three over n. I'll call this delta x as a little tiny bit of x. Now the right endpoint,
+x by is given by three over n times i. Since we have to travel through I rectangles, each
+of width three over n on order to get to that right endpoint. So our height, H sub i is
+given by the functions value on that right endpoint. We can work out similar expressions
+for the picture using left endpoints here. Our estimate of area using right endpoints
+is then the sum from i equals one to n of three over n times three I over n squared.
+And our estimate using left endpoints is a sum from i equals one to n of three over n
+times three, i minus one over n squared, the more rectangles we use, in other words, the
+bigger the value of n, the closer our estimated area will be to our exact area under the curve.
+And therefore, the exact area is given by the limit the limit as n goes to infinity
+of this song, which is known as a Riemann sum, there are really two possible limits, we could
+use right endpoints or left endpoints. But as the picture suggests, these two limits
+should turn out to be the same thing. In fact, there are other options between sides using
+right endpoints and left endpoints, we could, for example, use the midpoints of our intervals
+to compute our areas of rectangles. And that limit should also end up as the same thing.
+So we have an expression for the area under the curve y equals x squared between the values of x equals one and x equals three.
+And that's given by the limit of this psalm called a Riemann sum. I'll stick with the
+right endpoint version for now, to compute the exact area, we have to evaluate this limit,
+which is tricky. I'm going to start by rewriting. Since three and n don't involve the index
+I, I can pull them outside of this summation sign. I'll clean this up a little bit. Now
+will you need to use the fact that the sum of the first n squares of the integers is
+equal to n times n plus one times two n plus one over six, we can check that formula for a few values
+of n. For example, if n equals two, we're summing out one squared plus two squared,
+which is five. And we're plugging in two times two plus one times four plus one over six
+from the formula, which also equals five. If we use this formula, in our limit calculation,
+we get this expression, which simplifies to nine halves, by dividing 27 by six, we can
+cancel a copy of n and get n plus one times two n plus one over n squared. I'm going to
+pull out the nine halves. And now I observe I have the limit of a rational expression,
+where the highest power term on the numerator is going to be two n squared, the highest
+power and there's nominators just the n squared, so that's going to be a limit of two, multiply
+that by by nine halves, and I get a limit of nine, just like I expected from the previous
+work. So that was a big production. But we did successfully find the area under the curve,
+and it was nine. In this video, we approximated the area under a curve by taking the limit
+as the number of rectangles goes to infinity of the area of the rectangles, which is given
+by a psalm called a Riemann sum of the basis times the heights of the rectangles. The basis
+are often written as delta x, and the heights are given by the function value on the left
+endpoint, or the right endpoint, or some other point in the interval. For our purposes, f
+was always x squared. But this sort of expression, called a Riemann sum, can be used more generally,
+to evaluate the area under any continuous function. In previous sections, we thought
+of the definite integral as representing area, and we've computed it as a number. In this
+section, we'll think of the integral itself as a function of the bounds of integration.
+And we'll describe the first part of the fundamental theorem relating the derivative and the integral.
+Suppose f of x has the graph shown here, and let g of x be the integral from one to x of
+f of t dt. I'm using t as my variable inside my integrand Here, just to distinguish it
+from the variable x that I'm using in my bounds of integration, this expression just means
+the net area between one and some value x on the x axis. I'll call geovax, the accumulated
+area function, because as x increases, g of x, measures how much net area has accumulated.
+Let's calculate and plot some values of g of x. g of one is the integral from one to
+one of f of t, dt, that's just zero. Since the bounds of integration here the same, g
+of two is the integral from one to two of f of t, dt. That's the net area from one to
+two, which is to square units. g of three is the integral from one to three. Now, we've
+added on an additional two units here, and an additional one unit up here from this triangle,
+for a total of five, g of four is g of three with some additional area tacked on the additional area measures three units. So g of four is
+eight. Please pause the video and fill in the next few values of J. When we go from g of four to g of five, we
+add on an extra unit of area. So g of five is nine. As we go from g of five to g of six,
+we start accumulating negative area, because f is now below the x axis. So here I've accumulated
+one unit of negative area, which means that g of six is one less than g of five. In other
+words, gf six is eight, g of seven is five. Since we accumulate three more units of negative
+area, to find g of zero, the integral from one to zero of f of t dt, I'm going to rewrite
+this integral as negative the integral from zero to one of f of t dt. Since there are
+two units of area between zero and one, g of zero is negative to apply all these values
+of G on these coordinate axes, and connect the dots to get an idea of what g of x looks
+like. Now let's think about the derivative g prime of x. We know that g prime of x is
+positive, where g of x is increasing, but g of x is increasing, wherever we're adding
+on positive area, that is when f of x is positive. So we have that g prime of x is positive,
+where f is x is positive. Also, g prime of x is negative, where g of x is
+decreasing. That happens when we're adding on negative area because f of x is negative.
+So we can see that g prime of x is negative, where f of x is negative. Also, g prime is
+zero at this local maximum, where f is zero. At that instant, we're not adding on any positive
+or negative area. If we look a little closer, we can see the
+rate at which g of x is increasing depends on the height of f of x. When f of x is tall,
+or high, we're adding on area very quickly. While when f of x is low or small, we're adding
+on area more slowly. So the rate of change of G. In other words, g prime of x is behaving
+very much like the function f of x itself. And in fact, it turns out that g prime of
+x is equal to f of x. This is the first part of the fundamental theorem of calculus. The Fundamental Theorem of Calculus Part One
+says that of f of x is a continuous function on the closed interval from a to b, then for
+any x in this interval, the function g of x, the integral from a to x of f of t dt is
+continuous on the interval a b and differentiable on the inside of this interval, and for Furthermore,
+g prime of x is equal to f of x, as we saw in the previous example. The proof of this
+fact relies on a limit definition of derivative, and can be found in a later video. For now,
+let's do some examples based on this fact. First, let's find the derivative with respect
+to x of the integral from five to x of the square root of t squared plus three dt. The
+Fundamental Theorem of Calculus tells us that this expression here thought of as a function
+of x is differentiable, and its derivative is just the integrand function evaluated on
+x. This is great, we don't have to do any work here at all. To evaluate the derivative,
+we just plug in x, where we see the T here, the derivative and the second expression is
+also the square root of x squared plus three, it might seem odd that these two expressions
+have the same derivative. But remember, in both cases, we're taking the derivative of
+the accumulated area function. And the rate at which area accumulates doesn't depend on
+the lower bound of the integral. That is, it doesn't depend on where we start counting,
+it just depends on the height of the function at x. For this third example, remember that the
+integral from x to four is the same thing as the negative of the integral from four
+to x. So we get the negative of the derivative from four to x. and applying the fundamental
+theorem of calculus, this lesson is negative the square root of x squared plus three, it
+makes sense that we should get a negative answer for this example. When we're integrating
+from X to four, then as x increases, our area actually decreases. So our accumulated area
+function should have a negative derivative. This last example is more complicated, because
+instead of just having x as our upper bound, we have a function of x sine of x, we can
+think of sine of x as being the inside function, and the accumulated area function as being
+an outside function and apply the chain rule. In general, the chain rule says that we have
+the derivative with respect to x of a function of u of x, then that's the same thing as the
+derivative with respect to u of that function at U times the derivative of the inside function
+u of x with respect to x, applying the chain rule to our accumulated area function, where
+you have x is sine x, we have that the derivative respect to x of the integral from four to
+sine x of the integral of t squared plus three DT can be written as the derivative by two
+you, I've accumulated area function from four to you have the integrand times the derivative
+with respect to x of our u of x, which is just sine x, we can apply the fundamental
+theorem of calculus to calculate the first derivative. By just plugging in you for T,
+we get you squared plus three. And then the derivative of sine x, of course, is just cosine
+of x. Since we want our final answer to be entirely in terms of x, we're going to rewrite
+this as the square root of sine x squared plus three times cosine x, or just the square
+root of sine squared x plus three times cosine of x. We could have gotten this answer more
+quickly by just plugging in this entire expression sine of x in where we saw the T here in the
+integrand, and then multiplying the answer by the derivative of sine x due to the chain
+rule. This video introduced the fundamental theorem
+of calculus part one that says that the derivative of the integral of a function is just the
+original function in some sense, taking the derivative and does the process of taking
+the integral. derivatives and integrals are closely related. inverse operations. This
+video introduces the second part of the fundamental theorem of calculus. Another way of relating
+derivatives and integrals. Part Two of the fundamental theorem of calculus says that
+if f is a continuous function on the closed interval a b, then the integral from a to
+b of f of x dx is equal to capital F of b minus capital F of A, where capital F is any
+antiderivative for lowercase F. That is, capital F is a function whose derivative is lowercase
+F. The proof of part two of the fundamental theorem of calculus follows directly from
+part one. And I'll give that proof in another video. But here, I just want to make a few
+comments about what this theorem means. If we think of f of x as the derivative of capital
+F of x, then this is saying that the integral of the derivative is equal to the original
+function evaluated on the endpoints. I also want to comment on the phrasing any antiderivative.
+Suppose capital G of X is a different antiderivative for lowercase F. We know that any two anti
+derivatives differ by a constant. So we know that g of x has to equal capital F of X plus
+some constant. So if we take g of b minus g of a, that's going to be the same thing
+as f of b plus c minus f of a plus C. And since this constant sees subtract out to cancel
+here, this is just f of b minus f of a. So this difference is the same value, no matter
+which antiderivative of lowercase f we use. And that's why we can say that capital F can
+be any antiderivative. Part Two of the fundamental theorem of calculus is super useful, because
+it allows us to compute integrals simply by finding anti derivatives and evaluating them.
+Finding anti derivatives tends to be really easy. Computing integrals, using the Riemann
+sum definition is really hard. And so because of the fundamental theorem of calculus, we
+don't have to go through all those lengthy and tedious computations, we've involving
+limits of areas of rectangles, all we have to do to evaluate an integral is find an antiderivative,
+and evaluate it. Let's see how this works in some examples. In this first example, the
+antiderivative of 3x squared is x cubed. And the antiderivative of negative four over x
+is minus four times ln absolute value of x. We could add a plus C to make it a general
+antiderivative, but we don't really need it. The fundamental theorem says that we can use
+any antiderivative, so we might as well use the simplest one, where c equals zero. Now
+we need to evaluate this antiderivative on the endpoints of negative one and negative
+five. And we usually write this as a vertical line with a negative one at the bottom and
+a negative five at the top to mean evaluation. In other words, the notation capital F of X between A and B means capital F of b minus
+capital F of A, which is what we need to compute for our antiderivative here. So now we just
+plug in negative five for x, and then we subtract what we get when we plug in negative one for
+x. In this example, you can see why it's important to write the antiderivative of one over x
+as ln absolute value of x not just ln of x, because ln of the absolute value of five,
+which is ln a five actually has an answer, whereas ln of negative five would not exist.
+I can simplify this expression a little bit, I get negative 125 minus four ln five minus
+negative one, plus four ln of one. Since ln of one is zero, this becomes negative 124
+minus four ln five. That's about negative 130 point 438. In this next example, we need
+to find the antiderivative for this expression y squared minus y plus one over the square
+root Why. Now we can't take the antiderivative separately of the numerator and the denominator,
+because that's just not how the quotient rule works for differentiation. So it doesn't work
+that way for anti differentiation either. Instead, let's try to simplify this expression
+to make it look more like something we can take the antiderivative of. So I'm going to
+rewrite the denominator as y to the one half power. And dividing by y to the one half is
+the same thing as multiplying by y to the negative one half distributed, distributing
+and adding exponents, I get y to the three halves minus y to the one half plus y to the
+negative one half. Now that's something I can take the antiderivative of just using
+the power rule and reverse y to the three halves, becomes y to the five halves by adding
+one to the exponent, I divide by the new exponent. Now here, I get y to the three halves divided
+by three halves, and here are negative one half plus one is positive one half, I need
+to evaluate this between four and one. let me simplify a little bit. And now I'll substitute
+in values. Now four to the five halves is the same thing as four to the one half raised
+to the fifth power. So that's two to the fifth power, or 32. Similarly, for the three halves
+is four to the one half cubed, so that's two cubed, or eight, and four to the one half
+is just two. And one to any power is just one. And after some arithmetic, I get an answer
+of 146 15th. The Fundamental Theorem of Calculus, part
+two can be stated this way, for a function capital F with continuous derivative, the
+integral of the derivative is equal to the original function evaluated on the bounds
+of integration. In this video, I'll prove both parts of the fundamental theorem of calculus.
+The first part of the fundamental theorem of calculus says that if f of x is a continuous
+function, then the function g of x defined as the integral from a constant A to the variable
+x of f of t dt is differentiable, and has derivative equal to the original function, f of x. To prove this theorem, let's start with the
+limit definition of derivative. The derivative, g prime of x, by definition, is the limit
+as h goes to zero of g of x plus h minus g of x over h. Now g of x is defined as an integral
+from a to x. So g of x plus h is going to be the integral from a to x plus h, just plugging
+in x plus h for x of f of t dt. g of x is the integral from a to x of f of t dt. By properties of integrals. The integral from
+a to x plus h minus the integral from a to x is just the integral from x to x plus h.
+Now informally, the integral from x to x plus h can be closely approximated by a skinny
+rectangle with height, f of x and width, H. And so this limit is approximately the limit
+as h goes to zero of f of x times h over h, which is just f of x. But let's make this
+argument a little more precise. Let's let capital M be the maximum value that f of x
+achieves on this little sub interval, and lowercase m be the minimum value achieved.
+In this picture, they occur on the endpoints of the interval from x to x plus h, but they
+could also occur somewhere in the interior. But we know that f of x does have to have
+a minimum value and a maximum value, since it's a continuous function by assumption on
+a closed interval. Now we know that the integral of f of t dt from x to x plus h has to be
+less than or equal to capital M times h and bigger than a to lowercase m times h. This
+is one of the properties of integrals, and can be verified visually by comparing this
+shaded red area to the small blue rectangle, which has area lowercase m times h, and comparing
+it to the area of the big rectangle, which has area capital M times h equivalently, the
+integral from x to x plus H of F of t dt divided by h has to be less than or equal to capital
+M and greater than or equal to little m. But the intermediate value theorem, which holds
+for all continuous functions, says that this intermediate value that lies between the minimum
+and maximum value of f has to be achieved as f of c for some C in the interval. Therefore,
+I cannot replace this integral in the limit expression above by just simply the value
+f of c for some c between x and x plus h. The value of C here depends on x and h. But
+as h goes to zero, C has to get closer and closer to x. And since f is continuous, this
+means that this limit is equal to f of x. We've now proved the first part of the fundamental
+theorem of calculus, that the derivative of g exists and equals f of x. The second part
+of the fundamental theorem of calculus says that if f is continuous, then the integral
+from a to b of f of x dx is equal to the antiderivative of lowercase F, which I'll denote by capital
+F, evaluated at B minus that antiderivative evaluated today. Part Two of the fundamental
+theorem follows directly from part one. Let's let g of x be defined as the integral from
+a to x of f of t dt. Then part one of the fundamental theorem of calculus tells us that
+g prime of x exists and equals lowercase f of x. In other words, capital G is an antiderivative
+for a lowercase F. Now g of the minus g of A is by definition, the integral from a to
+b of f of t dt minus the integral of a from a to a of f of t dt. The second integral is
+zero, since the bounds of integration are identical. So part two of the fundamental
+theorem of calculus is true if I use the antiderivative capital G. But the theorem is supposed to be true for
+any antiderivative. So let's let capital F be any antiderivative of lowercase F, we know
+that capital F of x has to equal capital G of X plus some constant since any two antiderivative
+for the same function differ by a constant, and therefore, capital F of b minus capital
+F of A is going to equal capital G of B plus C minus capital G of A plus C. The constant
+C cancels out, and we just get capital G of b minus capital G of A, which we already saw
+was equal to the integral from a to b of lowercase f of t dt. So the left side of this equation
+is equal to the right side. And the fundamental theorem of calculus Part two is proved for
+any antiderivative. This completes the proof of the fundamental theorem of calculus. This
+video is about the substitution method for evaluating integrals, also known as u substitution.
+As the first example, let's try to integrate to x sine of x squared dx. Now sine of x squared
+is the composition of the function sine and the function x squared. And notice that the
+function x squared has derivative to x, which is sitting right here and the integrand. I'm
+going to make the substitution u equals x squared, and then I'll write d u is equal
+to 2x dx. That's differential notation. To find d u, I take the derivative have X squared
+and then multiply by the differential dx, I can then rewrite the integrand as sine of
+u. And the 2x. dx becomes do after making this substitution, I can integrate, because
+the antiderivative of sine of u is negative cosine of u. And I'll add on the constant
+of integration. I'm not finished yet, my original problem was in terms of x, and now I've got
+a function in terms of u. So let's substitute back in since u is equal to x squared, I can
+replace that, and I have my final answer. To verify that this final answer is correct,
+that it really is the antiderivative of what we started with, let's take the derivative
+of our answer and make sure we get back the function to x sine of x squared. If we take the derivative of negative cosine
+of x squared plus C, then we get the derivative of a constant is zero, so we have the derivative
+of negative cosine, that's equal to sine of the inside function x squared times the derivative
+of the inside function using the chain rule. And we do in fact, get back to the integrand
+that we started with. Notice that we use the chain rule when taking the derivative to check
+our answer. Let's try some more examples of use substitution. When looking for what to
+substitute as you, it's good to look for a chunk that's in the integrand, whose derivative
+is also in the integrand. It's also good enough to just have a constant multiple of the derivative
+in the integrand. So in the first example, we might use the chunk one plus 3x squared,
+as are you. The derivative of that expression is six times x. And even though six times
+x isn't completely in the integrand, we do have a factor of x in the numerator, that's
+just a constant multiple away from the derivative of 6x. So let's write out d u, that's going
+to be 6x dx. And I'm going to go ahead and rewrite this as x dx is equal to one six d
+U. writing it this way, it makes it easy to substitute one six d u for x dx. And then
+in my denominator, my one plus 3x squared becomes u. I can rewrite this as one six times
+the integral of one over u d u you and I recognize that the antiderivative of one over u is ln
+absolute value of u. Substituting back in for you, I get a final answer of one six ln
+absolute value of one plus 3x squared, plus say, the absolute value signs are not really
+necessary in this example, since one plus 3x squared is always positive. As our next
+example, let's look at the integral of e to the 7x dx. one chunk with us here is u equals
+7x. If we do that, then d u is just seven dx. And so we have dx is equal to 1/7 do substituting
+in we have the integral of e to the u times 1/7 d u, I can pull the 1/7 out and integrate
+e to the u to the app, just either the U and substituting in for back for 7x, I get e to
+the 7x plus C. I encourage you to pause the video to check that these two answers are
+correct. By taking derivatives. You'll notice that you use the chain rule each time. Next,
+let's do an example with a definite integral, the integral from E to E squared of ln x over
+x dx. If we set u equal to ln x, then d u is the derivative of ln x, that's one of our
+x times dx. This is a much better choice of you than say setting u equal to x from the
+denominator, because then d u would just be dx. And when we did the substitution, nothing
+would really change. For definite integrals, we need to deal with the bounds of integration
+here e and d squared. We really have two options, worry about them now or worry about them later.
+I'll show you the worry about them. Now method first. Our bounds of integration E and E squared
+are values of Bax as we convert everything in our integral from x to you, we need to
+convert the bounds of integration from values of x to values of u also. Now, when x is equal
+to e, u is equal to ln IV, which is one, just using this equation. Similarly, when x is
+equal to E squared, u is equal to ln t squared, which is two. So as I rewrite my integral,
+I'm going to replace the bounds with one and two. And now my ln x becomes my u and my dx
+divided by x becomes my do, they're going to grow of UD u is equal to use squared over
+two, and I evaluate this between the bounds of u equals two and u equals one to get two
+squared over two minus one squared over two, which is one half. Notice that when we did
+the problem this way, we never actually had to get back to our variable x, we stayed in
+the variable u and evaluated. The second way of dealing with the bounds of integration
+is to worry about them later. Let's go back to the beginning of the problem. We're just
+about to substitute u equals ln x and d u equals one over x dx. Instead of substituting
+in for the bounds of integration, I'm going to temporarily ignore them and just evaluate
+the indefinite integral ln x over x dx, which I can substitute in as you times do, we can
+evaluate that to get you squared over two. Normally we'd have a plus c constant. But
+since we're ultimately going to be doing a definite integral, we don't really need the
+constant here. Now, just like when we're doing indefinite integrals, I'm going to get back
+to the variable x by substituting back in for you U is ln of x. So I square that and
+divided by two, and then I can go back to my original bounds of integration, those bounds
+are the x values of E squared, and E. Plugging in those bounds, I get ln of E squared quantity
+squared over two minus ln of E squared over two, which evaluates to two squared over two
+minus one over two, which is again, one half. This video gave some examples of use substitution
+to evaluate integrals. This method works great in examples like this one, where there's a
+chunk that you can call you whose derivative or at least a constant multiple of its derivative
+is also in the integrand. You've already seen how u substitution works
+in practice. In this video, I'll try to explain why it works. u substitution is based on the
+chain rule. Recall the chain rule says if we take the derivative of a function, capital
+F of lowercase g of x with respect to x, we get the derivative of capital F evaluated
+on the inside function g of x times the derivative of g of x. If we just write that equation in the opposite
+order, we have that an expression of the form f prime of g of x times g prime of x can all
+be wrapped up as the derivative of a composite function, f of g of x. Now if I take the integral
+of both sides of this equation with respect to x, on the right side, I'm taking the integral of a derivative. Well, the integral or antiderivative of a
+derivative is just the original function, capital f of g of x plus C. Now when we do
+use substitution, we're really just writing this equation down. We are seeing an expression
+of the form f prime of g of x times g prime of x dx, we're recognizing you as g of x and
+d u as g prime of x dx. So we're rewriting this expression as the integral of capital
+F prime of u d u do and that integrates to just capital F of u plus C. And then we're
+substituting back in for you To get capital f of g of x plus C, the beginning and end
+of this process are exactly the same as the left side and right side of our chain rule
+expression above. So when you're doing u substitution to integrate, you can thank this chain rule
+that's behind it all. This video introduces the idea of an average value of a function.
+To take the average of a finite list of numbers, we just add the numbers up and divide by n,
+the number of numbers. In summation notation, we write the sum from i equals one to n of
+Q i all divided by n. But defining the average value of a continuous function is a little
+different. Because a function can take on infinitely many values on an interval from
+a to b, we could estimate the average value of the function by sampling it at a finite
+Li many evenly spaced x values. I'll call them x one through x n. And let's assume that
+they're spaced a distance of delta x apart, then the average value of f at these sample
+points is just the sum of the values of f divided by n, the number of values are in
+summation notation, the sum from i equals one to n of f of x i all divided by n. This
+is an approximate average value of f, since we're just using n sample points. But the
+approximation gets better as the number of sample points n gets bigger and bigger. So
+we could define the average as the limit as n goes to infinity of the sample average.
+I'd like to make this look more like a Riemann sum. So I need to get delta x in there. So
+I'm just going to multiply the top and the bottom by delta x. And notice that n times
+delta x is just the length of the interval b minus a. Now as the number of sample points
+goes to infinity, delta x, the distance between them goes to zero. So I can rewrite my limit
+as the limit as delta x goes to zero, of the sum of FX II times delta x divided by b minus
+a. Now the limit of this Riemann sum in the numerator is just the integral from a to b
+of f of x dx. And so the average value of the function is given by the integral on the
+interval from a to b divided by the length of the interval. Notice the similarity between
+the formula for the average value of a function and the formula for the average value of a
+list of numbers, the integral for the function corresponds to the summation sign for the
+list of numbers. And the length of the interval B minus A for the function corresponds to
+n, the number of numbers in the list of numbers. Now let's work an example. For the function
+g of x equals one over one minus 5x. On the interval from two to five, we know that the
+average value of G is given by the integral from two to five of one over one minus 5x
+dx divided by the length of that interval, I'm going to use use of the tuition to integrate,
+so I'm going to set u equal to one minus 5x. So d u is negative five dx. In other words,
+dx is negative 1/5 times do. Looking at my bounds of integration, when x is equal to
+two, u is equal to one minus five times two, which is negative
+nine. And when x is equal to five, u is equal to negative 24. substituting into my integral,
+I get the integral from negative nine to negative 24 of one over u times negative 1/5. Do and
+that's divided by three. Now dividing by three is same as multiplying by 1/3. And as I integrate,
+I'm going to pull the negative 1/5 out and then take the integral of one over u, that's
+ln of the absolute value of u evaluated in between negative 24 and negative nine. The
+absolute value signs are important here because they prevent me from trying to take the natural
+log of negative numbers to evaluate get negative 1/15 times ln of 24 minus ln
+of nine, I can use my log rolls to simplify and get negative 1/15 ln of 24 over nine,
+that's negative 1/15 ln of eight thirds, and as a decimal, that's approximately negative
+0.0654. So I found the average value of G. Now my next question is, does g ever achieve
+that average value, in other words, is there a number c in the interval from two to five
+for which GFC equals its average value? Well, one way to find out is just to set GFC equal
+to G's average value. In other words, set one over one minus five c equal to negative
+1/15 ln of eight thirds, and try to solve for C. There are lots of ways to solve this
+equation. But I'm going to take the reciprocal of both sides, subtract one from both sides
+and divide by negative five. This simplifies to three over ln of eight thirds, plus 1/5,
+which is approximately 3.25. And that x value does lie inside the interval from two to five.
+So we've demonstrated that g does achieve its average value over the interval. But in
+fact, we could have predicted this to be true. Gs average value has to lie somewhere between
+GS minimum value and maximum value on this interval. And since G is continuous on the
+interval from two to five, it has to achieve every value that lies in between as minimum
+and maximum, including its average value. The same argument shows that for any continuous
+function, the function must achieve its average value on an interval. And this is known as
+the mean value theorem for integrals. Namely, for any continuous function f of x on an interval
+from a to b, there has to be at least one number c, between A and B, such that f of
+c equals its average value, or, in symbols, f of c equals the integral from A b of f of
+x dx divided by b minus a. This video gave the definition of an average value of a function,
+and stated the mean value theorem for integrals. If we rewrite the formula for average value
+a little, then we can see a geometric interpretation for average value, the area of the box with
+height the average value is the same as the area under the curve. This video gives two
+proofs of the mean value theorem for integrals. the mean value theorem for integrals says
+the for continuous function f of x, defined on an interval from a to b, there's some number
+c between A and B, such that f of c is equal to the average value of f. The first proof
+that I'm going to give us is the intermediate value theorem. Recall that the intermediate
+value theorem says that if we have a continuous function f, defined on an interval, which
+I'll call x 1x, two, if we have some number l in between f of x one and f of x two, then
+f has to achieve the value out somewhere between x one and x two. Keeping in mind the intermediate
+value theorem, let's turn our attention back to the mean value theorem for integrals. Now
+it's possible that our function f of x might be constant on the interval from a to b. But
+if that's true, then our mean value theorem for integrals holds easily, because f AV is
+just equal to that constant, which is equal to f OC for any c between A and B. So let's
+assume that f is not constant. Well, like continuous function on a closed interval has
+to have a minimum value and a maximum value, which I'll call little m, and big M. Now we
+know that F's average value on the interval has to be between its maximum value and its
+minimum value. If you don't believe this, consider the fact that all of us values on
+the interval have to lie between big M and little m. And if we integrate this inequality We get little m times b minus a is less than
+or equal to the integral of f is less than or equal to big M times b minus a. Notice
+that the first and the last integrals, we're just integrating a constant. Now if I divide
+all three sides by b minus a, I can see that little m is less than or equal to the average
+value of f is less than or equal to big M as I wanted. Now, I just need to apply the
+intermediate value theorem, with F average as my number L and little m and big M as my
+values of f of x one and f of x two. The intermediate value theorem says that F average is achieved
+by f of c for some C in between my x one and x two. And therefore, for some C in my interval
+a b. And that proves the mean value theorem for integrals. Now I'm going to give a second
+proof for the mean value theorem for integrals. And this time, it's going to be as a corollary
+to the regular mean value theorem for functions. Recall that the mean value theorem
+for functions, says that if g of x is continuous on a closed interval, and differentiable on the interior of that
+interval, then there's some number c in the interval, such that the derivative of g at
+C is equal to the average rate of change of G, across the whole interval from a to b.
+Let's keep the mean value theorem for functions in mind, and turn our attention back to the
+mean value theorem for integrals. I'm going to define a function g of x to be the integral
+from a to x of f of t dt, where F is the function given to us in the statement of the mean value
+theorem for integrals. Notice that g of A is just the integral from a to a, which is
+zero, while g of B is the integral from a to b of our function. Now, by the fundamental
+theorem of calculus, our function g of x is continuous and differentiable on the interval
+a, b, and g prime of x is equal to f of x. And by the mean value theorem for functions,
+we know that g prime of c has to equal g of b minus g of a over b minus a, for some numbers,
+C and the interval a b, if we substitute in the three facts above, into our equation below,
+we get f of c is equal to the integral from a to b of f of t dt minus zero over b minus
+a, which is exactly the conclusion that we wanted to reach. This shows that the mean
+value theorem for integrals really is the mean value theorem for functions where our
+function is an integral. And this completes the second proof of the main value theorem
+for integrals. So now I've proved the mean value theorem for integrals in two different
+ways. And I've used a lot of the great theorems of calculus along the way.

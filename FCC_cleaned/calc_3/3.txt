@@ -1,0 +1,44 @@
+When Limits Fail to Exist.
+f of x graph below, let's look at the behavior of f of x in terms of limits, as x approaches negative one, one, and two.
+Let's start with x approaching negative one.
+When x approaches negative one from the last, the y value is going to be approaching about one half.
+When x approaches negative one from the right, the y values sandvi, approaching one.
+So when x approaches negative one, and we don't specify from either the left or the right, we can only say that the limit does not exist, because these two limits from the left and right are not equal.
+Now let's look at the limit as x is approaching one.
+This time, we approach from the left, we get a limiting y value of two, we approach from the right, the y values are going towards two.
+So both of these left and right limits are equal to and therefore the limit as x goes to one of f of x equals two.
+That's true, even though f of one f of one itself does not exist.
+The limit doesn't care what happens at exactly x equals one just what happens when x is near one.
+Finally, let's look at the limit as x goes to two.
+So here on the left side, the limit is going to negative infinity.
+And on the right side, it's negative infinity.
+So we can say the limit as x goes to two is negative infinity.
+Or we can also say that the limit as x goes to two does not exist.
+This is the correct answer.
+This is a better answer because it carries more information.
+What values of x does a limit of f of x fail to exist?
+Well, let's see.
+Negative one and two are the only two values.
+Let's talk about the ways that limits can fail to exist, we've seen at least a couple different ways.
+So we've seen examples where the limit from the left is not equal to the limit from the right.
+Here's our number a where we're calculating the limit at.
+So that's one example we've seen.
+We've also seen examples where they're vertical asymptotes.
+There's a vertical asymptote here at a, that limit fails to exist because of the unbounded behavior because the y values are going off to infinity.
+There's one other way that limits can fail to exist that comes up, sometimes not quite as frequently.
+And that's wild behavior.
+Not a technical term, just to descriptive term.
+Let's look at an example that has this wild behavior, forcing a limit not to exist.
+And the one of the most classic examples as the limit as x goes to zero of sine pi over x or sometimes you'll see sine one over x.
+If you graph this on your graphing calculator and zoom in near x equals zero, you're gonna see something that looks roughly like this.
+It just keeps oscillating up and down and up and down, as x goes towards zero As x goes towards zero, pi over x is getting bigger and bigger.
+And you're going to go through these oscillations between one and negative one for the faster and faster.
+From the other side, when x is negative, you'll see a similar kind of behavior just oscillating faster and faster.
+As x goes to zero, here, this top values up here at one, and the bottom value of these are all supposed to hit it negative one.
+Now, when you try to decide what the limit is, as x goes to zero, well, the y values are going through all possible real numbers and between negative one and one infinitely often as x goes to zero, so there's no single number that the limit can settle at.
+And so the limit as x goes to zero, of sine pi over x does not exist.
+In this video, we saw three types of examples when limits fail to exist, they can fail to exist because the one sided limits on the left and the right are not equal.
+Or they can fail to exist because of vertical asymptotes.
+Also, limits can fail to exist when there's wild behavior.
+And the function fails to settle down at any single value.
+This video is about

@@ -1,0 +1,54 @@
+Integration Using Trig Substitution.
+equation.
+But I'm going to take the reciprocal of both sides, subtract one from both sides and divide by negative five.
+This simplifies to three over ln of eight thirds, plus 1/5.
+What which is approximately 3.
+25.
+And that x value does lie inside the interval from two to five.
+So we've demonstrated that g does achieve its average value over the interval.
+But in fact, we could have predicted this to be true.
+Gs average value has to lie somewhere between GS minimum value and maximum value on this interval.
+And since G is continuous on the interval from two to five, it has to achieve every value that lies in between as minimum and maximum, including its average value.
+The same argument shows that for any continuous function, the function must achieve its average value on an interval.
+And this is known as the mean value theorem for integrals.
+Namely, for any continuous function f of x on an interval from a to b, there has to be at least one number c, between A and B, such that f of c equals its average value, or, in symbols, f of c equals the integral from a to b of f of x dx divided by b minus a.
+This video gave the definition of an average value of a function, and stated the mean value theorem for integrals.
+If we rewrite the formula for average value a little, then we can see a geometric interpretation for average value.
+The area of the box with height the average value is the same as the area under the curve.
+This video gives two proofs of the mean value theorem for integrals.
+the mean value theorem for integrals says the for continuous function f of x, defined on an interval from a to b, there's some number c between A and B, such that f of c is equal to the average value of f.
+The first proof that I'm going to give us is the intermediate value theorem.
+Recall that the intermediate value theorem says that if we have a continuous function f defined on an interval, which I'll call x 1x, two.
+If we have some number l in between f of x one and f of x two, then f has to achieve the value l somewhere between x one and x two Keeping in mind the intermediate value theorem, let's turn our attention back to the mean value theorem for integrals.
+Now, it's possible that our function f of x might be constant on the interval from a to b.
+But if that's true, then our mean value theorem for integrals holds easily.
+Because f AF is just equal to that constant, which is equal to f of c for any c between A and B.
+So let's assume that f is not constant.
+Well, like continuous function on a closed interval has to have a minimum value and a maximum value, which I'll call little m, and big M.
+Now, we know that F's average value on the interval has to be between its maximum value and its minimum value.
+If you don't believe this, consider the fact that all of us values on the interval have to lie between big M and little m.
+And if we integrate this inequality, we get little m times b minus a is less than or equal to the integral of f is less than or equal to big M times b minus a.
+Notice that the first and the last integrals, were just integrating a constant.
+Now if I divide all three sides by b minus a, I can see that little m is less than or equal to the average value of f is less than or equal to big M as I wanted.
+Now, I just need to apply the intermediate value theorem with F average as my number L and little m and big M as my values of f of x one and f of x two.
+The intermediate value theorem says that F average is achieved by f of c for some C in between my x one and x two.
+And therefore, for some C in my interval a b.
+And that proves the mean value theorem for integrals.
+Now I'm going to give a second proof for the mean value theorem for integrals.
+And this time, it's going to be as a corollary to the regular mean value theorem for functions.
+Recall that the mean value theorem for functions, says that if g of x is continuous on a closed interval, and differentiable on the interior of that interval, then there's some number c in the interval, such that the derivative of g at C is equal to the average rate of change of G, across the whole interval from a to b.
+Let's keep the mean value theorem for functions in mind, and turn our attention back to the mean value theorem for integrals.
+I'm going to define a function g of x to be the integral from a to x of f of t dt, where F is the function given to us in the statement of the mean value theorem for integrals.
+Notice that g of A is just the integral from a to a, which is zero.
+Well, g of B is the integral from a to b of our function.
+Now, by the fundamental theorem of calculus, our function g of x is continuous and differentiable on the interval a, b, and g prime of x is equal to f of x.
+is the same as the area under the curve.
+This video gives two proofs of the mean value theorem for integrals.
+the mean value theorem for integrals says the for continuous function f of x, defined on an interval from a to b, there's some number c between A and B, such that f of c is equal to the average value of f.
+The first proof that I'm going to give us is the intermediate value theorem.
+Recall that the intermediate value theorem says that if we have a continuous function f defined on an interval, which I'll call x 1x, two.
+If we have some number l in between f of x one and f of x two, then f has to achieve the value l somewhere between x one and x two Keeping in mind the intermediate value theorem, let's turn our attention back to the mean value theorem for integrals.
+Now, it's possible that our function f of x might be constant on the interval from a to b.
+But if that's true, then our mean value theorem for integrals holds easily.
+Because f AF is just equal to that constant, which is equal to f of c for any c between A and B.
+So let's

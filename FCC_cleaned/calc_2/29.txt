@@ -1,0 +1,44 @@
+Proof of the Limit Comparison Test.
+to compute them as the limit of integrals over larger and larger sub intervals on which the function is finite.
+Sometimes we don't really care what the value of an improper integral is, we just want to know whether it's finite or infinite, whether it converges or diverges.
+In this situation, the comparison theorem can be very handy.
+The comparison theorem can allow us to determine if an integral converges or diverges without actually having to evaluate the integral instead by comparing it to the integral of a function that we know converges or diverges.
+So suppose that g of x and f of x are both positive valued functions.
+They're both greater than zero for all x's on the interval A B.
+And let's suppose also that g of x is less than f of x on that interval a, b.
+here, A or B could be infinity or negative infinity.
+So in the picture, we'll call this blue function, g of x, and the orange function, f of x.
+And let's consider the interval from one to infinity, where g of x is less than f of x, and both of them are bigger than zero.
+Now, if we already know that the integral of f of x on this interval converges to a finite number, then g of x, which is less than f of x also has to converge to a finite number.
+So if the integral of f of x converges, then g of x converges.
+If we turn this around, we can say that if g of x diverges, so it doesn't converge to a finite number, then f of x has to diverged also.
+So in the situation where the integral of the bigger function converges, or the integral of the smaller function diverges, then we can make some conclusions about the integral the other function, but you have to be a little careful about this.
+Because if instead, the integral of the bigger function diverges, then we really can't make any conclusions at all about the integral of the smaller function, it could also diverged or it could be small enough to converge as similarly, if the integral of the smaller function converges, then we really just don't know anything about the integral of the bigger function, it could converge, or it could divert.
+Let's look at an example.
+Suppose we want to find out if the integral from two to infinity of two plus sine x over square root of x dx converges or diverges.
+Instead of trying to evaluate it, which could get tricky, because of the sine x and the square root of x in here, I'm going to just try to compare it to something that I know converges or diverges.
+The first thing that I notice is that sine of x is bounded.
+It's always between one and negative one.
+And that means that the numerator two plus sine x is always going to be in between three and one.
+Therefore, the function two plus sine x over square root of x is going to be between three over square root of x and one over square root of x.
+Here's the general idea of the picture.
+Now the comparison theorem tells us that if our function is less than a function whose interval converges, then the integral of our current function will converge.
+And if our function is greater than a function whose integral diverges than the integral of our function will diverged.
+So which one of these two inequalities if we want to use depends on what happens to the integral of these functions on the ends?
+Now we know that the integral of one over the square root of x dx from two to infinity has to die verge.
+That's because this is a p function, where p is equal to one half, which is less than one, the integral from two to infinity of three over the square root of x dx also diverges since it's just three times the other integral.
+So if we want to compare our function to a function whose integral diverges, it It better be bigger than that divergent integral in order to get any useful information out of it being less than a function whose integral diverges doesn't tell us anything.
+So we need to focus on this inequality.
+Therefore, my limit is just three to the one half, or square root of three.
+And that's the area underneath my curve.
+This video was about type two improper integrals, and how to compute them as the limit of integrals over larger and larger sub intervals on which the function is finite.
+Sometimes we don't really care what the value of an improper integral is, we just want to know whether it's finite or infinite, whether it converges or diverges.
+In this situation, the comparison theorem can be very handy.
+The comparison theorem can allow us to determine if an integral converges or diverges without actually having to evaluate the integral instead by comparing it to the integral of a function that we know converges or diverges.
+So suppose that g of x and f of x are both positive valued functions.
+They're both greater than zero for all x's on the interval A B.
+And let's suppose also that g of x is less than f of x on that interval a, b.
+here, A or B could be infinity or negative infinity.
+So in the picture, we'll call this blue function, g of x, and the orange function, f of x.
+And let's consider the interval from one to infinity, where g of x is less than f of x, and both of them are bigger than zero.
+Now, if we already know that the integral of f of x on this interval converges to a finite number, then g of x, which is less

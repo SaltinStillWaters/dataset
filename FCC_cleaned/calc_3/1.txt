@@ -1,0 +1,54 @@
+[Corequisite] Difference Quotient.
+rate of change.
+These are topics that are related to the concept of derivative and calculus.
+For function y equals f of x, like the function whose graph right here, a secant line is a lie.
+that stretches between two points on the graph of the function.
+I'm going to label this x value has a, and this x value as B.
+So this point here on the graph is going to have an x value of a, and a y value given by f of a, the second point will have x value B and Y value, f of b.
+Now the average rate of change for a function on the interval from a to b can be defined as the slope have the secret line between the two points A, F of A and B, F of B.
+In symbols, that slope m is the rise over the run, or the change in y over the change in x, which is the difference in Y coordinates f of b minus F of A over the difference in x coordinates b minus a.
+So this is the average rate of change.
+To put this in context, if for example, f of x represents the height of a tree, and x represents time in years, then f of b minus f of a represents a difference in height, or the amount the tree grows.
+And B minus A represents a difference in in years, so a time period.
+So this average rate of change is the amount the tree grows in a certain time period.
+For example, if it grows 10 inches in two years, that would be 10 inches per two years, or five inches per year would be its average rate of change its average rate of growth, let's compute the average rate of change for the function f of x equals square root of x on the interval from one to four.
+So the average rate of change is f of four minus f of one over four minus one, well, f of four is the square root of four of one's the square root of one.
+So that's going to be two minus one over three or 1/3.
+Instead of calling these two locations on the x axis, a and b, this time, I'm going to call the first location, just x and the second location, x plus h.
+The idea is that h represents the horizontal distance between these two locations on the x axis.
+In this notation, if I want to label this point on the graph of y equals f of x, it'll have an x coordinate of x and a y coordinate of f of x.
+The second point will have an x coordinate of x plus h and a y coordinate of f of x plus h.
+a difference quotient is simply the average rate of change using this x x plus h notation.
+So a different version represents the average rate of change of a function, f of x on the interval from x to x plus h.
+Equivalent way, the difference quotient represents the slope of the secant line for the graph of y equals f of x between the points with coordinates x, f of x, and x plus h, f of x plus h.
+Let's work out a formula for the difference quotient.
+Remember that the formula for the average rate of change could be written as f of b minus F of A over B minus A, where a and b are the two locations on the x axis.
+But now I'm calling instead of a I'm using x instead of B, I'm using x plus h.
+So I can rewrite this average rate of change as f of x plus h minus f of x over x plus h minus x.
+That simplifies a little bit on the denominator.
+Because x plus h minus x, I can cancel the access and I get the difference quotient formula f of x plus h minus f of x over h.
+The quantity h on denominator It looks like a single entity, but it still represents a difference in x values.
+Let's find and simplify the difference quotient for this function given first or write down the general formula for the difference quotient.
+That's an F of x plus h minus f of x over h.
+I'm going to compute f of x plus h first, I do this by shoving in x plus h, everywhere I see an x in the formula for the function.
+So that's going to give me two times x plus h squared minus x plus h plus three.
+Notice how I use parentheses here.
+That's important, because I need to make sure I shove in the entire x plus h for x.
+So the entire x plus h needs to be subtracted, not just the x part, so the parentheses are mandatory.
+Similarly, the parentheses here signal that the entire x plus h is squared as it needs to be, I'm going to go ahead and simplify a bit right now, I can multiply out the x plus h squared, I can go ahead and distribute the negative sign.
+So if I multiply out, I'm gonna get x squared plus XH plus h x plus h squared.
+Now I can distribute the two to get to x squared plus 2x H plus two h x plus two h squared minus x minus h plus three, these two terms are actually the same, I can add them up to get 4x H.
+And I think that's as simple as I can get that part.
+Now, I'm going to write out F of x plus h minus f of x.
+So that's going to be this thing right here, minus f of x.
+Again, I need to put the F of X formula in parentheses to make sure I subtract the whole thing.
+I'll distribute the negative.
+And now I noticed that a bunch of things cancel out.
+So the 2x squared and the minus 2x squared add to zero, the minus x and the x add to zero, and the three and the minus three, add to zero.
+So I'm left with 4x H plus two h squared minus h.
+Finally, I'll write out the whole difference quotient by dividing everything by H.
+I can simplify this further, because notice that there's an H in every single term of the numerator.
+If I factor out this H, H times 4x, plus two h minus one divided by h, these two H's cancel, and I'm left with a difference quotient of 4x plus two h minus one.
+This difference quotient will become important in calculus, when we calculate the difference quotient for smaller and smaller values of h, eventually letting h go to zero, and ending up with an expression that has no H's in it, and represents the derivative or slope of the function itself.
+In this video, we use the formula f of b minus F of A over B minus A to calculate an average rate of change, and the related formula f of x plus h minus f of x over h to calculate and simplify a difference quotient.
+This video will introduce

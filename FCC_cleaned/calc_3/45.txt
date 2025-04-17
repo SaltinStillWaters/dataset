@@ -1,0 +1,61 @@
+[Corequisite] Logarithms: Introduction.
+And so this is in other words, negative the derivative of f of x divided by f of x squared.
+Now we've proved the reciprocal rule.
+Now we're in a great position to prove the quotient rule with very little effort.
+So instead of going back to the definition of derivative, this time, I'm just gonna think of the quotient f of x over g of x as a product of f of x times the reciprocal And the second limit here exists because f is continuous, f is continuous since is differentiable.
+So by continuity, as H is going to zero, since x plus h is approaching x, f of x plus h is just approaching f of x.
+And I can rewrite this limit as one over f of x times f of x.
+And so this is in other words, negative the derivative of f of x divided by f of x squared.
+Now we've proved the reciprocal rule.
+Now we're in a great position to prove the quotient rule with very little effort.
+So instead of going back to the definition of derivative, this time, I'm just gonna think of the quotient f of x over g of x as a product of f of x times the reciprocal of g of x.
+of g of x.
+And now, by the product rule, that's just the first function times the derivative of the second plus the derivative of the first times the second.
+And by the quotient rule, the derivative of this reciprocal is negative derivative of g over g of x squared.
+And I still have this second term here, which I'm just going to write as derivative f of x divided by g of x.
+And now, by the product rule, that's just the first function times the derivative of the second plus the derivative of the first times the second.
+And by the quotient rule, the derivative of this reciprocal is negative derivative of g over g of x squared.
+And I still have this second term here, which I'm just going to write as derivative f of x divided by g of x.
+Okay, Okay, so we're almost there.
+If we combine these two fractions, using a common denominator of g of x squared, we just have to multiply this second fraction by g of x over g of x to get that common denominator.
+Now we get negative f of x times the derivative of g of x plus the derivative of f of x times g of x divided by g of x squared.
+And hopefully, this bottom expression is the same as this top expression.
+And, yes, after rearranging the terms it is.
+So that's the end of the proof of the quotient rule.
+So this video gave proofs of the product rule, the reciprocal rule, and then the quotient rule.
+This video is about two limits involving trig functions that turn out to be very useful.
+Namely, the limit as theta goes to zero of sine theta so we're almost there.
+If we combine these two fractions, using a common denominator of g of x squared, we just have to multiply this second fraction by g of x over g of x to get that common denominator.
+Now we get negative f of x times the derivative of g of x plus the derivative of f of x times g of x divided by g of x squared.
+And hopefully, this bottom expression is the same as this top expression.
+And, yes, after rearranging the terms it is.
+So that's the end of the proof of the quotient rule.
+So this video gave proofs of the product rule, the reciprocal rule, and then the quotient rule.
+This video is about two limits involving trig functions that turn out to be very useful.
+Namely, the limit as theta goes to zero of sine theta over theta.
+And the limit as theta goes to zero of cosine theta minus one over theta.
+These limits turn out to have really nice simple answers, as long as we keep theta in radians, over theta.
+And the limit as theta goes to zero of cosine theta minus one over theta.
+These limits turn out to have really nice simple answers, as long as we keep theta in radians, not degrees.
+Let's consider the limit on the left first, that's the limit as theta goes to zero of sine theta over theta.
+Notice that we can't just evaluate this limit by plugging in zero for theta, because as theta goes to zero sine theta, and the numerator also goes to zero, and theta itself goes to zero, so we end up with a zero over zero indeterminate form.
+We can however, build up some evidence of what this limit by might be by using a calculator and a table of values, or by looking at a graph.
+So here's the theta axis.
+And here's the y axis.
+And you can see that as theta goes to zero from either the right or the left, it's looking like the y value is going to one.
+The second limit here on the right, is also zero over zero and determinant form.
+Since as theta goes to zero, cosine theta goes to one, so cosine theta minus one goes to zero.
+But again, looking at the graph, we have some evidence to suggest that as theta goes to zero, our expression is also going to not degrees.
+Let's consider the limit on the left first, that's the limit as theta goes to zero of sine theta over theta.
+Notice that we can't just evaluate this limit by plugging in zero for theta, because as theta goes to zero sine theta, and the numerator also goes to zero, and theta itself goes to zero, so we end up with a zero over zero indeterminate form.
+We can however, build up some evidence of what this limit by might be by using a calculator and a table of values, or by looking at a graph.
+So here's the theta axis.
+And here's the y axis.
+And you can see that as theta goes to zero from either the right or the left, it's looking like the y value is going to one.
+The second limit here on the right, is also zero over zero and determinant form.
+Since as theta goes to zero, cosine theta goes to one, so cosine theta minus one goes to zero.
+But again, looking at the graph, we have some evidence to suggest that as theta goes to zero, our expression is also going to zero.
+zero.
+these graphs provide strong evidence, but graphs can be misleading, and they're no substitute for a rigorous proof.
+So for a pretty cool geometric and algebraic proof of these facts, please see the proof video for this section.
+The fact that the limit as theta goes to zero of sine theta over theta is one is really handy when you want to approximate sine theta.

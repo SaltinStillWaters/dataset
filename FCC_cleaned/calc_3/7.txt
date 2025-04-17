@@ -1,0 +1,86 @@
+When the Limit of the Denominator is 0.
+The limit law about quotients tells us that the limit of the quotient is the question of the limit, provided that the limits of the component functions actually exist, and that the limit of the function on the denominator is not equal to zero.
+But what happens if the limit of the function on the denominator is equal to zero?
+This video will begin to answer that question.
+In fact, there are two different situations we'll want to consider.
+It could be that even though the limit on the denominator is equal to zero, the limit on the numerator exists and is not equal to zero.
+Or it could happen that both limits are zero.
+We'll focus on the first situation, first starting with an example.
+And we'll look at the second situation later on.
+In this example, the limit of the numerator, negative 4x is just negative 12, which we can see by plugging in three for x.
+But the limit as x goes to three of the denominator is zero.
+So we're exactly in one of these situations where the numerator goes to a finite nonzero number, but the denominator goes to zero.
+Let's see what happens as we approach three from the left first.
+As we approach three from the left, x is going through numbers that are slightly less than three numbers like 2.
+9 2.
+99 2.
+999, and so on.
+If we plug in those numbers into the expression, here on our calculator, we didn't get answers of 116 1196, and 11, 996.
+If even without a calculator, we could approximate these answers pretty closely by just thinking about the fact that since x is very close to three, the numerator is about negative four times three, so about negative 12.
+The denominator 2.
+9 minus three is negative 0.
+1.
+That quotient of two negative numbers gives us a positive value of 120.
+Similarly, we could approximate the value when x is 2.
+9 times as almost negative 12 divided by 0.
+01, which is 1200.
+And approximate the third value as 12, 000.
+Either way, we do it exact answers on our calculator or approximations in our head when noticing that these values are positive numbers that are getting larger and larger as x goes towards three from the left.
+This makes sense.
+Because if we look at our expression, as x goes towards three from the left, the numerator is getting close to negative 12, which is a negative number.
+And the denominator, since x is less than three will always be a small negative number, negative over negative is a positive.
+And as x is getting really close to three, those denominators are getting smaller and therefore the fractions are getting bigger and bigger in magnitude.
+So we can conclude that our limit is positive infinity.
+We can make a similar argument By looking at the limit, as x goes to three from the positive side, it's supposed to be an X minus three here.
+So now x is going through a value is slightly bigger than three 3.
+1 3.
+01 3.
+01.
+And again, we can plug directly into our calculator and figure out the answers are negative 124.
+Negative 1204, negative 12, 004.
+Or we can make a similar approximating argument.
+This answer is approximately negative 12 over a positive point one, which is negative 120, and so on.
+Like before, if we consider the signs of our numerator and denominator, we can see that as x goes to three, our numerator is a negative number.
+But our denominator is a positive number, since we're approaching three from the right where x is bigger than three, and therefore, our quotient is a negative number, it's still getting bigger and bigger in magnitude as x goes towards three, because the denominator is still getting tinier and tinier, while the numerator stays pretty close to negative 12.
+So in this case, we're getting a negative number that's bigger and bigger magnitude, so that makes a limit of negative infinity.
+Now, since our limit on the left is infinity, and our limit on the right is negative infinity, the only thing we can say about the limit as x goes to three is that it does not exist.
+Now let's look at another example.
+The limit as x goes to negative four of 5x, over the absolute value of x plus four, notice that the limit of the numerator is just negative 20 by plugging in negative four for x, and the limit of the denominator is zero.
+Because we've got an absolute value in our expression, here, it's screaming out at us to look at cases.
+Remember that the absolute value of x plus four is going to equal just x plus four, if x plus four is positive, in other words, if x is greater than negative four, however, if x is less than negative four, then the expression x plus four will be negative.
+So taking the absolute value has to switch at sign in order to make a negative expression positive.
+Alright, so that's going to come in handy when we look at the limit as x goes to negative four, from the left, and from the right.
+So when we approach negative four from the left, x is going to be less than negative four.
+So we're going to be in this situation here, where the absolute value gives us the opposite sign.
+That means that the limit as x goes to negative four minus of this expression, the same as the limit of 5x over negative x plus four.
+Now reasoning as before, as x is going to negative four from the left, the numerator here is a negative number.
+Pretty close to negative 20.
+The denominator, since x is less than negative 4x plus four is negative, the negative of it is positive.
+So our quotient is negative.
+And since denominator is getting really tiny, while the numerators will pretty level at at negative 20.
+This limit is going to be bigger and bigger magnitude a limit of negative infinity.
+Now let's look at the limit as x goes to negative four from the right, in this case, x is just a little bit bigger than negative four.
+So we're in this case where the absolute value doesn't change the expression.
+So we can rewrite this As 5x over x plus four, now the numerator is still gonna be a negative number, the denominator, since x is slightly bigger than negative four, slightly to the right, this expression is going to be positive number.
+Negative or over a positive is a negative.
+And again, since the denominator is getting tiny, the fractions getting huge in magnitude.
+And so this limit is negative infinity.
+Now, in this case, look at what's going on, we've got a negative infinity limit on the left and a negative infinity limit on the right.
+So we can conclude that the limit as x goes to negative four of 5x, over the absolute value of x plus four is equal to negative infinity.
+In fact, we can confirm that by looking at a graph.
+If we look, check out the graph near x equals negative four, it's gonna look something like this, with a vertical asymptote at x equals negative four, like expected.
+So we've seen that if the limit of f of x is equal to something that's not zero, and the limit of g of x is equal to zero, then the limit of the quotient could be negative infinity as it was in the past example.
+It could also be infinity, or it could just not exist.
+supposed to say does not exist, if the one sided limits are infinity on one side, and negative infinity on the other.
+Now, what about this second situation that I mentioned the beginning when the limit of f of x is zero, and the limit of f of g of x is zero?
+What can we say about the limit of the quotient in this situation?
+Well, in fact, in this situation, the limit of the quotient, it could exist and be any finite number, or infinity, or minus infinity, or it could not exist at all.
+In fact, in this sort of situation, which is called a zero, or zero indeterminate form, anything could happen.
+Which makes it in some ways the hardest, but in some ways, the most fun situation of all.
+So in another video, we'll talk about techniques for dealing with 00 indeterminate forms, and how to use algebra and other simplification techniques to evaluate these these mysterious limits.
+So in this video, we've looked at the limits of quotients, when the limit of the denominator is zero.
+We've done some examples when the limit of the numerator was not zero, but the limit of the denominator was zero.
+And we saw that these situations corresponded to vertical asymptotes, and gave us an answer for the limit of the quotient of infinity, or negative infinity, or sometimes infinity on one side and negative infinity on the other.
+We also hinted at fun things to come when we look at the limits in this situation when the numerator and the denominator are both heading towards zero.
+And when anything can happen.
+This video is about graphs and equations

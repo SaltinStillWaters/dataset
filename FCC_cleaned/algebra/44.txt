@@ -1,0 +1,111 @@
+Inverse Functions.The inverse of a function undoes what the
+function does. So the inverse of tying your shoes would be to untie them. And the inverse
+of the function that adds two to a number would be the function that subtracts two from
+a number. This video introduces inverses and their properties. Suppose f of x is a function
+defined by this chart. In other words, Have two is three, f of three is five, f of four
+is six, and f of five is one, the inverse function for F written f superscript. Negative
+1x undoes what f does. Since f takes two to three, F inverse takes three, back to two.
+So we write this f superscript, negative one of three is to. Similarly, since f takes three
+to five, F inverse takes five to three. And since f takes four to six, f inverse of six
+is four. And since f takes five to one, f inverse of one is five. I'll use these numbers
+to fill in the chart. Notice that the chart of values when y equals f of x and the chart
+of values when y equals f inverse of x are closely related. They share the same numbers,
+but the x values for f of x correspond to the y values for f inverse of x, and the y
+values for f of x correspond to the x values for f inverse of x. That leads us to the first
+key fact inverse functions reverse the roles of y and x. I'm going to plot the points for
+y equals f of x in blue. Next, I'll plot the points for y equals f inverse of x in red.
+Pause the video for a moment and see what kind of symmetry you observe in this graph.
+How are the blue points related to the red points, you might have noticed that the blue
+points and the red points are mirror images over the mirror line, y equals x. So our second
+key fact is that the graph of y equals f inverse of x can be obtained from the graph of y equals
+f of x by reflecting over the line y equals x. This
+makes sense, because inverses, reverse the roles of war annex. In the same example, let's
+compute f inverse of f of two, this open circle means composition. In other words, we're computing
+f inverse of f of two, we compute this from the inside out. So that's f inverse of three.
+Since F of two is three, and f inverse of three, we see as to similarly, we can compute
+f of f inverse of three. And that means we take f of f inverse of three. Since f inverse
+of three is two, that's the same thing as computing F of two, which is three. Please
+pause the video for a moment and compute these other compositions. You should have found
+that in every case, if you take f inverse of f of a number, you get back to the very
+same number you started with. And similarly, if you take f of f inverse of any number,
+you get back to the same number you started with. So in general, f inverse of f of x is
+equal to x, and f of f inverse of x is also equal to x. This is the mathematical way of
+saying that F and n f inverse undo each other. Let's look at a different example. Suppose
+that f of x is x cubed. Pause the video for a moment, and guess what the inverse of f
+should be. Remember, F inverse undoes the work that F does. You might have guessed that
+f inverse of x is going to be the cube root function, we can check that this is true by
+looking at f of f inverse of x, that's F of the cube root of function, which means the
+cube root function cubed, which gets us back to x. Similarly,
+if we compute f inverse of f of x, that's the cube root of x cubed. And we get back to excellence again. So the
+cube root function really is the inverse of the cubing function. When we compose the two
+functions, we get back to the number that we started with. It'd be nice to have a more
+systematic way of finding inverses of functions besides guessing and checking. One method
+uses the fact that inverses reverse the roles of y and x. So if we want to find the inverse
+of the function, f of x equals five minus x over 3x. We can write it as y equals five
+minus x over 3x. Reverse the roles of y and x To get x equals five minus y over three
+y, and then solve for y. To solve for y, let's multiply both sides by three y. Bring all
+terms with y's in them to the left side, and alternate without wizened them to the right
+side, factor out the why. And divide to isolate why this gives us f inverse of x as five over
+3x plus one. Notice that our original function f and our inverse function, f inverse are
+both rational functions, but they're not the reciprocals of each other. And in general,
+f inverse of x is not usually equal to one over f of x. This can be confusing, because
+when we write two to the minus one, that does mean one of our two, but f to the minus one
+of x means the inverse function and not the reciprocal. It's natural to ask us all functions
+have inverse functions. That is for any function you might encounter. Is there always a function
+that its is its inverse? In fact, the answer is no. See, if you can come up with an example
+of a function that does not have an inverse function. The word function here is key. Remember
+that a function is a relationship between x values and y values, such that for each
+x value in the domain, there's only one corresponding y value. One example of a function that does
+not have an inverse function is the function f of x equals x squared. To see that, the inverse of this function is not a function.
+Note that for the x squared function, the number two and the number negative two, both
+go to number four. So if I had an inverse, you would have to send four to both two and
+negative two, the inverse would not be a function, it might be easier to understand the problem,
+when you look at a graph of y equals x squared. Recall that inverse functions reverse the
+roles of y and x and flip the graph over the line y equals x. But when I flipped the green
+graph over the line y equals x, I get this red graph. This red graph is not the graph
+of a function because it violates the vertical line test. The reason that violates the vertical
+line test is because the original green function violates the horizontal line test, and has
+2x values with the same y value. In general, a function f has an inverse function if and
+only if the graph of f satisfies the horizontal line test, ie every horizontal line intersects
+the graph. In it most one point, pause the video for a moment and see which of these
+four graphs satisfy the horizontal line test. In other words, which of the four corresponding
+functions would have an inverse function? You may have found that graphs A and B violate
+the horizontal line test. So their functions would not have inverse functions. But graph
+C and D satisfy the horizontal line test. So these graphs represent functions that do
+have inverses. functions that satisfy the horizontal line test are sometimes called
+One to One functions. Equivalently a function is one to one, if for any two different x
+values, x one and x two, the y value is f of x one and f of x two are different numbers.
+Sometimes, as I said, f is one to one, if, whenever f of x one is equal to f of x two,
+then x one has to equal x two. As our last example, let's try to find P inverse of x,
+where p of x is the square root of x minus two drawn here. If we graph P inverse on the
+same axis as p of x, we get the following graph simply by flipping over the line y equals
+x. If we try to solve the problem algebraically we can write y equal to a squared of x minus
+two, reverse the roles of y and x and solve for y by squaring both sides adding two. Now
+if we were to graph y equals x squared plus two, that would look like a parabola, it would
+look like the red graph we've already drawn together with another arm on the left side.
+But we know that our actual inverse function consists only of this right arm, we can specify
+this algebraically by making the restriction that x has to be bigger than or equal to zero.
+This corresponds to the fact that on the original graph for the square root of x, y was only
+greater than or equal to zero. Looking more closely at the domain and range of P and P
+inverse, we know that the domain of P is all values of x such that x minus two is greater
+than or equal to zero. Since we can't take the square root of a negative number. This
+corresponds to x values being greater than or equal to two, or an interval notation,
+the interval from two to infinity. The range of P, we can see from the graph is all y value
+is greater than or equal to zero, or the interval from zero to infinity. Similarly, based on
+the graph, we see the domain of P inverse is x values greater than or equal to zero,
+the interval from zero to infinity. And the range of P inverse is Y values greater than
+or equal to two, or the interval from two to infinity. If you look closely at these
+domains and ranges, you'll notice that the domain of P corresponds exactly to the range
+of P inverse, and the range of P corresponds to the domain of P inverse. This makes sense, because inverse functions
+reverse the roles of y and x. The domain of f inverse of x is the x values for F inverse,
+which corresponds to the y values or the range of F. The range of f inverse is the y values
+for F inverse, which correspond to the x values or the domain of f. In this video, we discussed
+five key properties of inverse functions. inverse functions, reverse the roles of y
+and x. The graph of y equals f inverse of x is the graph of y equals f of x reflected
+over the line y equals x. When we compose F with F inverse, we get the identity function
+y equals x. And similarly, when we compose f inverse with F, that brings x to x. In other
+words, F and F inverse undo each other. The function f of x has an inverse function if
+and only if the graph of y equals f of x satisfies the horizontal line test. And finally, the
+domain of f is the range of f inverse and the range of f is the domain of f inverse.
+These properties of inverse functions will be important when we study exponential functions
+and their inverses logarithmic functions.

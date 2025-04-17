@@ -1,0 +1,39 @@
+Improper Integrals - Type 1.
+u equal to e to the x and dv equal to x dx bar, we might decide to make you be the whole product, x e to the x and leave dv as just dx.
+And by the mean value theorem for functions, we know that g prime of c has to equal g of b minus g of a over b minus a, for some number c and the interval a b, if we substitute in the three facts above, into our equation below, we get f of c is equal to the integral from a to b of f of t dt minus zero over b minus a, which is exactly the conclusion that we wanted to reach.
+This shows that the mean value theorem for integrals really is the mean value theorem for functions where our function is an integral.
+And this completes the second proof of the mean value theorem for integrals.
+So now I've proved the mean value theorem for integrals in two different ways.
+And I've used a lot of the great theorems of calculus along the way.
+In this video, we'll learn a technique of integration called inner By parts.
+integration by parts is based on the product rule for taking derivatives.
+Recall that the product rule says that when you take the derivative of a product of two functions, that's equal to the derivative of the first function times the second function, plus the first function times the derivative of the second function.
+If we rearrange this formula, by solving for this last term, we get f of x times g prime of x is equal to f of x g of x prime minus f prime of x g of x.
+Now let's integrate both sides of this equation with respect to x.
+The integral of a difference is the difference of the integrals.
+So I can break up this right hand side into two integrals.
+Now the integral of the derivative of f times g is just equal to f times g, by the fundamental theorem of calculus.
+And I carry the rest of the formula down.
+And now I have a formula relating the integral of f times g prime to the integral of f prime times G.
+This formula allows us to rewrite something that might be tricky to integrate, in terms of something that's hopefully easier to integrate.
+Although I've written this formula, using indefinite integrals with no bounds of integration, it would be just as easy to put on bounds of integration.
+Now, the fundamental theorem tells us that the integral of the derivative is the original product of functions evaluated from A to B.
+There's another version of this formula that might be a little easier to remember.
+If we let u equal f of x, and v equal g of x, then do is equal to f prime of x dx using differential notation, and dv is equal to g prime of x dx.
+In this notation, we can rewrite the formula as the integral of u times dv is equal to u times v minus the integral of v, d U.
+since V is our G of X, and D, u is our f prime of x dx.
+Again, we can include bounds of integration, if we're working with definite integrals.
+This will be our key formula for this section.
+and integrating using this formula is called integration by parts.
+Let's use integration by parts to find the integral of x e to the x dx.
+Or for formula for integration by parts, says the integral of u dv is equal to u times v minus the integral of the do.
+So we need to split up our inner grand x e to the x dx into the part that we're going to call you, and a part that we're going to call dv.
+One natural way to split it up is to let u equal x and dv equal e to the x dx.
+But another option might be to make u equal to e to the x and dv equal to x dx bar, we might decide to make you be the whole product, x e to the x and leave dv as just dx.
+Whatever choice we make, we need a u times dv to be our entire integrand here, and we need dx to be part of dv in order to use proper differential notation.
+Let's try using the first choice first.
+If u is equal to x, then d u is equal to dx.
+And if dv is e to the x dx, then we can find V by integrating this and the integral of e to the x dx is e to the x.
+plugging into our integration by parts formula, we have the integral of u dv that's x, e to the x dx is equal to u times v x into dx minus the integral of vdu.
+That's e to the x dx.
+Well, this is looking very promising, because I know how to integrate e to the x

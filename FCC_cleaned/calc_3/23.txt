@@ -1,0 +1,164 @@
+Derivatives and Tangent Lines.
+idea of the derivative using graphs, secant lines and tangent lines.
+So I have a function here, drawn in black, the function is y equals f of x.
+But actually here f of x equals x squared.
+I also have a tangent line to my function drawn in red.
+This tangent line is the tangent line at the point 1.
+5 2.
+25.
+By a tangent line, I mean a line that touches the graph of my function at this one point, and heads off in the same direction as the function.
+Well, normally to compute the slope, we need two points.
+But for the tangent line, we really only have the exact coordinates of this one point, we could approximate the slope by guessing the coordinates of some other points on the red line.
+But in the long run, we'll end up with a more accurate estimate if we do something else.
+So what we're going to do instead is we're going to calculate the slope of a secant line.
+A secant line is a line that goes through two points on my graph.
+So in this case, my secant line is going through my original point, and this other point at x equals three.
+So that's the point three, three squared or three nine.
+Okay, so here's my secant line.
+To calculate the slope of my secant line, I use the fact that slope is rise over run.
+Or in other words, it's the change in y over the change in x.
+And that's going to be written in function notation.
+F of three minus f of 1.
+5 is giving me the change in y and three minus one point gives me the change in x.
+Wilson's f of x is x squared, this is the same thing as three squared minus 1.
+5 squared over three minus 1.
+5.
+So that's just nine minus 2.
+25, over 1.
+5, which ends up as 4.
+5.
+So 4.
+5 is the slope of this second line.
+Well, the idea here is that the slope of my secant line is an approximation of the slope of my tangent line.
+But in this example, really the secant line that I've used, it's, its slope is only a very rough approximation of the tangent line, not very accurate, all.
+So how could I get a better approximation of the slope of my tangent line?
+Well, one thing I could do is I could use as my second point, instead of using this point way out here, I could use a point closer to my first point.
+So for example, I could use the point two, f of two.
+In other words, the point two, four, as my second point for my second line, so let me draw that.
+And let me calculate its slope, which after some arithmetic is going to give me an answer of 3.
+5.
+Well, I could continue to pick second points for my secant line, closer and closer to my first point.
+And I should end up with more and more accurate approximations of my tangent line, let me make a little chart for this.
+For my next secant line, I could take my second point, something pretty close to 1.
+5, say 1.
+6.
+And after some arithmetic, I get a slope of 3.
+1.
+To take my second point to be 1.
+51, that's going to give me a slope of 3.
+01, and so on.
+To write this more generally, if I take my second point as x, then the slope of my secant line is going to be given by again the rise over the run.
+So that's going to be f of x minus f of 1.
+5 divided by x minus 1.
+5.
+Change in y over the change in x, that's my slope.
+Now, there's no reason I necessarily have to take my second point to be on the right side of my first point, I could be using stead points on the left side here.
+Continue with my chart, letting my second point be one, I can do the same computations to get a slope of a secant line of 2.
+5.
+Here, I could get even closer on the left, say something like 1.
+4 and get a slope of 2.
+9, and so on.
+In general, if I have a point x f of x, and I use a secant line through that point in our original point, I calculate the slope as change in y over change in x, which is going to be f of 1.
+5 minus f of x divided by 1.
+5 minus x.
+Actually, I can rewrite this a little bit to make it look more like the expression up here.
+If I multiply the numerator and denominator by negative one, then I can rewrite this as f of x minus f of 1.
+5 divided by x minus 1.
+5.
+So that these two expressions look exactly the same.
+So the only difference here on my mind is that over here, I was thinking of x as being a little bit bigger than 1.
+5.
+And here I'm thinking of x as being a little smaller than 1.
+5.
+But I get the exact same expression for the slope of the secant line either way.
+Now, this process of picking points closer and closer to our original point from the left, and from the right, should remind you of limits.
+And indeed, the slope of the tangent line is the limit as x goes to 1.
+5 of the slope of my secant lines, which are given by this expression.
+This quantity is so important that's given its own name, it's called the derivative of f of x at x equals 1.
+5.
+So in other words, the derivative which is written as f prime at 1.
+5, is the limit as x goes to 1.
+5 of f of x minus f of 1.
+5 over x minus 1.
+5.
+Now based on our numerical tables, for example, here, we can see that that limit seems to be heading towards three, whether X approaches 1.
+5, from the right or from the left.
+So I'll write down the answer of three.
+You know, it's pretty strong.
+If you wanted to have a really precise argument.
+We'd actually need to use algebra to compute this limit.
+Exactly using the formula for the function itself, f of x equals x squared.
+And we'll do examples like that in a future video.
+But for now, the main point is just that the slope of the tangent line is the limit of the slope of the secant lines, which is given by this formula.
+For now, let's look at an animation that shows how the slope of our secant lines approach the slope of our tangent line.
+So this black curve here is the function y equals x squared.
+The red line is the tangent line through the point where x equals 1.
+5.
+And the blue line is a secant line that goes through the point with x coordinate 1.
+5.
+And a second point with x coordinate 2.
+5.
+The points are shown here on the right.
+So I'm going to use this slider here and drag my second point closer to my first point.
+So notice how as the x coordinate, my second point gets closer and closer to 1.
+5.
+My secant line is getting closer and closer to my tangent line.
+So the slope of my tangent line really is the limit of the slope of my secant lines, as my x coordinate of my second point goes to 1.
+5.
+So this is true, even if I start with my second point on the left instead of the right, as I drag that second point closer and closer to the first point, the slope of my secant lines gets closer and closer to the slope of that red tangent line.
+We saw in our example, that the slope of our tangent line, or the derivative at 1.
+5, was given by the limit as x goes to 1.
+5 of f of x minus f of 1.
+5 divided by x minus 1.
+5.
+Well, in general, the derivative of a function y equals f of x at an x value a is given by f prime of A equals the limit as x goes to a of f of x minus F of A over x minus a, the function is said to be differentiable at A.
+If this limit exists.
+In particular, both the limit from the left and a limit from the right have to exist and be equal for the function to be differentiable at x equals a.
+There's another equivalent version of the definition of derivative that's very common and very useful.
+If we're looking at the graph of a function, I'm trying to calculate the slope of the secant line between the points A, F of A and x f of x, then let's introduce the letter H to be the quantity x minus a.
+So h represents the run, when I'm calculating the slope of this secant line, I can write H equals x minus a, or equivalently x equals a plus H.
+And so I can rewrite the definition of derivative in terms of H as f prime of A equals the limit as x goes to a of f of a plus h minus F of A divided by h, just by substituting in this expression for x.
+And h for x minus a.
+Well as x goes to a, x minus a is going to zero.
+In other words, h is going to zero.
+So this is equivalent to the limit as h goes to zero of f of a plus h minus f of a over h.
+One way to think of this is that we're just relabeling this point right here, as the point A plus h, f of a plus H.
+And the slope of the tangent line is still the limit of the rise over the run as the run goes to zero, this is the definition of derivative that we'll use most frequently going forward when we actually calculate derivatives based on the definition in future videos.
+But for now, let's look at some examples to practice recognizing the derivative rather than computing it.
+So each of these following two expressions are supposed to represent the derivative of some function at some value a.
+So for each example, we're supposed to find the function and figure out the value of A.
+Now remember, we've got two definitions of derivative going on.
+They're both equivalent, but they look different.
+One of them looks like derivative of f at a is the limit as x goes to a of f of x minus F of A over x minus a.
+And the other version is the limit as h goes to zero of f of a plus h minus f of a over h.
+Now, you might notice That our first expression looks more like this first definition, because x is going to some number that's not zero.
+And we have both x and a number in the denominator here.
+Whereas our second expression looks more like the second definition, we've got the age going to zero, and we've just got the age on the denominator here.
+Okay, so let's look at this first one here.
+First, let's figure out what A is here.
+It seems like a has got to be negative one.
+Since x is approaching negative one.
+That kind of makes sense, because now here on the denominator, x plus one could be thought of as x minus negative one.
+So that's our x minus a with a is negative one.
+Okay, great.
+So we've got a, now we need to find an F.
+And we will need the numerator here to look like f of x minus f of a, well, let's try the simplest thing, we can, let's try f of x equals x plus five squared, then X plus five squared is our f of x.
+and f of a is our f of negative one is going to be negative one plus five squared, which is 16.
+So that matches up perfectly, we've got our f of x here, our f of a here, and our x minus a at the bottom.
+That's exactly the definition of derivative done the first one.
+All right, now the second one.
+Now, again, we need to figure out what a is.
+And we need to find figure out what f is.
+This part of the expression here is supposed to be f of a plus h.
+So I'm going to guess, make a guess here, that f of x should be three to some power, let's just try three to the X and see how that works.
+Now we need this nine to be f of a.
+So nine has to be three to the A.
+And the only way that can work is if a is two.
+So continuing on the top, we need f of a plus h, that is f of two plus h, two B three to the two plus H and that actually works perfectly.
+If our f of x is three to the x, it's all falling into place.
+So we've got our f of two plus h, r f of two, and r h.
+And it all works where f of x being three to the x and a being two.
+In this video, we introduced the idea of derivative as a slope of a tangent line.
+And we gave two equivalent definitions of the derivative in terms of limits.
+We'll continue with some interpretations of derivatives in the next video.
+This video is algebraically intensive, and is concerned
