@@ -1,0 +1,234 @@
+Transcript for: Proof: lim (sin x)/x | Limits | Differential Calculus | 
+
+Now that we have hopefully a decent understanding of the squeeze theorem, we'll use that to prove that the limit I'll do it in yellow the limit as <EXPRESSION> approaches <EXPRESSION> of <EXPRESSION> = <EXPRESSION>.
+And you must be bubbling over with anticipation now, because I've said this so many times.
+So let's do it, and actually, we have to go with obviously, they got our trigonometry and it's actually a visual proof.
+So let me draw at least the first <EQUATION> fourth <EQUATION> of the unit circle.
+I'll do that in magenta.
+Let's see, let me see if I can I should draw <EQUATION> pretty big.
+Let me see.
+I should draw <EQUATION> like quite big.
+So I'll draw <EQUATION> like that.
+That's close enough.
+And then let me draw the <EQUATION>.
+So this is the x-axis, would look something like that.
+Sorry, that's the y-axis.
+There you go.
+And then the x-axis, something like that.
+That's our unit circle.
+There you go.
+Now let me draw <EQUATION>, <EQUATION>, and <EXPRESSION>.
+Let me draw <EQUATION> a well, it is a radius, but I'm going to go beyond the unit circle.
+So let's go like right there.
+Draw a couple of more things, just to set up this problem.
+Nope, that's not what I wanted to do.
+I wanted to do it right from this point.
+Right like that.
+And then right from this point, I want to do this.
+And then I want to draw another right from that point.
+I'm going to do that.
+And now we are ready to go.
+So what did I say?
+This is the unit circle, right?
+So if that's the unit circle, what does it mean?
+It's a circle with a radius of <EXPRESSION>.
+So the distance from here to here is <EXPRESSION>.
+And now if this is an angle <EXPRESSION> in radians, what's the length of this line right here?
+What's the length of that line?
+Well, by definition, <EXPRESSION> is defined to be the y-coordinate of any point on the unit circle.
+So this is <EXPRESSION>.
+I'm going to run out of space, so let me draw an <EQUATION>.
+So this is that right there is <EXPRESSION>.
+Now let me ask you a slightly harder one.
+What's this length right here?
+Well, let's think about it.
+What is tangent?
+Let's go back to our SOHCAHTOA definition of tangent.
+TOA.
+Our formula is <EQUATION>.
+So what is the <EXPRESSION>?
+Well, it would be = we could take this if we say that this is the right triangle, it would be this length the opposite of <EXPRESSION>, right?
+So let's call this length over here, let's call this o for opposite.
+But what's the adjacent length?
+What's this base of this larger triangle?
+Well, it's the unit circle, right?
+So the distance from here to here that distance is also going to be <EXPRESSION>, right?
+Because it's just a radius again.
+That's <EXPRESSION>.
+So <EQUATION>.
+But <EQUATION>, right?
+So the opposite side, this right side is going to be = the <EXPRESSION>.
+Or another way of saying it, <EXPRESSION> = the left side over <EXPRESSION>, or <EXPRESSION> = <EXPRESSION>.
+So let me write <EQUATION> down.
+Left hand side = the <EXPRESSION>.
+Now, let's think about the area of a couple of parts of this figure that I've drawn here.
+Maybe I should have drawn it a little bigger, but I think we'll be able to do it.
+So first let me pick a relatively small triangle.
+So let's do this triangle right here.
+I'll trace it in green.
+So this triangle that I'm tracing in green what is the area of that triangle?
+Well, that's going to be <EXPRESSION>.
+So it's <EXPRESSION>, which is <EXPRESSION>.
+Right?
+It's this whole triangle.
+And then what's the height of it?
+Well, we just figured out that this height right here, that this height is <EXPRESSION>.
+<EXPRESSION> times <EXPRESSION>.
+So that's this green triangle here, right?
+Now, what is the area of not that green triangle.
+Let me do it in another color.
+Let me do it in oh, I'll do it in red.
+What is the area of this <EXPRESSION>?
+This <EXPRESSION> right here.
+That <EXPRESSION>.
+Hope you see well, that's not a different enough color.
+So, this <EXPRESSION> right here.
+Or I'm going there.
+And then I'm going on the arc.
+So it's a little bit bigger than the triangle we just figured out, right?
+It's always going to be a little bit bigger, because it includes this area between that triangle and the arc, right?
+What is the area of that arc?
+Well, if this angle is <EXPRESSION> radians what fraction of that is out of the entire unit circle?
+Well, there are <EXPRESSION> radians in a total unit circle, right?
+So this area right hand side is going to be = what?
+Right hand side is going to be = the <EXPRESSION>.
+So that's kind of the fraction that this is of you know, if you did it in degrees the <EXPRESSION> that this is over <EXPRESSION>, times <EXPRESSION>, right?
+This tells us what fraction we are of the circle, and we're going to want to multiply that times the area of the whole circle.
+Well, what's the area of the whole circle?
+Well, <EQUATION>, the radius is <EXPRESSION>, right?
+So the area of the entire circle is just <EXPRESSION>.
+<EXPRESSION>, <EQUATION>, so the area of the circle so the area of this wedge right here, is just going to be = these <EXPRESSION> cancel out it's = <EXPRESSION>.
+So that first small triangle, that green triangle we did, is <EXPRESSION>.
+<EXPRESSION>, that's the area of that green triangle.
+Then the slightly larger area of this wedge is we figured out just now is <EXPRESSION>.
+And now let's take the area of that larger triangle, of this big triangle here.
+And that may be the most obvious.
+So <EXPRESSION>.
+So that's <EXPRESSION> = <EXPRESSION>.
+Let's say the right hand side = <EXPRESSION>.
+Now, it should be clear just looking at this diagram, no matter where I drew this top line, that this green triangle has a smaller area than this wedge, which has a smaller area than this large triangle.
+Right?
+So let's write an inequality that says that.
+The green triangle the area of the green triangle so <EXPRESSION>, that's the area of the green triangle it's less than the area of this wedge.
+So that's <EXPRESSION>.
+And they're both less than the area of this large triangle, right?
+Which is <EXPRESSION>.
+Now when is this true?
+This is true as long as we're in the first quadrant, right?
+As long as we're in the first quadrant.
+It's also almost true if we go into the fourth quadrant, except then the <EXPRESSION> becomes negative, the <EXPRESSION> becomes negative, and <EXPRESSION> becomes negative.
+But if we take the absolute value of everything, it still holds in the fourth quadrant.
+Because if you go negative, as long as we take the absolute value, then the distance will still hold and we still have positive areas and all that kind of thing.
+So since my goal is to take the limit as <EXPRESSION> approaches <EXPRESSION>, and I want to take the limit in order for this limit to be defined in general, it has to be true from both the positive and the negative side.
+Let's take the absolute value of both sides of this.
+And hopefully this makes sense to you.
+If I were to draw the line down here and this would be the <EXPRESSION>, and that would be the tangent of <EXPRESSION> as long as you took the absolute value of <EXPRESSION>, you're essentially just doing the same thing as in the first quadrant.
+So let's take the absolute value of everything <EQUATION>.
+And that shouldn't change anything, especially if you're in the first quadrant.
+And you might want to think about it a little bit, why it doesn't change anything in the second quadrant.
+So we have this inequality.
+Let's see if we can play around with this.
+So first of all, let's just multiply everything by <EXPRESSION> and get rid of the <EXPRESSION>.
+So we get absolute value of <EXPRESSION>, which is less than the absolute value of the <EXPRESSION>.
+I hope I didn't confuse you by taking the absolute value.
+That original inequality I wrote was completely valid in the first quadrant, but since I want this inequality to be true in the first and fourth quadrants, because I'm taking the limit as <EXPRESSION> approaches <EXPRESSION> from both sides, I put that absolute value there.
+So you could draw the line down there and do everything we did up there in the fourth quadrant, but just take the absolute value and it should work out the same.
+Anyway, back to the problem.
+So we have this inequality.
+And I'm running out of space, so let me erase some of this stuff up here.
+Erase.
+Erase.
+Nope, that doesn't erase.
+OK.
+That should erase.
+OK.
+So we could erase everything that took us so far.
+We can't forget this though.
+This gives a lot of space.
+OK.
+So let's take <EXPRESSION>, and let's take that <EXPRESSION>, and divide all of the sides.
+You know, and it has three sides, a left, middle, and right.
+Let's divide them all by the <EXPRESSION>.
+And since we know that the absolute value of <EXPRESSION> = <EXPRESSION>, we know that these less than signs don't change, right?
+So let's do that.
+So the define <EQUATION>.
+And simplify <EQUATION>.
+Which is less than the <EXPRESSION>.
+Which is less than what's the value of <EXPRESSION>.
+Well, expand <EXPRESSION>.
+So that's = so, just do this part right here.
+The right hand side = <EXPRESSION>.
+And you know, you could say that that's the same thing as the absolute value.
+Cancel <EXPRESSION> from both sides in <EQUATION>.
+So you might feel we're getting close.
+Because this looks a lot like this, it's just inverted.
+So to get to this, let's invert it.
+And to invert it, what happens?
+Well, first of all, what happens when you invert <EXPRESSION>?
+Well, <EXPRESSION> is just <EXPRESSION>.
+But when you invert both sides of <EQUATION>, you switch the inequality, right?
+And if that doesn't make sense to you, think about this.
+You know, if I say<EQUATION>, and I invert both sides of <EQUATION>, I get <EXPRESSION>.
+So that hopefully gives you a little intuition.
+So if I'm inverting all of the sides of this inequality, I have to switch the inequality signs.
+So <EQUATION>.
+Now let me ask you a question.
+The absolute value of <EXPRESSION>.
+Will there ever be a time when <EXPRESSION> is in the first or the fourth quadrant is there ever a time that <EXPRESSION> is a negative expression?
+Well, in the first quadrant, <EXPRESSION> is positive, and <EXPRESSION> is positive.
+So a positive divided by a positive is going to be positive.
+And in the fourth quadrant, <EXPRESSION> is negative, <EXPRESSION> is negative, and the angle is negative, so <EXPRESSION> is also negative.
+So in the fourth quadrant, <EXPRESSION> is going to be a <EXPRESSION>.
+So it's going to be a positive again.
+So <EXPRESSION> is always going to be <EXPRESSION>.
+So the absolute value signs are kind of redundant.
+So we could write <EQUATION>.
+And the same logic, in the first and fourth quadrants and that's where we're dealing with.
+We're dealing with <EQUATION>.
+So we're going from <EXPRESSION> all the way to <EXPRESSION>.
+So we're in the fourth and first quadrant.
+Is <EXPRESSION> ever negative?
+Well, cosine is the x value, and the x by definition, in the first and fourth quadrants the x value is always positive.
+So if this is always positive, we can get rid of the absolute value signs there, and just write that.
+And now, we are ready to use the squeeze theorem.
+Let me erase all of this down here now.
+So let me ask you a question.
+What is the limit, as <EXPRESSION> approaches <EXPRESSION>, of the function <EQUATION>?
+Well, the <EQUATION> is always = <EXPRESSION>.
+So I can set the limit as <EXPRESSION> approaches <EXPRESSION>, the limit as <EXPRESSION> approaches <EXPRESSION>, anything.
+<EXPRESSION> is always going to be = <EXPRESSION>.
+So as <EXPRESSION> approaches <EXPRESSION>, this = <EXPRESSION>.
+And then what is the limit, as <EXPRESSION> approaches <EXPRESSION>, of <EXPRESSION>?
+Well, that's easy, too.
+As <EXPRESSION> approaches <EXPRESSION>, <EXPRESSION> is just <EXPRESSION> and as you get, you know, it's a continuous function so the limit is <EXPRESSION>.
+So we are ready to use the squeeze theorem.
+As we approach <EXPRESSION>0, as <EXPRESSION> approaches <EXPRESSION>, this <EQUATION> approaches <EXPRESSION>.
+This <EQUATION> approaches <EXPRESSION>.
+And this <EQUATION>, this <EXPRESSION>, is in between the two.
+And if it's in between the two, as we approach <EQUATION> is approaching <EXPRESSION> as we approach <EXPRESSION>, <EQUATION> is approaching <EXPRESSION> as we approach <EXPRESSION>, and <EQUATION> is in between them, so it also has to approach <EXPRESSION> as we approach <EXPRESSION>.
+And so we are using the squeeze theorem based on this and this.
+And you could say, you know, therefore by the squeeze theorem, because this is true, this is true, and this is true, <EXPRESSION>, the limit as <EXPRESSION> approaches <EXPRESSION>, = <EXPRESSION>.
+So hopefully that gave you the intuition.
+That another way to view it, as this line gets smaller and smaller as it approaches <EXPRESSION>, as <EXPRESSION> approaches <EXPRESSION>, that this area and this area converge, so the area in between kind of has to converge to the both of them.
+And if you want to see it graphically, I've graphed it here.
+Let me see if I can graph <EQUATION> thing.
+I'll show you the graph of <EQUATION>.
+Just so you believe me.
+So we said that <EXPRESSION> is always greater than <EXPRESSION>, which is always greater than <EXPRESSION>, between negative <EXPRESSION> and <EXPRESSION>.
+And of course, this isn't define <EQUATION>.
+But we can figure out the limit.
+So there we have it.
+This blue line right here, that's the <EQUATION>.
+That's <EQUATION>.
+This light blue line right here is <EXPRESSION>.
+And this is the graph of <EXPRESSION>.
+And you can see that I actually typed it in.
+So <EXPRESSION>, between <EXPRESSION>, or the fourth and the first quadrants, the red line is always in between.
+It's always in between the dark blue and the light blue line.
+And so this is just an intuition of what happens with the squeeze theorem.
+We know that the limit, as this light blue line approaches <EXPRESSION>, is <EXPRESSION>.
+And we know the limit as this top dark blue line approaches <EXPRESSION> is <EXPRESSION>.
+And this red line is always in between it, so it also approaches <EXPRESSION>.
+So there you have it.
+The proof, using the squeeze theorem, and a little bit of visual trigonometry, of why the limit, as x approaches 0, of <EXPRESSION>.
+I hope I haven't confused you.

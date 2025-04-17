@@ -1,0 +1,1 @@
+Now <EQUATION> and <EQUATION> are equivalent, both of these are going to be = <EXPRESSION> for all other X's other than one, but at <EXPRESSION> = <EXPRESSION>, it becomes <EXPRESSION>.

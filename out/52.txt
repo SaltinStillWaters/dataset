@@ -1,0 +1,1 @@
+So this is a bit of a bizarre function, but we can define it this way.

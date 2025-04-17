@@ -1,0 +1,1 @@
+So once again, a kind of an interesting function that, as you'll see, is not fully continuous, it has a discontinuity.

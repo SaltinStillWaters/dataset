@@ -1,0 +1,1 @@
+So you could say, and we'll get more and more familiar with this idea as we do more examples, that the limit as x and L-I-M, short for limit, as x approaches <EXPRESSION> of <EXPRESSION>, as we get closer, we can get infinitely close to <EXPRESSION>, as long as we're not at <EXPRESSION>.

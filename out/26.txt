@@ -1,0 +1,1 @@
+On the left hand side, no matter how close you get to <EXPRESSION>, as long as you're not at <EXPRESSION>, you're actually at <EQUATION>.

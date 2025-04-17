@@ -1,5 +1,6 @@
 import re
 import yt_dlp
+import os
 from pytube import Playlist
 from youtube_transcript_api import YouTubeTranscriptApi
 from pathlib import Path
@@ -12,6 +13,14 @@ def read_file(file):
     with open(file, 'r', encoding='utf-8') as f:
         return f.read()
 
+def split_sentences(in_file, out_dir='out/'):
+    text = read_file(in_file)
+    os.makedirs(out_dir, exist_ok=True)
+    
+    for i, sentence in enumerate(text.split('\n')[1:]):
+        if sentence.strip():
+            write_file(sentence, f'{out_dir}/{i}.txt')
+    
 def write_file(data, out_file, open_mode='w', delim=' '):
     if isinstance(data, list):
         data = delim.join(data)
