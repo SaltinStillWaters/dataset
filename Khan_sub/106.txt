@@ -1,0 +1,63 @@
+Transcript for: AP Calculus BC exams: 2008 1 d | AP Calculus BC | 
+Welcome back.
+We're doing the last part of Problem 1 of the 2008 Calculus BC exam.
+And I'll repeat the problem.
+It says, the region <EXPRESSION> models the surface of a small pond.
+At all points in <EXPRESSION> at a distance <EXPRESSION> from the y-axis, the depth of the water is given by <EQUATION>.
+Find the volume of the water in the pond.
+So we thought about, this is, you know, a perspective drawing of this, this is the surface of the pond, right here.
+And I was trying to draw the depth.
+So when <EQUATION>, the pond is exactly <EXPRESSION>, I guess, you know, we could say feet, or whatever the units are, deep, and then when <EQUATION>, the pond is <EXPRESSION> unit deep.
+And so to find the volume, we think about it the same way.
+What does a cross section at any point of the pond look like? Well if we, let's see.
+So if we were to take a cross section, so let's say that this, let's take this cross section of the pond.
+Let me do it in a different color, I know it can be kind of confusing.
+That's not too different.
+So that's green.
+So the height along the surface of the pond is going to be the difference between the two functions.
+And we know that the top function is <EXPRESSION>, and we know that this bottom function is <EXPRESSION>.
+So if I were to draw, let me see if I can draw this cross section.
+So we know this the height, sorry, the width along the surface of this cross section is going to be the difference between this function and this function, right? So if I were to draw, let me see if I can, so this is that same cross section, it's the width along the top, I know I'm confusing you, is going to be this function minus this function.
+It's going to be <EXPRESSION>.
+And what's going to be the height, right here? Well, they told us.
+The height of the pond, or the depth of the pond, at any point, is <EXPRESSION>, whatever <EXPRESSION> value we're at.
+So this is going to be <EXPRESSION>.
+So the area of this cross section of the pond is going to be <EXPRESSION> times the depth of the pond, right? That's the surface width times the depth.
+So that times <EXPRESSION>.
+So that's the area of each cross section.
+So we want the volume for the entire pond, we take essentially the volume of each of these kind of slivers of the pond.
+So we take the area of each cross section, and we multiply it by a very small width to get a very small sliver.
+So we take that and multiply it by dx, and we integrate.
+We sum up all of these slivers of the pond from <EQUATION> to <EQUATION>.
+So let's do that.
+Let's integrate from <EQUATION> from <EQUATION>.
+Once again, this is a really hard integral.
+Or it's something that you can do, especially if you use integration by parts, but it's a little bit messy, and you only have <EXPRESSION> minutes to do all three problems on the BC exam, so I'm assuming that they want you to use the calculator here.
+So let's use the calculator to evaluate it.
+So let's see.
+So this was part c that we already have in our calculator.
+We could do second enter, and we'll get the previous entry.
+Second enter.
+Because we already typed in a bunch of stuff.
+The only difference between what we did in Part C and now is, now, instead of having in Part C, we had this expression squared.
+Now, we don't have it squared, but we're multiplying it by <EXPRESSION>.
+So let's do that.
+So if we go here, we can delete this squared.
+We're not squaring it anymore.
+Deleted.
+And now let's do, I want you to see my key strokes.
+So let's do second insert.
+So let's insert times <EXPRESSION>.
+And so, let's see.
+We have <EXPRESSION>, right, that's the same thing as this.
+<EXPRESSION>.
+And our variable of integration is <EXPRESSION>, and we're integrating from <EQUATION> to <EQUATION>.
+Let's hit enter.
+And it noticed, it is calculating.
+And our answer is <EXPRESSION>.
+<EXPRESSION>, I think, is a fair answer.
+So the volume this time, <EXPRESSION>.
+<EXPRESSION>.
+Anyway, hopefully you found that useful.
+I will, every day, try to do a couple of these problems.
+See you in the next video.

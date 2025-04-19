@@ -1,0 +1,86 @@
+Transcript for: (2^ln x)/x Antiderivative Example I was just looking on the discussion boards on the 
+Facebook page, and Bud Denny put up this problem, asking for it to be solved.
+And it seems like a problem of general interest.
+If the indefinite integral of <EXPRESSION>.
+And on the message board, Abhi Khanna also put up a solution, and it is the correct solution, but I thought this was of general interest, so I'll make a quick video on it.
+So the first thing when you see an integral like this, is you say, hey, you know, I have this <EXPRESSION> up in the numerator, and where do I start? And the first thing that should maybe pop out at you, is that this is the same thing as the integral of <EXPRESSION>.
+And so you have an expression here, or it's kind of part of our larger function, and you have its derivative, right? We know that the derivative, let me write it over here, we know that the derivative with respect to <EXPRESSION>.
+So we have some expression, and we have its derivative, which tells us that we can use substitution.
+Sometimes you can do in your head, but this problem, it's still not trivial to do in your head.
+So let's make the substitution.
+Let's substitute this right here with a <EXPRESSION>.
+So let's do that.
+So if you define <EXPRESSION>, and it doesn't have to be <EXPRESSION>, it's just, that's the convention, it's called u-substitution, it could have been s-substitution for all we care.
+Let's say <EQUATION>, the derivative of <EXPRESSION> with respect to <EXPRESSION>, of course = <EXPRESSION>.
+Or, just the differential <EXPRESSION>, if we just multiply both sides by <EQUATION>.
+So let's make our substitution.
+This is our integral.
+So this will be = the indefinite integral, or the antiderivative, of <EQUATION>, so <EXPRESSION>.
+Now what is <EXPRESSION>? That's just <EXPRESSION>.
+So this term times that term is just our <EXPRESSION>.
+Let me do it in a different color.
+<EXPRESSION> is just = <EXPRESSION>.
+That's just = that thing, right there.
+Now, this still doesn't look like an easy integral, although it's gotten simplified a good bit.
+And to solve, you know, whenever I see the variable that I'm integrating against in the exponent, you know, we don't have any easy exponent rules here.
+The only thing that I'm familiar with, where I have my <EXPRESSION> or my variable that I'm integrating against in my exponent, is the case of <EXPRESSION>.
+We know that the integral of <EQUATION>.
+So if I could somehow turn this into some variation of <EXPRESSION>, maybe, or <EXPRESSION>, maybe I can make this integral a little bit more tractable.
+So let's see.
+How can we redefine this right here? Well, <EXPRESSION>, <EXPRESSION> = what? <EXPRESSION> is the same thing as <EXPRESSION>, right? The <EXPRESSION> is the power you have to raise <EXPRESSION> to to get <EXPRESSION>.
+So if you raise e to that power, you're, of course going to get <EXPRESSION>.
+This is actually the definition of really, <EXPRESSION>.
+You raise <EXPRESSION>, you're going to get <EXPRESSION>.
+So let's rewrite this, using this I guess we could call this this rewrite or I don't want to call it quite a substitution.
+It's just a different way of writing the number <EXPRESSION>.
+So this will be =, instead of writing the number <EXPRESSION>, I could write <EXPRESSION>.
+And all of that to the <EXPRESSION>.
+And now what is this =? Well, if I take something to an exponent, and then to another exponent, this is the same thing as taking my base to the product of those exponents.
+So this =, let me switch colors, this = the integral of <EXPRESSION> let me write it this way.
+<EXPRESSION>.
+I'm just multiplying these two exponents.
+I raise something to something, then raise it again, we know from our exponent rules, it's just a product of those two exponents.
+<EXPRESSION>.
+Now, this is just a constant factor, right here.
+This could be, you know, this could just be some number.
+We could use a calculator to figure out what this is.
+We could set this = <EXPRESSION>.
+But we know in general that the integral, this is pretty straightforward, we've now put it in this form.
+The antiderivative of <EXPRESSION> is just <EXPRESSION>.
+This comes from this definition up here, and of course plus <EXPRESSION>, and the chain rule.
+If we take the derivative of this, we take the derivative of the inside, which is just going to be <EXPRESSION>.
+We multiply that times the <EXPRESSION>, it cancels out, and we're just left with <EXPRESSION>.
+So this definitely works out.
+So the antiderivative of this thing right here is going to be = <EXPRESSION>, it's going to be <EXPRESSION>.
+And I'm going to do something.
+This is just some number times <EXPRESSION>, so I can write it as <EXPRESSION>.
+And I'm just doing that to put in a form that might help us simplify it a little bit.
+So it's <EXPRESSION>, right? All I did, is I swapped this order.
+I could have written this as <EXPRESSION>.
+If this an <EXPRESSION> is the same thing as <EXPRESSION>.
+Plus <EXPRESSION>.
+So this is our answer, but we have to kind of reverse substitute before we can feel satisfied that we've taken the antiderivative with respect to <EXPRESSION>.
+But before I do that, let's see if I can simplify this a little bit.
+What is, if I have, just from our natural log properties, or logarithms, a times the <EXPRESSION>.
+We know this is the same thing as <EXPRESSION>.
+Let me draw a line here.
+Right? That this becomes the exponent on whatever we're taking the natural log of.
+So u, let me write this here, <EXPRESSION>, is the same thing as the <EXPRESSION>.
+So we can rewrite our antiderivative as being = <EXPRESSION>, that's just that part here, times <EXPRESSION> to the, this can be rewritten based on this logarithm property, as <EXPRESSION>, and of course we still have our plus <EXPRESSION> there.
+Now, what is <EXPRESSION>? <EXPRESSION> is the power that you have to raise <EXPRESSION> to to get to <EXPRESSION>, right? By definition! So if we raise <EXPRESSION> to that power, what are we going to get? We're going to get <EXPRESSION>.
+So this is going to be = <EXPRESSION>.
+This simplifies to just <EXPRESSION>.
+I drew it up here.
+The <EXPRESSION> I could just write in general terms, let me do it up here, and maybe I'm beating a dead horse.
+But I can in general write any number <EXPRESSION> as being = <EXPRESSION>.
+This is the exponent you have to raise <EXPRESSION> to to get <EXPRESSION>.
+If you raise <EXPRESSION> to that, you're going to get <EXPRESSION>.
+So <EXPRESSION>, that's just <EXPRESSION>.
+And then I have my plus <EXPRESSION>, of course.
+And now we can reverse substitute.
+What did we set <EXPRESSION> =? We defined <EXPRESSION>, up here, as = <EXPRESSION>.
+So let's just reverse substitute right here.
+And so the answer to our original equation, your answer to, let me write it here, because it's satisfying when you see it, to this kind of fairly convoluted-looking antiderivative problem, <EXPRESSION>, we now find =, we just replaced <EXPRESSION> with <EXPRESSION>, because that was our substitution, and <EXPRESSION>.
+And we're done.
+This isn't in the denominator, the way I wrote it might look a little ambiguous.
+And we're done! And that was a pretty neat problem, and so thanks to Bud for posting that.

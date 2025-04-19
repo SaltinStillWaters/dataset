@@ -1,0 +1,184 @@
+Transcript for: Introduction to the line integral | Multivariable Calculus | 
+If we're just dealing with two dimensions, and we want to find the area under a curve, we have good tools in our toolkit already to do it, and I'll just remind us of our tools.
+so let's say, that's the x-axis, that's the y-axis, let me draw some arbitrary function right here, and that's my function <EXPRESSION>.
+And let's say we want to find the area between <EQUATION>, so that's <EQUATION>, and <EQUATION>.
+We saw this many, many, many videos ago.
+The way you can think about it, is you take super small widths of <EXPRESSION>, or super small changes in <EXPRESSION>.
+We could call them <EXPRESSION>, but because they're so small, we're going to call them a <EXPRESSION>.
+Super, infinitesimally small changes in <EXPRESSION>.
+And then you multiply them times the value of <EXPRESSION> at that point.
+So you multiply it times the height at that point, which is the value of <EXPRESSION>.
+So you get <EXPRESSION> times each of these infinitesimally small bases, that'll give you the area of this infinitesimally narrow rectangle right there.
+And since each of these guys are infinitely small, you're going to have an infinite number of these rectangles in order to fill the space.
+You're going to have an infinite number of these, right? And so the tool we use was the definite integral.
+The definite integral is a sum, is an infinite sum of these infinitely small areas, or these infinitely small rectangles.
+And the notations that we use, they would go from <EXPRESSION> <EXPRESSION>.
+And we've done many videos on how do you evaluate these things.
+I just want to remind you, conceptually, what this is saying.
+This is conceptually saying, let's take a small change in <EXPRESSION>, multiply it times the height at that point, and you're going to have an infinite number of these, because these <EXPRESSION> are super small, they're infinitely small, so you're going to have an infinite number of those.
+So take an infinite sum of all of those, from <EQUATION> to <EQUATION>.
+And that's just our standard definite integral.
+Now what I want to do in this video is extend this, broaden this a little bit, to solve, I guess it maybe could say a harder or a broader class of problems.
+Let's say that we are, let's go to three dimensions now.
+And I'll just draw the <EXPRESSION> plane first.
+Maybe I'll keep this, just to kind of make the analogy clear.
+I'm going to kind of flatten this, so we have some perspective.
+So let's say that this right here is the y-axis, kind of going behind the screen.
+You can imagine if I just pushed on this and knocked it down.
+So that's the y-axis, and that is my x-axis right there.
+And let's say I some path in the <EXPRESSION> plane.
+And in order to really define a path in the <EXPRESSION> plane, I'll have to parameterize both the <EXPRESSION> and <EXPRESSION> variables.
+So let's say that <EXPRESSION> =, let me switch colors.
+I'm using that orange too much.
+Let's say that <EXPRESSION> is = some function of some parameter <EXPRESSION>, and let's say <EXPRESSION> = some other function of that same parameter <EXPRESSION>, and let's say we're going to start, we're going to have <EXPRESSION> go from, <EQUATION>, and then <EXPRESSION>.
+Now this will define a path in the <EXPRESSION> plane, and if this seems confusing, you might want to review the videos on parametric equations.
+But essentially, when <EQUATION>, you're going to have <EXPRESSION> =, so <EQUATION>, you're going to have <EQUATION>, and you're going to have <EQUATION>.
+So you're going to have this point right here, so maybe it might be, I don't know, I'll just draw a random point here.
+When <EXPRESSION>, you're going to plot the coordinate point <EXPRESSION>.
+That's going to be our x-coordinate.
+This is <EXPRESSION>, right here.
+And then our y-coordinate is going to be <EXPRESSION>.
+Right? You just put <EQUATION> in each of these equations, and then you get a value for <EXPRESSION> and <EXPRESSION>.
+So this coordinate right here would be <EQUATION>.
+And then, you would keep incrementing <EXPRESSION> larger and larger, until you get to b, but you're going to get a series of points that are going to look something like that.
+That right there is a curve, or it's a path, in the <EXPRESSION> plane.
+And you know, you're saying, how does that relate to that right now? What are we doing? Well, let me just write a <EXPRESSION> here, for saying, that's our curve, our that's our path.
+Now, let's say I have another function that associates every point in the <EXPRESSION> plane with some value.
+So let's say I have some function, <EXPRESSION>.
+What it does is associate every point on the <EXPRESSION> plane with some value.
+So let me plot <EXPRESSION>.
+Let me make a vertical axis here.
+We could do a different color.
+Call it the <EXPRESSION> axis, maybe we could even call it the z-axis, if you want to.
+But some vertical axis right there.
+And for every point, so if you give me an <EXPRESSION> and a <EXPRESSION>, and put into my <EXPRESSION> function, it's going to give you some point.
+So I can just draw some type of a surface that <EXPRESSION> represents.
+And this'll all become a lot more concrete when I do some concrete examples.
+So let's say that <EXPRESSION> looks something like this.
+I'm going to try my best to draw it.
+I'll do a different color.
+Let's say <EXPRESSION>.
+Some surface.
+I'll draw part of it.
+It's some surface that looks, let's say it looks something like that.
+That is <EXPRESSION>.
+And remember, all this is, is you give me an <EXPRESSION>, you give me a <EXPRESSION>, you pop it into <EXPRESSION>, it's going to give me some third value that we're going to plot in this vertical axis right here.
+I mean, example, <EXPRESSION>? It could be, I'm not saying this is a particular case, it could be <EXPRESSION>.
+It could be <EXPRESSION>.
+These are just examples.
+It could be <EXPRESSION>.
+If <EXPRESSION> is <EXPRESSION>, <EXPRESSION> is <EXPRESSION>, <EXPRESSION> will be <EXPRESSION>.
+But let's say when you plot, for every point on the <EXPRESSION> plane, when you plot <EXPRESSION> you get this surface up here, and we want to do something interesting.
+We want to figure out, not the area under this curve, this was very simple when we did it the first time.
+I want to find the area if you imagine a curtain, or a fence, that goes along this curve.
+You can imagine this being a very straight linear path, going just along the x-axis from <EXPRESSION> to <EXPRESSION>.
+Now we have this kind of crazy, curvy path that's going along the x-y plane.
+And you can imagine if you drew a wall, or curtain, or a fence that went straight up from this to my <EXPRESSION>, let me do my best effort to draw that.
+Let me draw it.
+So it's going to go up to there, and maybe this point corresponds to there.
+And when you draw that curtain up, it's going to intersect it something like that.
+Let's say it looks something like that.
+So this point right here corresponds to that point right there.
+So if you imagine, you have a curtain, <EXPRESSION> is the roof, and this is a, what I've drawn here, this curve, this kind of shows you the bottom of a wall.
+This is some kind of crazy wall.
+And let me say, this point it corresponds to, well, actually, let me draw it little bit different.
+This point will correspond to some point up here, so when you trace where it intersects, it will look something maybe like that, I don't know.
+Something like that.
+And I'm trying my best to help you visualize this.
+So maybe I'll shade this in to make it a little solid, let's say <EXPRESSION> is little transparent.
+You can see.
+But you have this curvy-looking wall here.
+And the whole point of this video is, how can we figure out the area of this curvy-looking wall, that's essentially the wall or the fence that happens if you go from this curve and jump up, and hit the ceiling at this <EXPRESSION>? So let's think a little bit about how we can do it.
+Well, if we just use the analogy of what we did previously, we could say, well look.
+Let's make a little change in distance of our curve.
+Let's call that <EXPRESSION>.
+That's a little change in distance of my curve, right there.
+And if I multiply that change in distance of the curve times <EXPRESSION> at that point, I'm going to get the area of that little rectangle right there.
+Right? So if I take the <EXPRESSION>, my change in my, you can imagine the arc length of this curve at that point, so let me write, you know, <EXPRESSION> = super small change in arc length of our path, or of our curve.
+That's our <EXPRESSION>.
+So you can imagine, the area of that little rectangle right there, along my curvy wall, is going to be ds, I'll make it a capital S, <EXPRESSION> times the height at that point.
+Well, that's <EXPRESSION>.
+And then if I take the sum, because these are infinitely narrow, these <EXPRESSION> have infinitely small width, if I were take the infinite sum of all of those guys, from <EQUATION> to <EQUATION>, right, from <EQUATION>, I keep taking the sum of those rectangles, to <EQUATION>, right there, that will give me my area.
+I'm just using the exact same logic as I did up there.
+I'm not being very mathematically rigorous, but I want to give you the intuition of what we're doing.
+We're really just bending the base of this thing to get a curvy wall instead of a straight, direct wall like we had up here.
+But you're saying, Sal, this is all abstract, and how can I even calculate something like this, this makes no sense to me, I have an s here, I have an <EXPRESSION> and <EXPRESSION> <EXPRESSION>, I have a <EXPRESSION>, what can I do with this? And let's see if we can make some headway.
+And I promise you, when we do it with a tangible problem, the end product of this video is going to be a little bit hairy to look at.
+But when we do it with an actual problem, it'll actually, I think, be very concrete, and you'll see it's not too hard to deal with.
+But let's see if we can get all of this in terms of <EXPRESSION>.
+So first of all, let's focus just on this <EXPRESSION>.
+So let me re-pick up the x-y axis.
+So if I were to reflip the x-y, let me switch colors, this is just getting a little monotonous.
+So if I were to reflip the x-y axis like that, actually, let me do that with that same green, so you know we're dealing with the same x-y axis.
+So that's my y-axis, that is my x-axis.
+And so this path right here, if I were to just draw it straight up like this, it would look something like this.
+Right? That's my path, my arc.
+You know, this is when <EQUATION>, so this is <EQUATION>, this is <EQUATION>.
+Same thing, I just kind of picked it back up so you can visualize it.
+And we say that we have some change in arc length, let's say, let me switch colors.
+Let's say that this one right here.
+Let's say that's some small change in arc length, and we're calling that <EXPRESSION>.
+Now, is there some way to relate <EXPRESSION> to infinitely small changes in <EXPRESSION> or <EXPRESSION>? Well, if we think about it, if we really and this is all a little bit hand-wavy, I'm not being mathematically rigorous, but I think it'll give you the correct intuition if you imagine this is, you can figure out the length of ds if you know the length of these super small changes in <EXPRESSION> and super small changes in <EXPRESSION>.
+So if this distance right here is <EXPRESSION>, infinitesimally small change in <EXPRESSION>, this distance right here is <EXPRESSION>, infinitesimally small change in <EXPRESSION>, right? Then we could figure out ds from the Pythagorean Theorem.
+You can say that ds is going to be, it's the hypotenuse of this triang.
+e It's = <EXPRESSION>.
+So that seems to make things a little bit, you know, we can get rid of the <EXPRESSION> all of a sudden.
+So let's rewrite this little expression here, using this sense of what <EXPRESSION>, is really <EXPRESSION>.
+And I'm not being very rigorous, and actually it's very hard to be rigorous with differentials, but intuitively I think it makes a lot of sense.
+So we can say that this integral, the area of this curvy curtain, is going to be the integral from <EQUATION> to <EQUATION>, instead of writing <EXPRESSION>, we can write this, times <EXPRESSION>.
+Now we at least got rid of this big capital S, but we still haven't solved the problem of, how do you solve something, you know, an integral, a definite integral that looks like this? We have it in terms of <EXPRESSION> here, but we only have it in terms of <EXPRESSION> and <EXPRESSION> here.
+So we need to get everything in terms of <EXPRESSION>.
+Well, we know <EXPRESSION> and <EXPRESSION> are both functions of <EXPRESSION>, so we can actually rewrite it like this.
+We can rewrite it as from <EQUATION>, to <EQUATION>.
+And <EXPRESSION>, we can write it, <EXPRESSION> is a function of <EXPRESSION>, which is a function of <EXPRESSION>, and <EXPRESSION> is also a function of <EXPRESSION>, which is also a function of <EXPRESSION>.
+So you give me a t, I'll be able to give you an <EXPRESSION> or <EXPRESSION>, and once you give me an <EXPRESSION> or <EXPRESSION>, I can figure out what <EXPRESSION> is.
+So we have that, and then we have this part right here.
+I'll do it in orange.
+<EXPRESSION>.
+But we still don't have things in terms of <EXPRESSION>.
+We need a <EXPRESSION> someplace here in order be able to evaluate this integral.
+And we'll see that in the next video, when I do a concrete problem.
+But I really want to give you a sense for the end product, the formula we're going to get at the end product of this video, where it comes from.
+So one thing we can do, is if we allow ourselves to algebraically manipulate differentials, what we can do is let us multiply and divide by <EXPRESSION>.
+So one way to think about it, you could rewrite, so let me just do this orange part right here.
+Let's do a little side right here.
+So if you take this orange part, and write it in pink, and you have <EXPRESSION>, and then you have <EXPRESSION>, and let's say you just multiply it times <EXPRESSION>, right? That's <EXPRESSION>.
+That's <EXPRESSION>, so of course you can multiply it by that.
+If we're to bring in this part inside of the square root sign, right, so let me rewrite this.
+This is the same thing as <EXPRESSION>.
+Right? I just wanted to write it this way to show you I'm just multiplying by <EXPRESSION>.
+And here, I'm just taking this dt, writing it there, and leaving this over here.
+And now if I wanted to bring this into the square root sign, this is the same thing, this =, and I'll do it very slowly, just to make sure, I'll allow you to believe that I'm not doing anything shady with the algebra.
+This is the same thing as <EXPRESSION>, let me make the radical a little bit bigger, times <EXPRESSION>, right? I didn't do anything, you could just take the <EXPRESSION> of this and you'd get <EXPRESSION>.
+And if I just distribute this, this = the <EXPRESSION>, and we have our <EXPRESSION> at the end, of <EXPRESSION>, or we could even write, <EXPRESSION>.
+Right? <EXPRESSION> is just <EXPRESSION>, same thing with the <EXPRESSION>.
+And now all of a sudden, this starts to look pretty interesting.
+Let's substitute this expression with this one.
+We said that these are equivalent.
+And I'll switch colors, just for the sake of it.
+So we have the integral.
+From <EQUATION>.
+Let me get our drawing back, if <EXPRESSION> from <EQUATION> to <EXPRESSION> times, or <EXPRESSION> and <EXPRESSION>, they're both functions of <EXPRESSION>, and now instead of this expression, we can write the <EXPRESSION> of, well, what's <EXPRESSION>, what's the change in x<EXPRESSION> with respect to, whatever this parameter is? What is <EXPRESSION>? <EXPRESSION> is the same thing as <EXPRESSION>.
+Right? <EXPRESSION> is a function of <EXPRESSION>.
+The function I wrote is <EXPRESSION>.
+And then <EXPRESSION> is same thing as <EXPRESSION>.
+We could say that, you know, this function of <EXPRESSION>.
+So I just wanted to make that clear.
+We know these two functions, so we can just take their derivatives with respect to <EXPRESSION>.
+But I'm just going to leave it in that form.
+So the <EXPRESSION>, and we take the derivative of <EXPRESSION> with respect to <EXPRESSION>, plus the derivative of <EXPRESSION> with respect to <EXPRESSION>, and all of that times <EXPRESSION>.
+And this might look like some strange and convoluted formula, but this is actually something that we know how to deal with.
+We've now simplified this strange, you know, this arc-length problem, or this line integral, right? That's essentially what we're doing.
+We're taking an integral over a curve, or over a line, as opposed to just an interval on the x-axis.
+We've taken the strange line integral, that's in terms of the arc length of the line, and <EXPRESSION> and <EXPRESSION>, and we've put everything in terms of <EXPRESSION>.
+And I'm going to show you that in the next video, right? Everything is going to be expressed in terms of <EXPRESSION>, so this just turns into a simple, definite integral.
+So hopefully that didn't confuse you too much.
+I think you're going to see in the next video that this, right here, is actually a very straightforward thing to implement.
+And just to remind you where it all came from, I think I got the parentheses right.
+This right here was just a change in our arc length.
+That whole thing right there was just a change in arc length.
+And this is just the height of our function at that point.
+And we're just summing it, doing an infinite sum of infinitely small lengths.
+So this was a change in our arc length times the height.
+This is going to have an infinitely narrow width, and they're going to take an infinite number of these rectangles to get the area of this entire fence, or this entire curtain.
+And that's what this definite integral will give us, and we'll actually apply it in the next video.

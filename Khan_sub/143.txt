@@ -1,0 +1,117 @@
+Transcript for: Path independence for line integrals | Multivariable Calculus | 
+What I want to do in this video is establish a reasonably powerful condition in which we can establish that at vector field, or that a line integral of a vector field is path independent.
+And when I say that, I mean that let's say I were to take this line integral along the path <EXPRESSION>, and let's say my path looks like this.
+That's my <EXPRESSION> and <EXPRESSION> axis, and let's say my path looks something like this: I start there and I go over there to point <EXPRESSION>.
+My end point, the curve here is <EXPRESSION>.
+And so I would evaluate this line integral, this victor field along this path.
+This would be a path independent vector field, or we call that a conservative vector field, if this thing = the same integral over a different path that has the same end point.
+So let's call this <EXPRESSION>, so this is <EXPRESSION>, and this is <EXPRESSION>.
+This vector field is conservative if I start at the same point but I take a different path.
+Let's say I go something like that: if I take a different path and this is my <EXPRESSION> I still get the same value.
+What this is telling me is that all it cares about to evaluate these integrals is my starting point and my ending point.
+It doesn't care what I do in between.
+It doesn't care how I get from my starting point to my end point.
+These two integrals have the same start point and same end point, so irregardless of their actual path, they're going to be the same.
+That's what it means for <EXPRESSION> to be a conservative field, or what it means for this integral to be path independent.
+So before I prove or I show you the conditions, let's build up our tool kit a little bit.
+And so you may or may not have already seen the multivariable chain rule.
+And I'm not going to prove it in this video, but I think it'll be pretty intuitive for you.
+So maybe it doesn't need to have a proof, or I'll prove it eventually, but I really just want to give you the intuition.
+And all that says is that if I have some function let's say I have <EXPRESSION>, but <EXPRESSION> and <EXPRESSION> are then functions of, let's say a third variable, <EXPRESSION>, so <EXPRESSION> and <EXPRESSION> that the derivative of f with respect to <EXPRESSION> is multivariable.
+I have two variables here in <EXPRESSION> and <EXPRESSION>.
+This is going to be = the partial of <EXPRESSION> with respect to <EXPRESSION>.
+How fast does <EXPRESSION> change as x<EXPRESSION changes times the derivative of <EXPRESSION> with respect to <EXPRESSION> This is a single variable function right here, so you to take a regular derivative.
+So times how fast <EXPRESSION> changes with respect to <EXPRESSION>.
+This is a standard derivative, this is a partial derivative, because at that level we're dealing with two variables.
+And we're not done.
+plus how fast <EXPRESSION> changes with respect to <EXPRESSION> with respected <EXPRESSION>.
+So <EXPRESSION>.
+And I'm not going to prove it, but I think it makes pretty good intuition.
+This is saying, as I move a little bit <EXPRESSION>, how much of a <EXPRESSION> do I get? Or how fast this <EXPRESSION> change with respect to <EXPRESSION>? It says, well there's two ways that <EXPRESSION> can change: it can change with respect to <EXPRESSION> and it can change with respect to <EXPRESSION>.
+So why don't I add those two things together as they're both changing with respect to <EXPRESSION>? That's all it's saying, and if you kind of imagined that you could cancel out this partial <EXPRESSION> with this <EXPRESSION>, and this partial <EXPRESSION> with this <EXPRESSION>, you could kind of imagine the partial of <EXPRESSION> with respect to <EXPRESSION> on the <EXPRESSION> side of things, and then plus the partial of <EXPRESSION> with respect to t in the <EXPRESSION> dimension.
+And then that'll give you the total change of <EXPRESSION> with respected to <EXPRESSION>.
+Kind of a hand-wavy argument there, but at least to me this is a pretty intuitive formula.
+So that's our tool kit right there; the multivariable chain rule.
+We're going to put that aside for a second.
+Now let's say I have some vector field <EXPRESSION> and it's different than this <EXPRESSION>, so I'll do it in a different color; magenta I have some vector field <EXPRESSION> that is a function of <EXPRESSION> and <EXPRESSION>.
+And let's say that it happens to be the gradient of some scalar field.
+I'll call that <EXPRESSION>.
+And this is gradient which means that <EXPRESSION> is also function of <EXPRESSION> and <EXPRESSION> so I don't want to write it on a new line, I could also write up here; <EXPRESSION> is also a function of <EXPRESSION> and <EXPRESSION> and the gradient, and all that means is that the vector field <EXPRESSION>, = the partial derivative of <EXPRESSION>.
+This is the definition of the gradient right here.
+And if you imagine that <EXPRESSION> is some type of surface so this is <EXPRESSION> the gradient <EXPRESSION> is going to be a vector field that tells you the direction of steepest ascent at any point.
+So it'll be defined the xy plane.
+So on the xy plane it'll tell you so let me draw; that's the vertical axis, maybe that's the <EXPRESSION> axis, that's the <EXPRESSION> axis so the gradient of it, if you take any point on the xy plane, it'll tell you the direction you need to travel to go into the deepest ascent.
+And for this gradient field it's going to be something like this.
+And maybe over here it starts going in that direction because you would descend towards this little minimum point right here.
+Anyway, I don't want to get too involved.
+And the whole point of this isn't to really get the intuition behind gradients; there are other videos on this.
+The point of this is to get other a test to see whether something is path independent; whether a vector field is path independent, whether it's conservative.
+And it turns out that if this exists and I'm going to prove it now if <EXPRESSION> is the gradient of some scalar field, then <EXPRESSION> is conservative.
+Or you could say it doesn't matter what path we follow when we take a line integral over <EXPRESSION>, it just matters about our starting point and our ending point.
+Now let me see if I can prove that to you.
+So let's start with the assumption that f can be written this way, as the gradient, that <EXPRESSION> can be written as the gradient of some <EXPRESSION>.
+So in that case our integral well, let's define our path first.
+So our position vector function we always need one of those to do a line integral or a vector line integral <EXPRESSION> is going to be = <EXPRESSION> going between <EXPRESSION> and <EXPRESSION>.
+You've seen this multiple times; this is a definition of pretty much any path in two dimensions.
+And then we're going to say <EXPRESSION> is going to be = this: it's going to be the partial derivative of <EXPRESSION> with respect to <EXPRESSION> so we're assuming that this exists, that this is true times <EXPRESSION>.
+Now, given this what is lower-case <EXPRESSION> going to = over this path right here? This path is defined by this position function right there.
+Well, it's going to be =, we need to figure out what dr is, and we've done that in multiple videos.
+I'll do that on the right over here.
+<EXPRESSION>, we've seen it multiple times.
+Actually, I'll solve it out again.
+<EXPRESSION by definition was = <EXPRESSION> I don't know why it got all fat like that <EXPRESSION>.
+That's what <EXPRESSION> is.
+So if we want to figure out what <EXPRESSION> is, the differential of <EXPRESSION>, if we want to play with differentials in this way, multiply both sides times <EXPRESSION>.
+And actually I'm going to treat <EXPRESSION>, I'll multiply it; I'll distribute it.
+It's <EXPRESSION>.
+So if we're taking the dot product of <EXPRESSION> with <EXPRESSION>, what are we going to get? So this is going to be the integral over the curve from I'll write the <EXPRESSION> right there; we could write in terms of the end points as <EXPRESSION> once we feel good that we have everything in terms of <EXPRESSION> but it's going to be = this dot that, which = I'll try to stay color consistent the partial of <EXPRESSION> with respect to <EXPRESSION> times that, <EXPRESSION> I'm going to write this <EXPRESSION> in a different color times <EXPRESSION> plus the partial of <EXPRESSION> with respect to <EXPRESSION> times we're multiplying the <EXPRESSION> components, right? When you take the dot product, multiply the <EXPRESSION> components, and then add that to what you get from the product of the <EXPRESSION> components so this <EXPRESSION> component's partial of <EXPRESSION> with respect to <EXPRESSION>, and then we have times switch to a yellow <EXPRESSION> times that  right<EXPRESSION> over there.
+And then we can factor out the <EXPRESSION>.
+Or actually, so I don't have to even write it again, right now I wrote it without, well let me write it again.
+So this = the integral.
+And let's say we have it in terms of <EXPRESSION>; we've written everything in terms of <EXPRESSION>, so <EXPRESSION> goes from <EXPRESSION> to <EXPRESSION>, and so this is going to be = I'll write it in blue the partial of <EXPRESSION> with respect to <EXPRESSION> I'm distributing this <EXPRESSION> out <EXPRESSION>.
+<EXPRESSION>.
+all of that times <EXPRESSION>.
+This is equivalent to that.
+Now you might realize why I talked about the multivariable chain rule.
+What is this right here? What is that right there? You can do some pattern matching.
+That is the same thing as the derivative of <EXPRESSION> with respect to <EXPRESSION>.
+Look at this; let me let me copy and paste that just so you appreciate it.
+So this is our definition, or this is our I won't say definition; one can actually prove it.
+You don't have to start from there -but this is our multivariable chain rule right here.
+The driven of any function with respect <EXPRESSION> is the partial of that function with respect to <EXPRESSION>.
+I have the partial of <EXPRESSION> with respect to <EXPRESSION> with respect to <EXPRESSION>.
+This and this are identical if you just replace this <EXPRESSION> with an <EXPRESSION>.
+So this in blue right here, this whole expression = the integral from <EQUATION> to <EQUATION> of in blue here the derivative of <EXPRESSION> with respect to <EXPRESSION>.
+And how do you evaluate let me just the <EXPRESSION> in green how do you evaluate something like this? I just want to make a point: this is just this from the multivariable chain rule.
+And how do you evaluate a definite integral like this? Well, you take the antiderivative of the inside with respect to <EXPRESSION>.
+So what is this going to be =? You take the antiderivative of the inside, that's just <EXPRESSION>.
+So this = <EXPRESSION>.
+And let me be clear.
+We wrote before that <EXPRESSION> is a function.
+So our <EXPRESSION> is a function of <EXPRESSION> and <EXPRESSION>, which could also be written, since each of these are functions of <EXPRESSION>, could be written as <EXPRESSION>.
+I'm just rewriting it in different ways.
+And this could be just written as <EXPRESSION> or <EXPRESSION>.
+These are all equivalent, depending on whether you want to include the <EXPRESSION> or the <EXPRESSION> only, or the <EXPRESSION> only, or them both.
+Because both of the <EXPRESSION> and <EXPRESSION> are functions of <EXPRESSION>.
+So this is the derivative of <EXPRESSION> with respect to <EXPRESSION>.
+If this was just in terms of <EXPRESSION>, this is the derivative of that with respect to <EXPRESSION>.
+We take its antiderivative, we're left just with <EXPRESSION>, and we have to evaluate it from <EQUATION> to <EQUATION>.
+And so this = and this is the home stretch this = <EXPRESSION>.
+And if you want to think about it in these terms, this is the same thing.
+This = <EXPRESSION> let me make sure I got all the parentheses <EXPRESSION>.
+These are equivalent.
+You give me any point on the xy plane, an <EXPRESSION> and a <EXPRESSION>, and it tells me where I am.
+This is my <EXPRESSION>, it gives me a height.
+Just like that.
+This associates a value with every point on the xy plane.
+But this whole exercise, remember this is the same thing as that.
+This is our whole thing that we were trying to prove: that = <EXPRESSION>.
+<EXPRESSION>, our vector field, which is the gradient of the <EXPRESSION> remember <EXPRESSION> was = the gradient of <EXPRESSION>, we assume that it's the gradient of some function <EXPRESSION>, if that is the case, then we just did a little bit of calculus or algebra, whatever you want to call it, and we found that we can evaluate this integral by evaluating <EXPRESSION> at <EQUATION>, and then subtracting from that <EXPRESSION> at <EQUATION>.
+But what that tells you is that this integral, the value of this integral, is only dependent at our starting point, <EQUATION>, this is the point <EXPRESSION>, <EXPRESSION>, and the ending point, <EQUATION>, which is <EXPRESSION>, <EXPRESSION>.
+That integral is only dependent on these two values.
+How do I know that? Because to solve it because I'm saying that this thing exists I just had to evaluate that thing at those two points; I didn't care about the curve in between.
+So this shows that if <EXPRESSION> = the gradient this is often called a potential function of <EXPRESSION>, although they're usually the negative each other, but it's the same idea if the vector field <EXPRESSION> is the gradient of some scale or field <EXPRESSION>, then we can say that <EXPRESSION> is conservative or that the line integral of <EXPRESSION> is path independent.
+It doesn't matter what path we go on as long as our starting and ending point are the same.
+Hopefully found that useful.
+And we'll some examples with that.
+And actually in the next video I'll prove another interesting outcome based on this one.

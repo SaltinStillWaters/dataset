@@ -1,0 +1,129 @@
+Transcript for: Double integral 1 | Double and triple integrals | Multivariable Calculus | 
+So far, we've used integrals to figure out the area under a curve.
+And let's just review a little bit of the intuition, although this should hopefully be second nature to you at this point.
+If it's not, you might want to review the definite integration videos.
+But if I have some function this is the <EXPRESSION> plane, that's the x-axis, that's the y-axis and I have some function.
+Let's call that, you know, this is <EQUATION>.
+Give me an <EXPRESSION> and I'll give you a <EXPRESSION>.
+If I wanted to figure out the area under this curve, between, let's say, <EQUATION> and EQUATION.
+So this is the area I want to figure out.
+What I do is, I split it up into a bunch of columns or a bunch of rectangles.
+Where let me draw one of those rectangles where you could view and there's different ways to do this, but this is just a review.
+Where you could review that's maybe <EXPRESSION> of the rectangles.
+Well, the area of the rectangle is just base times height, right? Well, we're going to make these rectangles really skinny and just sum up an infinite number of them.
+So we want to make them infinitely small.
+But let's just call the base of this rectangle <EXPRESSION>.
+And then the height of this rectangle is going to be <EXPRESSION>, at that point.
+It's going to be <EXPRESSION> of if this is <EXPRESSION>, or whatever, you can just call it <EXPRESSION>, right? That's the height of that rectangle.
+And if we wanted to take the sum of all of these rectangles right? There's just going to be a bunch of them.
+One there, one there.
+Then we'll get the area, and if we have infinite number of these rectangles, and they're infinitely skinny, we have exactly the area under that curve.
+That's the intuition behind the definite integral.
+And the way we write that it's the definite integral.
+We're going to take the sums of these rectangles, from <EQUATION>, to <EQUATION>.
+And the sum, or the areas that we're summing up, are going to be the height is <EXPRESSION>, and the width is <EXPRESSION>.
+It's going to be <EXPRESSION>.
+This = the area under the curve.
+<EQUATION>, from <EQUATION> to <EQUATION>.
+And that's just a little bit of review.
+But hopefully, you'll now see the parallel of how we extend this to taking the volume under a surface.
+So first of all, what is a surface? Well, if we're thinking in <EXPRESSION> dimensions, a surface is going to be a function of <EXPRESSION> and <EXPRESSION>.
+So we can write a surface as, instead of <EXPRESSION> is a function of <EXPRESSION> I'm sorry.
+Instead of saying that <EXPRESSION> is a function of <EXPRESSION>, we can write a surface as <EQUATION>.
+So you can kind of view it as the domain.
+Right? The domain is all of the set of valid things that you can input into a function.
+So now, before, our domain was just at least, you know, for most of what we dealt with was just the x-axis, or kind of the real number line in the <EXPRESSION> direction.
+Now our domain is the <EXPRESSION> plane.
+We can give any <EXPRESSION> and any <EXPRESSION> and we'll just deal with the reals right now, I don't want to get too technical.
+And then it'll pop out another number, and if we wanted to graph it, it'll be our height.
+And so that could be the height of a surface.
+So let me just show you what a surface looks like, in case you don't remember.
+And we'll actually figure out the volume under this surface.
+So this is a surface.
+I'll tell you its function in a second, but it's pretty neat to look at.
+But as you can see, it's a server.
+It's like a piece of paper that's bent.
+Let's see, let me rotate it to its traditional form.
+So this is the <EXPRESSION> direction, this is the <EXPRESSION> direction.
+And the height is a function of where we are in the <EXPRESSION> plane.
+So how do we figure out the volume under a surface like this? How do we figure out the volume? It seems like a bit of a stretch, given what we've learned from this.
+But what if and I'm just going to draw an abstract surface here let me draw some axis.
+Let's see, that's my x-axis.
+That's my y-axis.
+That's my z-axis.
+I don't practice these videos ahead of time, so I'm often wondering what I'm about to draw.
+OK.
+So that's <EXPRESSION>, that's <EXPRESSION>, and that's <EXPRESSION>.
+And let's say I have some surface.
+I'll just draw something.
+I don't know what it is.
+Some surface.
+This is our surface.
+<EXPRESSION> is a function of <EXPRESSION> and <EXPRESSION>.
+So, for example, you give me a coordinate in the <EXPRESSION> plane.
+Say, here, I'll put it into the function and it'll give us a <EXPRESSION> value now.
+And I'll plot it there and it'll be a point on the surface.
+So what we want to figure out is the volume under the surface.
+And we have to specify bounds, right? From here, we said <EQUATION>, to <EQUATION>.
+So let's make a square bound first, because this keeps it a lot simpler.
+So let's say that the domain or the region not the domain the region of the <EXPRESSION> and <EXPRESSION> region of this part of the surface under which we want to calculate the volume.
+Let's say, the shadow if the sun was right above the surface, the shadow would be right there.
+Let me try my best to draw this neatly.
+So this is what we're going to try to figure out the volume of.
+And let's say so, if we wanted to draw it in the <EXPRESSION> plane, like you can kind of view the projection of the surface of the <EXPRESSION> plane, or the shadow of the surface of the <EXPRESSION> plane.
+What are the bounds? You can almost view what are the bounds of the domain? Well, let's say that this point let's say that this right here, that's <EXPRESSION>, <EXPRESSION> in the <EXPRESSION> plane.
+Let's say that this is <EXPRESSION> = I don't know, that's <EQUATION>.
+That's this line right here.
+<EQUATION>.
+And let's say that this line right here is <EQUATION>.
+Hope you get that, right? This is the <EXPRESSION> plane.
+If we have a constant <EXPRESSION>, it would be a line like that.
+A constant <EXPRESSION>, a line like that.
+And then we have the area in between it.
+So how do we figure out the volume under this? Well, if I just wanted to figure out the area of let's just say, this sliver.
+Let's say we had a well, actually let me go the other way.
+Let's say we had a constant <EXPRESSION>.
+So let's say I had some sliver.
+I don't want to confuse you.
+Let's say that I had some constant <EXPRESSION>.
+I just want to give you the intuition.
+You know, let's say.
+I don't know what that is.
+It's an arbitrary <EXPRESSION>.
+But for some constant <EXPRESSION>, what if I could just figure out the area under the curve there? How would I figure out just the area under that curve? It'll be a function of which y I pick, right? Because if I pick a <EXPRESSION> here, it'll be a different area.
+If I pick a <EXPRESSION> there, it'll be a different area.
+But I could view this now as a very similar problem to this one up here.
+I could have my <EXPRESSION> let me pick a vibrant color so you can see it.
+Let's say that's <EXPRESSION>, right? That's a change in <EXPRESSION>.
+And then the height is going to be a function of the <EXPRESSION> I have and the <EXPRESSION> I picked.
+Although I'm assuming, to some degree, that that's a constant <EXPRESSION>.
+So what would be the area of this sheet of paper? It's kind of a constant <EXPRESSION>.
+It's part of it's a sheet of paper within this volume, you can kind of view it.
+Well, it would be we said the height of each of these rectangles is <EXPRESSION>, right? That's the height.
+It depends which <EXPRESSION> and <EXPRESSION> we pick down here.
+And then its width is going to be <EXPRESSION>.
+Not <EXPRESSION>, <EXPRESSION>.
+And then if we integrated it, from <EQUATION>, which was back here, all the way to <EQUATION>, what would it look like? It would look like that.
+<EXPRESSION> is going from <EXPRESSION> to <EXPRESSION>.
+Fair enough.
+And this would actually give us a function of <EXPRESSION>.
+This would give us an expression so that I would know the area of this kind of sliver of the volume, for any given value of <EXPRESSION>.
+If you give me a <EXPRESSION>, I can tell you the area of the sliver that corresponds to that <EXPRESSION>.
+Now what could I do? If I know the area of any given sliver, what if I multiply the area of that sliver times <EXPRESSION>? This is a <EXPRESSION>.
+Let me do it in a vibrant color.
+So <EXPRESSION>, a very small change in <EXPRESSION>.
+If I multiplied this area times a small <EXPRESSION>, then all of a sudden I have a sliver of volume.
+Hopefully that makes some sense.
+I'm making that that little cut that I took the area of by making it three dimensional.
+So what would be the volume of that sliver? The volume of that sliver will be this function of <EXPRESSION>, or <EXPRESSION>.
+So it would be the integral from <EXPRESSION> to <EXPRESSION>.
+That gives us the area of this blue sheet.
+Now if I multiply this whole thing times <EXPRESSION>, I get this volume.
+It gets some depth.
+This little area that I'm shading right here gets depth of that sheet.
+Now if I added all of those sheets that now have depth, if I took the infinite sum so if I took the integral of this from my lower <EXPRESSION> bound from <EXPRESSION> to my upper <EXPRESSION> bound, <EXPRESSION>, then at least based on our intuition here maybe I will have figured out the volume under this surface.
+But anyway, I didn't want to confuse you.
+But that's the intuition of what we're going to do.
+And I think you're going to find out that actually calculating the volumes are pretty straightforward, especially when you have fixed <EXPRESSION> and <EXPRESSION> bounds.
+And that's what we're going to do in the next video.
+See you soon.

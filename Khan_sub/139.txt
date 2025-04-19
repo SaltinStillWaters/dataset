@@ -1,0 +1,124 @@
+Transcript for: Using a line integral to find the work done by a vector field example | 
+Let's apply what we learned in the last video into a concrete example of the work done by a vector field on something going through some type of path through the field.
+So let's say that I have a vector field.
+It's defined over <EXPRESSION> for the x-y plane.
+So it's a function of <EXPRESSION> and <EXPRESSION>.
+It associates a vector with every point on the plane.
+And let's say my vector field is <EXPRESSION>.
+And so you can imagine if we were to draw let's draw our x- and y-axes.
+I'll do it over here.
+If we were to draw our x- and y-axes, this associates a vector, a force vector let's say this is actually a force vector with every point in our x-y plane.
+So this is <EXPRESSION> and this is <EXPRESSION>.
+So if we're at the point, for example, <EXPRESSION>, <EXPRESSION>, what will the vector look like that's associated with that point? Well, at <EXPRESSION>, <EXPRESSION>, <EXPRESSION> is <EXPRESSION>, so this will be <EXPRESSION>, <EXPRESSION>.
+<EXPRESSION> looks like this.
+So <EXPRESSION> will look like that.
+At <EQUATION> I'm just picking points at random, ones that'll be <EXPRESSION> is still <EXPRESSION>, and now the force vector here would be <EXPRESSION>.
+So it would look something like this.
+<EXPRESSION>.
+Something like that.
+Likewise, if we were to go here, where <EQUATION> and <EQUATION>, when <EQUATION>, we have <EXPRESSION>, <EXPRESSION>, so then our vector is going to look like that at this point.
+If we're to go to <EXPRESSION> you could get the picture.
+You can keep plotting these points.
+You just want to get a sense of what it looks like.
+If you go here, the vector's going to look like that.
+If you go maybe at this point right here, the vector's going to look like that.
+I think you get the general idea.
+I could keep filling in the space for this entire field all over.
+You know, just to make it symmetric, if I was here, the vector is going to look like that.
+You get the idea.
+I could just fill in all of the points if I had to.
+Now, in that field, I have some particle moving, and let's say its path is described by the curve <EXPRESSION>, and the parameterization of it is <EQUATION>, and <EQUATION>.
+And the path will occur from t let's say, <EXPRESSION> is less than or = <EXPRESSION> is less than or = <EXPRESSION>.
+You might already recognize what this would be.
+This parameterization is essentially a counterclockwise circle.
+So the path that this guy is going to go is going to start here.
+Well, you can imagine, t in this case, you could almost imagine is just the angle of the circle, but you can also imagine <EXPRESSION> is time.
+So at <EQUATION>, we're going to be over here.
+Then at <EQUATION>, we're going to have traveled a quarter of the circle to there, so we're moving in that direction.
+And then at time after <EXPRESSION> seconds, we would have gotten right there.
+And then all the way after <EXPRESSION> seconds, we would have gotten all the way around the circle.
+So our path, our curve, is one counterclockwise rotation around the circle, so to speak.
+So what is the work done by this field on this curve? So the work done.
+So the work, we learned in the previous video, = the line integral over this contour of our field, of our vector field, dotted with the differential of our movement, so dotted with the differential of our movement <EXPRESSION>.
+Well, I haven't even defined <EXPRESSION> yet.
+I mean, I kind of have just the parameterization here, so we need to have a vector function.
+We need to have some <EXPRESSION> that defines this path.
+This is just a standard parameterization, but if I wanted to write it as a vector function of <EXPRESSION>, we would write that <EQUATION>, which is <EQUATION>, which is just <EXPRESSION>.
+And likewise, this is for <EXPRESSION> is less than or = <EXPRESSION>, which is less than or = <EXPRESSION>.
+And this are equivalent.
+The reason why I took the pain of doing this is so now I can take its vector function derivative, and can figure out its differential, and then I can actually take the dot product with this thing over here.
+So let's do all of that and actually calculate this line integral and figure out the work done by this field.
+One thing might already pop in your mind.
+We're going in a counterclockwise direction, but at every point where we're passing through, it looks like the field is going exactly opposite the direction of our motion.
+For example, here we're moving upwards.
+The field is pulling us backwards.
+Here we're moving to the top left.
+The field is moving us to the bottom right.
+Here we're moving exactly to the left.
+The field is pulling us to the right.
+So it looks like the field is always doing the exact opposite of what we're trying to do.
+It's hindering our ability to move.
+So I'll give you a little intuition.
+This'll probably deal with negative work.
+For example, if I lift something off the ground, I have to apply force to fight gravity.
+I'm doing positive work, but gravity's doing negative work on that.
+We're just going to do the math here just to make you comfortable with this idea, but it's interesting to think about what's exactly going on even here.
+The field is the field I'm doing in that pink color, so let me stick to that.
+The field is pushing in that direction, so it's always going opposite the motion.
+But let's just do the math to make everything in the last video a little bit more concrete.
+So a good place to start is the derivative of our position vector function with respect to <EXPRESSION>.
+So we have a <EXPRESSION>, which we could also write as <EXPRESSION>.
+This = the derivative of <EXPRESSION>, which is <EXPRESSION> with respect to <EXPRESSION>.
+Derivative of <EXPRESSION> is just <EXPRESSION>.
+<EXPRESSION>.
+And if we want the differential, we just multiply everything times dt, so we get to <EXPRESSION> = we could write it this way.
+We could actually even just put the d well, let me just do it.
+So it's <EXPRESSION> I'm just multiplying each of these terms by <EXPRESSION>, distributive property times <EXPRESSION>.
+So we have this piece now.
+And now we want to take the dot product with this over here, but let me rewrite our vector field in terms of in terms of <EXPRESSION>, so to speak.
+So what's our field going to be doing at any point t? We don't have to worry about every point.
+We don't have to worry, for example, that over here the vector field is going to be doing something like that because that's not on our path.
+That force never had an impact on the particle.
+We only care about what happens along our path.
+So we can find a function that we can essentially substitute <EXPRESSION> and <EXPRESSION> for, their relative functions with respect to <EXPRESSION>, and then we'll have the force from the field at any point or any time <EXPRESSION>.
+So let's do that.
+So this guy right here, if I were to write it as a function of <EXPRESSION>, this is going to be = <EXPRESSION>, right? <EXPRESSION> is a function of <EXPRESSION>, so it's <EXPRESSION>, right? that's that.
+<EXPRESSION> or actually <EXPRESSION>, or <EXPRESSION>.
+<EXPRESSION> is a function of <EXPRESSION>.
+So <EXPRESSION>.
+And now all of it seems a little bit more straightforward.
+If we want to find this line integral, this line integral is going to be the same thing as the integral let me pick a nice, soothing color.
+Maybe this is a nice one.
+The integral from <EQUATION> to <EQUATION>.
+Now, when you take the dot product, you just multiply the corresponding components, and add it up.
+So we take the product of the <EXPRESSION> or <EXPRESSION>, I get you're going to get <EXPRESSION>, and then you're going to add that to so you're going to have that plus.
+Let me write that dt a little bit.
+That was a wacky-looking dt.
+dt, and then you're going to have that plus these two guys multiplied by each other.
+So that's well, there's a minus to sign here so plus.
+Let me just change this to a minus.
+<EXPRESSION>.
+And if we factor out a minus sign and a <EXPRESSION>, what is this going to be =? This is going to be = the integral from <EXPRESSION> to <EXPRESSION> of, we could say, sine squared plus I want to put the <EXPRESSION>.
+And actually, let me take the minus sign out to the front.
+So if we just factor the minus sign, and put a minus there, make this a plus.
+So the minus sign out there, and then we factor <EXPRESSION> out.
+I did a couple of steps in there, but I think you got it.
+Now this is just algebra at this point.
+Factoring out a minus sign, so this becomes positive.
+And then you have a <EXPRESSION> and a <EXPRESSION>.
+Factor that out, and you get this.
+You could multiply this out and you'd get what we originally have, if that confuses you at all.
+And the reason why I did that: we know what sine squared of anything plus cosine squared of that same anything is.
+That falls right out of the unit circle definition of our trig function, so this is just <EXPRESSION>.
+So our whole integral has been reduced to the minus integral from <EXPRESSION> to <EXPRESSION> of <EXPRESSION>.
+And this is we have seen this before.
+We can probably say that this is of <EXPRESSION>, if you want to put something there.
+Then the antiderivative of <EXPRESSION> is just so this is just going to be = minus and that minus sign is just the same minus sign that we're carrying forward.
+The antiderivative of <EXPRESSION> is just <EXPRESSION>, and we're going to evaluate it from <EXPRESSION> to <EXPRESSION>, or from <EXPRESSION> to <EXPRESSION>, so this = minus that minus sign right there <EXPRESSION> at <EXPRESSION>, so minus <EXPRESSION>.
+So this is just = <EXPRESSION>.
+And there you have it.
+We figured out the work that this field did on the particle, or whatever, whatever thing was moving around in this counterclockwise fashion.
+And our intuition held up.
+We actually got a negative number for the work done.
+And that's because, at all times, the field was actually going exactly opposite, or was actually opposing, the movement of, if we think of it as a particle in its counterclockwise direction.
+Anyway, hopefully, you found that helpful.

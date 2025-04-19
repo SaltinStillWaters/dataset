@@ -1,0 +1,90 @@
+Transcript for: Divergence 1 | Multivariable Calculus | 
+Let's try to get our heads around the idea of divergence.
+So first, like I did with gradients, I'll show you the mechanics, which are actually pretty straightforward.
+And then I'll try to give you the intuition.
+And once you have the intuition, at first it will seemed very, I don't know, unintuitive, maybe.
+But it once you get it, you're like oh, that's it.
+So let's see what divergence is.
+Let's say I have a vector field.
+And let's say this vector field, just for the purposes of visualization it could be anything, but let's say it represents the velocity of particles of fluid of any point in two dimensions.
+So it's going to be a two-dimensional vector field.
+It's going to be a function of <EXPRESSION> and <EXPRESSION>, so the velocity at any point it's a vector field let's say it is, and I'm just going to make up something.
+Let's say it's <EXPRESSION>.
+So at any point in the x-direction, at any point <EXPRESSION> comma <EXPRESSION>, its velocity in the x-direction will be <EXPRESSION>.
+And then its velocity in the y-direction, I don't know maybe it's just <EXPRESSION>.
+That's its velocity in the x-direction.
+So its velocity in the x-direction is actually a function of <EXPRESSION> and <EXPRESSION>.
+its velocity in the y-direction is just a function of <EXPRESSION>.
+So what is the divergence? So a couple of ways we can write it.
+The correct way to write it is the divergence of our vector field, <EXPRESSION>.
+But a common mnemonic to remember the operation of diverge and is to write the upside down triangle, which was the same notation we used for gradient, but take the dot product of that and the vector.
+And if you remember from the gradient discussion, we said that you can view, although it's kind of an abuse of notation, but you could view this upside down triangle as being = the partial derivative with respect to <EXPRESSION> in the x-direction plus the partial derivative with respect to <EXPRESSION> in the y-direction, which is the j-unit vector.
+And then if we went to three dimensions, the partial derivative with respect to <EXPRESSION> and the k-direction, et cetera, et cetera.
+But we're dealing with a two-dimensional vector here, so let's just stick with two dimensions, <EXPRESSION> and <EXPRESSION>.
+So what would this turn out to be? If you took the dot product of this, which is this upside down triangle, with this vector field, what would you get? Well, you would just get the partial derivative of the <EXPRESSION> dimension with respect to <EXPRESSION>, so you would get it's actually pretty straight forward to memorize; you might not even need this mnemonic right here, this abuse of notation; you might just know it off hand the <EXPRESSION> component, you take the partial derivative with respect to <EXPRESSION>, and the <EXPRESSION> component, you take the partial derivative with respect to <EXPRESSION>.
+But I'll show you why it looks like the dot product.
+So if you took the dot product of that and that, it would be the partial derivative with respect to <EXPRESSION> of that expression, of <EXPRESSION>, <EXPRESSION> and then plus the partial derivative with respect to <EXPRESSION> of that second expression, the <EXPRESSION> component of <EXPRESSION>, and then you would evaluate it.
+What's the partial derivative of this with respect to <EXPRESSION>? We just pretended y is a constant, just a number, so the derivative of this with respect to <EXPRESSION>, would be <EXPRESSION>.
+So it'll be <EXPRESSION> plus what's the partial derivative of <EXPRESSION> with respect to <EXPRESSION>? Well, there's nothing else to hold constant, so it's just like taking the derivative with respect to <EXPRESSION> so it's <EXPRESSION>.
+So this is the divergence at a point <EXPRESSION>, <EXPRESSION>.
+You could almost view it as a function of <EXPRESSION> and <EXPRESSION>.
+So you could almost say you know, that the divergence of <EXPRESSION> I'm going to make up some notation here as long as you get the point across, you can say that the divergence of <EXPRESSION>, that this is a function of <EXPRESSION> and <EXPRESSION>.
+That we just have an expression that if you give me a point anywhere in this vector field, I can tell you the divergence at that point.
+So I think you'll find that the computation of divergence isn't too difficult.
+You just take the partial derivative of the <EXPRESSION> component with respect to <EXPRESSION>, and you add that to the partial derivative to the y component with respect to <EXPRESSION>.
+And if you had the <EXPRESSION>, you would do the same thing, so on and so forth.
+Actually, let me do just do one more just hit the point home, and then we'll work on intuition.
+So if I said that I had, I don't know, let's say, my vector field is <EXPRESSION> plus so it's interesting; my x-direction is dependent on my y-coordinate plus, I don't know, <EXPRESSION>.
+So then oh, that's difficult because I have these <EXPRESSION> and these <EXPRESSION>.
+But we'll see; if you just keep your head straight on what's constant and what's not, it's not too bad.
+So the divergence of <EQUATION>.
+Well, what's the derivative of this with respect to <EXPRESSION>? If <EXPRESSION> is just a constant, <EXPRESSION> is just a number.
+So the derivative of this with respect to <EXPRESSION> is just <EXPRESSION> plus what's the derivative of this with respect to <EXPRESSION>? Well, you could just do <EXPRESSION>, since it's a constant, as the coefficient on <EXPRESSION>.
+So the derivative of <EXPRESSION>, <EXPRESSION> with respect to <EXPRESSION> is just <EXPRESSION>.
+And then the derivative of <EXPRESSION> is <EXPRESSION>.
+I just did the chain rule.
+<EXPRESSION>.
+And so that is the divergence.
+So you could just ignore this.
+It's <EXPRESSION>.
+One thing to immediately realize, even before we work on the intuition, is when we did gradient I gave you a surface and it gave us a vector field.
+Or I gave you a scalar field and you got a vector field.
+When you take the divergence of something, you're going in the opposite direction, in some ways.
+You start with the vector field, right? And what's a factor field? It's something that if you give me any point <EXPRESSION> and <EXPRESSION>, I'll give you a vector.
+So if you wanted to graph it, in the <EXPRESSION>, <EXPRESSION> plane you'd have a bunch of vectors, and I'll show you how that looks in a second when we go over to intuition.
+Well, when you take the divergence of it, you get a value for any point <EXPRESSION>, <EXPRESSION>.
+So even though a vector field has all these vectors on it, the divergence tells you an actual scalar number at any point in the field.
+So let's get a little bit of intuition of what a divergence actually is.
+Let me do it in one dimension.
+Or we can even, let's do it in two dimensions, but I'll make it constant in the <EXPRESSION>.
+So let's say that my let me erase this; I'll probably need some space.
+OK, oh, I didn't want to do that dot.
+OK let's say the velocity of fluid, or the particles in fluid, at any point in the <EXPRESSION>, <EXPRESSION> plane, let's say it = <EXPRESSION> plus, I don't know, <EXPRESSION> there's never any, sorry <EXPRESSION>, right? <EXPRESSION> is the unit vector in the y-direction.
+So there's never a y component to the velocity vector.
+So what would that look like? I don't need a computer to draw this.
+I can handle this one myself I think.
+So if that's the y-axis, that's my x-axis.
+So when <EXPRESSION> is = I'll just sample some points and draw some vectors when <EQUATION> let's say <EXPRESSION> is <EXPRESSION> there what's the magnitude of this vector? It'll be <EXPRESSION>, right? Actually, let me make this a different number, because it'll make it hard to do.
+Let's make this <EXPRESSION>.
+So when <EXPRESSION> is v, the magnitude of my vector is <EXPRESSION>.
+Only in the x-direction.
+It has no <EXPRESSION> component; ignore this right here.
+It's <EXPRESSION>.
+Or you could just say <EXPRESSION>.
+And when <EQUATION> I could have picked any points, but I'm just picking the numbers that's easy to calculate when EQUATION, what is the magnitude of the vector? It's <EXPRESSION>, which is <EXPRESSION>.
+So it's going to be twice as big.
+And remember, if I have a particle right here in my fluid, if this is a particle, its velocity in the x-direction is going to be 1 meter per second to the right.
+If I have a particle here, it's velocity in the x-direction is going to be <EXPRESSION> to the right.
+Let's just do one more point.
+So let's say that <EQUATION>.
+What's my velocity to the right? I'll do it in a different color just so that you don't get confused.
+There's going to be <EQUATION>; it's going to be even longer.
+But the general idea here, and as we move up in <EXPRESSION> it doesn't change much, right? It doesn't change at all.
+Our <EXPRESSION> value doesn't [COUGHS].
+So for any <EXPRESSION>, the magnitude of the vector doesn't change, right? It's only dependent on <EXPRESSION>.
+And then for example, here, it'll be even longer.
+If we draw the vector here it'll be even longer, right? If you do it here.
+I think you get the point.
+The further you go to the right, the faster the particles are moving towards the right.
+So now let's try to get a little bit of intuition.
+Oh, I just realized that I ran out of time, so I will continue this in the next video.

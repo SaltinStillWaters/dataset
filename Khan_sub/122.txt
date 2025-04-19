@@ -1,0 +1,96 @@
+Transcript for: Double integrals 3 | Double and triple integrals | Multivariable Calculus | 
+In the last a video we figured out the volume between this surface, which was <EXPRESSION> and the <EXPRESSION> plane when <EXPRESSION> went from <EXPRESSION> to <EXPRESSION> and <EXPRESSION> went from <EXPRESSION> to <EXPRESSION>.
+And the way we did it is we integrated with respect to <EXPRESSION> first.
+We said, pick a <EXPRESSION>, and let's just figure out the area under the curve.
+And so we integrated with respect to <EXPRESSION> first, and then we integrated with respect to <EXPRESSION>.
+But we could have done it the other way around.
+So let's do that and just make sure we got the right answer.
+So let me erase a lot of this.
+So remember, our answer was <EXPRESSION> when we integrated with respect to <EXPRESSION> first, and then with respect to <EXPRESSION>.
+But I will show you that we can integrate the other way around.
+That's good when you can get the same answer in two different ways.
+So let me redraw that graph because I want to give you the intuition again.
+So that's my x-axis, y-axis, z-axis.
+<EXPRESSION>, <EXPRESSION>, <EXPRESSION>.
+Then this is my <EXPRESSION> plane.
+down here.
+<EXPRESSION> goes from <EXPRESSION> to <EXPRESSION>; <EXPRESSION> goes from <EXPRESSION> to <EXPRESSION>, This is <EQUATION>, this is <EQUATION>, this is <EQUATION>, and then the graph I will do my best to draw it.
+Looks something let me get some contrast going here.
+So the graph looks something like this.
+Let me see if I can draw it.
+On this side it looks something like that and then it comes down like that, straight.
+And then, the volume we care about.
+It's actually this volume underneath the graph.
+This is the top of the surface on that side.
+We care about this volume underneath the surface.
+And then when we draw the bottom of the surface let me do it in a darker color looks something like this.
+This is the bottom underneath the surface.
+I can even shade it a little bit just to show you that it's the underneath.
+Hopefully that's a decent rendering of it.
+Let's look back at what we had before.
+It's like a page that I just flipped up at this point, and we care about this volume, kind of the colored area under there.
+So let's figure out how to do it.
+Last time we integrated with respect to x first.
+Let's integrate with respect to <EXPRESSION> first.
+So let's hold <EXPRESSION> constant.
+So if we hold <EXPRESSION> constant what we could do is for a given <EXPRESSION> let's pick an <EXPRESSION>.
+So if we pick a given <EXPRESSION>, let's pick the <EXPRESSION> here.
+Then what we can do, for a given <EXPRESSION>, you can view that function of <EXPRESSION> and <EXPRESSION>.
+If <EXPRESSION> is a constant, let's say if <EXPRESSION> is <EXPRESSION> then <EXPRESSION> is just = <EXPRESSION>.
+That's easy to figure out the area under because we can see that <EXPRESSION> isn't the constant, but we can treat it as a constant.
+So for example, for any given <EXPRESSION>, we would have a curve like this.
+What we could do is we could try to figure out the area of this curve first.
+So how do we do that? Well, we just said, we could kind of view this function up here as <EQUATION> squared because that's exactly what it is.
+But we're holding <EXPRESSION> constant.
+We're treating it like a constant.
+To figure out that area we could take a <EXPRESSION>, a change in <EXPRESSION>, multiply it by the height, which is <EXPRESSION>.
+So we take <EXPRESSION>, multiply it by <EXPRESSION>, and then if we want this entire area we integrate it from <EQUATION> to <EQUATION>.
+Fair enough.
+Now once we have that area, if you want the volume underneath this entire surface what we could do is we can multiply this area times <EXPRESSION> and get some depth going.
+Let me pick a nice color, that's green.
+So that's our <EXPRESSION>.
+So if we multiply that times <EXPRESSION> we would get some depth.
+Let me do a darker color, get some contrast.
+Sometimes I feel like that guy who paints on PBS.
+So now we have the volume of this, you kind of view it the area under the curve times a dx, so we have some depth here.
+So it's time <EXPRESSION>.
+And if we want to figure out the entire volume under this surface between the surface and the <EXPRESSION> plane given this constraint to our domain we just integrate from <EQUATION> to <EQUATION>.
+All right, so let's think about it.
+This area in green here that we started with, that should be a function of <EXPRESSION>.
+We held <EXPRESSION> constant, but depending on which <EXPRESSION> you pick this area is going to change.
+So when we evaluate this magenta inner integral with respect to <EXPRESSION> we should get a function of <EXPRESSION>.
+And then when you evaluate the whole thing we'll get our volumes.
+So let's do it.
+Let's evaluate this inner integral.
+Hold <EXPRESSION> constant.
+What's the antiderivative of <EXPRESSION>? It's <EXPRESSION>.
+The <EXPRESSION> is a constant, right? We're going to evaluate that at <EXPRESSION> and at <EXPRESSION>.
+The outer integral is still with respect to <EXPRESSION>.
+This = let's see.
+When you evaluate <EQUATION> you get <EXPRESSION>.
+That's <EXPRESSION>.
+So it's <EXPRESSION> minus when <EXPRESSION> is <EXPRESSION> then that whole thing just becomes <EXPRESSION>.
+This purple expression is just <EXPRESSION>.
+And then we still have the outside integral from <EXPRESSION> to <EXPRESSION>.
+So given what <EXPRESSION> we have, the area of this green surface that was where we started.
+Given any given <EXPRESSION>, that area I wanted something with some contrast.
+This area is <EXPRESSION> depending on which <EXPRESSION> you pick.
+If <EXPRESSION> is <EXPRESSION>, this area right here is <EXPRESSION>.
+But now we're going to integrate underneath the entire surface and get our volume.
+And like I said, when you integrate it, it's a function of <EXPRESSION>.
+So let's do that.
+And this is just plain old vanilla, standard integral.
+So what's the antiderivative of <EXPRESSION>? It's <EXPRESSION>.
+We have a <EXPRESSION> there so it = <EXPRESSION>.
+So <EXPRESSION>.
+And we're going to evaluate it at <EXPRESSION> and at <EXPRESSION>.
+<EQUATION>.
+Minus <EXPRESSION>, which = <EXPRESSION>.
+= <EXPRESSION>.
+What is <EXPRESSION>? Well, that's just the same thing as <EXPRESSION>.
+So the volume under the surface is <EXPRESSION>, and if you watched the previous video you will appreciate the fact that when we integrated the other way around, when we did it with respect to <EXPRESSION> first and then <EXPRESSION>, we got the exact same answer.
+So the universe is in proper working order.
+And I've surprisingly, actually finished this video with extra time.
+So for fun, we can just spin this graph and just appreciate the fact that we have figured out the volume between this surface, <EXPRESSION> and the <EXPRESSION> plane.
+Pretty neat.
+Anyway, I'll see you in the next video.

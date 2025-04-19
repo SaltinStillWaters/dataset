@@ -1,0 +1,148 @@
+Transcript for: Double integrals 6 | Double and triple integrals | Multivariable Calculus | 
+Welcome back.
+In the last video we were just figuring out the volume under the surface, and we had set up these integral bounds.
+So let's see how to evaluate it now.
+And look at this.
+I actually realized that I can scroll things, which is quite useful because now I have a lot more board space.
+So how do we evaluate this integral? Well, the first integral I'm integrating with respect to <EXPRESSION>.
+Right? I'm adding up the little <EXPRESSION> sums.
+So I'm forming this rectangle right here.
+Right? Or you could kind of view it I'm holding <EXPRESSION> constant and integrating along the x-axis.
+I should switch colors.
+So what's the antiderivative of <EXPRESSION> with respect to <EXPRESSION>? Well it's just <EXPRESSION>.
+And then I have the <EXPRESSION> that's just a constant all over <EXPRESSION>.
+And I'm going to evaluate that from <EQUATION> to <EXPRESSION>, which you might be daunted by.
+But you'll see that it's actually not that bad once you evaluate them.
+And then let me draw the outside of the integral.
+This is <EQUATION> to <EQUATION>.
+<EXPRESSION>.
+Now, if <EQUATION> this expression becomes <EXPRESSION>.
+Right? <EXPRESSION>, minus now if <EQUATION>, what does this expression become? If <EQUATION>, then <EXPRESSION> is just <EXPRESSION>.
+And then <EXPRESSION> is <EXPRESSION>.
+Right? So it's <EXPRESSION>.
+Fair enough.
+And now I take the integral with respect to <EXPRESSION>.
+So now I sum up all of these rectangles in the <EXPRESSION> direction.
+<EXPRESSION>, <EXPRESSION>.
+This is with respect to <EXPRESSION>.
+And that's cool, right? Because when you take the first integral with respect to <EXPRESSION> you end up with a function of <EXPRESSION> anyway, so you might as well have your bounds as functions of <EXPRESSION>.
+It really doesn't make it any more difficult.
+But anyway, back to the problem.
+What is the antiderivative of <EXPRESSION>? Well the antiderivative of <EXPRESSION>, so it's <EXPRESSION>.
+<EXPRESSION>.
+<EXPRESSION> over did I mess up some place? No, I think this is correct.
+<EXPRESSION>.
+Oh wait.
+How did I get a <EXPRESSION> here? That's where I messed up.
+This is a <EXPRESSION>, right? Let's see.
+<EXPRESSION> is <EXPRESSION>.
+Yeah, this is a <EXPRESSION>.
+I don't know how I ended up.
+Right? <EXPRESSION> is <EXPRESSION>, times <EXPRESSION>.
+Right.
+And then when I take the integral of this it's <EXPRESSION> times <EXPRESSION>.
+<EXPRESSION>.
+Got to make sure I don't make those careless mistakes.
+That's the tough part.
+I just want to make sure that you got that too.
+I hate it when I do that.
+But I don't want to re-record the whole video.
+So when I evaluated this right.
+This is right, and then I take the antiderivative of y to the third over <EXPRESSION>, I get y to the fourth over <EXPRESSION>.
+And now I evaluate this at <EXPRESSION> and <EXPRESSION>.
+And that give us what? <EXPRESSION> well both of these when you evaluate them, are going to be <EXPRESSION>.
+So this is going to be another <EXPRESSION>.
+So you don't have to worry about that.
+So what's <EXPRESSION>? Let's see.
+<EXPRESSION>.
+That's <EXPRESSION>, which = <EXPRESSION> is the volume of our figure.
+So this time, the way we just did it, we took the integral with respect to <EXPRESSION> first, and then we did it with respect to <EXPRESSION>.
+Let's do it the other way around.
+So let me erase some things.
+And hopefully I won't make these careless mistakes again.
+I'll keep this figure, but I'll even erase this one.
+Let me erase all of this stuff.
+We have room to work with.
+So I kept that figure.
+But let me redraw just the <EXPRESSION> plane, just so we get the visualization right.
+It's more important to visualize the <EXPRESSION> plane in these problems than it is to visualize the whole thing in 3-d.
+That's the y-axis, that's the x-axis.
+OK.
+Our upper bound, you can say, is the graph <EQUATION>.
+Or, you could view it as the bound <EQUATION>.
+That is <EQUATION>, that's <EQUATION>.
+And we care about the volume above the shaded region.
+Right? That shaded region is this yellow region right here.
+And let's draw our <EXPRESSION>.
+I'll draw a little square actually.
+And I'll do it in magenta.
+So that's our little <EXPRESSION>.
+And the height is <EXPRESSION>.
+That's a <EXPRESSION>.
+<EXPRESSION>.
+And it's with this <EXPRESSION>.
+Right? So the volume above this little square that's the same thing as this little square.
+Just like we said before, the volume above it = the value of the function.
+Right? The height is the value of the function, which is <EXPRESSION>.
+And then we multiply it times the area of the base.
+Well the area of the base, you could say it's da, but we know it's really <EXPRESSION>.
+I didn't have to write that times there.
+You can ignore it.
+And I wrote the <EXPRESSION> first just because we're going to integrate with respect to <EXPRESSION> first.
+We're going to sum in the <EXPRESSION> direction.
+So what does summing in the <EXPRESSION> direction mean? It means we're going to add that square to that square to that square [COUGHING] Excuse me.
+So we're adding all the <EXPRESSION> together, right? So my question to you is, what is the upper bound on the <EXPRESSION>? Well once again, we bump into the curve.
+Right? So the curve is the upper bound when we go upwards.
+And what is the upper bound on the curve? Well we're holding <EXPRESSION> fixed, so for any given <EXPRESSION> what is this point? Well that's going to be <EXPRESSION>.
+Right? Because this is the graph of <EQUATION>.
+So our upper bound is <EQUATION>.
+And what's our lower bound? We can keep adding these squares down here.
+We're adding all the little changes in .
+So what's our lower bound? Well our lower bound is just <EXPRESSION>.
+That was pretty straightforward.
+So this expression, as it is written right now, is the volume above this rectangle.
+Right? Let me draw it.
+Is the volume above this rectangle.
+These are the same rectangles.
+The volume above that rectangle.
+Now what we want to do is add up all the <EXPRESSION> together, and we'll get the volume above the entire surface.
+So that rectangle, now we'll add it to another <EXPRESSION> one, <EXPRESSION> one like that.
+So what's the upper and lower bounds on the <EXPRESSION>? We're going from <EQUATION>, right? We don't bump into the graph when we go all the way down.
+So we go from <EQUATION>.
+And then our upper bound is <EQUATION>.
+So <EQUATION>, <EQUATION>.
+And in general, one way to think about it is when you're doing kind of the last sum or the last integral, you really shouldn't have variable boundaries at this point.
+Right? Because our final answer has to be a number, assuming that we're not dealing with something very, very abstract.
+But our final answer is going to have a number.
+So if you had some variables here you probably did something wrong.
+And it's always useful, I think, to draw that little da and then figure out OK, I'm summing to <EXPRESSION> first.
+When I go upwards I bump into the curve.
+What is that upper bound if <EXPRESSION> is constant? Oh, it's <EXPRESSION>.
+<EQUATION>.
+If I go down I bump into the x-axis, or <EQUATION>.
+And so forth and so on.
+So now let's just evaluate this and confirm that we get the same answer.
+So we're integrating with respect to <EXPRESSION> first.
+So that's <EXPRESSION>.
+At <EXPRESSION> and <EXPRESSION>.
+And then we have our outer integral.
+<EXPRESSION> goes from <EXPRESSION> to <EXPRESSION>.
+<EXPRESSION>.
+If we substitute <EXPRESSION> in for <EXPRESSION>.
+<EXPRESSION> is <EXPRESSION>.
+<EXPRESSION> let me write that.
+So we have <EXPRESSION>.
+That = <EXPRESSION>.
+Right? <EXPRESSION> you multiply the exponents, and then you add these.
+<EXPRESSION> this evaluated with <EXPRESSION> is <EXPRESSION>.
+But that's just going to be <EXPRESSION>.
+Right? And then we evaluate that from <EXPRESSION> to <EXPRESSION>, <EXPRESSION>.
+We're almost there.
+Increment the exponent.
+You get <EXPRESSION>.
+And we already have a <EXPRESSION> down there, so it's over <EXPRESSION>.
+And you evaluate that from <EXPRESSION> to <EXPRESSION>.
+And I think we get the same answer.
+When you evaluate it at <EXPRESSION> you get <EXPRESSION>.
+So once again, when we integrate in the other order you still get the volume of the figure, being <EXPRESSION>, whatever, cubic units.
+Anyway, see you in the next video.

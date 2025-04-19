@@ -1,0 +1,95 @@
+Transcript for: Line integral example 2 (part 2) | Multivariable Calculus | 
+In the last video, we set out to figure out the surface area of the walls of this weird-looking building, where the ceiling of the walls was defined by the function f of xy = x plus y squared, and then the base of this building, or the contour of its walls, was defined by the path where we have a circle of radius <EXPRESSION> along here, then we go down along the y-axis, and then we take another left, and we go along the <EXPRESSION> axis, and that was our building.
+And in the last video, we figured out this first wall's surface area.
+In fact, you can think of it, our original problem is, we wanted to figure out the line integral along the closed path, so it was a closed line integral, along the closed path <EXPRESSION>, and we're always multiplying <EXPRESSION> little bit, a little, small distance of our path, <EXPRESSION>.
+We're writing this in the most abstract way possible.
+And what we saw in the last video is, the easiest way to do this is to break this up into multiple paths, or into multiple problems.
+So you can imagine, this whole contour, this whole path we call c, but we could call this part, we figured out in the last video, <EXPRESSION>.
+This part we can call, let me make a pointer, <EXPRESSION>, and this point right here is <EXPRESSION>.
+So we could redefine, or we can break up, this line integral, this closed-line integral, into 3 non-closed line integrals.
+This will be = the line integral along the path <EXPRESSION> of <EXPRESSION>, plus the line integral along <EXPRESSION> plus the line integral, you might have guessed it, along <EXPRESSION>, and in the last video, we got as far as figuring out this first part, this first curvy wall all right here.
+Its surface area, we figured out, was <EXPRESSION>.
+Now we've got to figure out the other <EXPRESSION> parts.
+So let's do <EXPRESSION>, let's do this line integral next.
+And in order to do it, we need to do another parameterization of <EXPRESSION> and <EXPRESSION>.
+It's going to be different than what we did for this part.
+We're no longer along this circle, we're just along the <EXPRESSION> axis.
+So as long as we're there, <EXPRESSION> is definitely going to be <EXPRESSION>.
+So that's my parameterization, <EQUATION>.
+If we're along the <EXPRESSION> axis, <EXPRESSION> is definitely = <EXPRESSION>.
+And then <EXPRESSION>, we could say it starts off at <EQUATION>.
+Maybe we'll say <EQUATION>, for <EXPRESSION> is between <EXPRESSION>, <EXPRESSION> is greater than or = <EXPRESSION>, less than or = <EXPRESSION>.
+And that should work.
+When <EQUATION>, we're at this point right there, and then as t increases towards <EXPRESSION>, we move down the <EXPRESSION> axis, until eventually when <EQUATION>, we're at that point right there.
+So that's our parameterization.
+And so let's evaluate this line, and we could do our derivatives, too, if we like.
+What's the derivative, I'll write it over here.
+What's <EXPRESSION>? Pretty straightforward.
+Derivative of <EXPRESSION> is <EXPRESSION>, and <EXPRESSION> = the derivative of this.
+It's just <EXPRESSION>, right? <EXPRESSION>, derivative of <EXPRESSION>, is just <EXPRESSION>.
+And so let's just break it up.
+So we have this thing right here, so we have the integral along <EXPRESSION>.
+But let's, instead of writing <EXPRESSION>, I'll leave <EXPRESSION> there, but we'll say were going from <EQUATION> to <EXPRESSION>.
+<EXPRESSION> is this thing right here, is <EXPRESSION>.
+And we know from the last several videos, <EXPRESSION> can be rewritten as <EXPRESSION>, so <EXPRESSION>, so <EXPRESSION> is <EXPRESSION>, all of that times <EXPRESSION>.
+And obviously, this is pretty nice and clean.
+This is <EXPRESSION>, square root, this just becomes <EXPRESSION>.
+And then what is <EXPRESSION>? <EXPRESSION>, if we write it in terms of our parameterization, is always going to be = <EXPRESSION>, and then <EXPRESSION> is going to be <EXPRESSION>.
+So this is going to be <EXPRESSION>.
+So this whole crazy thing simplified to, we're going to go from <EQUATION> to <EQUATION>, the <EXPRESSION> disappears in our parameterization, <EXPRESSION> just stays <EXPRESSION>, regardless of what t is, and then you have <EXPRESSION>, but <EXPRESSION> is the same thing as <EXPRESSION>, so <EXPRESSION>, and then you have your dt sitting out there.
+This is pretty straightforward.
+I always find it easier when you're finding an antiderivative of this, although you can do this in your head, I like to just actually multiply out this binomial.
+So this is going to be = the antiderivative from <EQUATION> to <EQUATION>.
+And this is pretty straightforward.
+This is going to be, the antiderivative of this is <EXPRESSION>, right? When you take the derivative, there's <EXPRESSION>, and then you have <EXPRESSION>, right? These are just simple antiderivatives, and we need to evaluate it from <EXPRESSION> to <EXPRESSION>.
+And so let's evaluate it at <EXPRESSION>.
+<EXPRESSION> is <EXPRESSION>, let me pick a new color.
+<EXPRESSION> is <EXPRESSION>, <EXPRESSION>, so <EXPRESSION>, so <EXPRESSION>.
+So <EXPRESSION>.
+So these cancel out.
+We have <EXPRESSION>, and we just have <EXPRESSION>.
+So this just becomes <EXPRESSION>.
+And then we have to put a <EXPRESSION> in, minus <EXPRESSION> evaluate here, but it's just going to be <EXPRESSION>.
+We have <EXPRESSION>, <EXPRESSION>, all of these are going to be <EXPRESSION>.
+So minus <EXPRESSION>.
+So just like that, we found our surface area of our second wall.
+This turned out being, this right here is <EXPRESSION>.
+And now we have our last wall, and then we can just add them up.
+So we have our last wall.
+I'll do another parameterization.
+I want to have the graph there.
+Well, maybe I can paste it again.
+Edit.
+So there's the graph again.
+And now we're going to do our last wall.
+So our last wall is this one right here, which is, we could write it, you know, this was <EXPRESSION>.
+Let me switch colors here.
+So this is <EXPRESSION>, we're going to go along contour <EXPRESSION>, which is the same thing as, let's do a parameterization.
+Along this curve, if we just say, <EQUATION>, very straight forward, for <EXPRESSION> is greater than or = <EXPRESSION>, less than or = <EXPRESSION>, and this whole time that we're along the <EXPRESSION> axis, <EXPRESSION> is going to be = <EXPRESSION>.
+That's pretty straightforward parameterization.
+So this is going to be =, we're going to go from <EQUATION> to <EQUATION>, which is, I'll write in terms of <EXPRESSION> right now, <EXPRESSION> and <EXPRESSION>, <EXPRESSION>.
+Now, what is <EXPRESSION> well, let me write <EXPRESSION> right here.
+Times <EXPRESSION>.
+That's what we're dealing with.
+Now we know what <EXPRESSION> is.
+<EQUATION>.
+We proved that in the first video.
+Or we didn't rigorously prove it, but we got the sense of why this is true.
+And what's the derivative of <EXPRESSION> with respect to t<EXPRESSION>? Well, that's just <EXPRESSION>, so this is just going to be a <EXPRESSION>, same thing.
+And the derivative of <EXPRESSION> with respect to <EXPRESSION> is <EXPRESSION>.
+So this is is <EXPRESSION>, <EXPRESSION> is <EXPRESSION>, square root of <EXPRESSION> is <EXPRESSION>.
+So this thing just becomes <EXPRESSION>.
+ds is going to be = <EXPRESSION>, in this case.
+So this just becomes a <EXPRESSION>.
+And then our <EXPRESSION> is going to be = <EXPRESSION>, that's part of our definition of our parameterization, and <EXPRESSION> is <EXPRESSION>, so we can ignore it.
+So this was a super-simple integral.
+So this simplified down to, we're going to go from <EXPRESSION> to <EXPRESSION>, which = the antiderivative of <EXPRESSION> is just <EXPRESSION>, and we're going to go <EXPRESSION> to <EXPRESSION>, which = <EXPRESSION>.
+<EXPRESSION> is <EXPRESSION>, <EXPRESSION> is <EXPRESSION>, and then <EXPRESSION>.
+So this third wall's area right there is just <EXPRESSION>.
+Pretty straightforward.
+So that right there, the area there, is just <EXPRESSION>.
+And so to answer our question, what was this line integral evaluated over this closed path of <EXPRESSION>? Well, we just add up these numbers.
+We have <EXPRESSION>, well, what is this.
+<EXPRESSION> is same thing as <EXPRESSION>, so we have <EXPRESSION> is <EXPRESSION> and <EXPRESSION>, plus another <EXPRESSION> is <EXPRESSION> and <EXPRESSION>, so this whole thing becomes <EXPRESSION>, if we write it as a mixed number, plus <EXPRESSION>.
+And we're done! And we're done.
+Now we can start trying to do line integrals with vector-valued functions.

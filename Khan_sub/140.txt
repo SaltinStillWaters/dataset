@@ -1,0 +1,65 @@
+Transcript for: Parametrization of a reverse path | 
+What I want to do in the next few videos is try to see what happens to a line integral, either a line integral over a scalar field or a vector field, but what happens that line integral when we change the direction of our path? So let's say, when I say change direction, let's say that I have some curve <EXPRESSION> that looks something like this.
+We draw the x- and y- axis.
+So that's my y-axis, that is my x-axis, and let's say my parameterization starts there, and then as <EXPRESSION> increases, ends up over there just like that.
+So it's moving in that direction.
+And when I say I reverse the path, we could define another curve.
+Let's call it <EXPRESSION>, that looks something like this.
+That is my y-axis, that is my x-axis.
+And it looks exactly the same, but it starts up here, and then as t increases, it goes down to the starting point of the other curve.
+So it's the exact same shape of a curve, but it goes in the opposite direction.
+So what I'm going to do in this video is just understand how we can construct a parameterization like this, and hopefully understand it pretty well.
+And then next two videos after this, we'll try to see what this actually does to the line integral, one for a scalar field, and then one for a vector field.
+So let's just say, this parameterization right here, let's just define it in the basic way that we've always defined them.
+Let's say that this is <EQUATION>, <EQUATION>, and let's say this is from <EXPRESSION> is =, or <EXPRESSION>, let me write this way.
+<EXPRESSION> starts at <EXPRESSION>, so <EXPRESSION> is greater than or = <EXPRESSION>, and it goes up to <EXPRESSION>.
+So in this example, this was when <EQUATION>, and the point right here is the coordinate <EXPRESSION>.
+And then when <EQUATION> up here, this is really just a review of what we've seen before, really just a review of parameterization, when <EQUATION> up here, this is the point <EXPRESSION>.
+Nothing new there.
+Now given these functions, how can we construct another parameterization here that has the same shape, but that starts here? So I want this to be, <EQUATION>.
+Let me switch colors.
+Let me switch to, maybe, magenta.
+So I want this to be <EQUATION>, and as <EXPRESSION> increases, I want this to be <EQUATION>.
+So I want to move in the opposite direction.
+So when <EQUATION>, I want my coordinate to still be <EXPRESSION>.
+When <EQUATION>, I want a <EXPRESSION> in each of these functions, and when <EQUATION>, I want the coordinate to be <EXPRESSION>.
+Right? Notice, they're opposites now.
+Here <EQUATION>, <EXPRESSION>, here <EQUATION>, our endpoint.
+Now I'm at this coordinate, <EXPRESSION>.
+So how do I construct that? Well, if you think about it, when <EQUATION>, we want both of these functions to evaluate it at <EXPRESSION>.
+So what if we define our <EXPRESSION>, in this case, for our <EXPRESSION> curve, what if we say <EQUATION>, and when I say <EXPRESSION> of I'm talking about the same exact function.
+Actually, maybe I should write it in that same exact color.
+<EXPRESSION> but instead of putting <EXPRESSION> in there, instead of putting a straight-up <EXPRESSION> in there, what if I put an a <EXPRESSION> in there? What happens? Well, let me do it for the <EXPRESSION> as well.
+So then our <EXPRESSION>, <EQUATION>.
+<EXPRESSION> is <EXPRESSION>.
+I'm using slightly different shades of yellow, might be a little disconcerting.
+Anyway, what happens when we define this? When <EQUATION>, when <EQUATION>, let's say that this parameterization is also for <EXPRESSION> starts at <EXPRESSION> and then goes up to <EXPRESSION>.
+So let's just experiment and confirm that this parameterization really is the same thing as this thing, but it goes in an opposite direction.
+Or at least, confirm in our minds intuitively.
+So when <EQUATION>, when <EQUATION>, <EXPRESSION> will be = <EXPRESSION>, right? This is when <EQUATION>, so <EXPRESSION>, or <EXPRESSION>, which = what? Well, <EXPRESSION>, cancel out, that's = <EXPRESSION>.
+Similarly, when <EQUATION>, <EXPRESSION> will be = <EXPRESSION>.
+The <EXPRESSION> cancel out, so it's = <EXPRESSION>.
+So that worked.
+When <EQUATION>, my parameterization evaluates to the coordinate <EXPRESSION>.
+When <EQUATION>, <EXPRESSION>.
+Then we can do the exact same thing when <EQUATION>.
+I'll do it over here, because I don't want to lose this.
+Let me just draw a line here.
+I'm still dealing with this parameterization over here.
+Actually, let me scroll over to the right, just so that I don't get confused.
+When <EQUATION>, when <EQUATION>, what does <EXPRESSION> =? <EQUATION>, right? <EXPRESSION> when <EQUATION>.
+So that's = <EXPRESSION>.
+and then when she's able to be why = lie of <EXPRESSION>, and of course, that's going to be = <EXPRESSION>.
+So the endpoints work, and if you think about it intuitively, as <EXPRESSION> increases, so when <EXPRESSION> is at <EXPRESSION>, this thing is going to be <EXPRESSION>.
+We saw that down here.
+Now as <EXPRESSION> increases, this value is going to decrease.
+We started <EXPRESSION>, and as <EXPRESSION> increases, this value is going to decrease to <EXPRESSION>, right? It starts from <EXPRESSION>, and it goes to <EXPRESSION>.
+This one obviously starts at <EXPRESSION>, and it goes to <EXPRESSION>.
+So hopefully, that should give you the intuition why this is the exact same curve as that.
+It just goes in a completely opposite direction.
+Now, with that out of the way, if you accept what I've told you, that these are really the same parameterizations, just opposite directions.
+I shouldn't say same parameterizations.
+Same curve going in an opposite direction, or same path going in the opposite direction.
+In the next video, I'm going to see what happens when we evaluate this line integral, <EXPRESSION>, versus this line integral.
+So this is a scalar field, a line integral of a scalar field, using this curve or this path, but what happens if we take a line integral over the same scalar field, but we do it over this reverse path? That's what we're going to do in the next video.
+And the video after that, we'll do it for vector fields.

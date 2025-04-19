@@ -1,0 +1,64 @@
+Transcript for: AP Calculus BC exams: 2008 1 a | AP Calculus BC | 
+I received a suggestion that I do actual old AP exam problems, and I looked on the internet and lo and behold, on the college board site, if you go to collegeboard.
+com, you can actually get I couldn't find the actual multiple choice questions, but you can find the free response questions, and so this question is actually the first free response question that they have on the calculus BC that was administered just recently in 2008.
+So let's do this problem.
+And frankly, if you understand how to do all of the free response questions, you probably will do fairly well on the multiple choice, because the free response tend to be a little bit more challenging, especially the last parts of the free response.
+Well anyway, let's do this one.
+So I'll just read it out, because I don't want to write it out all here, but this is the actual diagram.
+I actually copied and pasted this from the PDF that they provide on collegeboard.
+com.
+So it says, let <EXPRESSION> this is <EXPRESSION> be the region bounded by the graphs of <EQUATION>.
+So let me write that down.
+So this top graph is <EQUATION>.
+and then the bottom graph is <EQUATION>.
+And how did I know that this was the bottom one? Well I knew that this one was <EXPRESSION>, right? Because sine looks like this.
+It doesn't look like that, right? When you go <EXPRESSION> is <EXPRESSION>, <EXPRESSION> is <EXPRESSION>, <EXPRESSION> is <EXPRESSION>.
+So we do this as <EXPRESSION>.
+Well anyway, they want so this is the region between these two functions and part A of this and this is kind of the softball question, just to make sure that you know how to do definite integrals and it says, find the area of <EXPRESSION>.
+So how do we do that? I think you know that we're going to do a little definite integration, so let's do that.
+So then we're going to take the definite integral, so let's just say the <EQUATION>.
+So what are the <EXPRESSION> values? We're going to be going from <EQUATION> to <EQUATION>.
+And what's this? At any given point value of <EXPRESSION>, what is kind of going to be the high when we're taking the area, we're taking a bunch of rectangles that are of dx width, right? So that's that's not dark enough, I don't think that you can see that so that's one of my rectangles.
+Whoops.
+Let's say that's one of my rectangles right here that I'm going to be summing up.
+Its width is <EXPRESSION>.
+What's its height? Its height is going to be this top function minus this bottom function.
+So, essentially, we're going to take the sum of all of these rectangles, so its height is going to be let me switch colors arbitrarily the height is going to be the top function minus the bottom function.
+So <EXPRESSION> here minus the bottom function.
+So <EXPRESSION> plus <EXPRESSION>.
+Since I'm subtracting, I switched both of these signs.
+And all of that times the width of each of these little rectangles which is infinitely small <EXPRESSION>.
+And we're going to sum them all up from <EQUATION> to <EQUATION>.
+This should be fairly straightforward for you.
+So how do we evaluate this? Well, we essentially take the antiderivative of this and then evaluate that at <EXPRESSION> and then evaluate at <EXPRESSION>.
+What's the antiderivative of <EXPRESSION>? Well, what functions derivative is <EXPRESSION>.
+<EXPRESSION> let's see.
+If I were to take the derivative of <EXPRESSION> let's say I took the derivative of <EXPRESSION>.
+This should be reasonably familiar to you.
+<EXPRESSION>, if I were to take the derivative of it, what do I get? That = <EXPRESSION>.
+You take the derivative of the inside, right? By the chain rule.
+So it's <EXPRESSION> times the derivative of the whole thing.
+The derivative of <EXPRESSION> is minus <EXPRESSION>, so the derivative to this is going to be times minus <EXPRESSION>, or you could say that = <EXPRESSION>.
+So the derivative of <EXPRESSION> is almost this, it just has that <EXPRESSION> there, right? So let's see if we can rewrite this so it looks just like the derivative of <EXPRESSION>.
+And I'll switch to magenta.
+I want to make sure I have enough space to do this entire problem.
+So let's write <EXPRESSION>.
+All I did, when you evaluate this, <EQUATION>, so I can do this times <EXPRESSION>, and then that's <EXPRESSION>, and then all of that times <EXPRESSION>.
+Well now we have it.
+We know that the antiderivative of this is <EXPRESSION>, right? And this is just a constant term.
+So what's the antiderivative of this whole thing? And I'll arbitrarily switch colors again.
+The antiderivative is <EXPRESSION>.
+So we have minus <EXPRESSION> remember, I could just carry this over, this is just a constant term this antiderivative is this right here.
+And then these are a little bit more straightforward.
+So minus the antiderivative of <EXPRESSION> is <EXPRESSION> plus the antiderivative of this is <EXPRESSION>, or you could just view that as <EXPRESSION>, and then we're going to evaluate that at <EXPRESSION> and at <EXPRESSION>, and let's do that.
+So this = <EXPRESSION>, and we'll have a minus sign out here, so <EXPRESSION>, <EXPRESSION>.
+<EXPRESSION> is <EXPRESSION>, <EXPRESSION> is <EXPRESSION>, <EXPRESSION> is <EXPRESSION>, so it's <EXPRESSION>, <EXPRESSION> is <EXPRESSION>, so <EXPRESSION>, so that's the antiderivative evaluated at <EXPRESSION>, and now let's subtract it evaluated at <EXPRESSION>.
+So this will be minus <EXPRESSION> all right, that's that evaluated at <EXPRESSION> minus <EXPRESSION>, plus <EXPRESSION>.
+So these terms don't contribute anything when you evaluate them at <EXPRESSION>.
+And so what do we get? What's cosine of 2pi? <EXPRESSION> is the same thing <EXPRESSION>, and it = <EXPRESSION>.
+What is the <EXPRESSION> value of the unit circle at <EXPRESSION>, or at <EXPRESSION>? It's = <EXPRESSION>.
+So this = <EXPRESSION>, and so this minus minus, those both become pluses, <EXPRESSION> is also <EXPRESSION>, so plus <EXPRESSION>, and so this <EXPRESSION> and this <EXPRESSION> will cancel out, and all we're left with is <EXPRESSION> and that = <EXPRESSION>.
+So that is part one, part A of number one, on the 2008 DC free response questions.
+It actually took me a whole video just to do that part.
+In the next video, I'll do part B, and we'll just keep doing this, and I'll try to do a couple of these every day.
+See you soon.

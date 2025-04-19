@@ -1,0 +1,105 @@
+Transcript for: Position vector valued functions | Multivariable Calculus | 
+All of the work we've been doing so far with line integrals has been with scalar functions or scalar-valued functions.
+And when I say that, that just means you give me an <EXPRESSION> and a <EXPRESSION> and you evaluate the function at that <EXPRESSION> and <EXPRESSION>, and you get another scalar value.
+You get just a number.
+You don't get a vector.
+So what I want to do in this video is start to get ourselves warmed up with regards to vectors so that we can understand what it means to take a line integral with vector-valued functions.
+So let me write down some vector-valued functions.
+Actually, even a better place to start, let me draw a curve or let me describe a curve.
+So let's put that little <EXPRESSION> to the side.
+We can ignore it for now.
+Let's say I have some curve <EXPRESSION> and it's described, it can be parameterized I can't say that word as let's say, <EQUATION>, <EQUATION>.
+And let's say that this is valid for <EXPRESSION> is between <EXPRESSION> and <EXPRESSION>.
+So t is greater than or = <EXPRESSION> and then, less than or = <EXPRESSION>.
+So if I were to just draw this on let me see I could draw it like this.
+I'm staying very abstract right now.
+This is not a very specific example.
+This is the <EXPRESSION> axis.
+This is the <EXPRESSION> axis.
+My curve let's say this is when <EQUATION>.
+And then the curve might do something like this.
+I don't know what it does.
+Let's say it's over there.
+This is <EQUATION>.
+This actual point right here will be <EXPRESSION>.
+That would be the <EXPRESSION>.
+You evaluate this function at <EXPRESSION> and <EXPRESSION>.
+And this is, of course, when <EQUATION>.
+The actual coordinate in <EXPRESSION> on the Cartesian coordinates will be <EXPRESSION>, which is this right here.
+And then, <EXPRESSION>, which is that right there.
+And we've seen that before.
+That's just a standard way of describing a parametric equation or curve using <EXPRESSION> parametric equations.
+What I want to do now is describe this same exact curve using a vector-valued function.
+So if I define a vector-valued function and if you don't remember what those are, we'll have a little bit of review here.
+Let me say I have a vector-valued function, <EXPRESSION>, and I'll put a little vector arrow on top of it.
+And a lot of textbooks, they'll just bold it and they'll leave scalar-valued functions unbolded.
+But it's hard to draw bold, so I'll put a little vector on top.
+And let's say that <EXPRESSION> is a function of <EXPRESSION>.
+And these are going to be position vectors.
+And I'm specifying that because, in general, when someone talks about a vector, this vector and this vector are considered equivalent.
+As long as they have the same magnitude and direction, no one really cares about what their start and end points are as long as their direction's the same and their length is the same.
+But when you talk about position vectors you're saying no, these vectors are all going to start at <EXPRESSION>, at the origin.
+And when you say it's a position vector, you're implicitly saying this is specifying a unique position.
+In this case, it's going to be in two-dimensional space, but it could be in three-dimensional space.
+Or really, even <EXPRESSION>, <EXPRESSION>, whatever <EXPRESSION> dimensional space.
+So when you say it's a position vector, you're literally saying, OK, this vector literally specifies that point in space.
+So let's see if we can describe this curve as a position vector-valued function.
+So we could say <EXPRESSION>.
+Let me switch back to that pink color.
+This can stay in green.
+= <EXPRESSION> times the unit vector in the <EXPRESSION> direction.
+The unit vector gets a little caret on top a little hat.
+That's like the arrow for it.
+That just says it's a unit vector.
+<EXPRESSION>.
+If I was dealing with a curve in three dimensions I would have <EXPRESSION>.
+But we're dealing with two dimensions right here.
+And so the way this works is you're just taking your well, for any <EXPRESSION> and still, we're going to have <EXPRESSION> is greater than or = <EXPRESSION> and then, less than or = <EXPRESSION>.
+And this is the exact same thing as that.
+Let me just redraw it.
+So let me draw our coordinates.
+Our coordinates right here, our axes.
+So that's the y-axis and this is the x-axis.
+So when you evaluate <EXPRESSION>, that's our starting point.
+So let me do that.
+So <EXPRESSION> maybe I'll do it right over here.
+Our position vector-valued function evaluated at <EXPRESSION>, is going to be = <EXPRESSION> times our unit vector in the <EXPRESSION> direction.
+<EXPRESSION> times our unit vector in the vertical direction, or in the <EXPRESSION> direction.
+And what's that going to look like? Well, <EXPRESSION> is this thing right here, so it's <EXPRESSION> times a unit vector.
+You know, maybe the unit vector is this long.
+It has length <EXPRESSION>, so now we're just going to have a length of <EXPRESSION> in that direction.
+And then, same thing in <EXPRESSION>.
+It's going to be <EXPRESSION> length in that direction.
+But the bottom line, this vector right here if you add these scaled values of these two unit vectors, you're going to get <EXPRESSION> looking something like this.
+it's going to be a vector that looks something like that.
+Just like that.
+It's a position vector.
+That's why we're nailing it at the origin, but drawing it in standard position.
+And that right there is <EXPRESSION>.
+Now what happens if <EXPRESSION> increases a little bit? What is <EXPRESSION>? And I don't know, we could call that <EXPRESSION> or <EXPRESSION>.
+I'll do it in a different color.
+Let's say we increase a a little bit.
+<EXPRESSION>.
+Well, that's just going to be <EXPRESSION>.
+<EXPRESSION>.
+And what's that going to look like? Well, we're going to go a little bit further down the curve.
+That's like saying the coordinate <EXPRESSION> and <EXPRESSION>.
+I might be that point right there.
+So it'll be a new unit vector.
+Sorry, it'll be a new vector position vector not a unit vector.
+These don't necessarily have length <EXPRESSION>.
+That might be right here.
+Let me do that same color as this.
+So it might be just like that.
+So that right here is <EXPRESSION>.
+So you see, as you keep increasing you value of t until you get to <EXPRESSION>, these position vectors we're going to keep specifying points along this curve.
+So the curve let me draw the curve in a different color.
+The curve looks something like this.
+It's meant to look exactly like the curve that I have up here.
+And for example, <EXPRESSION> is going to be a vector that looks like this.
+It's going to be a vector that looks like that.
+I want to draw it relatively straight.
+That vector right there is <EXPRESSION>.
+So hopefully you realize that, look, these position vectors really are specifying the same points on this curve as this original, I guess, straight up parameterization that we did for this curve.
+And I just wanted to that as a little bit of review because we're now going to break in into the idea of actually taking a derivative of this vector-valued function.
+And I'll do that in the next video.

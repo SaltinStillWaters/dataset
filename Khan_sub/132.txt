@@ -1,0 +1,126 @@
+Transcript for: Line integral example 2 (part 1) | Multivariable Calculus | 
+So let's say I have a function of <EXPRESSION> and <EXPRESSION>; <EQUATION>.
+If I try to draw that, let's see if I can have a good attempt at it.
+That is my <EXPRESSION> axis I'm going to do a little perspective here this is my <EXPRESSION> axis I make do the <EXPRESSION> and <EXPRESSION> axis, could do it in that direction this is my <EXPRESSION> axis here.
+And if I were to graph this when <EXPRESSION> is <EXPRESSION>, it's going to be just a let me draw it in yellow is going to be just a straight line that looks something like that.
+And then for any given actually, we're going to have a parabola in <EXPRESSION>.
+<EXPRESSION> is going to look something like that.
+I'm just going to it in the positive quadrant.
+It's going to look something like that.
+It'll actually, when you go into the negative <EXPRESSION>, you're going to see the other half of the parabola, but I'm not going to worry about it too much.
+So you're going to have this surface.
+it looks something like that.
+Maybe I'll do to another attempt at drawing it.
+But this is our ceiling we're going to deal with again.
+And then I'm going to have a path in the <EXPRESSION> plane.
+I'm going to start at the point <EXPRESSION> comma <EXPRESSION>.
+<EQUATION>, <EXPRESSION> is <EXPRESSION>.
+And I'm going to travel, just like we did in the last video, I'm going to travel along a circle, but this time the circle's going to have of radius <EXPRESSION>.
+Move counter clockwise in that circle.
+This is on the <EXPRESSION> plane, just to be able to visualize it properly.
+So this right here's a point <EXPRESSION>, <EXPRESSION>.
+And I'm going to come back along the <EXPRESSION> axis.
+This is my path; I'm going to come back along the <EXPRESSION> access and then so I look a left here, and then I'm going to take another left here in and come back along the <EXPRESSION> axis.
+I drew it in these two shades of green.
+That is my contour.
+And what I want to do is I want to evaluate the surface area of essentially this little building that has the roof of <EQUATION>, and I want to find the surface area of its walls.
+So you'll have this wall right here, whose base is the <EXPRESSION> axis.
+Then you're going to have this wall, which is along the curve; it's going to look something like kind of funky wall on that curved side right there.
+I'll try my best effort to try to it's going to be curving way up like that and then along the <EXPRESSION> axis.
+It's going to have like a half a parabolic wall right there.
+I'll do that back wall along the <EXPRESSION> axis.
+I'll do that in orange, I'll use magenta.
+That is the back wall along the <EXPRESSION> axis.
+Then you have this front wall along the <EXPRESSION> axis.
+And then you have this weird curvy curtain or wall do that maybe in blue that goes along this curve right here, this part of a circle of radius <EXPRESSION>.
+So hopefully you get that visualization.
+It's a little harder; I'm not using any graphic program at this time.
+But I want to figure out the surface area, the combined surface area of these three walls.
+And in very simple notation we could say, well, the surface area of those walls of this wall plus that wall plus that wall is going to be = the line integral along this curve, or along this contour however you want to call it of <EXPRESSION>, so that's <EXPRESSION>, where <EXPRESSION> is just a little length along our contour.
+And since this is a closed loop, we'll call this a closed line interval.
+And we'll sometimes see this notation right here.
+Often you'll see that in physics books.
+And we'll be dealing with a lot more.
+And we'll put a circle on the interval sign.
+And all that means is that the contour we're dealing with is a closed contour; we get back to where we started from.
+But how do we solve this thing? A good place to start is to just to find the contour itself.
+And just to simply it, we're going to divide it into three pieces and it essentially just do three separate line integrals.
+Because you know, this isn't a very continuous contour.
+so the first part.
+Let's do this first part of the curve where we're going along a circle of radius <EXPRESSION>.
+And that's pretty easy to construct if we have x let me do each part of the contour in a different color, so if I do orange this part of the contour if we say that <EQUATION> and <EQUATION> and if we say that <EXPRESSION> and this is really just building off what we saw on the last video if we say that <EXPRESSION> and that this is from <EXPRESSION> is a greater than or = <EXPRESSION> and is less than or = <EXPRESSION> is essentially going to be the angle that we're going along the circle right here.
+This will actually describe this path.
+And if you know, how I constructed this is little confusing, you might want to review the video on parametric equations.
+So this is the first part of our path.
+So if we just wanted to find the surface area of that wall right there, we know we're going to have to find <EXPRESSION>, <EXPRESSION> and <EXPRESSION>, <EXPRESSION>.
+So let's get that out of the way right now.
+So if we say dx, dt is going to be = <EXPRESSION>, <EXPRESSION> is going to be = <EXPRESSION>; just the derivatives of these.
+We've seen that many times before.
+So it we want this orange wall's surface area, we can take the integral and if any of this is confusing, there are two videos before this where we kind of derive this formula but we could take the integral from <EQUATION> our function of <EXPRESSION>.
+So <EXPRESSION> will give the height of each little block.
+And then we want to get the width of each little block, which is <EXPRESSION>, but we know that we can rewrite the <EXPRESSION> as the square root give myself some room right here of <EXPRESSION> of the derivative of <EXPRESSION> with respect to <EXPRESSION> so that is <EXPRESSION> plus the derivative of <EXPRESSION> with respect to <EXPRESSION>.
+This will give us the orange section, and then we can worry about the other two walls.
+And so how can we simplify this? Well, this is going to be = the integral from <EXPRESSION> to <EXPRESSION>.
+And actually, let me write everything in terms of .
+So <EQUATION>.
+So let me write that down.
+So it's <EXPRESSION>, which is <EXPRESSION>, and we're going to square everything.
+And then all of that times this crazy radical.
+Right now it looks like a hard antiderivative or integral to solve, but I we'll find out it's not too bad.
+This is going to be = <EXPRESSION>.
+We can factor a <EXPRESSION> out.
+I don't want to forget the <EXPRESSION>.
+This over here let me just simplify this expression so I don't have to keep rewriting it.
+That is the same thing is <EXPRESSION>.
+We know what that is: that's just <EXPRESSION>.
+So this whole thing just simplifies to <EXPRESSION>, which is just <EXPRESSION>.
+So this whole thing simplifies to <EXPRESSION>, which is nice for solving our antiderivative.
+That means simplifying things a lot.
+So this whole thing simplifies down to I'll do it over here.
+I don't want to waste too much space; I have two more walls to figure out the integral from <EQUATION>.
+I want to make it very clear.
+I just chose the simplest parametrization I could for <EXPRESSION> and <EXPRESSION>.
+But I could have picked other parametrizations, but then I would have had to change <EXPRESSION> accordingly.
+So as long as you're consistent with how you do it, it should all work out.
+There isn't just one parametrization for this curve; it's kind of depending on how fast you want to go along the curve.
+Watch the parametric functions videos if you want a little bit more depth on that.
+Anyway, this thing simplifies.
+We have a <EXPRESSION> here; <EXPRESSION>, that's <EXPRESSION>.
+And then here we have <EXPRESSION>.
+So that's <EXPRESSION>.
+And then we have to multiply times this <EXPRESSION> again, so that gives us an <EXPRESSION>.
+<EXPRESSION>.
+And then you know, <EXPRESSION>; that looks like a tough thing to find the antiderivative for, but we can remember that <EXPRESSION> of, really anything we could say <EXPRESSION>.
+So we can reuse this identity.
+I can try the <EXPRESSION> here; <EXPRESSION>.
+Let me rewrite it that way because that'll make the integral a lot easier to solve.
+So we get integral from <EXPRESSION> the <EXPRESSION> and actually I could break up, well I won't break it up of <EXPRESSION> this thing.
+<EXPRESSION> this thing; this is the same thing as <EXPRESSION> of t.
+So <EXPRESSION> just use a little trig identity there and all of that <EXPRESSION>.
+Now this should be reasonably straight forward to get the antiderivative of.
+Let's just take it.
+The antiderivative of this is antiderivative of <EXPRESSION>; that's a <EXPRESSION>.
+The derivative of <EXPRESSION>.
+So this is going to be <EXPRESSION> the scalars don't affect anything and then, well let me just distribute this <EXPRESSION>.
+So this is <EXPRESSION> which is <EXPRESSION>.
+So the antiderivative of <EXPRESSION> is <EXPRESSION> and then the antiderivative of <EXPRESSION>? Let's see it's going to be <EXPRESSION>.
+The derivative of <EXPRESSION> is <EXPRESSION>.
+We're going to have to have a minus sign there, and put a <EXPRESSION> there, and now it should work out.
+What's the derivative of <EXPRESSION>? Take the derivative of the inside <EXPRESSION>.
+And the derivative of <EXPRESSION> with respect to <EXPRESSION> is <EXPRESSION>.
+So there we go; we've figured out our antiderivative.
+Now we evaluate it from <EXPRESSION> the <EXPRESSION>.
+And what do we get? We get <EXPRESSION> let me write this down, for I don't want to skip too many <EXPRESSION> that's just <EXPRESSION> evaluated at <EXPRESSION>.
+That's actually pretty straightforward because <EXPRESSION> is <EXPRESSION>.
+<EXPRESSION> is <EXPRESSION>, and <EXPRESSION>, that's also <EXPRESSION>.
+So everything with the <EXPRESSION> work out nicely.
+And then what do we have here? <EXPRESSION> in my head, I think <EXPRESSION> degrees; same thing that is <EXPRESSION>.
+And then <EXPRESSION>, that's <EXPRESSION> degrees.
+So this whole thing cancels out.
+So we're left with <EXPRESSION>.
+So just like that we were able to figure out the area of this first curvy wall here, and frankly, that's the hardest part.
+Now let's figure out the area of this curve.
+And actually you're going to find out that these other curves as they go along the axes are much, much, much easier, but we're going to have to find different parametrizations for this.
+So if we take this curve right here, let's do a parametrization for that.
+Actually, you know what? Let me continue this in the next video because I realize I've been running a little longer.
+I'll do the next two walls and then we'll sum them all up.

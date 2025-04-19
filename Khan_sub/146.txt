@@ -1,0 +1,123 @@
+Transcript for: Second example of line integral of conservative vector field | Multivariable Calculus | 
+Let's do another problem.
+Very similar to the last one, but with a subtle difference.
+And that subtle difference will make a big difference.
+Let's say we take the line integral over some curve <EXPRESSION> I'll define the curve in a second of <EXPRESSION> and this might look very familiar.
+This was very similar to what we saw last time, except last time we had a closed line integral.
+This is not a closed line integral.
+And our curve, <EXPRESSION>, the parameterization is <EQUATION>, <EQUATION>.
+So far it looks like sit.
+Let me write <EXPRESSION> so far, it looks very similar to the closed line integral example we did in the last video, but instead of t going from <EXPRESSION> to <EXPRESSION>, we're going to have t go from <EXPRESSION> to <EXPRESSION>.
+t is greater than or = <EXPRESSION>, is less than or = <EXPRESSION>.
+So now we're essentially, our path if I were to draw it on the x-y plane so that is my y-axis, that is my x-axis.
+So now our path isn't all the way around the unit circle.
+Our path our curve <EXPRESSION> now just starts at <EQUATION>.
+You can imagine t is almost the angle.
+<EXPRESSION>, and we're going to go all the way to <EXPRESSION>.
+So that's what our path is right now, in this example.
+So it's not a curved path.
+It's not a closed path.
+So we can't just show that <EXPRESSION>, in this example and we're going to re-look at what <EXPRESSION> looks like hey, if that's a conservative vector field, if it's a closed loop that = <EXPRESSION>, this isn't a closed loop.
+So we can't apply that.
+But let's see if we can apply some of our other tools.
+So like we saw in the last video, this might look a little bit foreign to you.
+But if you say that <EQUATION>, then it might look a little bit more familiar.
+If we say that <EXPRESSION> the vector field <EQUATION> I don't even have to look at this right now.
+dr, you can always write it as <EXPRESSION>.
+You'll immediately see, if you take the dot product of these 2 things, if you take <EXPRESSION> they're both vector valued, vector valued differential, vector valued field, or vector valued function if you take <EXPRESSION>, you'll get this right here.
+You'll get what we have inside of the interval.
+You'll get that right there, right? That times that you take the product of the <EXPRESSION> terms that times that = that, and add it to the product of the <EXPRESSION> terms.
+<EXPRESSION>.
+Write like that.
+So our integral, we can rewrite it as this.
+Along this curve of <EXPRESSION>, where this is our <EXPRESSION>.
+Now, we still might want to ask ourselves, is this a conservative field? Or does it have a potential? Is <EXPRESSION> = the gradient of some function, <EXPRESSION>? I guess I could write the gradient like that, because it creates a vector.
+This is a vector, too.
+Is this true? And we saw in the last video, it is.
+I'll redo it a little bit fast this time.
+Because if this is true, we can't say this is a closed loop and say, oh, it's just going to be = <EXPRESSION>.
+But if this is true, then we know that this that the integral is path independent.
+And we'll know that this is going to be = <EXPRESSION>, if we say that <EXPRESSION> is going from well, in this case <EXPRESSION> is going from <EXPRESSION> to <EXPRESSION> we could say that this is going to be = <EXPRESSION>.
+Or if we want to write it in terms of <EXPRESSION> and <EXPRESSION> because <EXPRESSION> is going to be a function of <EXPRESSION> and <EXPRESSION> we could write and this right here, these are <EXPRESSION>.
+We could also write that this = <EXPRESSION>.
+That's what I mean when I say <EXPRESSION>.
+If we were to write <EXPRESSION> purely as a function of <EXPRESSION>.
+But we know that this <EXPRESSION> is going to be a function.
+It's a scalar function defined on <EXPRESSION>.
+So we could say <EXPRESSION>.
+These are the <EXPRESSION> now.
+These are all equivalent things.
+So if it is path dependent, we can find our <EXPRESSION>.
+We can just evaluate this thing by just taking our <EXPRESSION>, evaluating it at these two points.
+At this point, and at that point right there.
+Because it would be path independent.
+If this is a conservative, if this has a potential function, if this is the gradient of another scalar field, then this is a conservative vector field, and its line integral is path independent.
+It's only dependent on that point and that point.
+So let's see if we can find our <EXPRESSION>.
+So I'm going to do exactly what we did in the last video.
+If you watch that last video, it might be a little bit monotonous.
+But I'll do it a little bit faster here.
+So we know that the partial of <EXPRESSION> with respect to <EXPRESSION> is going to have to be = this right here.
+So that's <EXPRESSION>.
+Which tells us, if we take the antiderivative, with respect to <EXPRESSION>, then <EXPRESSION> is going to have to be = <EXPRESSION> right? <EXPRESSION> is just a constant in terms of <EXPRESSION>.
+There might be some function of <EXPRESSION> that, when you take the partial with respect to <EXPRESSION>, it just disappears.
+And then we know that the partial of <EXPRESSION> with respect to <EXPRESSION> has got to be = that thing or that thing.
+We're saying that this is the gradient of <EXPRESSION>.
+So this has to be the partial with respect to <EXPRESSION>.
+<EXPRESSION>.
+And you might want to watch the other video.
+I go through this just a little bit slower in that one.
+So the antiderivative of this with respect to <EXPRESSION> so we get <EXPRESSION> would be = <EXPRESSION>.
+Now we did this in the last video.
+These <EXPRESSION> things have to be the same thing, in order for the gradient of <EXPRESSION> to be <EXPRESSION>.
+And we have <EXPRESSION>, <EXPRESSION>.
+We have a function of <EXPRESSION>, we have a function purely of <EXPRESSION>.
+And then we don't have a function purely of <EXPRESSION> here, so this thing right here must be <EXPRESSION>.
+So we've solved.
+Our <EXPRESSION> must be = <EXPRESSION>.
+So we know that <EXPRESSION> is definitely conservative.
+It is path independent.
+It has its potential.
+It is the gradient of this thing right here.
+And so to solve our integral this was a <EXPRESSION> to solve our integral, we just have to figure out <EXPRESSION>.
+Evaluate the bullet points, and then subtract the <EXPRESSION>.
+So let's do that.
+So <EXPRESSION> was <EXPRESSION>, <EXPRESSION> is <EXPRESSION>.
+Let me rewrite it down here.
+So <EQUATION>.
+<EQUATION>.
+So <EQUATION>, which = <EXPRESSION>.
+<EQUATION>, which = <EXPRESSION>.
+<EXPRESSION> is <EXPRESSION>, which is <EXPRESSION>.
+<EXPRESSION>, which = <EXPRESSION>, which = <EXPRESSION>.
+So <EXPRESSION>, <EXPRESSION> this is the same thing, so let me rewrite this.
+Our integral is simplified to our integral along that path of <EXPRESSION> is going to be = <EXPRESSION>.
+<EXPRESSION> is <EXPRESSION>.
+<EQUATION>.
+<EXPRESSION> is <EXPRESSION>, comma <EXPRESSION> is <EXPRESSION>.
+And so what is this =? Just remember, this right here is the same thing is that right there.
+That is <EXPRESSION>.
+That is <EXPRESSION>.
+That term right there.
+You can imagine this whole <EXPRESSION> that's the same thing as <EXPRESSION>, if you think in terms of just <EXPRESSION>.
+That could be a little confusing, so I want to make that clear.
+So this is just straightforward to evaluate.
+What is <EXPRESSION>? <EXPRESSION> is <EXPRESSION>.
+<EXPRESSION> is <EXPRESSION>.
+So it's going to be <EXPRESSION> right, that's our <EXPRESSION>.
+So it's <EXPRESSION>.
+It's going to be <EXPRESSION>.
+So that's just going to be a <EXPRESSION>.
+In both cases, the <EXPRESSION> is <EXPRESSION>.
+So this term is going to disappear.
+So we can ignore that.
+And then we have <EXPRESSION>.
+We put a <EXPRESSION> here.
+<EXPRESSION>.
+That is <EXPRESSION>.
+That's just <EXPRESSION>.
+So this is going to be = <EXPRESSION>.
+<EQUATION>.
+And we're done.
+And once again, because this is a conservative vector field, and it's path independent, we really didn't have to mess with the cosine of t's and sines of t's when we actually took our antiderivative.
+We just have to find the potential function and evaluate it at the <EXPRESSION> end points to get the answer of our integral, of our line integral, minus 2/3.
