@@ -1,0 +1,59 @@
+Transcript for: More chain rule and implicit differentiation intuition 
+
+Let's try to get a better intuition of the chain rule, and in the process, we'll get a better intuition of how it applies to implicit differentiation or vice versa.
+So let's say and I'm going to get out of the world of x's and y's and f of x's for a second, just so that you see that those are just letters and there's nothing special about them.
+And I think sometimes it helps develop the intuition.
+So let's say that <EQUATION> and that <EQUATION>.
+And my question to you is what is the derivative of <EXPRESSION>? 
+We have <EXPRESSION> defined in terms of <EXPRESSION>, so it's not like we can just take the derivative.
+I mean, how do we do that? Well, that's where the chain rule comes in.
+Let's apply the chain rule here.
+And you shouldn't really you don't even have to memorize this.
+We're just multiplying two fractions <EXPRESSION> and <EXPRESSION>.
+Then, cancel out <EXPRESSION>.
+In the denominator, you would replace it with <EXPRESSION>.
+So there's nothing fancy, really, about the chain rule when you actually view them for what they are.
+They're fractions, but the values in the numerator and the denominator, they are these differentials, these infinitely small changes in these variables.
+And so we're done.
+Show <EXPRESSION>.
+And I want to now try to make the connection between this and the kind of I don't want to say well, you know, kind of the plain English way I talked about doing that chain rule before.
+So all of the chain rule problems that I think I've done so far would have had a explicitly defined in terms of <EXPRESSION>, but you're saying, oh, but then, you know, I said outside and inside and et cetera.
+And we can do that.
+So we can substitute <EXPRESSION> for <EXPRESSION>.
+And now we could take the derivative of <EXPRESSION> with respect to <EXPRESSION> using the chain rule.
+And this is the more traditional way that I showed it, but maybe it gave you more intuition.
+It probably gave you more intuition of how to actually do the problem, but it probably gave you less intuition of how it applies to the chain rule.
+So hopefully, this will connect everything together.
+So let's take the derivative of the outside.
+So what's the derivative of the outside? 
+And then when I take the derivative of the inside.
+I'm really taking the derivative of <EXPRESSION>.
+So hopefully, that gives you a little intuition.
+So now let's take that intuition and tackle some implicit differentiation problems.
+And if you think about it, this kind of was an implicit differentiation problem.
+So let's say I want to take the derivative with respect to <EXPRESSION> of <EXPRESSION>.
+And some of you all might know how to mechanically do this.
+Well, I won't go into the mechanics because the whole point of this video is the intuition.
+And maybe you have the intuition in which case you might not have to watch this video, but let me give you the intuition.
+And I think the best way to give the intuition is to actually do some variable substitution.
+Let's define <EQUATION> and <EQUATION>, right? 
+Then this is the same thing, and I just made this stuff you know, this could have been any letters.
+And what does the chain rule tell us? 
+Well, actually, we could just do the product rule here, so let's do the product rule.
+So we're taking the derivative with respect to <EXPRESSION> of <EXPRESSION>.
+So let's do that.
+We simply apply the product rule.
+Next, we use the chain rule.
+These <EXPRESSION> in the denominator and the numerator, they'll cancel out.
+So this is just the chain rule.
+So <EXPRESSION> multiplied by <EXPRESSION>.
+Then write <EQUATION>.
+And what's the derivative of <EXPRESSION> with respect to <EXPRESSION>? 
+And so what's our final answer? 
+The final answer is <EQUATION> and we're gonna write that down.
+So hopefully, that gave you the intuition and made it a little bit clearer of why implicit differentiation you're really just applying the chain rule.
+And then, you know, just the way I've been doing in all the problems without going through all of this mess just to show you that it isn't that hard of a problem, that you could just do it straight up.
+You could just say, OK, this is the product rule.
+Well, anyway, I'm at my time limit.
+Hopefully, that helped a little bit and didn't confuse things, and let me know if you want me to do even more videos on this.
+See you soon.

@@ -1,0 +1,96 @@
+Transcript for: Calculus: Derivatives 2 | Taking derivatives | Differential Calculus | 
+
+In the last presentation, I hopefully gave you a little bit of an intuition of what a derivative is.
+It's really just a way to find the slope at a given point along the curve.
+Now we'll actually apply it to some functions.
+So let's say I had the function <EQUATION>.
+And I want to know what is the slope of this curve.
+What is the slope at <EQUATION>.
+What is the slope of <EXPRESSION>? 
+Let's draw out <EQUATION>.
+Coordinate axis.
+<EXPRESSION> coordinate, that's the <EXPRESSION> coordinate.
+And then if I were to draw let me pick a different color.
+So we want to say what is the slope when <EQUATION>.
+This is <EQUATION>.
+And of course when <EQUATION>, <EQUATION>.
+We know that, right? So what we do is we take a point, maybe a little bit further along the curve.
+Let's say this point right here is <EXPRESSION>.
+And I keep it abstract as <EXPRESSION> because as you know we're going to take the <EXPRESSION>.
+And at this point right here is what? It's <EXPRESSION>, right? 
+Because the function is <EQUATION>.
+So this point right here is <EXPRESSION>.
+Because we just substitute the <EXPRESSION> and put it into <EQUATION>.
+And this point here is of course <EXPRESSION>, <EXPRESSION>.
+What we want to do is we want to find the slope between these <EXPRESSION> point.
+I really have to find a better tool.
+This <EXPRESSION> keeps freezing, I think it's too CPU intensive.
+But anyway.
+So we want to find the slope between these <EXPRESSION> points.
+So what's the slope? so it's a <EXPRESSION>.
+So, right hand side becomes <EXPRESSION>.
+So, we simplify the numerator.
+And expand <EXPRESSION>.
+Then <EXPRESSION> cancels out.
+So let me go up here.
+We're left with this pen keeps freezing it's <EXPRESSION>.
+And now we would simplify <EXPRESSION>, right.
+Divide both numerator and denominator by <EXPRESSION>.
+And you get <EXPRESSION>.
+So that's the slope between these <EXPRESSION> points.
+We set the right side to <EXPRESSION>.
+So if we want to find the instantaneous slope at the point <EQUATION>, <EQUATION>, or the point <EXPRESSION>, <EXPRESSION>, we just have to find the <EXPRESSION> here.
+So we'll just take the <EXPRESSION>.
+Well this is an easy limit problem, right? 
+Solve for the <EXPRESSION>? 
+Well it = <EXPRESSION>.
+So we now know that the slope of this curve at the point <EQUATION> is <EXPRESSION>.
+So if you actually did a traditional rise over run, the slope, this <EQUATION>.
+So we have the instantaneous slope at exactly the point <EQUATION>.
+So that's useful.
+You know if this was a graph of someone's position, we would then know kind of the instantaneous velocity, which is well I won't go into that.
+I'll do a separate module on physics.
+But this was useful, but let's see if we can do more generalized version where we don't have to know ahead of time what point we want to find the slope at.
+We get the general formula by graphing <EQUATION>.
+So let me clear this.
+So we're going to stick with <EQUATION>.
+And we know that the slope at any point of this is just going to be the <EXPRESSION>.
+Divide <EXPRESSION> by <EXPRESSION>.
+This part right here, this is just the slope formula that you learned years ago.
+It's just <EXPRESSION>.
+And all we're doing is we're seeing what happens as the <EXPRESSION> gets smaller and smaller and smaller as it actually approaches <EXPRESSION>.
+And that's why we can get the instantaneous change at that point in the curve.
+So let's apply this definition of a derivative to this function.
+And actually if you want to know the notation, I think this is the notation Lagrange came up with.
+This = <EXPRESSION>.
+Don't take my word on it on Lagrange.
+You might want to look it up on Wikipedia.
+Take the derivative of <EXPRESSION>.
+Let's apply it to <EXPRESSION>.
+So we're going to say the <EXPRESSION>.
+Well, <EXPRESSION> is just this pen driving me crazy <EXPRESSION>.
+I just took the <EXPRESSION> and put it into <EXPRESSION>.
+Substitute <EXPRESSION> to <EXPRESSION> in the left hand side.
+<EXPRESSION> well that's just <EXPRESSION>.
+And it just becomes <EXPRESSION>.
+Just factor out <EXPRESSION>.
+<EXPRESSION>.
+Let's simplify <EXPRESSION>.
+Cancel out <EXPRESSION>.
+And then we can divide the numerator and the denominator by <EXPRESSION>.
+Well this is easy.
+This goes to <EXPRESSION>, this is just = <EXPRESSION>.
+So there we have it.
+The <EQUATION>.
+And this = <EXPRESSION>, so ake the derivative of <EXPRESSION>, which is the denoted by <EQUATION>.
+Well what does it tell us? What have we done for ourselves? Well now I can give you any point along the curve.
+Let's say we want to know the slope at the point <EXPRESSION>, right.
+When at the point <EXPRESSION>, <EXPRESSION>.
+That's a point along <EQUATION>.
+It's just <EXPRESSION> and then <EXPRESSION>.
+What's the slope at that point? Well we now know the slope is <EXPRESSION>.
+So the right hand side becomes <EXPRESSION>.
+Whatever the <EXPRESSION> value is you just put into this <EXPRESSION> function or the derivative function, and you'll get the slope at that point.
+I think that's pretty neat and I'll show you how in future presentations how we can apply this to physics and optimization problems and a whole other set of things.
+And I'm also going to show you how to find the derivatives for a whole set of other functions.
+I'll see in the next presentation.

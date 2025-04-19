@@ -1,0 +1,69 @@
+Transcript for: Chain Rule Examples 
+
+I'm now going to do a bunch more examples using the chain rule.
+So let's see.
+Once again.
+Let's say I had <EQUATION>.
+We haven't put any negative exponents in yet, but I think you'll see that the same patterns apply.
+We want to figure out what <EXPRESSION>.
+Calculate the derivative of <EXPRESSION>.
+So this might seem very complicated and daunting to you, and obviously to take this entire polynomial to the negative seventh power would take you forever.
+But using the chain rule, we can do it quite quickly.
+So the first thing we want to do, is we want to take the derivative of the inner function, I guess you could call it.
+We want to take the derivative of this.
+We first take the derivative of <EXPRESSION> using chain rule.
+That was the first type of derivatives we learned how to do.
+Let's write <EXPRESSION> down.
+Then we multiply it by <EXPRESSION>.
+So, that becomes <EXPRESSION>.
+So this is the entire thing.
+Let's now write <EXPRESSION>.
+So we get <EXPRESSION>.
+I don't know why did that.
+Simplify <EQUATION>.
+Maybe we could just multiply it by <EXPRESSION>.
+So, we now set the right side to <EXPRESSION>.
+Then, we divide it all by <EXPRESSION>.
+So there we did it.
+OK, let's now find the derivative of <EQUATION> using chain rule.
+So let's say I had, let me see if I can write <EXPRESSION> a little bit thinner.
+Let's now say we have <EXPRESSION>, I don't know if you can see that, I'm going to do it a little fatter.
+Define <EQUATION>.
+So I imagine you saying, Sal, you're starting to go nuts, this is going to take us forever.
+Well, I'll show you, using the chain rule, it will not take that long.
+Apply the chain rule once again to <EXPRESSION>.
+I start off kind with the innermost function.
+So let me see if I can use colors to make it a little bit simpler.
+Let's take the derivative of this innermost function <EQUATION> first.
+Actually, let me give you the big picture.
+I know that's not precise mathematical terms, but you'll get the point when I show you this example.
+So first we'll do this inner function, this inner expression.
+And the derivative of that's pretty easy, right? It's <EXPRESSION>, right? that was pretty straightforward.
+And now we're going to want to multiply that times <EXPRESSION>.
+So let me circle that in a different so then we want to do this.
+We're going to multiply that times <EXPRESSION>.
+And we just pretend like this is just an <EXPRESSION> here, right? 
+So we'll write <EXPRESSION>.
+And set it to <EXPRESSION>.
+Now the exponent here goes down by <EXPRESSION>.
+So it's <EXPRESSION>.
+So we figured out the derivative of this so far, and then we want to figure out the derivative of this, so we'll add it, right, because we're trying to figure the derivative of this entire expression.
+So this is an easy one.
+Let me draw <EQUATION> in a different color.
+So we take the derivative of <EXPRESSION>.
+So that's <EXPRESSION>.
+So what have we done so far? 
+We've so far figured out the derivative of this entire expression, right? 
+We once again take the derivative of <EXPRESSION> by applying the chain rule
+And now, we're almost done.
+We just have to multiply <EXPRESSION> with <EXPRESSION>.
+So I'm going to just, I've run out of space on that line, but let's just assume that the line continues.
+So that's times.
+And now we just take the derivative of <EXPRESSION>.
+And now it's going to be the derivative of, I'm going to use this brown color.
+That was an ultraconfusing example, and this is probably the hardest chain rule problem you'll see in a lot of the questions you'll have on your test.
+You see, it wasn't that difficult.
+And then that whole thing, and actually I should put a big parentheses around here, that whole thing, we multiply it times the derivative of this larger expression.
+I think I might have confused you, so I apologize if I have, and in the next presentation I'm going to just do a bunch more chain rule problems, and at some point, it should start to make sense to you.
+I think it's just a matter of seeing example, after example, after example.
+I'll see you into the next presentation, and I apologize if I have confused you.

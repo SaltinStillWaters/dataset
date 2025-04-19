@@ -1,0 +1,84 @@
+Transcript for: Quotient rule and common derivatives | Taking derivatives | Differential Calculus | 
+
+This is just saying that I want to take the derivative of this entire expression.
+So you're saying Sal, we've never learn how to do this, you have something in the numerator, you have something in the denominator I don't know what to do next.
+Well let's just rewrite <EQUATION>.
+Actually in your calculus textbooks there's something called the quotient rule, which I think is mildly lame, because the quotient rule is just the product rule where you have a negative exponent and they make it another rule, and they clutter your brain.
+So this is the same thing as taking the derivative of <EXPRESSION>.
+And now we can use the product rule on <EQUATION>.
+Take the derivative of the first term and the derivative of the first term isn't a joke you take the derivative of the inside first.
+That is <EXPRESSION>.
+Then square it.
+So <EXPRESSION>.
+And then to that we add the derivative of this term, so <EXPRESSION>.
+So the derivative of this term we take the derivative of the inside, which is pretty easy.
+Change the right side to <EXPRESSION>.
+And divide it by <EXPRESSION>.
+Laslty, factor out <EXPRESSION> from the expression.
+I know that's really messy and you'll probably not see problems this messy, but I just wanted to show you that the product rule we learned it's actually the product and the chain rule they can apply to a lot of different problems, and even though you hadn't seen something like this where you had numerator and a denominator>
+You can easily rewrite <EXPRESSION> in the denominator as a negative exponent.
+And then of course it's just the product for when you don't have to memorize that silly thing called the quotient rule.
+So with that out of the way, I'm now going to introduce you to some common derivatives of other functions.
+And these things are actually normally included in the inside cover of your calculus book, and they're just good to know, good things to know.
+And maybe in a later presentation I'll actually prove these things.
+You should never take things at face value.
+So you should to some degree memorize these, although you should prove it to yourself first.
+So the <EXPRESSION> and I find this to be amazing.
+<EXPRESSION> shows up all sorts of crazy places in mathematics, and it's you know the strange number <EXPRESSION>.
+<EXPRESSION> whatever, whatever and it has all sorts of strange properties.
+And I think this is one of the most bizarre properties of <EXPRESSION>.
+TheN take the <EXPRESSION>.
+So if I want to figure out the slope of any point along the curve <EXPRESSION> this just might blow your mind.
+I think the more you think about it, the more it'll blow your mind is <EXPRESSION>.
+That's amazing.
+At any point along the curve <EXPRESSION>, the slope of that point is <EXPRESSION>.
+Just to hit the point home.
+I'm diverging, a little bit.
+But if I said <EQUATION>, right? 
+And let's say <EQUATION>.
+And I asked you, friend I don't know your name what is the slope of <EXPRESSION> at the point <EXPRESSION>, <EXPRESSION>.
+And you could say Sal, the slope at that point is <EXPRESSION>.
+That blows my mind that it's a function where the slope at any point on that line = the function.
+And it's <EXPRESSION>.
+<EXPRESSION> shows up all sorts of places.
+I might do a whole series of presentations called the magic of <EXPRESSION>, because <EXPRESSION> shows up all over the place.
+Well I don't want to diverge too much, so that's pretty amazing.
+Next I'm going to show you what I think is probably the <EXPRESSION> most amazing derivative and I don't think this has been fully explored in mathematics yet, because this also blows my mind is that <EXPRESSION>, right.
+So the natural log is just the logarithm with base <EXPRESSION>, and I hope you remember your logarithms.
+So what's the derivative of the <EXPRESSION>? So once again this is <EXPRESSION> related.
+Well it's <EXPRESSION>.
+Write down <EXPRESSION>.
+That also blows my mind.
+Because think about it.
+Let's draw a bunch of functions <EQUATION>, <EQUATION>.
+If I define <EQUATION>.
+We go straight to <EXPRESSION>.
+What happened to <EXPRESSION>? 
+What happened to this? 
+What function's derivative is <EXPRESSION>? This is bizarre to me.
+Where did it go? And it turns out that it's a natural log.
+This I still think about before I go to bed sometimes because it is kind of mind blowing.
+And later in another presentation I might actually prove this to you.
+But just to know that this is true, that the <EQUATION> I think is mind blowing.
+And so for now you can just memorize it.
+But both of these are mind blowing.
+The derivative of <EQUATION>, and the <EQUATION>.
+And I'll just do a couple of more just to present them to you, and then in the next presentation we'll actually use them using the product rule and the chain rule and et cetera, et cetera.
+And you might want to rewatch this and memorize them.
+I want to clear image.
+OK.
+Let's just apply the quotient rule here.
+And now I'll just do the basic trig functions, and you should memorize these as well.
+<EQUATION>.
+That's also interesting.
+One day I'm going to do this holographically because I think that might not be sinking in properly.
+The <EQUATION>.
+There are good to memorize though, because you'll be able to recall is quickly on a test and then use it.
+You might want to memorize these now, and actually I encourage you to explore these things, I encourage you to graph each of these functions.
+Graph a function <EQUATION>.
+Graph its derivative and look at them, and really intuitively understand why the derivative function actually does describe the slope of the original function.
+And actually I'll probably do a presentation on that.
+But I'm almost out of time in this presentation, so just memorize these.
+And in the next presentation we're going to start mixing and matching all of these functions, and we can use the product and chain rule on them to solve kind of arbitrarily complex derivatives.
+Between what we've just seen, we could probably solve 95% of the derivative problems you'll see on say the calculus AP test.
+I'll see you in the next presentation.

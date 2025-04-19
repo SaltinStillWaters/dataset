@@ -1,0 +1,77 @@
+Transcript for: Power rule introduction (old) | Taking derivatives | Differential Calculus | 
+
+Welcome back.
+In the last presentation I showed you that if I had the function <EQUATION>, that the derivative of this function, which is denoted by <EQUATION>.
+And I used the limit definition of a derivative.
+I used, let me write <EQUATION> down here.
+This pen is horrible.
+I need to really figure out some other tool to use.
+The <EXPRESSION>.
+And I used this definition of a derivative, which is really just the slope at any given point along the curve, to figure this out.
+That if <EQUATION>, that the derivative is <EXPRESSION>.
+Find the derivative of <EXPRESSION>.
+And you could actually use this to do others.
+And I won't do it now, maybe I'll do it in a future presentation.
+But it turns out that if you have <EQUATION>, that the derivative is <EQUATION>.
+If <EQUATION>, well then the derivative = <EXPRESSION>.
+I think you're starting to see a pattern here.
+Let's write <EQUATION>.
+Well you know this.
+I mean, <EQUATION>, what's the slope of <EQUATION>? That's just <EXPRESSION>, right? <EQUATION>, that's a slope of <EXPRESSION>.
+You didn't need to know calculus to know that.
+<EQUATION>.
+And then you can probably guess what the next one is.
+Define <EXPRESSION> as <EXPRESSION>.
+Square both sides.
+Apply the power rule to <EXPRESSION>.
+This might be a little intuitive for you, and if you use that limit definition of a derivative, you could actually prove it.
+But if I want to figure out the derivative of, let's say, the derivative of So another way of this is kind of, what is the change with respect to <EXPRESSION>?
+This is another notation.
+I think this is what Leibniz uses to figure out the derivative operator.
+So if I wanted to find the derivative of <EXPRESSION>, where <EXPRESSION> is just some constant number.
+It could be <EXPRESSION>.
+This is the same thing as saying <EXPRESSION>.
+And what does that tell us? Well, this tells us that, let's say I had <EXPRESSION>.
+<EQUATION>.
+Equate it to <EQUATION>.
+I know I'm stating the obvious.
+So we can just say that the derivative of this is just <EXPRESSION>.
+So let's define <EQUATION>.
+Right? Similarly, let's say I had <EXPRESSION>, just using a different letter.
+<EQUATION>.
+Then <EXPRESSION>, = <EXPRESSION>.
+Well we know what that is.
+It's <EXPRESSION>.
+Which you would have seen.
+<EXPRESSION>.
+So, let's rewrite it as = <EXPRESSION>.
+Pretty straightforward, right? You just multiply the constant times whatever the derivative would have been.
+I think you get that.
+Now one other thing.
+If I wanted to apply the derivative operator let me change colors just to mix things up a little bit.
+Let's say if I wanted to apply the derivative of operator I think this is called the addition rule.
+It might be a little bit obvious.
+Let's rewrite it as <EXPRESSION>.
+That might seem a little complicated to you, but all it's saying is that you can find the derivative of each of the parts when you're adding up, and then that's the derivative of the whole thing.
+I'll do a couple of examples.
+So what does this tell us? This is also the same thing, of course.
+This is, I believe, Leibniz's notation.
+And then Lagrange's notation is of course these were the founding fathers of calculus.
+That's the same thing as <EXPRESSION>.
+And let me apply this, because whenever you apply it, I think it starts to seem a lot more obvious.
+So let's say <EQUATION>.
+Well, if we just want to figure out the derivative, we say <EXPRESSION>, we just find the derivative of each of these terms.
+Well, we can set that to <EXPRESSION>.
+Change <EXPRESSION> to <EXPRESSION>.
+<EXPRESSION> becomes <EXPRESSION>.
+Graph <EQUATION> and tell me what the slope is.
+Right, the derivative of a constant is <EXPRESSION>.
+I'll show other times why that might be more intuitive.
+<EXPRESSION>.
+You can just ignore that.
+Write <EQUATION>.
+Let's do some more.
+I think the more examples we do, the better.
+And I want to keep switching notations, so you don't get daunted whenever you see it in a different way.
+Let's say <EQUATION>.
+So here we're going to apply the derivative operator on <EQUATION>.

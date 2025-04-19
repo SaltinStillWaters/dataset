@@ -1,0 +1,63 @@
+Transcript for: Product rule | Taking derivatives | Differential Calculus | 
+
+Welcome back.
+I'm now going to introduce you to a new tool for solving derivatives.
+Really between this rule, which is the product rule, and the chain rule and just knowing a lot of function derivatives, you'll be ready to tackle almost any derivative problem.
+Let's start with the chain rule.
+Let's say that <EQUATION>.
+This is the product rule.
+In the chain rule it was <EQUATION>.
+Right? I don't know if you remember that.
+In this case, <EQUATION>.
+Pretty straightforward.
+Let's apply the chain rule to <EQUATION>.
+Let's say that <EQUATION>.
+So one way we could have done it, we could just multiply <EXPRESSION> out.
+Let's use the product rule on <EXPRESSION>.
+Let me take the derivative of the <EXPRESSION>.
+The derivative of that is pretty straightforward.
+<EQUATION>.
+We're just going to multiply it times this <EXPRESSION>, doing nothing different to it.
+Maybe I'll just do it in a different color.
+<EXPRESSION>.
+And then to that we will add the derivative of this <EXPRESSION>.
+So, set that = <EXPRESSION>.
+And multiply that times <EXPRESSION>.
+I guess I'll switch back to mauve, I think you get the point.
+All we did here was we said OK, <EXPRESSION> is made of these <EXPRESSION> and they are multiplied by each other.
+If I want to take the derivative of it, I take the derivative of the first one and multiply it by the second one.
+And then I add <EXPRESSION> to the <EXPRESSION> and multiply it by the <EXPRESSION>.
+Let's do some more examples and I think that will hit the point home.
+Clear image.
+Change the colors and I'm back in business.
+Let me think of a good problem.
+Let me do another one like this, and then I'll actually introduce ones and the product rule and the chain rule.
+So let's say that <EQUATION>.
+Then we say <EQUATION>.
+And I just multiply it times this expression <EXPRESSION>, right?
+And I add <EXPRESSION> to <EXPRESSION>.
+Then set the result to <EXPRESSION>.
+And you could simplify <EXPRESSION>.
+We could also factor out <EXPRESSION>.
+But that's really just algebra.
+Now, we apply the product rule.
+I'm going to do one more example where I'll show you, I'm going to use the product and the chain rule and I think this will optimally confuse you.
+I want to make sure I have some space.
+Here I'm going to use a slightly different notation.
+So we take the derivative of the inside which is <EXPRESSION> times the <EXPRESSION>.
+So there we take the derivative of this <EXPRESSION> right here.
+And then the product rules says we take the derivative of the <EXPRESSION>.
+So set the <EXPRESSION> to just <EXPRESSION>.
+We're going to use the chain rule again on <EQUATION>.
+So we take the derivative of the inside <EXPRESSION>
+And now we take the derivative of the whole thing.
+And then we multiply this <EXPRESSION> times the first term.
+So this is a really, I mean you might want to simplify at this point.
+But I think this gives you the idea.
+But using the chain rule, you're actually able to, even though we ended up with a pretty complicated answer, we got the right answer.
+And now we could actually evaluate the slope of this very complicated function at any point just by substituting the point into this fairly complicated expression.
+But at least we could do it.
+I think you're going to find that the chain and the product rules become even more useful once we start doing derivatives of expressions other than polynomials.
+I'm going to teach you about trigonometric functions and natural log and logarithm and exponential functions.
+Actually, I'll probably do that in the next presentation.
+So I will see you soon.

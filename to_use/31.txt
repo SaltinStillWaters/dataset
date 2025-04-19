@@ -1,0 +1,136 @@
+Transcript for: Implicit Differentiation Welcome to the video on implicit differentiation.
+
+Let's just explain the difference between implicit and explicit first.
+So if I had a function that was, let's say, <EQUATION>.
+In this situation, <EXPRESSION>, is defined explicitly in terms of <EXPRESSION>.
+How do I know that? Well, if you give me an <EXPRESSION>, I can just input it into this expression right there, and I explicitly get <EXPRESSION>.
+Right? It just pops out of the equation.
+But on the other hand, what if I had something like this.
+What if I define <EQUATION>.
+We substitute <EQUATION>.
+And that evaluates to <EXPRESSION>.
+Right? If I said, define <EQUATION>.
+An we substract it by <EXPRESSION>.
+Then the right hand side becomes <EXPRESSION>.
+So you still could solve for <EQUATION>.
+And that's a different, you know, when people use the word explicit or implicit in everyday language, it's the same thing.
+When you say, he explicitly said this, it means, I am hungry.
+I explicitly stated that I'm hungry.
+But you could implicitly state that you're hungry.
+You could say, oh well, you know, I haven't eaten for a long time, and you know, boy, it would be nice to maybe eat something, and that would be kind of an implicit expression of your hunger.
+Because someone would have to kind of do a little bit of work to come to the conclusion that you're hungry, instead of you telling them.
+So with that out of the way, let's actually do some differentiation.
+So everything you've learned about differentiation right now has been explicit differentiation.
+So example.
+For this function, we know how to take the explicit derivative here.
+Well, it's an explicitly defined function, so we just take the derivative.
+We apply the derivative operator.
+We take the rate of change of both sides of this equation with respect to <EXPRESSION>.
+You could do it like this.
+I didn't plan to write that there that's why so it happens.
+But, let's write <EXPRESSION>.
+On the left side, replace it with <EXPRESSION>.
+The rate of <EXPRESSION>, for every small <EXPRESSION>, what is <EXPRESSION>.
+That = and then, we know how to do this type of derivative.
+This is just a simple quadratic.
+So there.
+Then, we simplify <EQUATION>.
+After that, we apply implicit differentiation.
+We just did some explicit differentiation.
+So how do we do the same thing here? Well, we're going to do the same thing.
+We're going to apply the derivative operator to both sides of this equation.
+So let me do that, I'll do that in a different color.
+Let me erase all of this, too, because this is kind of obvious things that you might already know.
+Let me erase all of that.
+OK, so I'll take the derivative operator to both sides of this equation.
+So this is no different than what we did up here.
+And as you learned in algebra, anything you do to one side of the equation, you have to do to the other side of the equation.
+Otherwise it would no longer be an equation.
+Calculate the derivative of <EQUATION>.
+So we get <EXPRESSION> now this term here is where you might get a little bit confused.
+I am taking the derivative of y squared with respect to x.
+You know you shouldn't do this every time that you do one of these implicit differentiation problems, but I'm doing this because I want you to understand what we're doing.
+So let's say I just defined <EQUATION>? 
+So let's say this was <EQUATION>.
+And I want to take the derivative of <EQUATION>.
+So I apply the derivative operator on both sides of this, so let me do that.
+We just rewrite it to <EQUATION>.
+But what does the chain rule tell us? The chain rule tells us that the derivative, let me stay in the same color.
+I'm always switching colors.
+So you could cancel <EXPRESSION> out.
+Then, we can set it to <EXPRESSION>.
+So this is what the chain rule tells us.
+So given that this is what the chain rule tells us, how does that help us figuring out this? 
+But we already know that <EQUATION>.
+I just made that definition.
+That's where we started from.
+Apply now the chain rule on this function.
+And then, multiply by the <EXPRESSION>.
+Which we don't know, and that's actually kind of what we're going to try to solve for.
+Substitute <EXPRESSION> for <EXPRESSION>.
+So what's this derivative right here?
+When you do it mechanically, it's actually quite simple.
+Mechanically it's very simple, but I really want you to understand that intuition that this is coming out of the chain rule.
+And actually, the chain rule itself is not this bizarre concept.
+It's really, you're just multiplying fractions.
+So let me clear up some space here, and we can finish this problem.
+And then I'll do a problem where you have to do implicit differentiation.
+And even in this one that I just gave, it's really useful to do implicit differentiation.
+So let me, I could clear this guy out up here, clear that out, clear all of this stuff out, there we go.
+Clear all of that out.
+Ready to do some more work.
+So now we can solve for <EXPRESSION> in <EQUATION>.
+So we get, let's subtract <EXPRESSION> from both sides.
+Then, simplify.
+And replace <EXPRESSION> by <EXPRESSION>.
+We're just learning implicit differentiation here.
+But it's sometimes it's fun to just think about things.
+So how's this different from everything else we learned so far? 
+Well, here we have the derivative, the derivative is actually a function of both the <EXPRESSION> and the <EXPRESSION> value.
+And if we feel really uncomfortable having this <EXPRESSION> here, if we don't like that, what we could do, is we can substitute.
+So let's solve for <EXPRESSION> here.
+So you just substitute that in here.
+Let's write it in another way <EXPRESSION>.
+I'm just switching notation, just so you're familiar with it.
+And to some degree, since we have plus or minus down here, this minus sign kind of doesn't matter, right? Because when it's a minus here it becomes a plus, when it's plus it's minuses, so you can kind of ignore this.
+That's something interesting for you to think about as well.
+Anyway.
+And this is interesting, because our traditional way of solving derivatives, we had never seen a plus or minus here.
+So that might be a little bit interesting to you.
+So now let's do a problem that is actually a bit of a trick problem.
+It's not a trick problem but it's actually something, that I think, I first saw it either when I was practicing for the AP Calculus exam, or actually saw it on the AP Calculus exam.
+So it's something that you might encounter.
+But it's really neat.
+Let's say I have <EQUATION>.
+So first, you say, oh, this looks easy.
+Maybe I could use the power rule, but no.
+You apply the chain rule.
+So this is an explicit function.
+I explicitly defined y in terms of x.
+But it's very hard to differentiate explicitly.
+And here's the trick.
+But let's take the natural log on both sides of this equation.
+Let's set it to <EXPRESSION>.
+And why did I do that? Because now I can use what we know about logarithm properties.
+We know that log of <EQUATION>.
+And you can watch the exponent properties videos, if you forgot that.
+So let's rewrite <EXPRESSION> using this property.
+And I'm going to switch colors.
+So we get the <EQUATION>.
+And now we can implicitly differentiate this.
+So let's take the derivative with respect to <EXPRESSION> of both sides of this equation.
+And I'll switch colors again.
+So the derivative of this expression with respect to <EXPRESSION> = <EXPRESSION>, times <EXPRESSION>.
+Now, we apply the chain rule.
+Well, now we can just use the product rule.
+Let me clear that out up there.
+I'm already over time, but I've become a YouTube partner, so my videos can be longer.
+But I don't want to make them too long, because you'll get bored.
+All right.
+So let's simplify this.
+I'm just multiplying both sides of this equation times <EXPRESSION>.
+So let's substitute <EQUATION>.
+But that's pretty neat.
+This is kind of a, you know, a five-star problem that you might see in your books, and you might see it in a math competition, and people will be really impressed.
+Anyway, I've talked for too long.
+I will see you in the next video.
